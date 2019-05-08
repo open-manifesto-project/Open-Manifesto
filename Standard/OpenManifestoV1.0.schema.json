@@ -1,0 +1,132 @@
+
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/ManifestoSchema",
+    "definitions": {
+        "ManifestoSchema": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "politicalParty": {
+                    "description": "Name of the political party",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "Title of the electoral program",
+                    "type": "string"
+                },
+                "publication_date": {
+                    "description": "Publication date of the electoral program",
+                    "type": "string"
+                },
+                "election_date": {
+                    "description": "Election date of the electoral program",
+                    "type": "string"
+                },
+                "type_of_elections": {
+                    "description": "Type of election",
+                    "type": "string"
+                },
+                "geographical_area": {
+                    "description": "Geographic area that covers the election process",
+                    "type": "string"
+                },
+                "standard_version": {
+                    "description": "Version of the standard used to structure the manifest information",
+                    "type": "string"
+                },
+                "URI": {
+                    "description": "URI or URL that links to the electoral program",
+                    "type": "string",
+                    "format": "uri"
+                },
+                "created_by": {
+                    "type": "string"
+                },
+                "pages": {
+                    "type": "integer"
+                },
+                "num_proposals": {
+                    "description": "Number of proposals included in the manifesto",
+                    "type": "integer"
+                },
+                "proposals": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Proposal"
+                    }
+                }
+            },
+            "required": [
+                "publication_date",
+                "election_date",
+                "geographical_area",
+                "type_of_elections",
+                "pages",
+                "num_proposals",
+                "politicalParty",
+                "proposals",
+                "title",
+                "URI",
+                "standard_version",
+                "created_by"
+            ],
+            "title": "ManifestoSchema"
+        },
+        "Proposal": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "body": {
+		    "decription":"Body of the proposal",
+                    "type": "string"
+                },
+                "topic": {
+		    "decription":"Main topic addressed in the proposal. Values are taken from the taxonomy defined by the Spanish interoperability scheme.",
+                    "type": "string"
+                },
+                "tags": {
+		    "decription":"Set of proposal tags/labels",
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "priority": {
+		    "decription":"Priority of the proposal Low/Medium/High/NA",
+                    "type": "string"
+                
+                },
+                "budget": {
+		    "decription":"If the proposal includes economic value estimation",
+                    "type": "boolean"
+                },
+                "non-negotiable": {
+		    "decription":"If the proposal is not negotiable",
+                    "type": "boolean"
+                },
+                "entities": {
+		    "decription":"Set of entities or organizations that are included or mentioned in the proposal",
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "body",
+                "budget",
+                "entities",
+                "id",
+                "non-negotiable",
+                "priority",
+                "tags",
+                "topic"
+            ],
+            "title": "Proposal"
+        }
+    }
+}
