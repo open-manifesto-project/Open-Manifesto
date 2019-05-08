@@ -32,7 +32,7 @@
                     "type": "string"
                 },
                 "standard_version": {
-                    "description": "Version of the standard used to structure the manifest information",
+                    "description": "Version of the standard used to structure the manifesto",
                     "type": "string"
                 },
                 "URI": {
@@ -88,7 +88,7 @@
 		    "decription":"Main topic addressed in the proposal. Values are taken from the taxonomy defined by the Spanish interoperability scheme.",
                     "type": "string"
                 },
-                "tags": {
+                "entities": {
 		    "decription":"Set of proposal tags/labels",
                     "type": "array",
                     "items": {
@@ -108,8 +108,8 @@
 		    "decription":"If the proposal is not negotiable",
                     "type": "boolean"
                 },
-                "entities": {
-		    "decription":"Set of entities or organizations that are included or mentioned in the proposal",
+                "agents": {
+		    "decription":"Set of subjects or organizations that are included or mentioned in the proposal",
                     "type": "array",
                     "items": {
                         "type": "string"
@@ -119,11 +119,11 @@
             "required": [
                 "body",
                 "budget",
-                "entities",
+                "agents",
                 "id",
                 "non-negotiable",
                 "priority",
-                "tags",
+                "entities",
                 "topic"
             ],
             "title": "Proposal"
