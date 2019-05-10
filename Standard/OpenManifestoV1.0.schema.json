@@ -58,18 +58,18 @@
                 }
             },
             "required": [
+                "politicalParty",
+                "title",
                 "publication_date",
                 "election_date",
-                "geographical_area",
                 "type_of_elections",
+                "geographical_area",
+                "standard_version",
+                "URI",
+                "created_by",
                 "pages",
                 "num_proposals",
-                "politicalParty",
-                "proposals",
-                "title",
-                "URI",
-                "standard_version",
-                "created_by"
+                "proposals"
             ],
             "title": "ManifestoSchema"
         },
@@ -117,14 +117,14 @@
                 }
             },
             "required": [
-                "body",
-                "budget",
-                "agents",
                 "id",
-                "non-negotiable",
-                "priority",
+                "body",
+                "topic",
                 "entities",
-                "topic"
+                "priority",
+                "budget",
+                "non-negotiable",
+                "agents"
             ],
             "title": "Proposal"
         }
