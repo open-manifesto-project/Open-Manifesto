@@ -86,7 +86,10 @@
                 },
                 "topic": {
 		    "decription":"Main topic addressed in the proposal. Values are taken from the taxonomy defined by the Spanish interoperability scheme.",
-                    "type": "string"
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }                
                 },
                 "entities": {
 		    "decription":"Set of proposal tags/labels",
