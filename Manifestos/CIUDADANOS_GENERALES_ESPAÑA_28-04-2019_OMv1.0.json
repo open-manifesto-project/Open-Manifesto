@@ -15,7 +15,7 @@
             "id": 1,
             "body": "Aplicaremos el artículo 155 hasta asegurar el restablecimiento de la Constitución en Cataluña para garantizar la convivencia entre todos los catalanes, así como el respeto a las leyes y las sentencias judiciales. No podemos tolerar por más tiempo que Torra y los separatistas utilicen las instituciones públicas para sembrar el odio y el enfrentamiento entre los catalanes. Por eso, plantearemos la aplicación del artículo 155 de forma inmediata para garantizar la convivencia en Cataluña, la neutralidad de los espacios públicos y el acatamiento de la Constitución por parte de la Generalitat.",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "utilicen",
                 "parte",
                 "asegurar",
@@ -63,7 +63,7 @@
             "id": 2,
             "body": "Mejoraremos los instrumentos para proteger a los españoles de los golpes de Estado en el siglo XXI. El golpe de Estado de los separatistas catalanes de otoño de 2017 tenía un objetivo claro: liquidar la Constitución y sustituir la legalidad vigente por un marco legal alternativo, saltándose los procedimientos democráticos y vulnerando los derechos fundamentales de millones de catalanes. Actualizaremos el delito de sedición y rebelión en el Código Penal y reforzaremos los instrumentos de la Ley de Seguridad Nacional y de la Ley de Estabilidad Presupuestaria para asegurar que la labor de los Mossos d’Esquadra responde a la defensa leal de la Constitución y que no se destina ni un sólo euro de dinero público a financiar ninguna actividad vinculada al procés separatista.",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "esquadra",
                 "ley",
                 "sedición",
@@ -137,7 +137,7 @@
             "id": 3,
             "body": "Impediremos que quienes se fuguen de la justicia puedan presentarse a las elecciones y/o beneficiarse del dinero de todos. Es inadmisible que se destine dinero público a pagar la propaganda separatista y los gastos de Puigdemont y del resto de consellers huidos de la justicia en el extranjero. Con Cs, los políticos fugados de la justicia perderán automáticamente su cargo, no podrán presentarse a ningunas elecciones y no podrán beneficiarse, directa o indirectamente, de recursos o financiación con cargo a los presupuestos públicos. ",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "consellers",
                 "resto",
                 "políticos",
@@ -184,7 +184,7 @@
             "id": 4,
             "body": "Garantizaremos que se pueda estudiar, trabajar y rotular tu negocio en español en toda España. Es inadmisible que existan CCAA donde las lenguas se utilicen como arma política para crear ciudadanos de primera y de segunda. Aprobaremos una nueva Ley Orgánica de Lenguas Oficiales que garantice el uso del español como lengua oficial y común en toda España. ",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "utilicen",
                 "ciudadanos",
                 "ley",
@@ -226,7 +226,7 @@
             "id": 5,
             "body": "El conocimiento de una lengua cooficial autonómica nunca será una barrera para acceder a un empleo público en España. El conocimiento de una lengua cooficial podrá ser considerado un mérito, pero nunca un requisito para el acceso a la función pública en cualquier Administración española.",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "nunca",
                 "requisito",
                 "española",
@@ -260,7 +260,7 @@
             "id": 6,
             "body": "Incluiremos una asignatura sobre la Constitución española, troncal y evaluable en toda España y pondremos fin al adoctrinamiento nacionalista en las escuelas. Reforzaremos la Alta Inspección del Estado, dotándola de independencia e iniciativa para garantizar que la enseñanza impartida en las aulas y el contenido de los libros de texto en cualquier lugar de España no sean contrarios a la ley y a la Constitución, y haremos públicos sus informes.",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "inspección",
                 "ley",
                 "incluiremos",
@@ -306,7 +306,7 @@
             "id": 7,
             "body": "Reformaremos el Tribunal Constitucional para reforzar su capacidad de actuación a la hora de asegurar el respeto a la Constitución. Incluiremos en la Ley Orgánica del Tribunal Constitucional el requisito de que todos sus miembros sean reconocidos juristas con al menos 25 años de ejercicio acreditado. Estableceremos un estricto sistema de incompatibilidades para evitar su politización. El mandato será de 12 años, con jubilación a los 75.",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "12",
                 "capacidad",
                 "ley",
@@ -351,7 +351,7 @@
             "id": 8,
             "body": "Impulsaremos la actualización de nuestra Constitución para garantizar que España sea una nación de ciudadanos libres e iguales. En Cs estamos comprometidos con la defensa de la Constitución y por eso creemos necesario actualizarla para reforzar la unión, libertad e igualdad entre todos los españoles frente a los nuevos retos del siglo XXI. Entre otras medidas, proponemos: Reforzar las competencias del Estado para garantizar la igualdad entre todos los españoles y la unidad de mercado. Fijar la distribución de competencias entre el Estado y las CCAA, sin posibilidad de transferencia, para reforzar la seguridad jurídica y la claridad. Reformar el Senado como Cámara de representación territorial y, si el bipartidismo se niega a darle utilidad, plantearemos su cierre. Suprimir la posibilidad de anexión de Navarra por el País Vasco recogida en la disposición transitoria cuarta. Reflejar la pertenencia de España a la Unión Europea y el compromiso de nuestro país con el proceso de integración europea. Ampliar el catálogo de derechos fundamentales, incorporando nuevas realidades, como el derecho a la salud, a la atención a la dependencia, a la conciliación, a la transparencia y al acceso a la información pública. Eliminar la preferencia del varón sobre la mujer en la sucesión de la Corona.\nBlindar el matrimonio entre personas LGTBI e incluir el derecho a la no discriminación por razón de orientación o condición sexual. Eliminar la figura del Real Decreto-ley para acabar con los abusos del Gobierno de turno. En su lugar, la legislación de extraordinaria y urgente necesidad se tramitará por las Cortes en un plazo máximo de 72 horas garantizando el debate parlamentario.",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "orientación",
                 "reforzar",
                 "proceso",
@@ -492,7 +492,7 @@
             "id": 9,
             "body": "Reformaremos la Ley Electoral para que sea más justa e igualitaria para que España no dependa de los que quieren romperla En Ciudadanos queremos que todos los electores se vean representados en el Congreso y contar con diputados que trabajen por el interés común de toda España, no sólo de una parte. Para ello, modificaremos la Ley Electoral en los siguientes aspectos: Estableceremos el requisito de que los partidos tengan que conseguir como mínimo el 3% del voto nacional para entrar en el Congreso.  Mejoraremos la proporcionalidad del sistema electoral para asegurar que el reparto de escaños se ajuste a lo votado por los españoles.  Desbloquearemos las listas electorales para que los ciudadanos puedan decidir qué candidatos les representan dentro de la candidatura que elijan.  Prohibiremos la presencia de cualquier persona imputada formalmente por corrupción en cargos públicos y listas electorales.  Reduciremos los gastos electorales para que cada campaña no suponga un despilfarro a costa del bolsillo de los ciudadanos.  Daremos carácter obligatorio a la celebración de debates electorales.  Garantizaremos que todas las personas con discapacidad puedan ejercer su derecho de voto de forma autónoma y en igualdad de condiciones.  Eliminaremos el actual sistema de ‘voto rogado’ para que los españoles en el exterior puedan ejercer su derecho de voto con total normalidad.\n",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "asegurar",
                 "suponga",
                 "elijan",
@@ -602,7 +602,7 @@
             "id": 10,
             "body": "Impulsaremos la reforma de la financiación autonómica con el objetivo de conseguir un modelo más justo, equitativo y transparente. Abordaremos inmediatamente esta reforma, pendiente desde 2014, para conseguir un modelo de financiación más transparente, justo y equitativo, que garantice la igualdad de todos los españoles en el acceso a los servicios públicos. En paralelo, abordaremos la reforma de la financiación municipal para garantizar una mayor transparencia, responsabilidad y suficiencia de recursos para los Ayuntamientos. ",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "Economía",
                 "abordaremos",
                 "responsabilidad",
@@ -645,7 +645,7 @@
             "id": 11,
             "body": "Acabaremos con el privilegio que supone el actual cálculo arbitrario e insolidario del cupo vasco. Sustituiremos el sistema actual de cálculo quinquenal, opaco y politizado, por una metodología estable elaborada por la Autoridad Independiente de Responsabilidad Fiscal (AIReF) que permita un cálculo del cupo transparente, objetivo y riguroso para asegurar la contribución del País Vasco a la solidaridad territorial en las mismas condiciones que el resto de CCAA. Aplicaremos la misma reforma en el caso de la aportación navarra, para que los sistemas de concierto sean transparentes y solidarios. ",
             "topic": "La España de ciudadanos libres e iguales",
-            "entities": [
+            "tags": [
                 "territorial",
                 "resto",
                 "asegurar",
@@ -704,7 +704,7 @@
             "id": 12,
             "body": " Suprimiremos los aforamientos políticos para acabar con los privilegios de los políticos corruptos. Aprobaremos una modificación exprés de la Constitución para suprimir el aforamiento del que disfrutan los diputados y senadores, así como el presidente y los miembros del Gobierno de España. Impulsaremos la eliminación de los aforamientos políticos autonómicos en todas las CCAA, como ya hemos hecho en Murcia, Cantabria y Andalucía.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "suprimiremos",
                 "políticos",
                 "corruptos",
@@ -747,7 +747,7 @@
             "id": 13,
             "body": "Tolerancia cero con la corrupción: los corruptos se irán a su casa. Estableceremos que quienes sean imputados formalmente por delitos relacionados con la corrupción no puedan ocupar ningún cargo público hasta que no se resuelva su situación judicial. ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "delitos",
                 "corruptos",
                 "cero",
@@ -779,7 +779,7 @@
             "id": 14,
             "body": "Incluiremos en el Código Penal el delito de enriquecimiento injustificado de los cargos públicos. Los políticos que no puedan justificar incrementos significativos de su patrimonio durante su mandato tendrán que aclarar su origen ante los tribunales, además de responder ante la Agencia Tributaria.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "políticos",
                 "incluiremos",
                 "puedan",
@@ -815,7 +815,7 @@
             "id": 15,
             "body": "Aprobaremos una Ley de Protección del Denunciante de Corrupción. Protegeremos a todas las personas que denuncien casos de corrupción u órdenes ilegales de sus superiores. Crearemos una Autoridad Independiente de Integridad Pública para erradicar la corrupción, fiscalizar a nuestros cargos públicos y garantizar que su actuación responde al interés general. ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "órdenes",
                 "ilegales",
                 "ley",
@@ -857,7 +857,7 @@
             "id": 16,
             "body": "Aprobaremos una nueva Ley Orgánica de Partidos Políticos que refuerce la democracia interna, la transparencia y la rendición de cuentas. Seguiremos las recomendaciones de la Subcomisión para el estudio de la reforma de los partidos políticos impulsada por Cs en la pasada legislatura.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "interna",
                 "políticos",
                 "ley",
@@ -890,7 +890,7 @@
             "id": 17,
             "body": " Prohibiremos los indultos a políticos condenados por corrupción, rebelión y sedición para acabar con la impunidad. Pondremos fin a la discrecionalidad del Gobierno: aprobaremos una nueva Ley de Indultos para que sólo se puedan conceder cuando exista un informe previo favorable del juez o tribunal y para que su resolución siempre deba justificarse y publicarse. ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "exista",
                 "políticos",
                 "ley",
@@ -932,7 +932,7 @@
             "id": 18,
             "body": "Acabaremos con los enchufes de ‘amiguetes’ políticos incompetentes en las Administraciones Públicas. Revisaremos el Estatuto Básico del Empleado Público y aprobaremos una Ley de Función Pública del Estado para garantizar los principios de igualdad, mérito y capacidad, y en concreto: Limitaremos al mínimo los supuestos de libre designación para la provisión de puestos de trabajo reservados a funcionarios en todas las Administraciones Públicas y generalizaremos el sistema de concurso.  Desarrollaremos el Estatuto del Directivo Público para acabar con los dedazos en la Administración General del Estado y en los organismos, empresas y fundaciones públicas (Correos, Paradores, CIS, etc.). Todos los directivos públicos serán elegidos mediante un sistema de selección abierto y transparente basado en el mérito y capacidad por una duración superior a la del Gobierno y estarán sometidos a una evaluación continua de desempeño.  Potenciaremos la carrera profesional de los funcionarios, desarrollando de una vez la carrera horizontal en la Administración General del Estado y los incentivos para la promoción profesional y la formación y evaluación continua. Acabaremos con la integración de las carreras políticas y funcionariales.\n",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "trabajo",
                 "etc",
                 "designación",
@@ -1023,7 +1023,7 @@
             "id": 19,
             "body": " Aprobaremos una Ley ‘Antidedazos’ en los Organismos Reguladores. Esta Ley garantizará la plena independencia y autonomía presupuestaria de los organismos reguladores y que sus responsables sean elegidos mediante un procedimiento de selección abierto, transparente y meritocrático.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "meritocrático",
                 "ley",
                 "elegidos",
@@ -1055,7 +1055,7 @@
             "id": 20,
             "body": "Actualizaremos la Ley de Defensa de la Competencia para asegurarnos de que las prácticas abusivas sean sancionadas. Separaremos la Comisión Nacional de los Mercados y la Competencia (CNMC) en dos entidades independientes: una para la regulación de los mercados y otra para la defensa de la competencia y la unidad de mercado, siguiendo el modelo mayoritario en la UE.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "mayoritario",
                 "Economía",
                 "ley",
@@ -1091,7 +1091,7 @@
             "id": 21,
             "body": "Aprobaremos una Ley Orgánica de Transparencia y Participación que refuerce la transparencia y el acceso a toda la información pública. Convertiremos el Consejo de Transparencia y Buen Gobierno en una autoridad independiente y desbloquearemos de forma inmediata el nombramiento de un nuevo presidente, pendiente desde hace casi 2 años. Retiraremos los recursos judiciales de PP y PSOE contra las resoluciones de esta institución.  ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "desbloquearemos",
                 "ley",
                 "resoluciones",
@@ -1138,7 +1138,7 @@
             "id": 22,
             "body": "Regularemos la actividad de los lobbies o grupos de interés para garantizar la transparencia. Crearemos un Registro de Grupos de Interés y un Código de Conducta. Obligaremos a publicar las agendas de trabajo completas de todos los cargos públicos. Los proyectos normativos del Gobierno irán acompañados de un informe de “huella legislativa” que recoja los trámites e identifique los grupos de interés que hayan intervenido en las distintas fases del proceso.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "normativos",
                 "registro",
                 "trabajo",
@@ -1190,7 +1190,7 @@
             "id": 23,
             "body": "Despolitizaremos el Tribunal de Cuentas para acabar con el enchufismo y asegurar la fiscalización independiente de los partidos políticos y del resto de entidades públicas. Aprobaremos una nueva Ley Orgánica del Tribunal de Cuentas y un nuevo Estatuto Orgánico para esta institución que refuercen los controles para acabar con el nepotismo y los enchufes políticos que han mermado su credibilidad, así como para asegurar su buen funcionamiento tomando como modelo los organismos de control externo de otros países.  ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "resto",
                 "políticos",
                 "ley",
@@ -1238,7 +1238,7 @@
             "id": 24,
             "body": "Pondremos fin a los contratos y subvenciones ‘a dedo’, los amaños y los sobrecostes para acabar con los agujeros por donde se cuela la corrupción. En concreto, llevaremos a cabo las siguientes medidas: Simplificaremos la normativa de contratos y subvenciones públicas para reducir burocracia, sin eliminar controles ni garantías, favoreciendo con ello el acceso de pymes y autónomos. Limitaremos al máximo las subvenciones nominativas. Cuando la adjudicación de un contrato público quede desierta, se podrá acudir al procedimiento negociado, pero siempre con publicidad.  Convertiremos la Oficina de Regulación y Supervisión de la Contratación Pública en una autoridad independiente encargada de garantizar la publicidad, neutralidad y transparencia de los contratos públicos, y extenderemos su competencia también a las subvenciones y ayudas públicas.  Extenderemos los controles de la normativa de contratos del sector público a los partidos políticos, organizaciones empresariales y sindicatos, así como a las fundaciones que dependen de los mismos.  Haremos transparente toda la información sobre contratos y subvenciones públicas, permitiendo el acceso libre a todas las bases de datos y registros públicos sin necesidad de acreditación, publicando toda la información sobre los contratos y subvenciones pública y extendiendo esta obligación de publicidad a otras figuras, como los convenios.  Impulsaremos marcos de integridad en la contratación pública y la detección preventiva de conductas irregulares. Las empresas sancionadas por la CNMC no podrán contratar con las Administraciones.\n",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "empresariales",
                 "sindicatos",
                 "nominativas",
@@ -1351,7 +1351,7 @@
             "id": 25,
             "body": "Garantizaremos la independencia y pluralidad de Radiotelevisión Española (RTVE). Reforzaremos el procedimiento de concurso para evitar bloqueos políticos interesados y aseguraremos la elección de un nuevo Consejo de Administración de RTVE formado por profesionales expertos e independientes. ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "concurso",
                 "políticos",
                 "reforzaremos",
@@ -1385,7 +1385,7 @@
             "id": 26,
             "body": "Auditaremos las televisiones autonómicas para reducir gasto innecesario y aseguraremos que sus contenidos no sirvan para hacer propaganda ideológica. Garantizaremos la neutralidad y la pluralidad de los medios públicos de comunicación social, promoveremos su autofinanciación y, en su caso, impulsaremos la eliminación de aquellos que resulten manifiestamente inviables.  ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "propaganda",
                 "auditaremos",
                 "autonómicas",
@@ -1425,7 +1425,7 @@
             "id": 27,
             "body": "Garantizaremos un Poder Judicial independiente y libre de injerencias políticas. Reformaremos el sistema de elección de los vocales del Consejo General del Poder Judicial (CGPJ) para que los 12 procedentes de la carrera judicial pasen a ser elegidos directamente por todos los jueces y magistrados, evitando así el control de los políticos. ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "12",
                 "políticos",
                 "procedentes",
@@ -1465,7 +1465,7 @@
             "id": 28,
             "body": "Cortaremos el cordón umbilical entre el Fiscal General del Estado y el gobierno de turno, para que el poder político no influya en su labor constitucional. Reformaremos el Estatuto Orgánico del Ministerio Fiscal para exigir que el Fiscal General del Estado deba ser ratificado por una mayoría cualificada del Congreso, tras acreditar 25 años de ejercicio profesional y no tener vinculación con ningún partido político. Será elegido por un periodo de 6 años.  ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "25",
                 "acreditar",
                 "estatuto",
@@ -1513,7 +1513,7 @@
             "id": 29,
             "body": "Incrementaremos los recursos de la Administración de Justicia para asegurar la tutela judicial efectiva de todos los ciudadanos. Mejoraremos las condiciones de jueces, fiscales, letrados y personal al servicio de la Administración de justicia, realizaremos una distribución efectiva de las cargas de trabajo y regularemos la llamada carrera horizontal. Implementaremos una Justicia eficaz y digital, avanzando de paso hacia el objetivo de “cero papel”. Revisaremos el sistema de tasas judiciales para que nadie se vea privado de defender sus derechos por falta de recursos y liberaremos a las pymes de pagar estas tasas.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "asegurar",
                 "trabajo",
@@ -1574,7 +1574,7 @@
             "id": 30,
             "body": "Acabaremos con las limitaciones temporales a la investigación judicial que impiden la resolución efectiva de casos de corrupción complejos. Eliminaremos la limitación de los plazos máximos de la instrucción penal y pondremos en marcha mecanismos de refuerzo inmediato en causas complejas. ",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "máximos",
                 "impiden",
                 "acabaremos",
@@ -1611,7 +1611,7 @@
             "id": 31,
             "body": "Aprobaremos una Ley de Lucha contra el Fraude y la Evasión Fiscal para cerrar los agujeros legales que alientan estas prácticas. Con nuestra Ley abordaremos, entre otros, los siguientes aspectos: Promoveremos una reforma en la UE que armonice las bases imponibles del Impuesto de Sociedades para evitar que la regulación laxa de algunos países sirva para erosionar el Estado del Bienestar del resto.  Eliminaremos el régimen especial de Entidades de Tenencia de Valores Extranjeros (ETVE) por ser desproporcionado y carecer de justificación.  Reforzaremos el Servicio de Prevención del Blanqueo de Capitales (SEPBLAC) y endureceremos las multas a las entidades financieras que cooperen en el blanqueo o el fraude de sus clientes Prohibiremos los programas informáticos de ‘doble uso’ que permiten la manipulación de la contabilidad, con sanciones en caso de incumplimiento.  Pondremos la lupa sobre las monedas virtuales para asegurar que no se utilicen para encubrir ingresos de origen ilícito, exigiendo información sobre sus titulares y sobre las operaciones realizadas con ellas.  Garantizaremos el derecho de los consumidores a pagar cualquier bien o servicio con tarjeta de crédito, limitando las comisiones. Para evitar el blanqueo, restringiremos el pago en efectivo a 1.000 euros, manteniendo el límite de 2.500 en los pagos realizados por particulares.  Lucharemos contra los paraísos fiscales, revisando la lista para volver a incluir aquellos Estados que no cooperan con España, exigiendo a las entidades financieras que informen sobre las operaciones de sus clientes en sus filiales en paraísos fiscales, e impulsando una acción decidida de la UE para que ningún Estado miembro ofrezca cobertura a ningún paraíso fiscal.  Reformaremos con urgencia el delito fiscal haciendo cumplir las sentencias y endureciendo las penas y limitaremos los supuestos en los que se pueda rebajar la pena del delito mediante el pago.\n",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "utilicen",
                 "resto",
                 "paraíso",
@@ -1769,7 +1769,7 @@
             "id": 32,
             "body": "Incrementaremos los medios y la autonomía de la Agencia Tributaria. Aprobaremos un Estatuto de la Agencia Tributaria para reforzar su independencia y profesionalidad e incrementaremos los recursos a su disposición hasta equipararlos a los de los países de nuestro entorno. Extenderemos la lista de morosos con Hacienda, reduciendo su umbral a 600.000 euros y ampliando la información para incluir a los responsables solidarios de los deudores.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "600",
                 "solidarios",
                 "reforzar",
@@ -1813,7 +1813,7 @@
             "id": 33,
             "body": "Impulsaremos una Ley de Derechos y Garantías del Contribuy ente que facilite el cumplimiento voluntario de las obligaciones tributarias. Garantizaremos la información, seguridad jurídica y tutela judicial efectiva de los contribuy entes ante cualquier pleito con Hacienda. Desatascaremos los Tribunales Económico-Administrativos, dotándolos de más medios humanos y materiales para acabar con las demoras en la resolución de reclamaciones.",
             "topic": "Tolerancia cero con la corrupción",
-            "entities": [
+            "tags": [
                 "ley",
                 "tributarias",
                 "facilite",
@@ -1860,7 +1860,7 @@
             "id": 34,
             "body": "Cumpliremos con nuestros compromisos europeos y España culminará su consolidación fiscal, para cumplir con nuestros socios europeos y con los españoles, que se merecen unas finanzas públicas saneadas. Pedro Sánchez ha dedicado los últimos días de su mandato a aprobar decretazos sin ingresos ni presupuesto para pagarlos, incrementando el déficit estructural en miles de millones de euros. Con Ciudadanos en el Gobierno las cuentas serán realistas y cumplirán con los objetivos marcados con la Unión Europea. Revisaremos el diseño y aplicación de la regla de gasto, siguiendo las mejores prácticas europeas, para garantizar la sostenibilidad de las cuentas públicas a lo largo del ciclo.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "últimos",
                 "días",
                 "ciudadanos",
@@ -1927,7 +1927,7 @@
             "id": 35,
             "body": "Llevaremos a cabo una auditoría integral que permita acabar con el gasto superfluo e invertir en fines más prioritarios para el interés general. Reforzaremos con más medios la revisión del gasto en subvenciones (spending review) que viene realizando la AIReF para garantizar que no se malgaste ni un euro de dinero público.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "invertir",
                 "Economía",
                 "integral",
@@ -1966,7 +1966,7 @@
             "id": 36,
             "body": "Bajaremos el Impuesto sobre la Renta a las familias. La mejor bajada de impuestos es la que puede llevarse a cabo. En Cs hemos demostrado que se pueden bajar impuestos siendo responsables: ya lo logramos en la anterior legislatura y lo seguiremos haciendo. Casi 6 millones de familias tendrán derecho a una deducción fiscal en el IRPF que podrán cobrar anticipadamente desde el principio del año en cuotas mensuales: 1.200 €/año (100 €/mes) para las familias con 2 hijos y las monoparentales con 1 hijo, y 2.400 €/año (200 €/mes) para las familias con más hijos. Estableceremos un tipo marginal máximo en el IRPF del 44% para garantizar que los impuestos nunca sean confiscatorios.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "44",
                 "demostrado",
                 "logramos",
@@ -2035,7 +2035,7 @@
             "id": 37,
             "body": "Nadie tendrá que renunciar nunca más a una herencia por no poder pagar el Impuesto de Sucesiones y Donaciones. Bonificaremos al 100% este impuesto en las herencias y donaciones entre parientes directos y lo reduciremos en las transmisiones entre otros parientes en toda España. ",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "renunciar",
                 "nunca",
                 "transmisiones",
@@ -2065,7 +2065,7 @@
             "id": 38,
             "body": "Reformaremos el Impuesto de Sociedades para cerrar agujeros y eliminar trampas que facilitan  la ‘ingeniería fiscal’. Haremos el Impuesto de Sociedades más justo y eficiente para que las pymes no paguen tipos efectivos superiores al de las grandes empresas y aproximar la recaudación a la media de la zona euro.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "aproximar",
                 "facilitan",
                 "euro",
@@ -2105,7 +2105,7 @@
             "id": 39,
             "body": "Todos los trámites administrativos podrán hacerse a través del teléfono móvil. Pondremos en marcha una Estrategia Nacional de Administración Digital para que a ningún ciudadano se le pida ni un solo papel que ya hubiese presentado antes ante cualquier Administración Pública.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "pida",
                 "hacerse",
                 "papel",
@@ -2138,7 +2138,7 @@
             "id": 40,
             "body": "Una regulación y no 17: armonizaremos y simplificaremos la maraña de normas autonómicas que lastran a nuestras empresas. Apostaremos por la codificación normativa, empezando por la aprobación del nuevo Código Mercantil, al que le seguirán otros en distintas áreas económicas: tributos, finanzas, energía, consumo, competencia, transportes, etc.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "transportes",
                 "17",
                 "aprobación",
@@ -2179,7 +2179,7 @@
             "id": 41,
             "body": "Eliminaremos todas las barreras regulatorias que frenan el crecimiento empresarial. Entre otras medidas, elevaremos el umbral de facturación en los pagos fraccionados en el Impuesto de Sociedades y en la liquidación del IVA, crearemos un nuevo tipo de “auditoría abreviada” para pymes e incentivaremos que las pymes reinviertan sus beneficios para promover su crecimiento. ",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "incentivaremos",
                 "iva",
                 "eliminaremos",
@@ -2220,7 +2220,7 @@
             "id": 42,
             "body": "Cerraremos todos y cada uno de los ‘chiringuitos’ políticos que el bipartidismo ha usado para colocar a sus amiguetes. Suprimiremos todos los organismos, agencias, empresas, fundaciones, consorcios, embajadas, etc., que carezcan de justificación. Impulsaremos una racionalización de las Administraciones y la supresión de todos los organismos duplicados en las CCAA. ",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "suprimiremos",
                 "políticos",
                 "consorcios",
@@ -2259,7 +2259,7 @@
             "id": 43,
             "body": "Suprimiremos las diputaciones provinciales, garantizando unos mejores servicios públicos, más baratos y sin corrupción. Acabaremos con los enchufados y los coches oficiales con el dinero de todos. Plantearemos su supresión y que sus funciones, recursos y personal esenciales se integren en las CCAA. Esta medida no afectará a las diputaciones forales, cabildos y consejos insulares, por estar avalados en la Constitución y por responder a una excepcionalidad insular, respectivamente.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "afectará",
                 "funciones",
                 "suprimiremos",
@@ -2305,7 +2305,7 @@
             "id": 44,
             "body": "Fortaleceremos los municipios promoviendo la prestación conjunta de servicios para ahorrarle dinero a los vecinos y ofrecerles mejores servicios. Un sistema más eficiente supondrá menos burocracia, más ahorro para los ciudadanos y mejores servicios públicos.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "supondrá",
                 "burocracia",
@@ -2336,7 +2336,7 @@
             "id": 45,
             "body": "Aprobaremos una Ley de Fomento del Ecosistema de Startups que promueva un marco jurídico favorable para las empresas innovadoras en sus etapas iniciales. Esta Ley incluirá: Más incentivos fiscales para fomentar la inversión y la atracción de talento en startups. Tomando como referencia el sistema SEIS del Reino Unido, las startups innovadoras no pagarán impuestos durante los 2 primeros años y la inversión en sus acciones podrá desgravarse fiscalmente.  Mejoraremos la financiación pública de sectores estratégicos a través de la creación de fondos de inversión públicos de coinversión (match-funding). Seguiremos el modelo de los fondos Yozma de capital riesgo en Israel, enfocado en startups de alta tecnología.  Potenciaremos fórmulas de financiación participativa (crowdfunding, crowdlending, etc.) para incrementar la captación de fondos por las startups. Elevaremos los umbrales de financiación y flexibilizaremos las obligaciones de certificación de los inversores por parte de las plataformas.  Promoveremos el uso de las opciones sobre acciones para que las startups puedan atraer el mejor talento en las fases iniciales. Flexibilizaremos esta fórmula de financiación, permitiendo su concesión selectiva y mejorando su fiscalidad.  Regularemos la figura de los bancos de pruebas (sandbox) para desarrollar proyectos innovadores o disruptivos que todavía carecen de regulación. Estableceremos un marco normativo que puedan utilizar todos los organismos reguladores y diseñaremos un sistema de garantías para los usuarios que participen en el testado de estos servicios innovadores.\n",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "sectores",
                 "estratégicos",
                 "etc",
@@ -2460,7 +2460,7 @@
             "id": 46,
             "body": "Elevaremos el presupuesto en I+D+i para alcanzar el 2% del PIB al final de la legislatura. Priorizaremos la inversión en I+D+i en aquellas CCAA que parten de niveles más bajos para evitar una España a dos velocidades. Mejoraremos la gobernanza del Sistema Español de Ciencia, Tecnología e Innovación: reformaremos la Agencia Estatal de Investigación, siguiendo el modelo del European Research Council, y potenciaremos el Centro para el Desarrollo Tecnológico Industrial (CDTI) para que lidere la política de innovación y digitalización en España.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "tecnológico",
                 "final",
                 "aquellas",
@@ -2517,7 +2517,7 @@
             "id": 47,
             "body": "Reduciremos drásticamente la burocracia en la gestión de proyectos de I+D+i y garantizaremos la estabilidad de las convocatorias de los proyectos de investigación. Los investigadores no tendrán que sufrir la incertidumbre de ver retrasada la concesión de sus proyectos ni dedicar la mayor parte de su tiempo a papeleos en vez de a investigar.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "parte",
                 "tiempo",
                 "burocracia",
@@ -2553,7 +2553,7 @@
             "id": 48,
             "body": "Conectaremos la investigación con la empresa poniendo en marcha la Red Cervera de Transferencia Tecnológica. Consistirá en una red de centros de excelencia enfocados a la transferencia de conocimiento a las pymes, siguiendo el modelo de los Fraunhofer alemanes. Premiaremos a los Organismos Públicos de Investigación (OPIs) que tengan mejores resultados con un sistema de financiación adicional variable que incentive un mejor desempeño.",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "conectaremos",
                 "opis",
                 "siguiendo",
@@ -2597,7 +2597,7 @@
             "id": 49,
             "body": "Apoyaremos la excelencia y acabaremos con la precariedad de nuestros investigadores. Facilitaremos la incorporación de nuevos investigadores a Universidades y centros de investigación. Mejoraremos las dotaciones presupuestarias de los programas existentes (predoctorales, Juan de la Cierva, Ramón y Cajal, Beatriz Galindo) y también de investigadores que se incorporen a empresas (doctorados industriales y Torres Quevedo).",
             "topic": "Una economía moderna y competitiva para ganar el futuro",
-            "entities": [
+            "tags": [
                 "galindo",
                 "acabaremos",
                 "existentes",
@@ -2639,7 +2639,7 @@
             "id": 50,
             "body": "Aprobaremos un nuevo Plan Naranja de Reformas para los Autónomos. Impulsaremos, entre otras medidas, las siguientes: Ampliaremos a 2 años la tarifa plana para nuevos autónomos. Los autónomos societarios que gestionan una pyme también podrán beneficiarse de esta tarifa plana.  Los autónomos y las pymes no tendrán que adelantar nunca más el IVA por facturas que no hayan cobrado: podrán aplazar el pago del IVA de facturas impagadas y, si se superan los 60 días de impago, podrán solicitar a la Agencia Tributaria que reclamen al deudor el pago del IVA por esas facturas impagadas.  Los autónomos con ingresos reales inferiores al salario mínimo anual no pagarán cuotas.  Garantizaremos que los autónomos tengan derecho a cobrar el paro en las mismas condiciones que los trabajadores asalariados.  Los autónomos también tienen derecho a conciliar: no pagarán cuotas en los 2 años siguientes a ser padre o madre.  Una pensión justa para todos los autónomos que se jubilen: si lo desean, podrán contabilizar toda su vida laboral para el cálculo de su pensión.  Los autónomos podrán realizar su actividad y recibir el 100% de la pensión de jubilación, contraten o no a un trabajador por cuenta ajena.\n",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "iva",
                 "padre",
                 "deudor",
@@ -2736,7 +2736,7 @@
             "id": 51,
             "body": "Garantizaremos que los proveedores cobren en un máximo de 30 días en los contratos con la Administración o de 60 días en el resto de casos. Volveremos a presentar nuestra Ley para Acabar con la Morosidad para asegurar el cumplimiento efectivo de los plazos legales de pago y acabar con la impunidad de los deudores morosos. Entre otras medidas, nuestra Ley incluirá un régimen sancionador para quienes incumplan los plazos legales de pago.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "cobren",
                 "días",
                 "resto",
@@ -2778,7 +2778,7 @@
             "id": 52,
             "body": "Diseñaremos un verdadero mecanismo de “segunda oportunidad” para que nuestros emprendedores puedan volver a levantarse después de un revés empresarial. Flexibilizaremos los requisitos para acceder al perdón judicial de las deudas a todos los deudores de buena fe y permitiremos que este perdón se extienda a las deudas con Hacienda y la Seguridad Social.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "levantarse",
                 "seguridad",
                 "extienda",
@@ -2821,7 +2821,7 @@
             "id": 53,
             "body": "Eliminaremos los contratos temporales: todos los contratos serán indefinidos. Reduciremos las modalidades específicas de contrato a la cobertura de sustituciones y a la formación en colaboración con las empresas. Bonificaremos las cotizaciones por desempleo de las empresas que despidan menos y mantengan plantillas más estables en cada sector.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "contratos",
                 "específicas",
                 "cada",
@@ -2858,7 +2858,7 @@
             "id": 54,
             "body": "Haremos que los derechos no se pierdan al cambiar de trabajo: todos los trabajadores tendrán derecho a una indemnización y a la prestación por desempleo también cuando cambien de trabajo voluntariamente. Crearemos una cuenta personal para cada trabajador que financiará estos derechos desde el primer día de trabajo, siguiendo el modelo de la exitosa “mochila austriaca”. El trabajador podrá retirar el dinero de esta cuenta en caso de desempleo, movilidad geográfica dentro de la misma empresa, o en el momento de su jubilación como complemento a la pensión a la que tenga derecho.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "voluntariamente",
                 "trabajo",
                 "siguiendo",
@@ -2915,7 +2915,7 @@
             "id": 55,
             "body": "Estableceremos un Complemento Salarial Garantizado para luchar contra la pobreza laboral que causa el abuso de la temporalidad en nuestro país. Queremos estimular el empleo, acabar con la precariedad y garantizar salarios dignos con fórmulas efectivas y modernas que han tenido éxito en otros países de nuestro entorno. Procederemos la implantación progresiva de este Complemento Salarial, empezando por los trabajadores jóvenes.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "éxito",
                 "país",
                 "dignos",
@@ -2960,7 +2960,7 @@
             "id": 56,
             "body": "Garantizaremos que sea compatible tener un trabajo asalariado y percibir el 100% de la pensión de jubilación. No debemos privar a quienes tienen capacidad y voluntad de trabajar de hacerlo, ni tampoco negar a nadie una pensión después de décadas de cotizar para conseguirla.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "debemos",
                 "capacidad",
                 "trabajo",
@@ -2997,7 +2997,7 @@
             "id": 57,
             "body": "Adaptaremos nuestra normativa laboral a las nuevas realidades de la economía digital para asegurar la protección social de los trabajadores. Reformaremos la legislación laboral vigente para adaptarla a la realidad de la economía digital y asegurar la necesaria seguridad jurídica en estas actividades, garantizar la protección social del trabajo en las nuevas plataformas digitales e incorporar la flexibilidad que requiere la economía digital.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "asegurar",
                 "trabajo",
                 "seguridad",
@@ -3037,7 +3037,7 @@
             "id": 58,
             "body": "Impulsaremos un Plan de Choque contra el Fraude Laboral. Utilizaremos las últimas herramientas tecnológicas, incluido el Big Data, para mejorar la eficacia en la detección del fraude en la normativa sociolaboral.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "data",
                 "Calidad democrática y lucha contra la corrupción",
                 "big",
@@ -3068,7 +3068,7 @@
             "id": 59,
             "body": "Revolucionaremos las políticas de empleo y formación para que realmente ayuden a los desempleados a encontrar un trabajo. Dotaremos a los servicios públicos de empleo de un sistema de perfilado estadístico y orientación laboral individualizada para adecuar la formación a las necesidades de cada desempleado y no de los sindicatos. Usaremos todos los datos disponibles en las Administraciones Públicas y colaboraremos con el sector privado para desarrollar un sistema de matching nacional, utilizando Big Data, para que los trabajadores encuentren trabajo con más facilidad cruzando la oferta y demanda de empleo.  Evaluaremos de forma sistemática todas las políticas de empleo para acabar con los cursos inútiles y mejorar su eficacia.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "necesidades",
                 "utilizando",
                 "trabajo",
@@ -3135,7 +3135,7 @@
             "id": 60,
             "body": "Acabaremos con el fraude de los cursos de formación. Pondremos los recursos para la formación directamente en manos de los desempleados con el sistema de “cheques-formación” para que puedan elegir libre y voluntariamente dónde y en qué quieren formarse. Premiaremos a aquellos centros de formación con mejores resultados de empleabilidad.",
             "topic": "Empleo del siglo XXI: un nuevo modelo laboral que ponga fin a la precariedad",
-            "entities": [
+            "tags": [
                 "voluntariamente",
                 "acabaremos",
                 "manos",
@@ -3175,7 +3175,7 @@
             "id": 61,
             "body": "Un Pacto Nacional por la Educación para una generación. Este Pacto promovido por Cs estuvo muy cerca de alcanzarse en la anterior legislatura, pero se truncó cuando el PSOE se levantó de la mesa por razones electoralistas. Nos comprometemos a volver a impulsar un acuerdo para proponer una reforma que mire al futuro y garantice la estabilidad del modelo educativo de nuestro país. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "promovido",
                 "pacto",
                 "educación",
@@ -3217,7 +3217,7 @@
             "id": 62,
             "body": "Estableceremos un MIR como el de los médicos para atraer a los mejores a la profesión docente y desarrollar al máximo todo su potencial. Asimismo, aprobaremos un Estatuto de la Profesión Docente que les dote de una verdadera carrera profesional y acabaremos con el abuso de la interinidad en la educación. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "educación",
                 "acabaremos",
                 "estatuto",
@@ -3250,7 +3250,7 @@
             "id": 63,
             "body": "Reduciremos el abandono escolar a través de programas innovadores de refuerzo educativo. Fomentaremos el refuerzo y la diversificación educativa, así como el acompañamiento extraescolar, como alternativas a la repetición y el abandono temprano, que en España sigue entre los más altos de la Unión Europea. Desarrollaremos programas innovadores, en colaboración con la sociedad civil, que aborden el fracaso escolar para reducir el abandono escolar temprano y estableceremos medidas para revertir la segregación.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "alternativas",
                 "fomentaremos",
                 "fracaso",
@@ -3298,7 +3298,7 @@
             "id": 64,
             "body": "Promoveremos los programas de excelencia y el Bachillerato Internacional dentro del sistema educativo público. Facilitaremos el acceso a este tipo de programas a todos nuestros alumnos para que puedan desarrollar su potencial con independencia de los recursos de sus familias. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "puedan",
                 "independencia",
                 "programas",
@@ -3330,7 +3330,7 @@
             "id": 65,
             "body": "Libros de texto gratis para todas las familias. Estableceremos la gratuidad de los libros de texto con un sistema de préstamo de libros en todas las escuelas. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "Educación",
                 "sistema",
                 "todas",
@@ -3354,7 +3354,7 @@
             "id": 66,
             "body": "Garantizaremos el derecho de las familias a elegir la educación de sus hijos. Defenderemos que se tenga en cuenta la demanda social a la hora de decidir la renovación de conciertos. Garantizaremos la gratuidad de la educación concertada, evitando el cobro por parte de los centros de cuotas injustificadas. Haremos que la Agencia Tributaria deje de perseguir a las familias que se desgravan las donaciones que realizan a los colegios concertados de sus hijos.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "parte",
                 "educación",
                 "haremos",
@@ -3401,7 +3401,7 @@
             "id": 67,
             "body": "Favoreceremos la armonización curricular entre las diferentes CCAA y estableceremos unos estándares nacionales de aprendizaje. Facilitaremos la movilidad de alumnos y docentes en todo el territorio nacional.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "Educación",
                 "docentes",
                 "movilidad",
@@ -3429,7 +3429,7 @@
             "id": 68,
             "body": "Garantizaremos el derecho a una educación inclusiva y a una atención socioeducativa adaptada a las necesidades específicas de cada alumno en todas las etapas educativas. Defenderemos un modelo mixto para los estudiantes con discapacidad que combine la escolarización en centros de educación especial con la educación inclusiva en centros ordinarios. Crearemos protocolos para la detección precoz y atención temprana de alumnos con necesidades específicas de apoyo educativo (ACNEAE), así como con altas capacidades intelectuales.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "apoyo",
                 "educativas",
                 "discapacidad",
@@ -3487,7 +3487,7 @@
             "id": 69,
             "body": "Dotaremos a los centros educativos de mayor autonomía vinculada a una mayor rendición de cuentas y transparencia. Realizaremos evaluaciones censales, sin efectos académicos, al menos en cada final de etapa. Haremos transparentes los resultados educativos de los centros, asegurando que estén debidamente ponderados en función del entorno socioeconómico para reforzar con financiación adicional y profesorado de apoyo a los centros que lo necesiten.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "apoyo",
                 "final",
                 "cada",
@@ -3533,7 +3533,7 @@
             "id": 70,
             "body": "Garantizaremos la convivencia escolar: reconoceremos a los docentes la condición de autoridad pública en toda España y prohibiremos el uso de teléfonos móviles en horario lectivo. Desarrollaremos el Plan Estratégico de Convivencia Escolar para luchar contra el acoso escolar y promover el respeto entre la comunidad educativa y la autoridad y dignificación del profesorado. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "docentes",
                 "dignificación",
                 "condición",
@@ -3575,7 +3575,7 @@
             "id": 71,
             "body": "Diseñaremos una Estrategia Nacional para la Formación Profesional (FP), duplicando las plazas de FP Dual. Pondremos en marcha un programa para aumentar el número de plazas en todas las modalidades de FP, en colaboración con las CCAA, sobre todo en titulaciones de carácter científico y tecnológico con una alta inserción laboral y estableciendo incentivos para implicar a más empresas y transformar la mayoría de las plazas de estas titulaciones a FP Dual. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "tecnológico",
                 "dual",
                 "incentivos",
@@ -3622,7 +3622,7 @@
             "id": 72,
             "body": "Impulsaremos el establecimiento de una Selectividad única en todo el territorio nacional para garantizar los mismos contenidos en toda España. La Selectividad podrá hacerse en español en todo el territorio nacional. Igualaremos el coste de la prueba de acceso a la Universidad entre los distintos territorios.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "hacerse",
                 "universidad",
                 "acceso",
@@ -3656,7 +3656,7 @@
             "id": 73,
             "body": "Premiaremos con financiación adicional a las facultades y departamentos universitarios con mejores resultados. Garantizaremos una financiación estable y plurianual para nuestras Universidades por medio de contratos-programa sujetos a resultados. Favoreceremos la excelencia a través de incentivos, dotando de más financiación a las Universidades públicas que muestren mejores indicadores de investigación, innovación, transferencia de conocimiento y empleabilidad. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "universitarios",
                 "incentivos",
                 "contratos",
@@ -3699,7 +3699,7 @@
             "id": 74,
             "body": "Incrementaremos los fondos para becas universitarias en toda España.  Convertiremos el Observatorio de Becas en un órgano independiente de control, evaluación y seguimiento de la política de becas para garantizar la igualdad de oportunidades en el acceso a la educación superior.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "educación",
                 "independiente",
                 "órgano",
@@ -3733,7 +3733,7 @@
             "id": 75,
             "body": "Mejoraremos la transparencia y la rendición de cuentas de nuestras Universidades. Propondremos la creación de Consejos de Transparencia e Integridad en todas las Universidades encargados de la prevención, detección y sanción del plagio y demás prácticas de deshonestidad académica. Estableceremos la obligatoriedad de que todas las Universidades hagan públicos y accesibles todos los trabajos que otorguen un título oficial y publicaremos los datos de impacto en empleabilidad de las titulaciones. ",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "plagio",
                 "otorguen",
                 "datos",
@@ -3780,7 +3780,7 @@
             "id": 76,
             "body": "Aprobaremos un Estatuto del Personal Docente Investigador (PDI) para dotarlos de seguridad y fomentar su actividad innovadora. Favoreceremos la participación del PDI en procesos de creación y consolidación de empresas de base tecnológica y spin-offs. Convertiremos en oportunidades las ideas en las que se hayan invertido fondos públicos a través de nuestras Universidades.",
             "topic": "La educación, en el centro",
-            "entities": [
+            "tags": [
                 "procesos",
                 "seguridad",
                 "invertido",
@@ -3822,7 +3822,7 @@
             "id": 77,
             "body": "75. Aprobaremos un Plan de Turismo Español Horizonte 2030 para mejorar la competitividad e incrementar la inversión en un sector que es un motor clave para la economía y el empleo en España. Impulsaremos la implantación de las últimas tecnologías y la digitalización en los destinos turísticos para mejorar la experiencia turística integral para turistas y residentes y facilitar la gestión de los operadores. Aseguraremos la coordinación entre inversión y gestión de las infraestructuras públicas de transporte para lograr un turismo sostenible. Promoveremos una mejora de las condiciones laborales y la formación de los trabajadores del sector turístico, priorizando el aprendizaje de lenguas extranjeras. Impulsaremos la mejora de la señalización turística en otros idiomas para atender mejor a los nuevos turistas. Potenciaremos Turespaña con más recursos e incorporaremos prácticas ya acreditadas en otras entidades internacionales de promoción. Estableceremos medidas que permitan al sector hacer frente a los efectos negativos del Brexit sobre el turismo español, especialmente en un escenario sin acuerdo. ",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "integral",
                 "escenario",
                 "gestión",
@@ -3910,7 +3910,7 @@
             "id": 78,
             "body": "76. Impulsaremos la diversificación y la desestacionalización de la oferta turística para atraer nuevos perfiles de visitantes durante todo el año. Ampliaremos la oferta del IMSERSO dirigida a personas mayores, priorizando los destinos del interior de nuestro país, y estudiaremos su extensión a otros colectivos. Buscaremos la recuperación de destinos maduros e impulsaremos la complementariedad entre el turismo más tradicional con nuevos fenómenos turísticos (como el turismo de compras o el turismo gastronómico). Potenciaremos el turismo rural y de naturaleza para hacer del turismo sostenible un motor de desarrollo en el mundo rural y pondremos en valor todo el patrimonio natural de la Red de Espacios Naturales Protegidos de España.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "país",
                 "oferta",
                 "visitantes",
@@ -3975,7 +3975,7 @@
             "id": 79,
             "body": "77. Dotaremos de un marco regulatorio nacional al alquiler de viviendas de uso turístico y combatiremos la turismofobia. Acabaremos con la actual fragmentación normativa entre las CCAA en la regulación de las viviendas turísticas y daremos seguridad a los propietarios particulares que quieran poner sus viviendas en alquiler bajo esta modalidad.  Mejoraremos los controles para acabar con la oferta ilegal y concienciaremos sobre las nefastas consecuencias para España de las campañas de turismofobia y la irresponsabilidad de quienes la promueven.   ",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "modalidad",
                 "Economía",
                 "acabaremos",
@@ -4026,7 +4026,7 @@
             "id": 80,
             "body": "Aprobaremos una Ley de Mecenazgo que reconozca y premie a quienes invierten en el interés general. Incrementaremos los incentivos fiscales, la flexibilidad en las donaciones y las medidas de reconocimiento no fiscales.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "general",
                 "interés",
                 "ley",
@@ -4055,7 +4055,7 @@
             "id": 81,
             "body": "Reforzaremos los instrumentos para proteger la propiedad intelectual y luchar contra la piratería. Crearemos un organismo rector de las políticas de propiedad intelectual en el Ministerio de Cultura. Incrementaremos los recursos destinados a la Comisión de Propiedad Intelectual y a perseguir los delitos contra los derechos de autor, con juzgados especializados. Promoveremos acuerdos sectoriales de autorregulación. Desarrollaremos las conclusiones de la Subcomisión para la elaboración del Estatuto del Artista para proteger a los creadores y las industrias culturales.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "delitos",
                 "elaboración",
                 "reforzaremos",
@@ -4104,7 +4104,7 @@
             "id": 82,
             "body": "Elaboraremos un Plan Estratégico de Patrimonio Cultural y actualizaremos la legislación sobre protección de nuestro patrimonio. Impulsaremos una campaña de inventariado de nuestro patrimonio, con especial atención al situado en el mundo rural. Promoveremos campañas educativas sobre nuestro patrimonio cultural en las escuelas.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "educativas",
                 "atención",
                 "escuelas",
@@ -4136,7 +4136,7 @@
             "id": 83,
             "body": "Apoyaremos la producción de obras audiovisuales españolas y atraeremos rodajes extranjeros. Estableceremos incentivos y facilitaremos los trámites administrativos de la producción audiovisual para estar a la altura de los entornos más competitivos de la UE. Fomentaremos la coordinación entre el sector público y privado y la financiación y funcionamiento del Instituto de la Cinematografía y las Artes Audiovisuales (ICAA). Invertiremos en la formación y capacitación audiovisual y de profesiones cinematográficas. ",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "altura",
                 "incentivos",
                 "fomentaremos",
@@ -4182,7 +4182,7 @@
             "id": 84,
             "body": "Fortaleceremos la producción de videojuegos, obras audiovisuales, con especial atención a la animación, y atraeremos rodajes extranjeros. Estableceremos incentivos fiscales y facilitaremos los trámites para estar a la altura de los entornos más competitivos de la UE. Invertiremos en la formación y capacitación audiovisual y de profesiones cinematográficas. Incentivaremos la inversión en España de las principales empresas del sector del videojuego en el ámbito internacional, incrementaremos sus beneficios fiscales y fomentaremos la internacionalización de la industria del videojuego española.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "altura",
                 "incentivaremos",
                 "incentivos",
@@ -4239,7 +4239,7 @@
             "id": 85,
             "body": "Crearemos un Centro Nacional de Danza como teatro de referencia de la Compañía Nacional de Danza y el Ballet Nacional y un Centro Nacional de Fotografía. Fomentaremos convenios de colaboración y coordinación entre museos de diferentes titularidades. Crearemos un programa de adquisición y promoción de obra nueva de artistas contemporáneos.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "contemporáneos",
                 "fomentaremos",
                 "compañía",
@@ -4274,7 +4274,7 @@
             "id": 86,
             "body": "Actualizaremos el Plan Nacional de Fomento de la Lectura y del Libro. Crearemos clubes de lectura e incrementaremos las ayudas destinadas a la dotación bibliográfica de bibliotecas públicas y escolares. Incrementaremos las ayudas a la traducción a otras lenguas de autores españoles. Crearemos un plan específico de apoyo a la creación y sostenibilidad de librerías de fondo con especial relevancia bibliográfica y cultural. Equiparemos el IVA del libro electrónico con el del libro en papel. ",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "apoyo",
                 "creación",
                 "iva",
@@ -4320,7 +4320,7 @@
             "id": 87,
             "body": "Desarrollaremos una Estrategia de Internacionalización de la Cultura y la Lengua Españolas para dar a conocer a todo el mundo el valor de nuestro legado cultural. Crearemos un Plan de Internacionalización de la cultura española buscando acuerdos con entidades extranjeras públicas y privadas que permita la expansión de nuestras instituciones culturales. Estableceremos un nuevo marco normativo de fomento de las industrias culturales que incluya una fiscalidad internacionalmente competitiva. Apoyaremos la difusión internacional del idioma español y reforzaremos los recursos y el apoyo institucional a la Real Academia Española. Impulsaremos un nuevo Plan para el Instituto Cervantes con una estrategia de expansión internacional en países con demanda creciente de nuestro idioma, como Estados Unidos o China.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "incluya",
                 "apoyo",
                 "institucional",
@@ -4388,7 +4388,7 @@
             "id": 88,
             "body": "Impulsaremos un Plan de Apoyo a la Difusión de la Historia Española para incrementar el conocimiento del papel de España a través de los siglos. Queremos revertir la interpretación en ocasiones gravosa y negativa del papel que España ha protagonizado en la historia, fomentado en otras épocas por la llamada “ley enda negra”, que ha devaluado injustificadamente la imagen de nuestro país.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "apoyo",
                 "ley",
                 "país",
@@ -4431,7 +4431,7 @@
             "id": 89,
             "body": "Aprobaremos una nueva Ley del Deporte que modernice nuestra legislación y dé respuesta a los retos actuales. Esta nueva Ley establecerá las condiciones para la igualdad en su ejercicio e impulsará la adaptación del deporte español a los retos del siglo XXI. Transformaremos el actual modelo de soporte económico de los deportistas, basado en ‘ayudas’, a otro basado en ‘contratos’, siguiendo el camino de la investigación con la aprobación de la vigente Ley de Ciencia. Impulsaremos el reconocimiento mutuo entre las CCAA para establecer una única licencia deportiva válida en toda España.",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "ley",
                 "aprobación",
                 "siguiendo",
@@ -4490,7 +4490,7 @@
             "id": 90,
             "body": "Combatiremos la intolerancia en el deporte y garantizaremos la convivencia y el respeto a los símbolos constitucionales, como el himno o la Jefatura del Estado, en las competiciones deportivas. Endureceremos las sanciones por comportamientos que ultrajen los símbolos constitucionales, enaltezcan el terrorismo o promuevan conductas de odio (racismo, sexismo, LGTBIfobia, etc.).",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "sanciones",
                 "símbolos",
                 "etc",
@@ -4530,7 +4530,7 @@
             "id": 91,
             "body": "Apoyaremos a todas las deportistas españolas y promocionaremos el deporte femenino. Queremos avanzar hacia una igualdad real entre mujeres y hombres en el ámbito del deporte, impulsando entre otras las siguientes medidas: Evitaremos que las deportistas profesionales puedan ser penalizadas en caso de embarazo. Perseguiremos las “cláusulas antiembarazo” en los contratos de las deportistas y sancionaremos a quienes las promuevan.  Facilitaremos el retorno de las deportistas después de la maternidad. Mantendrán su condición de deportistas de alto nivel durante un plazo de 4 años después del nacimiento de un hijo, para conservar su derecho a percibir ayudas aunque no hayan competido durante ese tiempo.  Acabaremos con la discriminación en los premios de las competiciones en las que se aporte dinero público. Las competencias deportivas, oficiales o no, que sean financiadas total o parcialmente con fondos públicos deberán garantizar los mismos premios y las mismas dietas a todos los deportistas por igual, sean hombres o mujeres, de la misma categoría.\n",
             "topic": "Turismo, cultura y deporte: poner en valor nuestro liderazgo",
-            "entities": [
+            "tags": [
                 "antiembarazo",
                 "tiempo",
                 "promocionaremos",
@@ -4622,7 +4622,7 @@
             "id": 92,
             "body": "Propondremos una Ley de Apoyo a las Familias que promueva la natalidad y garantice la igualdad de derechos de todas las opciones de familia. Esta Ley contemplará, entre otras medidas: Que todas las familias con 2 o más hijos tengan la consideración de familia numerosa, y que las de 3 o más hijos lo sean de categoría especial.  Que las familias monoparentales con hijos a cargo tengan los mismos beneficios que las numerosas, y que las que tengan 2 o más hijos tengan los mismos beneficios reconocidos a las de categoría especial.  Que en casos de separación o divorcio en los que se acuerde la custodia compartida, ambos padres conserven los beneficios de familia numerosa.\n",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "apoyo",
                 "familia",
                 "promueva",
@@ -4676,7 +4676,7 @@
             "id": 93,
             "body": "Aprobaremos una Ley de Parejas de Hecho que promueva su equiparación a los matrimonios. Extenderemos los derechos reconocidos a los matrimonios a las parejas de hecho: podrán hacer la declaración conjunta de la renta, acceder en iguales condiciones a la pensión de viudedad, ser reconocidas como familias numerosas, etc., en las mismas condiciones que los matrimonios.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "viudedad",
                 "promueva",
                 "ley",
@@ -4718,7 +4718,7 @@
             "id": 94,
             "body": "Defenderemos una Ley de Custodia Compartida que dé preferencia a esta opción en caso de separación o divorcio. Recogeremos la doctrina del Tribunal Supremo que define esta modalidad como la más respetuosa con el interés superior del menor, de acuerdo con la Convención sobre los Derechos del Niño.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "ley",
                 "compartida",
                 "opción",
@@ -4760,7 +4760,7 @@
             "id": 95,
             "body": "Implantaremos un ‘cheque-guardería’ para avanzar hacia la universalización de la Educación Infantil de 0 a 3 años. Con este cheque, las familias podrán cubrir el coste de la plaza en el centro homologado de su elección. Financiaremos la creación progresiva de nuevas plazas en centros sostenidos con fondos públicos de manera equilibrada con un nuevo Plan Concilia3. ",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "educación",
                 "’",
                 "creación",
@@ -4815,7 +4815,7 @@
             "id": 96,
             "body": "Reforzaremos el aprendizaje de inglés de todos los alumnos con un programa intensivo nacional y de carácter gratuito durante los meses de julio y agosto, facilitando además la conciliación de todas las familias. Promoveremos el bilingüismo en todos los centros sostenidos con fondos públicos. Aspiramos a que nuestros alumnos alcancen un nivel C1 de inglés al acabar Bachillerato.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "reforzaremos",
                 "nivel",
                 "c1",
@@ -4857,7 +4857,7 @@
             "id": 97,
             "body": "Conciliar dejará de ser una misión imposible para muchas familias. Haremos efectivo el derecho a la conciliación de la vida personal, familiar y laboral en las empresas, entre otras, con las siguientes medidas: Ampliaremos y equipararemos los permisos de maternidad y paternidad hasta las 16 semanas para cada progenitor. Cuando ambos progenitores disfruten de forma corresponsable de todas sus semanas iniciales, cada uno de ellos dispondrá de un bonus de corresponsabilidad de 2 semanas más, hasta un total de 36 semanas entre ambos.  Facilitaremos a nuestros autónomos y empresas que sus trabajadores concilien. Bonificaremos el 100% de las cotizaciones empresariales durante una incapacidad temporal por causas relacionadas con el embarazo o parto y durante el disfrute de los permisos por maternidad y paternidad.  Apoyaremos a las mujeres que se reincorporen al trabajo tras la maternidad. Bonificaremos con 100 euros/mes (1.200 euros/año) durante 2 años las cotizaciones sociales de las trabajadoras que se reincorporen a su trabajo o sean contratadas en otro después de su permiso de maternidad.  Flexibilizaremos las reducciones de la jornada de trabajo por cuidado de hijos o familiares para facilitar la conciliación. Permitiremos acumular estas reducciones en jornadas completas y bonificaremos al 100% las cuotas de los trabajadores contratados para cubrir la jornada reducida.  Estableceremos una bolsa de horas para asuntos propios para todos los trabajadores. Los trabajadores que lo deseen podrán convertir sus días de vacaciones en su equivalente en horas para atender asuntos propios.  Fomentaremos el teletrabajo para favorecer la conciliación. Estableceremos el derecho de todos los trabajadores con responsabilidades familiares al trabajo a distancia siempre que la naturaleza de la actividad y el trabajo lo permita.\n",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "temporal",
                 "acumular",
                 "empresariales",
@@ -4991,7 +4991,7 @@
             "id": 98,
             "body": "Crearemos una Oficina Nacional de Adopciones para mejorar y agilizar los procesos de adopción, tanto nacionales como internacionales. Esta Oficina centralizará la coordinación con las CCAA y gestionará una red de información de menores que puedan ser adoptados por familias en todo el territorio nacional.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "procesos",
                 "oficina",
                 "nacionales",
@@ -5026,7 +5026,7 @@
             "id": 99,
             "body": "Aprobaremos una Ley de Gestación Subrogada altruista y garantista para que las mujeres que no pueden concebir y las familias LGTBI puedan cumplir su sueño de formar una familia. Nuestro modelo, similar al de Canadá y Reino Unido, garantizará los derechos de todas las personas intervinientes en el proceso, en especial los de las mujeres gestantes y los de los menores nacidos mediante esta técnica de reproducción asistida. ",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "subrogada",
                 "familia",
                 "ley",
@@ -5075,7 +5075,7 @@
             "id": 100,
             "body": "Aprobaremos una Ley Orgánica de Igualdad de Trato y no Discriminación para transponer adecuadamente la normativa de la Unión Europea y ofrecer protección a todas las víctimas de discriminación. Reconoceremos el derecho a la igualdad de trato y a la no discriminación por cualquier condición o circunstancia personal o social. Combatiremos la intolerancia y los discursos de odio, incluidos los que se propagan por las redes sociales, siguiendo las recomendaciones de organismos internacionales.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "trato",
                 "ley",
                 "recomendaciones",
@@ -5122,7 +5122,7 @@
             "id": 101,
             "body": "Avanzaremos hacia la igualdad efectiva de mujeres y hombres en el ámbito laboral para luchar contra la brecha salarial. En ese sentido, incidiremos en los siguientes objetivos: Impedir la discriminación por razón de sexo en el acceso al empleo y la promoción profesional, teniendo en cuenta la situación de las mujeres pertenecientes a grupos vulnerables y promoviendo, entre otras medidas, el uso del ‘currículum neutro’ en los procesos selectivos de las empresas.  Fomentar la transparencia salarial en las empresas, incentivando la publicación de estadísticas salariales desglosadas por sexo en sus memorias de cuentas anuales y, en el caso de las cotizadas, también en su página web.  Promover una mayor presencia de mujeres en puestos visibles de responsabilidad, garantizando la presencia equilibrada de mujeres y hombres en las Administraciones Públicas y fomentando la presencia de mujeres en los consejos de administración de las empresas.\n",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "objetivos",
                 "procesos",
                 "sexo",
@@ -5204,7 +5204,7 @@
             "id": 102,
             "body": "Garantizaremos el cumplimiento del Pacto de Estado contra la Violencia Machista. Garantizaremos el cumplimiento de los compromisos alcanzados por España con la adhesión a la CEDAW. Estableceremos controles rigurosos y mecanismos de evaluación para garantizar que todos los fondos que se destinan a luchar contra la violencia machista son utilizados para tal fin y tienen resultados. ",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "pacto",
                 "utilizados",
                 "Violencia de género",
@@ -5240,7 +5240,7 @@
             "id": 103,
             "body": "Propondremos una Ley para la prevención, asistencia y protección de la mujer frente a la violencia sexual. Cumpliremos las obligaciones contraídas por España con la firma del Convenio de Estambul. Ampliaremos las competencias de los Juzgados de Violencia sobre la Mujer para que juzguen todos los delitos que supongan violencia machista, entre las que se incluy en los de violencia sexual.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "delitos",
                 "ley",
                 "Violencia de género",
@@ -5279,7 +5279,7 @@
             "id": 104,
             "body": "Promoveremos una nueva Ley de igualdad real para el colectivo LGTBI. Queremos acabar con cualquier discriminación por razón de su identidad, orientación o condición sexual. Facilitaremos el acceso a un alojamiento transitorio a las personas LGTBI, especialmente los jóvenes, que se ven forzados a irse de su casa por el rechazo familiar a su orientación sexual. Atenderemos las necesidades específicas de las personas mayores LGTBI.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "ley",
                 "necesidades",
                 "orientación",
@@ -5329,7 +5329,7 @@
             "id": 105,
             "body": "Presentaremos una Ley para erradicar la violencia contra la Infancia que proteja la integridad física y moral de los niños. Armonizaremos los sistemas de protección de la infancia de las CCAA. Modificaremos el Código Penal para retrasar la prescripción de los delitos de agresiones y abusos sexuales que sufran los menores de edad para asegurar que no queden impunes. ",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "delitos",
                 "ley",
                 "niños",
@@ -5376,7 +5376,7 @@
             "id": 106,
             "body": "Impulsaremos la igualdad del pueblo gitano en España promoviendo la mejora de la Estrategia Nacional de Inclusión Social de la Población Gitana. Ofreceremos un marco que garantice la igualdad de trato y de oportunidades de la población gitana, con una especial referencia a la situación de las mujeres gitanas.",
             "topic": "Convertir España en el mejor país del mundo para las familias",
-            "entities": [
+            "tags": [
                 "trato",
                 "Política social",
                 "igualdad",
@@ -5421,7 +5421,7 @@
             "id": 107,
             "body": "Estableceremos una Tarjeta Sanitaria Única para que todos los españoles reciban los mismos servicios y prestaciones en todo el territorio nacional. Con Ciudadanos, todos los españoles podrán ser atendidos en igualdad de condiciones en cualquier parte del territorio. Diseñaremos una Cartera Común de Servicios del Sistema Nacional de Salud igual para todos los ciudadanos.",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "sanitaria",
                 "parte",
@@ -5460,7 +5460,7 @@
             "id": 108,
             "body": "Completaremos la receta electrónica y el historial clínico digital unificado en todas las CCAA. Queremos que los ciudadanos puedan acceder a los medicamentos en igualdad de condiciones y que cualquier profesional del Sistema Nacional de Salud en cualquier lugar de España pueda tener acceso al historial médico del paciente. ",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "puedan",
                 "completaremos",
@@ -5501,7 +5501,7 @@
             "id": 109,
             "body": "Implantaremos un Calendario Único de Vacunación en toda España. Concienciaremos a todas las familias de los beneficios de las vacunas. Potenciaremos la educación sanitaria, evitando la proliferación de grupos no vacunados, en especial entre la población infantil.",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "sanitaria",
                 "educación",
                 "vacunas",
@@ -5536,7 +5536,7 @@
             "id": 110,
             "body": "El copago no será una barrera para que los dependientes y grupos vulnerables puedan acceder a sus medicamentos. Eliminaremos el copago para los dependientes severos y grandes dependientes. Crearemos un Fondo de Garantía de Medicamentos para asegurar que ninguna persona se vea privada de sus fármacos por carecer de los recursos necesarios. Fomentaremos la compra centralizada de medicamentos para reducir costes e impulsaremos convenios a tal efecto entre las CCAA. ",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "dependientes",
                 "fármacos",
                 "asegurar",
@@ -5582,7 +5582,7 @@
             "id": 111,
             "body": "Mejoraremos el tratamiento de las enfermedades poco frecuentes aumentando el Fondo de Cohesión Sanitaria y facilitando la movilidad a los centros de referencia. Potenciaremos la colaboración entre los actuales Centros, Servicios y Unidades de Referencia (CSUR) y aumentaremos su número para cubrir las 21 patologías designadas por la Unión Europea. ",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "sanitaria",
                 "unidades",
                 "cubrir",
@@ -5620,7 +5620,7 @@
             "id": 112,
             "body": "Aprobaremos nuestra Ley de Derechos y Garantías al Final de la Vida para garantizar el derecho de todos los ciudadanos a recibir cuidados paliativos y morir sin dolor en toda España. Queremos garantizar el derecho a cuidados paliativos para todos los ciudadanos, vivan donde vivan, y mueran donde mueran: que se respeten las voluntades recogidas en sus testamentos vitales y que se evite el sufrimiento en caso de enfermedad no tratable con consecuencia irreversible de muerte o en fase terminal. ",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "tratable",
                 "ley",
@@ -5667,7 +5667,7 @@
             "id": 113,
             "body": " Regularemos el derecho a la eutanasia con control y garantías para que las personas que padezcan situaciones degenerativas e incurables puedan elegir libre, voluntaria y dignamente el final de su vida. Despenalizaremos esta práctica para los profesionales sanitarios que participen de la misma, garantizando en todo caso el respeto a su derecho a la libertad de conciencia.",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "garantías",
                 "final",
                 "regularemos",
@@ -5708,7 +5708,7 @@
             "id": 114,
             "body": "Crearemos un Portal de Transparencia del Sistema Nacional de Salud para mejorar la calidad de los servicios sanitarios. Este Portal permitirá evaluar y comparar la gestión y resultados de los centros sanitarios en el conjunto del territorio nacional para poder garantizar la igualdad y mejorar la eficiencia en los servicios. Implantaremos las últimas tecnologías, incluy endo el uso de Big Data, para mejorar la gestión de nuestra Sanidad pública.",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "conjunto",
                 "endo",
                 "gestión",
@@ -5756,7 +5756,7 @@
             "id": 115,
             "body": "Crearemos un Centro Nacional de Protonterapia para poner a España en la vanguardia mundial de la lucha contra el cáncer. Convertiremos la investigación biosanitaria en una actividad fundamental de los centros sanitarios: promoveremos la captación de talento investigador y el desarrollo de carreras científicas de los profesionales sanitarios. Lideraremos el avance hacia una medicina genómica, personalizada y de precisión. ",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "genómica",
                 "precisión",
                 "carreras",
@@ -5801,7 +5801,7 @@
             "id": 116,
             "body": "Acabaremos con la precariedad, el abuso de la temporalidad e interinidad de los profesionales sanitarios. Estableceremos un nuevo baremo nacional de méritos y capacidades que facilite la cobertura inmediata de plazas vacantes en cualquier punto del país y mejore la movilidad de nuestros profesionales sanitarios. Reduciremos la carga asistencial que padecen nuestros profesionales de enfermería y aumentaremos progresivamente su número para aproximarnos a la media de la Unión Europea.",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "facilite",
                 "país",
                 "capacidades",
@@ -5850,7 +5850,7 @@
             "id": 117,
             "body": "Despolitizaremos la Sanidad para que esté liderada y gestionada por los mejores profesionales. Acabaremos con los “dedazos” para que la gestión sanitaria esté siempre en manos de profesionales seleccionados en convocatorias públicas por su mérito y capacidad, no por su afinidad política.",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "sanitaria",
                 "capacidad",
                 "seleccionados",
@@ -5884,7 +5884,7 @@
             "id": 118,
             "body": "Convertiremos la prevención y la salud pública en los ejes centrales de nuestra Sanidad. Para ello impulsaremos, entre otras, las siguientes medidas:  Aprobaremos una nueva Estrategia Nacional de Nutrición, Actividad Física y Prevención de la Obesidad, con atención especial a la población infantil. Incorporaremos la educación nutricional en todas las escuelas y promoveremos una alimentación saludable entre nuestros jóvenes.  Dentista gratis hasta los 16 años en toda España. Instauraremos un Servicio de Salud Bucodental público para que todos los menores de 16 años tengan las mismas prestaciones bucodentales en todo el territorio nacional.  Propondremos una Ley nacional de prevención y atención integral en materia de drogas y adicciones. Garantizaremos una atención adecuada en toda España para la plena recuperación y reinserción social de las personas afectadas por adicciones. Actuaremos para reducir la prevalencia del juego entre los más jóvenes y vulnerables, limitando la publicidad de juegos y apuestas con los mismos criterios que con el tabaco y el alcohol.  Aprobaremos una Ley de derechos de las personas con trastornos mentales para acabar con la estigmatización que sufren. Incorporaremos los servicios de psicología en la Atención Primaria de toda España y elaboraremos un Plan Nacional de Prevención del Suicidio.  Lucharemos contra las pseudoterapias sin ninguna evidencia científica. Aprobaremos una Ley General de Publicidad Sanitaria y modificaremos el Código Penal para perseguir a quienes induzcan al abandono de tratamientos médicos por pseudoterapias que pongan en riesgo la salud de los pacientes. Pondremos fin a las pseudoterapias en los medios de comunicación públicos.  Regularemos el cannabis terapéutico, siguiendo las recomendaciones de las sociedades científicas acordes con la evidencia terapéutica.  Acabaremos con la discriminación que todavía sufren las personas portadoras del VIH en nuestro país. Los centros médicos deberán realizar la prueba de detección del VIH de forma anónima. Prohibiremos cualquier discriminación,en el acceso al empleo por ser portador de esta enfermedad.\n",
             "topic": "Una sanidad pública de calidad que garantice la igualdad",
-            "entities": [
+            "tags": [
                 "sanitaria",
                 "recomendaciones",
                 "prevención",
@@ -6047,7 +6047,7 @@
             "id": 119,
             "body": "Propondremos una solución que garantice el poder adquisitivo de las pensiones de nuestros padres y nuestros hijos. Recuperaremos el Pacto de Toledo para buscar el consenso sobre una reforma que permita mantener el poder adquisitivo de las pensiones presentes y futuras y garantizar la sostenibilidad del sistema en el largo plazo.",
             "topic": "Liderar la España del S.XXI: más libertad, más igualdad, más modernidad",
-            "entities": [
+            "tags": [
                 "consenso",
                 "pacto",
                 "propondremos",
@@ -6083,7 +6083,7 @@
             "id": 120,
             "body": "Implantaremos la Tarjeta Social para disponer de información sobre los beneficiarios de prestaciones sociales en toda España. Fomentaremos un acuerdo con las CCAA para la interconexión de sus bases de datos y cruzar información que permita conocer las prestaciones sociales que recibe cada persona para mejorar la complementariedad y atajar posibles fraudes.",
             "topic": "Liderar la España del S.XXI: más libertad, más igualdad, más modernidad",
-            "entities": [
+            "tags": [
                 "fomentaremos",
                 "datos",
                 "cada",
@@ -6122,7 +6122,7 @@
             "id": 121,
             "body": "Armonizaremos las rentas mínimas de inserción social en toda España para luchar eficazmente y de manera igualitaria contra la exclusión social. Hasta la fecha, cada Comunidad Autónoma ha desarrollado su propia renta mínima de inserción social, con distintas características, cuantías y requisitos para su acceso. Fijaremos unos requisitos comunes para todas estas prestaciones y estableceremos su financiación conjunta por las CCAA y el Estado. ",
             "topic": "Liderar la España del S.XXI: más libertad, más igualdad, más modernidad",
-            "entities": [
+            "tags": [
                 "comunes",
                 "cuantías",
                 "cada",
@@ -6170,7 +6170,7 @@
             "id": 122,
             "body": "Fomentaremos el Tercer Sector Social y el voluntariado como recursos complementarios a los servicios sociales públicos. Pondremos en marcha nuevos programas de financiación, como los bonos de impacto social, para que el Tercer Sector Social pueda responder a los retos actuales. Abriremos un Centro Nacional de Referencia de Formación e Innovación en Políticas Sociales y Voluntariado. Impulsaremos un Servicio Nacional de Voluntariado en proyectos sociales, culturales, ambientales y de interés general, siguiendo el modelo del Servicio Voluntario Europeo.",
             "topic": "Liderar la España del S.XXI: más libertad, más igualdad, más modernidad",
-            "entities": [
+            "tags": [
                 "abriremos",
                 "siguiendo",
                 "fomentaremos",
@@ -6222,7 +6222,7 @@
             "id": 123,
             "body": "Garantizaremos la atención a la dependencia en toda España. Incrementaremos recursos y llevaremos a cabo, en coordinación con las CCAA, un proceso de evaluación permanente de los resultados de la Ley de Dependencia para garantizar unos estándares comunes de calidad en toda España. Impulsaremos la ampliación de la atención a la dependencia a las personas que padezcan enfermedades mentales severas. Apostaremos por la asistencia a domicilio y desarrollaremos la regulación de los servicios personales y domésticos, siguiendo el modelo del ‘cheque-servicio’ francés, contribuy endo a su vez al afloramiento de empleos que hoy forman parte la economía sumergida.",
             "topic": "Liderar la España del S.XXI: más libertad, más igualdad, más modernidad",
-            "entities": [
+            "tags": [
                 "comunes",
                 "ley",
                 "endo",
@@ -6294,7 +6294,7 @@
             "id": 124,
             "body": "Garantizaremos la igualdad y la plena inclusión social de las personas con discapacidad. Daremos cumplimiento a los compromisos adquiridos por España con la firma de la Convención internacional sobre los derechos de las personas con discapacidad. En ese sentido, impulsaremos las siguientes medidas: Aprobaremos un nuevo Plan Nacional de Accesibilidad y Diseño Universal, garantizando la plena accesibilidad a los servicios públicos y sanitarios con carácter prioritario.  Reconoceremos la sordoceguera como discapacidad única, estableciendo los medios necesarios para garantizar la plena inclusión social de las personas sordociegas.  Modificaremos la legislación civil y procesal para asegurar la máxima autonomía en la toma de decisiones de las personas que tienen su capacidad jurídica salvaguardada con medidas de protección, asegurando que respeten siempre sus derechos, su voluntad y preferencias personales, medidas que serán proporcionales y adaptadas a las circunstancias de la persona.  Aprobaremos una Ley para erradicar la esterilización forzosa o no consentida de personas con discapacidad incapacitadas judicialmente para garantizar el respeto a su dignidad y derechos.  Promoveremos un Plan de Empleo con Apoyo para favorecer la inserción laboral de las personas con discapacidad, que incluya el aumento de los fondos para los Centros Especiales de Empleo (CEE), al menos, para compensar la reciente subida del salario mínimo, y elevar hasta el 10% el cupo de reserva en el empleo público.\n",
             "topic": "Liderar la España del S.XXI: más libertad, más igualdad, más modernidad",
-            "entities": [
+            "tags": [
                 "asegurar",
                 "circunstancias",
                 "aumento",
@@ -6410,7 +6410,7 @@
             "id": 125,
             "body": "Promoveremos una Ley de Bienestar y Protección Animal que elevará las penas previstas para el abandono y maltrato de animales. Garantizaremos el buen trato a los animales en toda España, estableciendo medidas que promuevan la adopción, eviten el sacrificio de ejemplares sanos y reduzcan el abandono. Promoveremos las reformas necesarias para que los animales de compañía gocen de una categoría especial en nuestro Código Civil y dejen de ser considerados como “cosas” por el ordenamiento jurídico.",
             "topic": "Liderar la España del S.XXI: más libertad, más igualdad, más modernidad",
-            "entities": [
+            "tags": [
                 "maltrato",
                 "trato",
                 "ley",
@@ -6464,7 +6464,7 @@
             "id": 126,
             "body": "Promoveremos una Ley de Cambio Climático y Transición Energética que garantice la seguridad jurídica y la no dependencia de combustibles fósiles. Impulsaremos una transformación hacia un modelo energético basado en energías renovables en 2050. Desarrollaremos un modelo de subasta para la introducción de energías renovables basado en criterios de eficacia tecnológica y eficiencia económica y su programación con un calendario estable. Garantizaremos un marco jurídico estable y seguro con una adecuada rentabilidad razonable para los inversores en tecnologías renovables que sufrieron los recortes arbitrarios de los gobiernos del PSOE y el PP.",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "sufrieron",
                 "ley",
                 "seguridad",
@@ -6527,7 +6527,7 @@
             "id": 127,
             "body": "Despolitizaremos el Consejo de Seguridad Nuclear para garantizar la independencia y credibilidad de este organismo regulador. Reformaremos el método de elección de sus miembros, que deberán ser elegidos entre personas con formación y experiencia acreditada en las funciones del regulador",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "funciones",
                 "elegidos",
                 "seguridad",
@@ -6560,7 +6560,7 @@
             "id": 128,
             "body": "Promoveremos la eficiencia energética a través de la rehabilitación de 300.000 viviendas al año. Los nuevos inmuebles y todos los edificios e instalaciones públicas se construirán bajo estándares de “consumo casi nulo”.",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "consumo",
                 "energética",
                 "nulo",
@@ -6598,7 +6598,7 @@
             "id": 129,
             "body": "Bajaremos un tercio la factura de la luz eliminando impuestos e impulsando la competencia, para que España deje de tener uno de los costes de la electricidad más altos de la Unión Europea. Eliminaremos de la tarifa eléctrica los costes heredados de la nefasta gestión del PP y del PSOE y premiaremos la eficiencia en el consumo para reducir su precio en más de un 30%. Plantearemos una senda de reducción tanto de la deuda tarifaria como de los costes políticos que suponen la mitad de la factura de los hogares. ",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "políticos",
                 "tarifaria",
                 "consumo",
@@ -6651,7 +6651,7 @@
             "id": 130,
             "body": "Reformaremos el sistema de tarifa eléctrica para hacerla más transparente, estable, predecible y promover la competitividad de nuestra industria. Para ello, entre otras medidas: Aprobaremos un Estatuto del Consumidor Electrointensivo que reconozca las dificultades específicas de este tipo de industrias e introduzca mecanismos que favorezcan su competitividad en el mercado internacional.  Fomentaremos los contratos bilaterales de entrega de energía eléctrica (conocidos como PPA) para las industrias electrointensivas.  Aumentaremos los mecanismo de compensación de costes de emisiones de gases de efecto invernadero, condicionando dicha ayuda a la implementación de medidas de eficiencia energética e innovación por parte de nuestra industria.\n",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "electrointensivo",
                 "parte",
                 "entrega",
@@ -6719,7 +6719,7 @@
             "id": 131,
             "body": "Pondremos en marcha un ambicioso Plan Nacional de Reforestación con el objetivo de plantar 10 árboles por cada español al final de la legislatura. Este esfuerzo en reforestación de casi 500 millones de árboles permitirá contribuir además a la preservación de la biodiversidad, luchar contra el cambio climático como si se sustituyesen 100.000 vehículos a motor y promover la creación de empleos estables y dignos en nuestro medio rural. ",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "dignos",
                 "final",
                 "vehículos",
@@ -6773,7 +6773,7 @@
             "id": 132,
             "body": "Intensificaremos la coordinación para la prevención y extinción de los incendios que cada año asolan nuestros bosques. Aprobaremos un Plan Nacional de Prevención de Incendios y una Ley General de Emergencias que establezca los mecanismos de planificación y coordinación de los diferentes Servicios de Prevención, Extinción de Incendios y Salvamento en toda España.",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "bosques",
                 "ley",
                 "establezca",
@@ -6808,7 +6808,7 @@
             "id": 133,
             "body": "Profundizaremos en el desarrollo del medio rural unido a la protección de nuestros espacios protegidos y la biodiversidad española. Aseguraremos la protección de las Zonas de Especial Conservación, los Parques Nacionales y Naturales y los demás espacios protegidos por la Red Natural 2000. Crearemos una Red de Parques Subacuáticos y Marinos. Impulsaremos Planes de Recuperación y Conservación de las especies protegidas y los planes de gestión para todas las especies invasoras en nuestro país. ",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "país",
                 "unido",
                 "española",
@@ -6853,7 +6853,7 @@
             "id": 134,
             "body": "Promoveremos una Ley de Economía Circular para reducir al mínimo los residuos a vertedero (zero waste to landfill), a través de: Prohibir los productos de plástico de un solo uso, como las bolsas, vajillas, cuberterías, bastoncillos o envases de poliestireno expandido.  Reducir los descartes y desperdicios alimentarios.  Incrementar el reciclaje de residuos domésticos mediante el fomento de su recogida selectiva.\n",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "Economía",
                 "ley",
                 "descartes",
@@ -6901,7 +6901,7 @@
             "id": 135,
             "body": "Actualizaremos el Plan Hidrológico Nacional, adaptándolo al reto del cambio climático y escenarios 2030-2050. Mejoraremos la gestión, la depuración y la reutilización de aguas urbanas, el aumento de las inversiones, la interrelación de cuencas, la integración de desaladoras, las demarcaciones hidrográficas y administraciones territoriales, a través de: Un plan de ayudas para cuencas altamente eficientes en su uso del agua, pero deficitarias actualmente, dependientes de trasvases o acuíferos, para desarrollar recursos propios sostenibles ambiental y económicamente.  Un plan de ayudas para cuencas ineficientes en su uso del agua, para que adopten mejores prácticas y tecnologías que permitan mejorar la calidad de las aguas y mejorar la gestión de los recursos hídricos.  Un plan para la recuperación de acuíferos para cerrar el ciclo del agua, persiguiendo los pozos ilegales, y controlar la extensión de regadíos no planificados, así como los desarrollos urbanísticos descontrolados.  Revisaremos el reparto competencial en materia ambiental y de agua para asegurar una mayor eficacia y coordinación de todas las administraciones públicas, fortaleceremos las herramientas de actuación del Estado con la creación de un organismo regulador nacional del agua.\n",
             "topic": "Cuidar nuestro país para nuestros hijos y nuestros nietos",
-            "entities": [
+            "tags": [
                 "asegurar",
                 "aumento",
                 "ciclo",
@@ -6996,7 +6996,7 @@
             "id": 136,
             "body": "Impulsaremos un Plan Nacional contra la Despoblación que permita hacer frente al reto demográfico en nuestras zonas rurales, promover la cohesión territorial y garantizar la igualdad entre todos los españoles. Más de 4.000 municipios españoles se encuentran en riesgo de despoblación. Promoveremos un gran pacto social, político e institucional para revertir el declive demográfico en nuestras zonas rurales: Bajaremos el IRPF un 60% a todas las personas que vivan en municipios en riesgo de despoblación.Fomentaremos la repoblación y dinamización económica de nuestros municipios en riesgo de despoblación. Aplicaremos una deducción en el IRPF de hasta el 60% sobre las rentas generadas en municipios en riesgo de despoblación para los contribuy entes empadronados y con residencia habitual y efectiva en los mismos.  Apoyaremos el emprendimiento en el mundo rural. Las mujeres y los jóvenes menores de 30 años que abran un negocio en municipios de menos de 5.000 habitantes tendrán una tarifa superreducida de 30 € durante 2 años, y los autónomos que sean padres o madres no pagarán cuotas durante los 3 años siguientes a la finalización de sus permisos por el nacimiento de un hijo.  Pondremos en marcha un Plan de Choque para eliminar la brecha digital en el medio rural que afecta a casi el 20% de la población española y acabaremos con la exclusión digital en nuestro país. Estableceremos como obligación de servicio público la conectividad de banda ancha (100 Mbps) en todos los hogares españoles, urbanos o rurales. Aseguraremos un acceso ininterrumpido a conexión inalámbrica de tecnología 4G en todas las zonas urbanas y vías de comunicación de titularidad estatal.  Facilitaremos el relevo generacional en explotaciones agrarias para mantener su actividad tras la jubilación de su titular. Armonizaremos los diferentes incentivos fiscales existentes en el ITP/AJD y en el Impuesto de Sucesiones y Donaciones, tanto estatales como autonómicos, para que haya ‘cero impuestos’ en las explotaciones agrarias que cambien de manos.\n",
             "topic": "Un compromiso del Estado para combatir la despoblación",
-            "entities": [
+            "tags": [
                 "generacional",
                 "estatales",
                 "aplicaremos",
@@ -7162,7 +7162,7 @@
             "id": 137,
             "body": "Defenderemos los intereses del sector pesquero español ante la UE en el reparto de cuotas de pesca y un reparto justo dentro de España. España es el primer país pesquero de la UE en empleo y capacidad de buques, así como de la exportación de conservas. Por eso, trabajaremos en las instancias comunitarias para asegurar que el reparto de cuotas pesqueras sea justo y se corresponda con la posición de España en la UE. Al mismo tiempo, aseguraremos un reparto justo de cuotas dentro de España cortando las injerencias de los nacionalistas.",
             "topic": "Un compromiso del Estado para combatir la despoblación",
-            "entities": [
+            "tags": [
                 "capacidad",
                 "país",
                 "reparto",
@@ -7207,7 +7207,7 @@
             "id": 138,
             "body": "Promoveremos el rejuvenecimiento y modernización de la flota pesquera. Estableceremos medidas para reducir la siniestralidad laboral y los accidentes de la flota. Impulsaremos la I+D+i, la formación y sostenimiento del empleo en el sector extractivo y acuícola. Apoyaremos la presencia de la mujer en las actividades pesqueras y en la diversificación de la economía en zonas costeras.",
             "topic": "Un compromiso del Estado para combatir la despoblación",
-            "entities": [
+            "tags": [
                 "extractivo",
                 "pesqueras",
                 "sector",
@@ -7250,7 +7250,7 @@
             "id": 139,
             "body": "Impulsaremos el sector agroalimentario español, favoreciendo su profesionalización, su internacionalización y su tecnificación. Apoyaremos la extensión de Indicaciones Geográficas Protegidas (IGP) y Denominaciones de Origen (DO) para promocionar la calidad de nuestros productos. Simplificaremos los trámites administrativos exigidos a importadores y exportadores de productos agroalimentarios, impulsaremos la I+D+i y la transferencia tecnológica en la industria agroalimentaria y la mejora de la formación en el sector.",
             "topic": "Un compromiso del Estado para combatir la despoblación",
-            "entities": [
+            "tags": [
                 "igp",
                 "favoreciendo",
                 "sector",
@@ -7300,7 +7300,7 @@
             "id": 140,
             "body": "Revisaremos la Ley de Montes estatal para facilitar el aprovechamiento sostenible de nuestros montes y generar fuentes de recursos para nuestros pueblos. Estableceremos mecanismos que permitan desbloquear las trabas que actualmente presentan los montes demaniales o comunales, muchos paralizados y sin aprovechamiento por la inseguridad jurídica que generan las dificultades para identificar la propiedad, lastrando las oportunidades de nuestros pueblos.",
             "topic": "Un compromiso del Estado para combatir la despoblación",
-            "entities": [
+            "tags": [
                 "demaniales",
                 "ley",
                 "lastrando",
@@ -7342,7 +7342,7 @@
             "id": 141,
             "body": "Aprobaremos una nueva Ley de Caza y Pesca Fluvial como motores de desarrollo rural sostenible. En Cs defendemos la caza y la pesca sostenibles desde el punto de vista social, económico y ambiental como actividades tradicionales y generadoras de riqueza y empleo en nuestros municipios rurales. Impulsaremos el reconocimiento mutuo entre las CCAA para establecer una única licencia de caza y pesca válida en toda España.",
             "topic": "Un compromiso del Estado para combatir la despoblación",
-            "entities": [
+            "tags": [
                 "ambiental",
                 "ley",
                 "válida",
@@ -7391,7 +7391,7 @@
             "id": 142,
             "body": "Propondremos un Pacto de Estado por los Transportes y la Movilidad Sostenible. Potenciaremos la Oficina Nacional de Evaluación para que todas las inversiones estén justificadas por criterios de rentabilidad socioeconómica y no electoralistas. Aumentaremos la inversión en conservación en toda la Red de Carreteras del Estado, para garantizar la máxima seguridad vial y prevenir todos los accidentes evitables.",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "transportes",
                 "pacto",
                 "oficina",
@@ -7433,7 +7433,7 @@
             "id": 143,
             "body": "Impulsaremos la movilidad de proximidad y los corredores de transporte estratégicos. Invertiremos decididamente en la mejora de las redes de Cercanías y los ejes y corredores de la Red Transeuropea de Transportes, en especial los grandes ejes terrestres (Corredor Mediterráneo y Atlántico) y las Autopistas del Mar, favoreciendo la intermodalidad y la complementariedad.",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "mediterráneo",
                 "transportes",
                 "estratégicos",
@@ -7473,7 +7473,7 @@
             "id": 144,
             "body": "Sustituiremos los guardarraíles que suponen una amenaza mortal para los motoristas por nuevos modelos con Sistema de Protección para Motoristas (SPM). Aprobaremos un Plan Estatal de Sustitución de Guardarraíles en las carreteras por nuevos modelos con SPM, que no supongan una trampa mortal y que sirvan para disminuir los daños en caso de accidente.",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "mortal",
                 "sustitución",
                 "suponen",
@@ -7508,7 +7508,7 @@
             "id": 145,
             "body": "Protegeremos a nuestros ciclistas reforzando y revisando las medidas de seguridad para la convivencia en la carretera. Queremos acabar con las muertes evitables de quienes circulan en bicicleta por nuestras carreteras. Revisaremos la señalización e introduciremos nuevas medidas de seguridad para acabar con los riesgos que sufren nuestros ciclistas.",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "bicicleta",
                 "introduciremos",
                 "seguridad",
@@ -7541,7 +7541,7 @@
             "id": 146,
             "body": "Aprobaremos una Ley nacional de Vivienda e incrementaremos el parque de viviendas sociales de alquiler para ofrecer una alternativa a quienes no pueden permitirse una vivienda. Eliminaremos trabas y simplificaremos trámites administrativos en la planificación municipal y en los proyectos de rehabilitación y construcción de viviendas. Desarrollaremos la figura de las viviendas dotacionales públicas para ofrecer un servicio de alquiler temporal a todas las personas con especiales dificultades para acceder a una vivienda en alquiler. Fomentaremos el alquiler asequible impulsando la rehabilitación y la colaboración público-privada en la provisión de viviendas sociales. Elaboraremos un plan de acción para erradicar el chabolismo y la infravivienda en el marco del Plan Estatal de Vivienda.",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "temporal",
                 "ley",
                 "vivienda",
@@ -7610,7 +7610,7 @@
             "id": 147,
             "body": "Revisaremos la normativa que afecta a los alquileres de vivienda para reforzar la seguridad jurídica y dinamizar el mercado del alquiler. En Cs queremos favorecer el acceso a una vivienda en régimen de alquiler, seguro y a precios asequibles con medidas sensatas alejadas de modelos fracasados como los controles de precios que proponen PSOE y Podemos. Por eso, entre otras: Crearemos un Registro de Arrendamientos Urbanos para poder disponer de información oficial sobre el mercado del alquiler en España.  Mejoraremos los incentivos fiscales para los particulares y entidades dedicadas al arrendamiento de vivienda en régimen protegido.  Facilitaremos la rehabilitación y puesta en alquiler de las viviendas vacías.  Facilitaremos la resolución de conflictos entre propietarios e inquilinos con un Sistema Arbitral de Arrendamientos Urbanos sencillo, rápido y gratuito.\n",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "registro",
                 "vivienda",
                 "incentivos",
@@ -7686,7 +7686,7 @@
             "id": 148,
             "body": "Una movilidad sin contaminación: España liderará la industria de las baterías y los vehículos cero emisiones. Incentivaremos la renovación del parque automovilístico privado por modelos menos contaminantes, e impulsaremos la instalación de infraestructuras de recarga de vehículos eléctricos. Renovaremos el parque móvil y el transporte público para que sea 100% sostenible. Incrementaremos el presupuesto de I+D+i para que España sea líder en el desarrollo de baterías para coches eléctricos. Elaboraremos una Ley de Financiación del Transporte Público Urbano Colectivo para establecer un marco más justo y estable de financiación en los principales municipios del país.",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "ley",
                 "incentivaremos",
                 "país",
@@ -7747,7 +7747,7 @@
             "id": 149,
             "body": "Derogaremos de forma inmediata el decretazo de PSOE y Podemos contra las VTC y acabaremos con la absurda fragmentación del mercado, garantizando la seguridad jurídica y la competencia leal. Revertiremos el traspaso a las CCAA de las competencias sobre el arrendamiento de vehículos con conductor (VTC) y diseñaremos un nuevo marco regulatorio nacional para la coexistencia armónica del taxi y las VTC. Habilitaremos nuevos servicios como el viaje compartido (car-pooling) e impulsaremos medidas para fomentar la competitividad del taxi: eliminaremos requisitos injustificados, flexibilizaremos las tarifas en precontratación e impulsaremos la modernización y la renovación de la flota por modelos más eficientes y menos contaminantes.",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "vehículos",
                 "acabaremos",
                 "seguridad",
@@ -7815,7 +7815,7 @@
             "id": 150,
             "body": "Terminaremos con la práctica del bipartidismo de prorrogar de forma automática las concesiones de autopistas de peaje sin ninguna justificación ni transparencia. No renovaremos la concesión de los tramos de autopistas que vencen antes de 2021: la AP-7 (Autopista del Mediterráneo), la AP-4 (Sevilla-Cádiz) y la AP-2 (Zaragoza-Mediterráneo). ",
             "topic": "Vivienda, infraestructuras y movilidad: políticas efectivas  y sensatas  ",
-            "entities": [
+            "tags": [
                 "automática",
                 "mediterráneo",
                 "2021",
@@ -7854,7 +7854,7 @@
             "id": 151,
             "body": "Equiparación Salarial de todas las Fuerzas y Cuerpos de Seguridad del Estado: mismo salario por un mismo trabajo. La equiparación salarial es una reivindicación justa que se basa en la igualdad de las condiciones laborales, pero, sobre todo, en la dignidad de todas las personas que velan por nuestra seguridad. ",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "justa",
                 "salarial",
                 "mismo",
@@ -7886,7 +7886,7 @@
             "id": 152,
             "body": "Proponemos un Nuevo Modelo Policial para afrontar los retos del siglo XXI en materia de seguridad. Apostaremos por optimizar los recursos humanos y materiales, avanzar en la armonización de las Policías Locales y eliminar duplicidades competenciales entre todas las Fuerzas y Cuerpos de Seguridad.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "seguridad",
                 "armonización",
                 "locales",
@@ -7923,7 +7923,7 @@
             "id": 153,
             "body": "Actualizaremos el Plan de Prevención de Conductas Suicidas en la Guardia Civil y aprobaremos otro similar para la Policía Nacional. Incrementaremos la asistencia psicológica y aseguraremos la efectiva prevención de riesgos laborales en las Fuerzas y Cuerpos de Seguridad del Estado.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "seguridad",
                 "suicidas",
                 "efectiva",
@@ -7957,7 +7957,7 @@
             "id": 154,
             "body": "Recuperaremos las pérdidas retributivas existentes y adecuaremos el marco salarial de los funcionarios de prisiones a las funciones y responsabilidades de este colectivo tan abandonado por los Gobiernos de PSOE y PP. Impulsaremos un proceso de mejora progresiva, lineal y consolidable en su Complemento Específico desde el principio de la legislatura y hasta 2021. Modificaremos la Ley Orgánica General Penitenciaria para que a estos funcionarios les sea reconocido el carácter de agente de la autoridad en el ejercicio de sus funciones y garantizarles la mayor protección aparejada a esta condición concedida por el ordenamiento jurídico. Modernizaremos la Administración penitenciaria española para adaptarla a los retos y necesidades que actualmente presentan nuestras prisiones.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "funciones",
                 "ley",
                 "2021",
@@ -8027,7 +8027,7 @@
             "id": 155,
             "body": "Garantizaremos el cumplimiento íntegro de las penas y ampliaremos la prisión permanente revisable para que ningún delincuente quede impune. Abordaremos una reforma de la prisión permanente revisable para incorporar algunos casos aberrantes de delincuencia que no están actualmente contemplados en la Ley. Cerraremos el agujero legal en el acceso al tercer grado y a los permisos penitenciarios para proteger eficazmente a toda la sociedad de los delincuentes más peligrosos.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "permisos",
                 "prisión",
                 "ley",
@@ -8077,7 +8077,7 @@
             "id": 156,
             "body": "Aprobaremos una Ley contra la Okupación que promueva la recuperación inmediata de los inmuebles por sus propietarios y los juicios rápidos contra quienes vulneran la propiedad y dañan la convivencia. Legitimaremos a las comunidades de vecinos para iniciar el desalojo de viviendas okupadas en caso de inacción por sus titulares. Endureceremos las penas para las okupaciones violentas y perseguiremos a las mafias que se lucran con ellas o que las realizan para actividades delictivas como sucede con los narcopisos. ",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "promueva",
                 "ley",
                 "mafias",
@@ -8127,7 +8127,7 @@
             "id": 157,
             "body": "Combatiremos el comercio ilegal que compite desleal e injustamente con los comerciantes que cumplen la ley y pagan sus impuestos. Reforzaremos los medios a disposición de las Fuerzas y Cuerpos de Seguridad del Estado para la prevención y detección de estas actividades y de las mafias que las promueven.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "ley",
                 "mafias",
                 "injustamente",
@@ -8161,7 +8161,7 @@
             "id": 158,
             "body": "Reformaremos la Ley de Víctimas de Terrorismo para mantener viva su memoria y garantizar su derecho a la justicia y a la reparación. Esta reforma tendrá, entre otros, los siguientes objetivos: Perseguiremos a quienes promuevan actos de enaltecimiento del terrorismo y humillen a las víctimas. Multaremos a los responsables y prohibiremos que las administraciones que respalden dichos actos puedan acceder a contratos o subvenciones públicas.  Impulsaremos el esclarecimiento de los 379 casos de ETA que todavía siguen sin resolver. Instaremos a la persecución penal internacional de las docenas de miembros de ETA todavía huidos y que nunca han llegado a ser enjuiciados ni dentro ni fuera de España por los crímenes cometidos.  Permitiremos a los exiliados vascos y navarros por el terrorismo de ETA ejercer su derecho al voto en sus lugares de origen. Reconoceremos a todas las personas que sufran o hayan sufrido persecución o desplazamiento forzoso interno por causa del terrorismo la plena condición de víctimas del terrorismo y el derecho al voto en las elecciones del lugar en que residieran antes de verse forzados a huir sin alterar su vecindad civil actual.\n",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "forzoso",
                 "puedan",
                 "enjuiciados",
@@ -8258,7 +8258,7 @@
             "id": 159,
             "body": "Estableceremos un sistema de ‘visado por puntos’ para atraer el mejor talento extranjero a nuestro país. Pondremos en marcha un sistema como el de Canadá basado en baremos de puntuación por criterios objetivos (edad, nivel de estudios, conocimiento del idioma español, etc.). En paralelo, facilitaremos la concesión de visados automáticos a investigadores, inversores y profesionales altamente cualificados que apuesten por desarrollar su actividad en España.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "objetivos",
                 "país",
                 "estudios",
@@ -8311,7 +8311,7 @@
             "id": 160,
             "body": "Perseguiremos a las mafias que se lucran a costa de la seguridad y la vida de los inmigrantes. Revisaremos el Código Penal para tipificar el delito de tráfico de seres humanos y estableceremos su imprescriptibilidad y su persecución internacional para que las mafias que juegan con la vida de estas personas para lucrarse no queden impunes en ningún lugar del mundo.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "persecución",
                 "mafias",
                 "Migración",
@@ -8352,7 +8352,7 @@
             "id": 161,
             "body": "Protegeremos a los agentes de las Fuerzas y Cuerpos de Seguridad del Estado que vigilan nuestras fronteras. Multiplicaremos los recursos materiales y personales a los agentes de Fuerzas y Cuerpos de Seguridad del Estado desplazados para hacer frente a la inmigración irregular, reforzando efectivos y medios impeditivos no agresivos.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "Migración",
                 "seguridad",
                 "multiplicaremos",
@@ -8388,7 +8388,7 @@
             "id": 162,
             "body": "Emprenderemos una mejora operativa de nuestras Fuerzas Armadas y desarrollaremos una Estrategia Nacional para la Industria de Defensa que sitúe la inversión en I+D+i como uno de sus ejes principales. Fomentaremos una Cultura de Defensa para promover el reconocimiento de nuestras Fuerzas Armadas entre toda la población, especialmente los jóvenes. En paralelo, aumentaremos los recursos para reforzar los medios de ciberdefensa y ciberseguridad tanto en el sector público como en el privado, con especial atención a las pymes.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "emprenderemos",
                 "ciberdefensa",
                 "defensa",
@@ -8439,7 +8439,7 @@
             "id": 163,
             "body": "Daremos una salida profesional al personal de Tropa y Marinería para que todos ellos puedan labrarse un futuro fuera de nuestras Fuerzas Armadas. Promoveremos una Ley de Carrera Militar única, que integre al personal de Tropa y Marinería y en la que no se permita expulsarlos de las Fuerzas Armadas por edad y reintegraremos al personal que hasta hoy haya sido expulsado por haber cumplido 45 años. Los méritos de este personal se tendrán en cuenta en las oposiciones a los cuerpos de seguridad en todas la Administraciones Públicas.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "sido",
                 "ley",
                 "seguridad",
@@ -8488,7 +8488,7 @@
             "id": 164,
             "body": "Facilitaremos la movilidad geográfica y garantizaremos el derecho a la conciliación de nuestros militares. Revisaremos la Ley de medidas de apoyo a la movilidad geográfica de los miembros de las Fuerzas Armadas para garantizar la cobertura de todos los desplazamientos de nuestros militares y sus familias. Garantizaremos la conciliación de nuestros militares para que este derecho no se vea limitado de manera generalizada por las necesidades del servicio.",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "apoyo",
                 "ley",
                 "necesidades",
@@ -8527,7 +8527,7 @@
             "id": 165,
             "body": "Avanzaremos en el Pacto Antiyihadista y reforzaremos la vigilancia sobre la radicalización fundamentalista para evitar atentados en nuestro país. Dotaremos de más medios y de las últimas tecnologías a nuestros agentes, y reforzaremos la coordinación entre todos los Cuerpos y Fuerzas de Seguridad del Estado para combatir la radicalización y el terrorismo yihadista.  ",
             "topic": "Una política de Seguridad y Defensa adaptadas al siglo XXI",
-            "entities": [
+            "tags": [
                 "pacto",
                 "país",
                 "reforzaremos",
@@ -8563,7 +8563,7 @@
             "id": 166,
             "body": "Europa es el mejor lugar para defender los intereses de España. Apoyaremos los avances en integración europea en fiscalidad, defensa y política exterior para proteger mejor a los españoles e impulsaremos un sistema europeo de migración y asilo que permita atender adecuadamente a todos los refugiados que Europa se comprometió a acoger y que alivie la presión sobre las fronteras en España. Como gesto simbólico de integración, aprobaremos que el Día de Europa, 9 de mayo, sea festivo nacional.",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "9",
                 "mayo",
                 "defensa",
@@ -8617,7 +8617,7 @@
             "id": 167,
             "body": "Dispondremos los preparativos necesarios para afrontar los efectos del Brexit en nuestro país. En España residen más de 300.000 británicos, mientras que en Reino Unido viven 180.000 españoles. Garantizaremos una transición ordenada que aminore los efectos negativos del Brexit, sobre todo si se produce sin acuerdo, y los derechos de los españoles que viven en territorio británico.",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "país",
                 "unido",
                 "ordenada",
@@ -8658,7 +8658,7 @@
             "id": 168,
             "body": "Reformaremos la Euroorden para que la libre circulación de personas no pueda ser utilizada por quienes huy en de los tribunales. El derecho de los ciudadanos europeos de moverse libremente no puede ser aprovechado por quienes huy en de la Justicia, como han hecho los líderes del procés fugados. ",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "fugados",
                 "líderes",
@@ -8693,7 +8693,7 @@
             "id": 169,
             "body": "Reformaremos la Ley de la Acción y del Servicio Exterior para frenar la proliferación de embajadas autonómicas. Dotaremos al Ministerio de Asuntos Exteriores de competencias para prohibir la apertura o decretar el cierre de embajadas autonómicas que no sean necesarias o que se dediquen a poner en cuestión la política exterior de España, con sanciones en caso de incumplimiento.",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "sanciones",
                 "ley",
                 "proliferación",
@@ -8733,7 +8733,7 @@
             "id": 170,
             "body": "Reforzaremos el papel del Parlamento a la hora de representar a España en las reuniones y cumbres europeas. Con Ciudadanos, el Gobierno de España comparecerá siempre en el Congreso de los Diputados antes de cada reunión del Consejo Europeo para intentar recabar una posición común.",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "reforzaremos",
                 "parlamento",
@@ -8768,7 +8768,7 @@
             "id": 171,
             "body": "Acabaremos con la nueva ley enda negra sobre España que intentan propagar los nacionalistas y populistas ante la inacción de PP y PSOE. Allí donde haya un populista o un nacionalista manchando la imagen de España, allí habrá un diplomático español para hacerle frente. Los representantes de los ciudadanos en Europa debemos hacer que nuestro país tenga el respeto y el prestigio que se merece.",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "ciudadanos",
                 "debemos",
                 "merece",
@@ -8812,7 +8812,7 @@
             "id": 172,
             "body": "Defenderemos los derechos de los exiliados venezolanos que huy en de la miseria y la persecución de la tiranía de Nicolás Maduro. Otorgaremos a todos los venezolanos refugiados en España que huy en de la tiranía de Maduro el Estatuto de Protección Temporal, que les concederá, entre otras cuestiones, un permiso de residencia temporal, desplazamiento libre por el territorio y un permiso de trabajo, hasta que se garantice la libertad y la seguridad para todo el pueblo venezolano. Exigiremos en la Unión Europea la prórroga y el endurecimiento de las sanciones impuestas al régimen de Maduro y a sus responsables y colaboradores (prohibición de viajar por territorio comunitario, congelación de activos, embargo de armas y equipos, etc.). Seguiremos trabajando desde la Comunidad Iberoamericana de Naciones para convertirla en un verdadero foro de defensa de los derechos humanos y la democracia liberal.",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "maduro",
                 "sanciones",
                 "persecución",
@@ -8888,7 +8888,7 @@
             "id": 173,
             "body": "Modificaremos el Código Civil para conceder la nacionalidad a los hijos y nietos de españoles en el exterior, incluy endo aquellos casos que quedaron injustamente excluidos de su acceso tras las últimas reformas en la materia. Velaremos por los derechos de la ciudadanía española en el exterior, a fin de eliminar cualquier agravio comparativo entre los descendientes y sus familias.",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "endo",
                 "Migración",
                 "injustamente",
@@ -8933,7 +8933,7 @@
             "id": 174,
             "body": "Redoblaremos la colaboración con los países del Magreb, África y Oriente Medio para contribuir a su estabilidad y crecimiento sostenible. Impulsaremos acuerdos de asistencia técnica para reforzar las instituciones democráticas y el Estado de Derecho, favorecer la creación de empleo y crear oportunidades para la población joven en estos países. ",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "áfrica",
                 "instituciones",
                 "crear",
@@ -8972,7 +8972,7 @@
             "id": 175,
             "body": "Haremos que cada euro invertido en Cooperación para el Desarrollo y la Agenda 2030 tenga mayor impacto. Queremos hacer la cooperación española más eficiente y efectiva eliminando los instrumentos que no funcionan. Facilitaremos la cooperación público-privada en proyectos internacionales con el objetivo de alcanzar un 0,7% del PIB destinado a cooperación en 2030. Haremos que las reformas estructurales en España tengan en cuenta la necesidad de cumplir con los Objetivos de Desarrollo Sostenible (ODS).",
             "topic": "Una España líder en una Europa más unida",
-            "entities": [
+            "tags": [
                 "objetivos",
                 "instrumentos",
                 "española",

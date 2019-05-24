@@ -91,7 +91,7 @@
                         "type": "string"
                     }                
                 },
-                "entities": {
+                "tags": {
 		    "decription":"Set of proposal tags/labels",
                     "type": "array",
                     "items": {
@@ -123,7 +123,7 @@
                 "id",
                 "body",
                 "topic",
-                "entities",
+                "tags",
                 "priority",
                 "budget",
                 "non-negotiable",
