@@ -84,8 +84,8 @@
 		    "decription":"Body of the proposal",
                     "type": "string"
                 },
-                "topic": {
-		    "decription":"Main topic addressed in the proposal. Values are taken from the taxonomy defined by the Spanish interoperability scheme.",
+                "topics": {
+		    "decription":"Set of topics defined by the group Open Manifesto Project.",
                     "type": "array",
                     "items": {
                         "type": "string"

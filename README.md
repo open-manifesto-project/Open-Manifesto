@@ -21,7 +21,7 @@ Open Manifesto es un estándar abierto para programas electorales. Un formato es
 
 - *id*: Identificador numérico de la propuesta (incremental desde 0)
 - *body*: Texto de la propuesta.
-- *topic*: Tema principal sobre la que versa la propuesta siguiendo la taxonomía propuesta en la Norma Técnica de       Interoperabilidad de España.
+- *topics*: Temas principales sobre los que versa la propuesta siguiendo un conjunto de términos definidos por el grupo Open Manifesto Project.
 - *entities*: Subtemas o palabras clave abordados en la propuesta.
 - *priority*: Prioridad de la propuesta asignada por el partido (baja, media, alta o NA)
 - *budget*: Presupuesto para el desarrollo de la propuesta.
