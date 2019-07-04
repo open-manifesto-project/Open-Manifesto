@@ -31,3 +31,7 @@ Open Manifesto es un estándar abierto para programas electorales. Un formato es
 ## Directorio de programas estandarizados
 
 El índice de los programas estandarizados se encuentra en [ManifestoDirectory.json](https://github.com/open-manifesto-project/Open-Manifesto/blob/master/ManifestoDirectory.json)
+
+## Enlaces
+
+Para más información sobre el proyecto acceder a [https://openmanifestoproject.org/]
