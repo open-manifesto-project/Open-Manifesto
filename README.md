@@ -27,3 +27,7 @@ Open Manifesto es un estándar abierto para programas electorales. Un formato es
 - *budget*: Presupuesto para el desarrollo de la propuesta.
 - *non_negotiable*: Si la propuesta es negociable “línea roja” (verdadero, falso o NA)
 - *agents*: Lista de agentes incluidos o mencionados en la propuesta.
+
+## Directorio de programas estandarizados
+
+El índice de los programas estandarizados se encuentra en [ManifestoDirectory.json](https://github.com/open-manifesto-project/Open-Manifesto/blob/master/ManifestoDirectory.json)
