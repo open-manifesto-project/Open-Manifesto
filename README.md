@@ -34,4 +34,4 @@ El índice de los programas estandarizados se encuentra en [ManifestoDirectory.j
 
 ## Enlaces
 
-Para más información sobre el proyecto acceder a [https://openmanifestoproject.org/]
+Para más información sobre el proyecto acceder a https://openmanifestoproject.org/
