@@ -3,9 +3,10 @@
 Open Manifesto es un estándar abierto para programas electorales. Un formato estructurado para los programas de los partidos políticos que facilita su comprensión y la rendición de cuentas a la ciudadanía.
 
 ## Standard OM versión 1.0
+
 ### Programa
 
-- *politicalParty*: Nombre del partido político. 
+- *politicalParty*: Nombre del partido político.
 - *title*: Título del programa electoral.
 - *publication_date*: Fecha de publicación del programa electoral.
 - *election_date*: Fecha de las elecciones.
@@ -22,7 +23,7 @@ Open Manifesto es un estándar abierto para programas electorales. Un formato es
 - *id*: Identificador numérico de la propuesta (incremental desde 0)
 - *body*: Texto de la propuesta.
 - *topics*: Temas principales sobre los que versa la propuesta siguiendo un conjunto de términos definidos por el grupo Open Manifesto Project.
-- *entities*: Subtemas o palabras clave abordados en la propuesta.
+- *tags*: Subtemas o palabras clave abordados en la propuesta.
 - *priority*: Prioridad de la propuesta asignada por el partido (baja, media, alta o NA)
 - *budget*: Presupuesto para el desarrollo de la propuesta.
 - *non_negotiable*: Si la propuesta es negociable “línea roja” (verdadero, falso o NA)
