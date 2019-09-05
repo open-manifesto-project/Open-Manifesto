@@ -1,0 +1,2866 @@
+{
+    "politicalParty": "Junts per Catalunya",
+    "title": "PROGRAMA ELECTORAL 2019",
+    "publicationDate": "",
+    "electionDate": "26/05/2019",
+    "electionType": "Europeas",
+    "geographicalArea": "Europa",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifesto Project",
+    "pages": "12",
+    "numProposals": "96",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "Impulsaremos que la Unión Europea reconozca el derecho a la autodeterminación de Cataluña y\nse implique en una solución política del conflicto catalán que incluya la liberación de los presos\npolíticos y el retorno de los exiliados, con el objetivo que Cataluña acontezca un nuevo estado miembro\nde la UE.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "impulsaremos",
+                "unión",
+                "europea",
+                "reconozca",
+                "derecho",
+                "autodeterminación",
+                "cataluña",
+                "implique",
+                "solución",
+                "política",
+                "conflicto",
+                "catalán",
+                "incluya",
+                "liberación",
+                "presos",
+                "políticos",
+                "retorno",
+                "exiliados",
+                "objetivo",
+                "cataluña",
+                "acontezca",
+                "nuevo",
+                "miembro",
+                "ue"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Defenderemos los principios fundacionales del proyecto europeo —democracia, estado de derecho,\npaz, libertad, igualdad y subsidiariedad— así como las libertades y los derechos europeos.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "defenderemos",
+                "principios",
+                "fundacionales",
+                "proyecto",
+                "europeo",
+                "—democracia",
+                "derecho",
+                "paz",
+                "libertad",
+                "igualdad",
+                "subsidiariedad—",
+                "así",
+                "libertades",
+                "derechos",
+                "europeos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "Impulsaremos una reforma para reforzar el control del cumplimiento de la legislación europea a los\nestados miembros de la UE, con sanciones en caso de infracción, teniendo en cuenta que España es\nel que arrastra más incumplimientos, hecho que perjudica la ciudadanía y las empresas catalanas.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "impulsaremos",
+                "reforma",
+                "reforzar",
+                "control",
+                "cumplimiento",
+                "legislación",
+                "europea",
+                "miembros",
+                "ue",
+                "sanciones",
+                "caso",
+                "infracción",
+                "cuenta",
+                "españa",
+                "arrastra",
+                "incumplimientos",
+                "hecho",
+                "perjudica",
+                "ciudadanía",
+                "empresas",
+                "catalanas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Propondremos un Mecanismo de los Derechos Humanos y de la Democracia de la UE que funcione de\nmanera autónoma y apoye al Defensor del Pueblo Europeo en estos temas.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "propondremos",
+                "mecanismo",
+                "derechos",
+                "humanos",
+                "democracia",
+                "ue",
+                "funcione",
+                "manera",
+                "autónoma",
+                "apoye",
+                "defensor",
+                "pueblo",
+                "europeo",
+                "temas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "Combatiremos los ataques contra el espacio judicial europeo y el sistema de euroórdenes y rechazaremos\ncualquier intento de modificarlos que comporte una pérdida de garantías.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "combatiremos",
+                "ataques",
+                "espacio",
+                "judicial",
+                "europeo",
+                "sistema",
+                "euroórdenes",
+                "rechazaremos",
+                "cualquier",
+                "intento",
+                "modificarlos",
+                "comporte",
+                "pérdida",
+                "garantías"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Defenderemos el estado de derecho europeo ante el estado de ley, garantizando que las leyes sirvan\nsiempre para proteger la democracia y no para silenciarla.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "defenderemos",
+                "derecho",
+                "europeo",
+                "ley",
+                "garantizando",
+                "leyes",
+                "sirvan",
+                "siempre",
+                "proteger",
+                "democracia",
+                "silenciarla"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Denunciaremos y combatiremos el debilitamiento de la separación de poderes en España, especialmente\nentre el poder legislativo y el judicial, basándonos en los informes de las instituciones europeas.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "denunciaremos",
+                "combatiremos",
+                "debilitamiento",
+                "separación",
+                "poderes",
+                "españa",
+                "especialmente",
+                "poder",
+                "legislativo",
+                "judicial",
+                "basándonos",
+                "informes",
+                "instituciones",
+                "europeas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "Reivindicaremos la memoria histórica de nuestro país y del continente, explicando que en España no hubo ruptura total con el franquismo y que muchas instituciones son sucesoras.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "reivindicaremos",
+                "memoria",
+                "histórica",
+                "país",
+                "continente",
+                "explicando",
+                "españa",
+                "ruptura",
+                "total",
+                "franquismo",
+                "muchas",
+                "instituciones",
+                "sucesoras"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "Lucharemos contra la brecha salarial abordando las causas fundamentales, incluyendo la mayor\nprecariedad que sufren las mujeres y los estereotipos de género en el mercado laboral.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "lucharemos",
+                "brecha",
+                "salarial",
+                "abordando",
+                "causas",
+                "fundamentales",
+                "incluyendo",
+                "mayor",
+                "precariedad",
+                "sufren",
+                "mujeres",
+                "estereotipos",
+                "género",
+                "mercado",
+                "laboral"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "Ampliaremos los recursos para combatir la violencia machista y contra otras col•lectivos\nvulnerables, haciendo hincapié en la prevención de la violencia y la compartición de buenas prácticas.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "ampliaremos",
+                "recursos",
+                "combatir",
+                "violencia",
+                "machista",
+                "col•lectivos",
+                "vulnerables",
+                "haciendo",
+                "hincapié",
+                "prevención",
+                "violencia",
+                "compartición",
+                "buenas",
+                "prácticas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Promoveremos la creación de un marco legal europeo único para luchar contra la violencia machista.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "promoveremos",
+                "creación",
+                "marco",
+                "legal",
+                "europeo",
+                "único",
+                "luchar",
+                "violencia",
+                "machista"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Garantizaremos los derechos sexuales y reproductivos de las mujeres a todo el territorio europeo y velaremos\npor la interseccionalidad de género en todos los ámbitos y líneas de trabajo mediante políticas\npúblicas europeas.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "garantizaremos",
+                "derechos",
+                "sexuales",
+                "reproductivos",
+                "mujeres",
+                "territorio",
+                "europeo",
+                "velaremos",
+                "interseccionalidad",
+                "género",
+                "ámbitos",
+                "líneas",
+                "trabajo",
+                "mediante",
+                "políticas",
+                "públicas",
+                "europeas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Trabajaremos porqué los matrimonios homosexuales celebrados en un estado miembro tengan que\nser reconocidos por los otros, como ya es el caso de los matrimonios heterosexuales.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "trabajaremos",
+                "porqué",
+                "matrimonios",
+                "homosexuales",
+                "celebrados",
+                "miembro",
+                "ser",
+                "reconocidos",
+                "caso",
+                "matrimonios",
+                "heterosexuales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Impulsaremos una ampliación de la legislación europea en materia de nuevas tecnologías y\nInternet para garantizar los derechos digitales de ciudadanos y empresas ante los poderes públicos.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "impulsaremos",
+                "ampliación",
+                "legislación",
+                "europea",
+                "materia",
+                "nuevas",
+                "tecnologías",
+                "internet",
+                "garantizar",
+                "derechos",
+                "digitales",
+                "ciudadanos",
+                "empresas",
+                "poderes",
+                "públicos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "Exigiremos la oficialidad del catalán y el occitano a todas las instituciones europeas y trabajaremos porqué\nestén presentes en las acciones de la UE, especialmente en el ámbito cultural y lingüístico.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "exigiremos",
+                "oficialidad",
+                "catalán",
+                "occitano",
+                "todas",
+                "instituciones",
+                "europeas",
+                "trabajaremos",
+                "porqué",
+                "presentes",
+                "acciones",
+                "ue",
+                "especialmente",
+                "ámbito",
+                "cultural",
+                "lingüístico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Lucharemos para convertir el derecho de comunicarse en catalán y occitano con las instituciones\neuropeas en un derecho real: los diputados tienen que poder hablar en catalán y occitano y hay que garantizar lo\nderecho de petición, la enseñanza y los currículums europeos en estas lenguas.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "lucharemos",
+                "convertir",
+                "derecho",
+                "comunicarse",
+                "catalán",
+                "occitano",
+                "instituciones",
+                "europeas",
+                "derecho",
+                "real",
+                "diputados",
+                "poder",
+                "hablar",
+                "catalán",
+                "occitano",
+                "garantizar",
+                "derecho",
+                "petición",
+                "enseñanza",
+                "currículums",
+                "europeos",
+                "lenguas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "Trabajaremos para tumbar las barreras en el uso del catalán y el occitano en la administración electrónica\neuropea, así como para enmendar toda legislación europea que los arrincone en el ámbito público o\nprivado.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "trabajaremos",
+                "tumbar",
+                "barreras",
+                "uso",
+                "catalán",
+                "occitano",
+                "administración",
+                "electrónica",
+                "europea",
+                "así",
+                "enmendar",
+                "toda",
+                "legislación",
+                "europea",
+                "arrincone",
+                "ámbito",
+                "público",
+                "privado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Seguiremos apoyando a la Iniciativa Ciudadana Europea de defensa de las lenguas\nminoritarias (*Minority *Safepack) para que la Unión Europea y sus estados miembros\nprotejan mejor su diversidad lingüística y cultural.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "seguiremos",
+                "apoyando",
+                "iniciativa",
+                "ciudadana",
+                "europea",
+                "defensa",
+                "lenguas",
+                "minoritarias",
+                "minority",
+                "safepack",
+                "unión",
+                "europea",
+                "miembros",
+                "protejan",
+                "mejor",
+                "diversidad",
+                "lingüística",
+                "cultural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Lucharemos contra los abusos de mercado y oligopolios bancarios mediante la correcta aplicación\nde la legislación financiera europea y el desarrollo de las finanzas sostenibles.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "lucharemos",
+                "abusos",
+                "mercado",
+                "oligopolios",
+                "bancarios",
+                "mediante",
+                "correcta",
+                "aplicación",
+                "legislación",
+                "financiera",
+                "europea",
+                "desarrollo",
+                "finanzas",
+                "sostenibles"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Denunciaremos los incumplimientos reiterados de la directiva de morosidad por parte del estado\nespañol, que perjudican miles de empresas que tienen problemas de tesorería, se ven\nforzadas a parar la inversión o incluso tienen que cerrar debido a la morosidad de gobiernos y grandes\nempresas.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "denunciaremos",
+                "incumplimientos",
+                "reiterados",
+                "directiva",
+                "morosidad",
+                "parte",
+                "español",
+                "perjudican",
+                "miles",
+                "empresas",
+                "problemas",
+                "tesorería",
+                "ven",
+                "forzadas",
+                "parar",
+                "inversión",
+                "incluso",
+                "cerrar",
+                "debido",
+                "morosidad",
+                "gobiernos",
+                "grandes",
+                "empresas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Creemos que hay que revisar el “*Small *Business *Act” (*SBA) para hacer un balance y planear nuevas\nregulaciones con una visión integrada que proteja y tenga en cuenta las Pymes en toda la\nlegislación europea. Además, una vez lograda el acuerdo sobre la reforma de la Directiva 2012/30 de\nSegunda Oportunidad, creemos que hay que asegurar su transposición en tiempo y forma en el Estado\nespañol.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "creemos",
+                "revisar",
+                "“",
+                "small",
+                "business",
+                "act",
+                "”",
+                "sba",
+                "hacer",
+                "balance",
+                "planear",
+                "nuevas",
+                "regulaciones",
+                "visión",
+                "integrada",
+                "proteja",
+                "cuenta",
+                "pymes",
+                "toda",
+                "legislación",
+                "europea",
+                "además",
+                "vez",
+                "lograda",
+                "acuerdo",
+                "reforma",
+                "directiva",
+                "2012",
+                "30",
+                "segunda",
+                "oportunidad",
+                "creemos",
+                "asegurar",
+                "transposición",
+                "tiempo",
+                "forma",
+                "español"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "Trabajaremos para que las Pymes reciben la mayoría de los recursos destinados a empresas dentro\nlos programas europeos de apoyo a la digitalización, como la “*Horizon *Europe” (antiguo “*Horizon\n2020”) y el futuro “Digital *Europe”.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "trabajaremos",
+                "pymes",
+                "reciben",
+                "mayoría",
+                "recursos",
+                "destinados",
+                "empresas",
+                "dentro",
+                "programas",
+                "europeos",
+                "apoyo",
+                "digitalización",
+                "“",
+                "horizon",
+                "europe",
+                "”",
+                "antiguo",
+                "“",
+                "horizon",
+                "2020",
+                "”",
+                "futuro",
+                "“",
+                "digital",
+                "europe",
+                "”"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "Trabajaremos para garantizar el equilibrio de poder entre grandes y pequeñas empresas, en particular por:\na) velar por la aplicación del nuevo Reglamento de Promoción de la Equidad y Transparencia para los\nUsuarios Empresariales de Plataformas Digitales (COMO 2018/209 final), que tendría que proteger\nlas Pymes ante los gigantes de Internet.\nb) Asegurar la correcta y puntual transposición en el Estado español de la nueva Directiva sobre\nPrácticas Desleales a la Cadena de Suministro Agroalimentario (COMO 2018/173 final).\nc) Garantizar la participación de las organizaciones de Pymes a la actualización de la regulación\neuropea sobre acuerdos de empresa verticales y horizontales (“vertical/*horizontal *block *exemption”).\nd) Asegurar que las Pymes estén representadas a los procesos de normalización europea\nde CEN y *CENELEC, y que estos no defiendan solo los intereses de las grandes empresas.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "trabajaremos",
+                "garantizar",
+                "equilibrio",
+                "poder",
+                "grandes",
+                "pequeñas",
+                "empresas",
+                "particular",
+                "velar",
+                "aplicación",
+                "nuevo",
+                "reglamento",
+                "promoción",
+                "equidad",
+                "transparencia",
+                "usuarios",
+                "empresariales",
+                "plataformas",
+                "digitales",
+                "2018",
+                "209",
+                "final",
+                "proteger",
+                "pymes",
+                "gigantes",
+                "internet",
+                "b",
+                "asegurar",
+                "correcta",
+                "puntual",
+                "transposición",
+                "español",
+                "nueva",
+                "directiva",
+                "prácticas",
+                "desleales",
+                "cadena",
+                "suministro",
+                "agroalimentario",
+                "2018",
+                "173",
+                "final",
+                "c",
+                "garantizar",
+                "participación",
+                "organizaciones",
+                "pymes",
+                "actualización",
+                "regulación",
+                "europea",
+                "acuerdos",
+                "empresa",
+                "verticales",
+                "horizontales",
+                "“",
+                "vertical",
+                "horizontal",
+                "block",
+                "exemption",
+                "”",
+                "d",
+                "asegurar",
+                "pymes",
+                "representadas",
+                "procesos",
+                "normalización",
+                "europea",
+                "cen",
+                "cenelec",
+                "defiendan",
+                "solo",
+                "intereses",
+                "grandes",
+                "empresas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Apostaremos claramente por la negociación de nuevos acuerdos de libre comercio y exigiremos que\nlos tratados de libre comercio que firme la UE tengan en cuenta los derechos humanos, los derechos\nlaborales y la conservación del medio ambiente.",
+            "topics": [
+                "Comercio"
+            ],
+            "tags": [
+                "apostaremos",
+                "claramente",
+                "negociación",
+                "nuevos",
+                "acuerdos",
+                "libre",
+                "comercio",
+                "exigiremos",
+                "tratados",
+                "libre",
+                "comercio",
+                "firme",
+                "ue",
+                "cuenta",
+                "derechos",
+                "humanos",
+                "derechos",
+                "laborales",
+                "conservación",
+                "medio",
+                "ambiente"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Defenderemos la introducción de un pequeño arancel sobre las importaciones procedentes de Estados\nque no respeten los derechos humanos, el estado de derecho y la democracia.",
+            "topics": [
+                "Comercio"
+            ],
+            "tags": [
+                "defenderemos",
+                "introducción",
+                "pequeño",
+                "arancel",
+                "importaciones",
+                "procedentes",
+                "respeten",
+                "derechos",
+                "humanos",
+                "derecho",
+                "democracia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "Profundizaremos el mercado único digital con una regulación integrada para servicios digitales,\ncomercio electrónico y telecomunicaciones.",
+            "topics": [
+                "Comercio",
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "profundizaremos",
+                "mercado",
+                "único",
+                "digital",
+                "regulación",
+                "integrada",
+                "servicios",
+                "digitales",
+                "comercio",
+                "electrónico",
+                "telecomunicaciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": "Evaluaremos la posibilidad de impulsar un impuesto o una regulación más estricta a nivel europeo\nsobre los datos masivos (*big fecha) que se aplique a las operaciones de venta de datos con\nfinalidades publicitarias o similares.",
+            "topics": [
+                "Comercio",
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "evaluaremos",
+                "posibilidad",
+                "impulsar",
+                "impuesto",
+                "regulación",
+                "estricta",
+                "nivel",
+                "europeo",
+                "datos",
+                "masivos",
+                "big",
+                "fecha",
+                "aplique",
+                "operaciones",
+                "venta",
+                "datos",
+                "finalidades",
+                "publicitarias",
+                "similares"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Insistiremos en la necesidad de regulaciones para un mercado libre y justo, donde el emprendedor sea\nayudado y nunca maltratado, y denunciaremos toda complicidad entre el poder financiero y el político.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "insistiremos",
+                "necesidad",
+                "regulaciones",
+                "mercado",
+                "libre",
+                "justo",
+                "emprendedor",
+                "ayudado",
+                "nunca",
+                "maltratado",
+                "denunciaremos",
+                "toda",
+                "complicidad",
+                "poder",
+                "financiero",
+                "político"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Promoveremos el fin de la concentración bancaria, favoreceremos el desarrollo de bancos\npequeños y medios y estudiaremos la posibilidad de separar la banca de inversión de la comercial.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "promoveremos",
+                "fin",
+                "concentración",
+                "bancaria",
+                "favoreceremos",
+                "desarrollo",
+                "bancos",
+                "pequeños",
+                "medios",
+                "estudiaremos",
+                "posibilidad",
+                "separar",
+                "banca",
+                "inversión",
+                "comercial"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Ampliaremos, integraremos y diversificaremos los mercados de capitales europeos, tumbando barreras\nburocráticas y legislativas para mejorar el acceso al crédito de nuestras empresas.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "ampliaremos",
+                "integraremos",
+                "diversificaremos",
+                "mercados",
+                "capitales",
+                "europeos",
+                "tumbando",
+                "barreras",
+                "burocráticas",
+                "legislativas",
+                "mejorar",
+                "acceso",
+                "crédito",
+                "empresas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 31,
+            "body": "Crearemos un programa de apoyo a las reformas y un fondo europeo que ayude los estados\nmiembros a hacer frente a los choques económicos asimétricos, ambos basados en la condicionalidad\nporque los estados apliquen debidamente la legislación europea.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "crearemos",
+                "programa",
+                "apoyo",
+                "reformas",
+                "fondo",
+                "europeo",
+                "ayude",
+                "miembros",
+                "hacer",
+                "frente",
+                "choques",
+                "económicos",
+                "asimétricos",
+                "ambos",
+                "basados",
+                "condicionalidad",
+                "apliquen",
+                "debidamente",
+                "legislación",
+                "europea"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 32,
+            "body": "Impulsaremos una batería de medidas para reforzar los controles democráticos sobre los rescates\nfinancieros de estados miembros de la UE durante las crisis.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "impulsaremos",
+                "batería",
+                "medidas",
+                "reforzar",
+                "controles",
+                "democráticos",
+                "rescates",
+                "financieros",
+                "miembros",
+                "ue",
+                "crisis"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 33,
+            "body": "Haremos que Cataluña acontezca un centro neurálgico de la *supercomputació a Europa y\ntrabajaremos porque Barcelona sea elegida para el proyecto de *supercomputació *EuroHPC.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "haremos",
+                "cataluña",
+                "acontezca",
+                "centro",
+                "neurálgico",
+                "supercomputació",
+                "europa",
+                "trabajaremos",
+                "barcelona",
+                "elegida",
+                "proyecto",
+                "supercomputació",
+                "eurohpc"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 34,
+            "body": "Trabajaremos porque, en el marco de la PEC, se aumenten las ayudas a pequeñas y medianas empresas\ny se limiten a los grandes terratenientes, asegurando un reparto justo de los beneficios de la agricultura,\ncon especial atención al pequeño productor.",
+            "topics": [
+                "Medio rural",
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "trabajaremos",
+                "marco",
+                "pec",
+                "aumenten",
+                "ayudas",
+                "pequeñas",
+                "medianas",
+                "empresas",
+                "limiten",
+                "grandes",
+                "terratenientes",
+                "asegurando",
+                "reparto",
+                "justo",
+                "beneficios",
+                "agricultura",
+                "especial",
+                "atención",
+                "pequeño",
+                "productor"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 35,
+            "body": "Actualizaremos la Política Agrícola Común (PEC) para ajustar los subsidios agrarios a criterios de\ncompetitividad económica y equilibrio territorial, con especial atención al secano.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "actualizaremos",
+                "política",
+                "agrícola",
+                "común",
+                "pec",
+                "ajustar",
+                "subsidios",
+                "agrarios",
+                "criterios",
+                "competitividad",
+                "económica",
+                "equilibrio",
+                "territorial",
+                "especial",
+                "atención",
+                "secano"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 36,
+            "body": "Lideraremos una marca de calidad agroalimentaria europea para la dieta mediterránea\ny apostaremos porque Cataluña sea una referencia en *bioeconomia y la defensa de la\nbiodiversidad.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "lideraremos",
+                "marca",
+                "calidad",
+                "agroalimentaria",
+                "europea",
+                "dieta",
+                "mediterránea",
+                "apostaremos",
+                "cataluña",
+                "referencia",
+                "bioeconomia",
+                "defensa",
+                "biodiversidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 37,
+            "body": "Impulsaremos la visibilidad de nuestras denominaciones a Europa, defendiendo el papel\nestratégico de la agricultura, ganadería, silvicultura y pesca en nuestra sociedad.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "impulsaremos",
+                "visibilidad",
+                "denominaciones",
+                "europa",
+                "defendiendo",
+                "papel",
+                "estratégico",
+                "agricultura",
+                "ganadería",
+                "silvicultura",
+                "pesca",
+                "sociedad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 38,
+            "body": "Desarrollaremos el potencial de la agricultura sostenible, por ejemplo, mediante la promoción\nde la producción y el consumo de los productos de proximidad o kilómetro cero.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "potencial",
+                "agricultura",
+                "sostenible",
+                "ejemplo",
+                "mediante",
+                "promoción",
+                "producción",
+                "consumo",
+                "productos",
+                "proximidad",
+                "kilómetro",
+                "cero"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 39,
+            "body": "Abanderaremos la economía azul para garantizar la gestión sostenible de nuestros recursos\nhídricos, posando la experiencia del delta del Ebro como ejemplo para todo Europa.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "abanderaremos",
+                "economía",
+                "azul",
+                "garantizar",
+                "gestión",
+                "sostenible",
+                "recursos",
+                "hídricos",
+                "posando",
+                "experiencia",
+                "delta",
+                "ebro",
+                "ejemplo",
+                "europa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 40,
+            "body": "Promoveremos la presencia de productos catalanes en presentaciones, acontecimientos y actividades\na *Brussel•las, sobre todo a las *instal•*lacions del Parlamento Europeo.",
+            "topics": [
+                "Comercio"
+            ],
+            "tags": [
+                "promoveremos",
+                "presencia",
+                "productos",
+                "catalanes",
+                "presentaciones",
+                "acontecimientos",
+                "actividades",
+                "brussel•las",
+                "instal•",
+                "lacions",
+                "parlamento",
+                "europeo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 41,
+            "body": "Exigiremos a la Comisión Europea el cumplimiento efectivo del reglamento que obliga España a\n desarrollar el Corredor Mediterráneo, una infraestructura clave para el crecimiento económico y\nla ocupación en todo Cataluña, con financiación adecuada.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "exigiremos",
+                "comisión",
+                "europea",
+                "cumplimiento",
+                "efectivo",
+                "reglamento",
+                "obliga",
+                "españa",
+                "desarrollar",
+                "corredor",
+                "mediterráneo",
+                "infraestructura",
+                "clave",
+                "crecimiento",
+                "económico",
+                "ocupación",
+                "cataluña",
+                "financiación",
+                "adecuada"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 42,
+            "body": "Trabajaremos para aumentar el peso del ferrocarril en el transporte de mercancías intermediando\nel desarrollo de una red vertebrada de corredores multimodales y la conexión\nde infraestructuras ferroviarias ya existentes con el Corredor Mediterráneo.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "trabajaremos",
+                "aumentar",
+                "peso",
+                "ferrocarril",
+                "transporte",
+                "mercancías",
+                "intermediando",
+                "desarrollo",
+                "red",
+                "vertebrada",
+                "corredores",
+                "multimodales",
+                "conexión",
+                "infraestructuras",
+                "ferroviarias",
+                "existentes",
+                "corredor",
+                "mediterráneo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 43,
+            "body": "Velaremos por la correcta aplicación de la legislación ferroviaria europea y la apertura del mercado\nferroviario a operadores otros países para fomentar la competencia y mejorar el servicio a las\npersonas que dependen del tren para ir al trabajo cada día.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "velaremos",
+                "correcta",
+                "aplicación",
+                "legislación",
+                "ferroviaria",
+                "europea",
+                "apertura",
+                "mercado",
+                "ferroviario",
+                "operadores",
+                "países",
+                "fomentar",
+                "competencia",
+                "mejorar",
+                "servicio",
+                "personas",
+                "dependen",
+                "tren",
+                "ir",
+                "trabajo",
+                "cada",
+                "día"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 44,
+            "body": "Lucharemos para conseguir fondos europeos para mejorar la conectividad de las Comarcas\nCentrales y Ponente con el resto del territorio de Cataluña y Europa.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "lucharemos",
+                "conseguir",
+                "fondos",
+                "europeos",
+                "mejorar",
+                "conectividad",
+                "comarcas",
+                "centrales",
+                "ponente",
+                "resto",
+                "territorio",
+                "cataluña",
+                "europa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 45,
+            "body": "Promoveremos el desarrollo del transporte fluvial por el Ebro y otros ríos europeos por\npotenciar la economía y la sostenibilidad del transporte de mercancías por Europa.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "promoveremos",
+                "desarrollo",
+                "transporte",
+                "fluvial",
+                "ebro",
+                "ríos",
+                "europeos",
+                "potenciar",
+                "economía",
+                "sostenibilidad",
+                "transporte",
+                "mercancías",
+                "europa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 46,
+            "body": "Defenderemos los intereses y la autonomía de los puertos de Cataluña y fomentaremos sinergias\ncon otros actores marítimos de Europa para reforzar la proyección de nuestros puertos.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "defenderemos",
+                "intereses",
+                "autonomía",
+                "puertos",
+                "cataluña",
+                "fomentaremos",
+                "sinergias",
+                "actores",
+                "marítimos",
+                "europa",
+                "reforzar",
+                "proyección",
+                "puertos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 47,
+            "body": "Impulsaremos medidas para garantizar que cada aeropuerto se pueda gestionar de manera individual,\natendiendo criterios económicos y liberando el Aeropuerto del Prat del centralismo político y de AENA.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "impulsaremos",
+                "medidas",
+                "garantizar",
+                "cada",
+                "aeropuerto",
+                "pueda",
+                "gestionar",
+                "manera",
+                "individual",
+                "atendiendo",
+                "criterios",
+                "económicos",
+                "liberando",
+                "aeropuerto",
+                "prat",
+                "centralismo",
+                "político",
+                "aena"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 48,
+            "body": "Trabajaremos para garantizar que la salida del Reino Unido de la Unión Europea, si efectivamente\nse produce, tenga un impacto mínimo sobre la actividad económica a los diferentes aeropuertos de\nCataluña.",
+            "topics": [
+                "Política exterior"
+            ],
+            "tags": [
+                "trabajaremos",
+                "garantizar",
+                "salida",
+                "reino",
+                "unido",
+                "unión",
+                "europea",
+                "si",
+                "efectivamente",
+                "produce",
+                "impacto",
+                "mínimo",
+                "actividad",
+                "económica",
+                "diferentes",
+                "aeropuertos",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 49,
+            "body": "Desarrollaremos las infraestructuras necesarias en col•*laboració con otros estados y\nregiones de Europa para convertir Cataluña en un centro de las cadenas de bloques (*blockchains),\n5G y *intel•*ligència artificial.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "infraestructuras",
+                "necesarias",
+                "col•",
+                "laboració",
+                "regiones",
+                "europa",
+                "convertir",
+                "cataluña",
+                "centro",
+                "cadenas",
+                "bloques",
+                "blockchains",
+                "5g",
+                "intel•",
+                "ligència",
+                "artificial"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 50,
+            "body": "Daremos un nuevo impulso al despliegue del Internet de alta velocidad en todo nuestro país\npara garantizar la conectividad de todas las partes del territorio y potenciar la economía digital.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "daremos",
+                "nuevo",
+                "impulso",
+                "despliegue",
+                "internet",
+                "alta",
+                "velocidad",
+                "país",
+                "garantizar",
+                "conectividad",
+                "todas",
+                "partes",
+                "territorio",
+                "potenciar",
+                "economía",
+                "digital"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 51,
+            "body": "Potenciaremos la atractividad de Cataluña en el ámbito de la logística, posando las condiciones\nnecesarias para la implantación de centros logísticos y de distribución a nuestro territorio y\nfavoreciendo la intermodalidad en la llegada y salida de las mercancías de estos centros.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "potenciaremos",
+                "atractividad",
+                "cataluña",
+                "ámbito",
+                "logística",
+                "posando",
+                "condiciones",
+                "necesarias",
+                "implantación",
+                "centros",
+                "logísticos",
+                "distribución",
+                "territorio",
+                "favoreciendo",
+                "intermodalidad",
+                "llegada",
+                "salida",
+                "mercancías",
+                "centros"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 52,
+            "body": "Trabajaremos conjuntamente con las Islas Baleares y Occitania para aprovechar el potencial de\nla Euroregión Pirineos Mediterráneo en el desarrollo de nuevas infraestructuras, a la vez\nque posamos los cimientos de iniciativas similares con el Aragón y el País Valenciano.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "trabajaremos",
+                "conjuntamente",
+                "islas",
+                "baleares",
+                "occitania",
+                "aprovechar",
+                "potencial",
+                "euroregión",
+                "pirineos",
+                "mediterráneo",
+                "desarrollo",
+                "nuevas",
+                "infraestructuras",
+                "vez",
+                "posamos",
+                "cimientos",
+                "iniciativas",
+                "similares",
+                "aragón",
+                "país",
+                "valenciano"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 53,
+            "body": "Impulsaremos una estrategia energética basada que combata las malas prácticas de los\noligopolios eléctricos e impulse la producción de energía renovable y el autoconsumo, para bajar\nel precio de la electricidad a un nivel razonable para los hogares, la industria y la pequeña y media\nempresa.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "impulsaremos",
+                "estrategia",
+                "energética",
+                "basada",
+                "combata",
+                "malas",
+                "prácticas",
+                "oligopolios",
+                "eléctricos",
+                "impulse",
+                "producción",
+                "energía",
+                "renovable",
+                "autoconsumo",
+                "bajar",
+                "precio",
+                "electricidad",
+                "nivel",
+                "razonable",
+                "hogares",
+                "industria",
+                "pequeña",
+                "media",
+                "empresa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 54,
+            "body": "Identificaremos y eliminaremos las barreras injustificadas a la entrada de nuevos operadores y\nproductores al mercado eléctrico basándonos en la legislación europea sobre el libre mercado.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "identificaremos",
+                "eliminaremos",
+                "barreras",
+                "injustificadas",
+                "entrada",
+                "nuevos",
+                "operadores",
+                "productores",
+                "mercado",
+                "eléctrico",
+                "basándonos",
+                "legislación",
+                "europea",
+                "libre",
+                "mercado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 55,
+            "body": "Mantendremos una estrecha col•*laboració entre nuestros representantes en el Congreso y Europa\npara investigar toda práctica anticompetitiva que se produzca en el mercado eléctrico español.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "mantendremos",
+                "estrecha",
+                "col•",
+                "laboració",
+                "representantes",
+                "congreso",
+                "europa",
+                "investigar",
+                "toda",
+                "práctica",
+                "anticompetitiva",
+                "produzca",
+                "mercado",
+                "eléctrico",
+                "español"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 56,
+            "body": "Denunciaremos a las instituciones europeas el incumplimiento de directivas relativas al libre\nmercado de la electricidad por España y las instaremos a tomar las medidas necesarias por\nrevertirlo.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "denunciaremos",
+                "instituciones",
+                "europeas",
+                "incumplimiento",
+                "directivas",
+                "relativas",
+                "libre",
+                "mercado",
+                "electricidad",
+                "españa",
+                "instaremos",
+                "tomar",
+                "medidas",
+                "necesarias",
+                "revertirlo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 57,
+            "body": "Lucharemos por una mejor integración de las redes eléctricas europeas en términos cuantitativos\ny cualitativos para reforzar la seguridad energética del continente.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "lucharemos",
+                "mejor",
+                "integración",
+                "redes",
+                "eléctricas",
+                "europeas",
+                "términos",
+                "cuantitativos",
+                "cualitativos",
+                "reforzar",
+                "seguridad",
+                "energética",
+                "continente"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 58,
+            "body": "Estableceremos las condiciones necesarias porque Europa y, más concretamente, Cataluña\naprovechen las oportunidades que ofrece la industria renovable para impulsar R+D y crear lugares de\ntrabajo.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "estableceremos",
+                "condiciones",
+                "necesarias",
+                "europa",
+                "concretamente",
+                "cataluña",
+                "aprovechen",
+                "oportunidades",
+                "ofrece",
+                "industria",
+                "renovable",
+                "impulsar",
+                "r",
+                "d",
+                "crear",
+                "lugares",
+                "trabajo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 59,
+            "body": "Fomentaremos el papel de Cataluña en la ciencia y tecnología sostenibles, promoviendo la\ncreación de centros de *excel•*lència y actividad económica de alto valor añadido.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "fomentaremos",
+                "papel",
+                "cataluña",
+                "ciencia",
+                "tecnología",
+                "sostenibles",
+                "promoviendo",
+                "creación",
+                "centros",
+                "excel•",
+                "lència",
+                "actividad",
+                "económica",
+                "alto",
+                "valor",
+                "añadido"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 60,
+            "body": "Movilizaremos el músculo político y financiero de la Unión Europea para desarrollar el grande\npotencial del Mediterráneo y sus costas en energías renovables.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "movilizaremos",
+                "músculo",
+                "político",
+                "financiero",
+                "unión",
+                "europea",
+                "desarrollar",
+                "grande",
+                "potencial",
+                "mediterráneo",
+                "costas",
+                "energías",
+                "renovables"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 61,
+            "body": "Instaremos la UE a declarar una emergencia climática que reconozca la lucha contra el calentamiento\nglobal como gran prioridad de la Unión y sus estados miembros, a la vez que establezca una hoja\nde ruta claro hacia la descarbonización de la economía europea en un plazo que permita limitar\nel calentamiento de la Tierra a menos de 2 °C por encima de los niveles preindustriales.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "instaremos",
+                "ue",
+                "declarar",
+                "emergencia",
+                "climática",
+                "reconozca",
+                "lucha",
+                "calentamiento",
+                "global",
+                "gran",
+                "prioridad",
+                "unión",
+                "miembros",
+                "vez",
+                "establezca",
+                "hoja",
+                "ruta",
+                "claro",
+                "hacia",
+                "descarbonización",
+                "economía",
+                "europea",
+                "plazo",
+                "permita",
+                "limitar",
+                "calentamiento",
+                "tierra",
+                "menos",
+                "2",
+                "°c",
+                "encima",
+                "niveles",
+                "preindustriales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 62,
+            "body": "Apoyaremos a iniciativas para movilizar fondos públicos o privados para proyectos de lucha\ncontra el cambio climático, especialmente a nivel regional, con un nuevo Fondo Europeo del Clima.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "apoyaremos",
+                "iniciativas",
+                "movilizar",
+                "fondos",
+                "públicos",
+                "privados",
+                "proyectos",
+                "lucha",
+                "cambio",
+                "climático",
+                "especialmente",
+                "nivel",
+                "regional",
+                "nuevo",
+                "fondo",
+                "europeo",
+                "clima"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 63,
+            "body": "Denunciaremos a Europa las ayudas españolas al carbón, una fuente de energía sucia y obsoleta,\nque se repercuten en la factura eléctrica y vulneran la normativa europea sobre ayudas\nde Estado.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "denunciaremos",
+                "europa",
+                "ayudas",
+                "españolas",
+                "carbón",
+                "fuente",
+                "energía",
+                "sucia",
+                "obsoleta",
+                "repercuten",
+                "factura",
+                "eléctrica",
+                "vulneran",
+                "normativa",
+                "europea",
+                "ayudas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 64,
+            "body": "Integraremos la perspectiva de género a las estrategias de lucha contra la pobreza energética\ny el impacto del cambio climático en linea con los Objetivos de Desarrollo Sostenible.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "integraremos",
+                "perspectiva",
+                "género",
+                "estrategias",
+                "lucha",
+                "pobreza",
+                "energética",
+                "impacto",
+                "cambio",
+                "climático",
+                "linea",
+                "objetivos",
+                "desarrollo",
+                "sostenible"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 65,
+            "body": "Defenderemos en todo momento el Ebro y todo el parque fluvial de Cataluña ante las propuestas\nde trasvases que no cumplan rigurosos criterios de sostenibilidad.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "defenderemos",
+                "momento",
+                "ebro",
+                "parque",
+                "fluvial",
+                "cataluña",
+                "propuestas",
+                "trasvases",
+                "cumplan",
+                "rigurosos",
+                "criterios",
+                "sostenibilidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 66,
+            "body": "Defenderemos la creación de una mochila laboral europea que permita los trabajadores que\nquieran trabajen en diferentes Estados durante su vida laboral poder conservar sus derechos\nsociales adquiridos.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "defenderemos",
+                "creación",
+                "mochila",
+                "laboral",
+                "europea",
+                "permita",
+                "trabajadores",
+                "quieran",
+                "trabajen",
+                "diferentes",
+                "vida",
+                "laboral",
+                "poder",
+                "conservar",
+                "derechos",
+                "sociales",
+                "adquiridos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 67,
+            "body": "Movilizaremos los recursos de la Unión Europea en pro de una educación inclusiva, equitativa y\nde calidad para todo el mundo en linea con la Agenda Mundial 2030 de la UNESCO.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "movilizaremos",
+                "recursos",
+                "unión",
+                "europea",
+                "pro",
+                "educación",
+                "inclusiva",
+                "equitativa",
+                "calidad",
+                "mundo",
+                "linea",
+                "agenda",
+                "mundial",
+                "2030",
+                "unesco"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 68,
+            "body": "Promoveremos la movilidad educativa de nuestros estudiantes en el ámbito europeo, tanto a través\ndel programa Erasmus como través de intercambios en Formación Profesional y otros tipos.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "promoveremos",
+                "movilidad",
+                "educativa",
+                "estudiantes",
+                "ámbito",
+                "europeo",
+                "través",
+                "programa",
+                "erasmus",
+                "través",
+                "intercambios",
+                "formación",
+                "profesional",
+                "tipos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 69,
+            "body": "Impulsaremos nuevos modelos de aprendizaje que garanticen el logro de conocimientos y\ncompetencias, de acuerdo con las mejores prácticas a nivel internacional.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "impulsaremos",
+                "nuevos",
+                "modelos",
+                "aprendizaje",
+                "garanticen",
+                "logro",
+                "conocimientos",
+                "competencias",
+                "acuerdo",
+                "mejores",
+                "prácticas",
+                "nivel",
+                "internacional"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 70,
+            "body": "Ampliaremos los programas europeos de formación y reorientación laboral para luchar contra el paro\ny, particularmente, el paro juvenil o de larga duración.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "ampliaremos",
+                "programas",
+                "europeos",
+                "formación",
+                "reorientación",
+                "laboral",
+                "luchar",
+                "paro",
+                "particularmente",
+                "paro",
+                "juvenil",
+                "larga",
+                "duración"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 71,
+            "body": "Apoyaremos al Fondo Social Europeo en la lucha contra la pobreza en todos los ámbitos,\nposando especial atención en la pobreza femenina, infantil y de personas en situación de\nvulnerabilidad por dolencia o edad avanzada.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "apoyaremos",
+                "fondo",
+                "social",
+                "europeo",
+                "lucha",
+                "pobreza",
+                "ámbitos",
+                "posando",
+                "especial",
+                "atención",
+                "pobreza",
+                "femenina",
+                "infantil",
+                "personas",
+                "situación",
+                "vulnerabilidad",
+                "dolencia",
+                "edad",
+                "avanzada"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 72,
+            "body": "Potenciaremos la cooperación transfronteriza en materia de salud, tanto en el ámbito administrativo\ncómo en *instal•*lacions compartidas, como por ejemplo el Hospital Transfronterizo de la Cerdaña.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "potenciaremos",
+                "cooperación",
+                "transfronteriza",
+                "materia",
+                "salud",
+                "ámbito",
+                "administrativo",
+                "cómo",
+                "instal•",
+                "lacions",
+                "compartidas",
+                "ejemplo",
+                "hospital",
+                "transfronterizo",
+                "cerdaña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 73,
+            "body": "Favoreceremos la integración de col•lectivos de gente mayor de nuestro país en organizaciones\neuropeas que los permitan coordinarse y defender sus intereses de manera conjunta y\neficaz.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "favoreceremos",
+                "integración",
+                "col•lectivos",
+                "gente",
+                "mayor",
+                "país",
+                "organizaciones",
+                "europeas",
+                "permitan",
+                "coordinarse",
+                "defender",
+                "intereses",
+                "manera",
+                "conjunta",
+                "eficaz"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 74,
+            "body": "Apoyaremos una estrategia europea para la integración que sirva para facilitar la llena\nintegración de los refugiados e inmigrantes a su sociedad de acogida.",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "apoyaremos",
+                "estrategia",
+                "europea",
+                "integración",
+                "sirva",
+                "facilitar",
+                "llena",
+                "integración",
+                "refugiados",
+                "inmigrantes",
+                "sociedad",
+                "acogida"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 75,
+            "body": "Trabajaremos para facilitar la inserción laboral de los refugiados como motor de integración,\nespecialmente en los casos que aporten conocimientos y habilidades con mucha demanda al\nmercado laboral.",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "trabajaremos",
+                "facilitar",
+                "inserción",
+                "laboral",
+                "refugiados",
+                "motor",
+                "integración",
+                "especialmente",
+                "casos",
+                "aporten",
+                "conocimientos",
+                "habilidades",
+                "mucha",
+                "demanda",
+                "mercado",
+                "laboral"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 76,
+            "body": "Combatiremos y denunciaremos el antisemitismo en todo momento, propondremos la creación de una\nEstrategia Europea contra el Antisemitismo y defenderemos la libertad de religión.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "combatiremos",
+                "denunciaremos",
+                "antisemitismo",
+                "momento",
+                "propondremos",
+                "creación",
+                "estrategia",
+                "europea",
+                "antisemitismo",
+                "defenderemos",
+                "libertad",
+                "religión"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 77,
+            "body": "Promoveremos un diálogo entre religiones basado en el respecto de la libertad religiosa a Europa y\nel resto del mundo y trabajaremos con las comunidades religiosas para combatir el fundamentalismo.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "promoveremos",
+                "diálogo",
+                "religiones",
+                "basado",
+                "respecto",
+                "libertad",
+                "religiosa",
+                "europa",
+                "resto",
+                "mundo",
+                "trabajaremos",
+                "comunidades",
+                "religiosas",
+                "combatir",
+                "fundamentalismo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 78,
+            "body": "Nos comprometemos a la internacionalización de la causa catalana a Europa y al mundo, tanto\na través de la actividad habitual del Parlamento Europeo como de acciones propias que podamos\norganizar gracias a nuestro trabajo a las instituciones europeas.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "comprometemos",
+                "internacionalización",
+                "causa",
+                "catalana",
+                "europa",
+                "mundo",
+                "través",
+                "actividad",
+                "habitual",
+                "parlamento",
+                "europeo",
+                "acciones",
+                "propias",
+                "podamos",
+                "organizar",
+                "gracias",
+                "trabajo",
+                "instituciones",
+                "europeas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 79,
+            "body": "Defenderemos el derecho a la autodeterminación de los pueblos y la defensa de los derechos humanos y la\ndemocracia como los valores fundamentales sobre los cuales hay que construir el futuro de la UE.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "defenderemos",
+                "derecho",
+                "autodeterminación",
+                "pueblos",
+                "defensa",
+                "derechos",
+                "humanos",
+                "democracia",
+                "valores",
+                "fundamentales",
+                "cuales",
+                "construir",
+                "futuro",
+                "ue"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 80,
+            "body": "Volveremos a situar sus valores fundacionales al coro de Europa y exigiremos que los Tratados\ntengan un mayor respeto por los derechos de las minorías nacionales, culturales y lingüísticas.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "volveremos",
+                "situar",
+                "valores",
+                "fundacionales",
+                "coro",
+                "europa",
+                "exigiremos",
+                "tratados",
+                "mayor",
+                "respeto",
+                "derechos",
+                "minorías",
+                "nacionales",
+                "culturales",
+                "lingüísticas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 81,
+            "body": "Apoyaremos a las acciones encaminadas a dotar el Parlament Europeo de iniciativa\nlegislativa para reforzar sus funciones como máximo exponente de la democracia europea.",
+            "topics": [
+                "Legislación y justicia",
+                "Sector público"
+            ],
+            "tags": [
+                "apoyaremos",
+                "acciones",
+                "encaminadas",
+                "dotar",
+                "parlament",
+                "europeo",
+                "iniciativa",
+                "legislativa",
+                "reforzar",
+                "funciones",
+                "máximo",
+                "exponente",
+                "democracia",
+                "europea"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 82,
+            "body": "Defenderemos la elección del presidente de la Comisión Europea por el Parlamento Europeo y\npromoveremos nuevas medidas de democratización para esta institución.",
+            "topics": [
+                "Legislación y justicia",
+                "Sector público"
+            ],
+            "tags": [
+                "defenderemos",
+                "elección",
+                "presidente",
+                "comisión",
+                "europea",
+                "parlamento",
+                "europeo",
+                "promoveremos",
+                "nuevas",
+                "medidas",
+                "democratización",
+                "institución"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 83,
+            "body": "Desplegaremos plenamente el principio de subsidiariedad, entendiendo que las competencias tienen que\ncorresponder a la institución más próxima a los ciudadanos que pueda gestionarlas con eficacia.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "desplegaremos",
+                "plenamente",
+                "principio",
+                "subsidiariedad",
+                "entendiendo",
+                "competencias",
+                "corresponder",
+                "institución",
+                "próxima",
+                "ciudadanos",
+                "pueda",
+                "gestionarlas",
+                "eficacia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 84,
+            "body": "Lucharemos para reducir las votaciones por unanimidad en favor del principio de mayoría cualificada\nal Consejo de la Unión Europea y exigiremos más transparencia en sus deliberaciones.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "lucharemos",
+                "reducir",
+                "votaciones",
+                "unanimidad",
+                "favor",
+                "principio",
+                "mayoría",
+                "cualificada",
+                "consejo",
+                "unión",
+                "europea",
+                "exigiremos",
+                "transparencia",
+                "deliberaciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 85,
+            "body": "Impulsaremos una reforma de las Iniciativas Ciudadanas Europeas porque se puedan llevar a\n término con 500.000 firmas de cuatro estados (actualmente, 1 millón de firmas de siete\nestados).",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "impulsaremos",
+                "reforma",
+                "iniciativas",
+                "ciudadanas",
+                "europeas",
+                "puedan",
+                "llevar",
+                "término",
+                "500",
+                "000",
+                "firmas",
+                "cuatro",
+                "actualmente",
+                "1",
+                "millón",
+                "firmas",
+                "siete"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 86,
+            "body": "Velaremos porqué los ciudadanos catalanes residentes en el Reino Unido y los británicos residentes a\n Cataluña conserven sus derechos después del *Brexit, en caso de que se produzca, y defenderemos\nel derecho de Escocia, Galo•las, Irlanda del Norte y Gibraltar a decidir su futuro a lo largo de todo lo\nproceso de salida.",
+            "topics": [
+                "Legislación y justicia",
+                "Política exterior"
+            ],
+            "tags": [
+                "velaremos",
+                "porqué",
+                "ciudadanos",
+                "catalanes",
+                "residentes",
+                "reino",
+                "unido",
+                "británicos",
+                "residentes",
+                "cataluña",
+                "conserven",
+                "derechos",
+                "después",
+                "brexit",
+                "caso",
+                "produzca",
+                "defenderemos",
+                "derecho",
+                "escocia",
+                "galo•las",
+                "irlanda",
+                "norte",
+                "gibraltar",
+                "decidir",
+                "futuro",
+                "largo",
+                "proceso",
+                "salida"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 87,
+            "body": "Trabajaremos para aumentar la transparencia del funcionamiento de las instituciones europeas,\ngarantizar el *retiment de cuentas y facilitar el acceso de los ciudadanos a información de su interés.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "trabajaremos",
+                "aumentar",
+                "transparencia",
+                "funcionamiento",
+                "instituciones",
+                "europeas",
+                "garantizar",
+                "retiment",
+                "cuentas",
+                "facilitar",
+                "acceso",
+                "ciudadanos",
+                "información",
+                "interés"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 88,
+            "body": "Reformaremos la administración europea para evitar la politización de su funcionariado y el uso\npartidista de las instituciones en su funcionamiento interno.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "reformaremos",
+                "administración",
+                "europea",
+                "evitar",
+                "politización",
+                "funcionariado",
+                "uso",
+                "partidista",
+                "instituciones",
+                "funcionamiento",
+                "interno"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 89,
+            "body": "Dotaremos el Tribunal Europeo de Justicia de los recursos necesarios para agilizar los trámites\nde los ciudadanos que cursen denuncias por violaciones del derecho europeo.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "dotaremos",
+                "tribunal",
+                "europeo",
+                "justicia",
+                "recursos",
+                "necesarios",
+                "agilizar",
+                "trámites",
+                "ciudadanos",
+                "cursen",
+                "denuncias",
+                "violaciones",
+                "derecho",
+                "europeo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 90,
+            "body": "Impulsaremos una reforma de los fondos estructurales europeos porque sean gestionados\ndirectamente por las regiones europeas y no por los estados, en linea con el principio de subsidiariedad.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "impulsaremos",
+                "reforma",
+                "fondos",
+                "estructurales",
+                "europeos",
+                "gestionados",
+                "directamente",
+                "regiones",
+                "europeas",
+                "linea",
+                "principio",
+                "subsidiariedad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 91,
+            "body": "Exigiremos que la medida geográfica y demográfica de las circunscripciones electorales europeas\ngarantice una conexión real con los votantes, incluyendo una circunscripción para Cataluña.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "exigiremos",
+                "medida",
+                "geográfica",
+                "demográfica",
+                "circunscripciones",
+                "electorales",
+                "europeas",
+                "garantice",
+                "conexión",
+                "real",
+                "votantes",
+                "incluyendo",
+                "circunscripción",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 92,
+            "body": "Lucharemos por la creación de una Junta Electoral Europea que sea la encargada de velar\nporque las elecciones europeas se lleven a cabo con garantías democráticas a todos los\nestados miembros y evite irregularidades.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "lucharemos",
+                "creación",
+                "junta",
+                "electoral",
+                "europea",
+                "encargada",
+                "velar",
+                "elecciones",
+                "europeas",
+                "lleven",
+                "cabo",
+                "garantías",
+                "democráticas",
+                "miembros",
+                "evite",
+                "irregularidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 93,
+            "body": "Apoyaremos a la integración de las fuerzas de defensa europeas para proteger el continente y\nsus ciudadanos de las amenazas exteriores, incluyendo en el ámbito de la *ciberdefensa.",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "apoyaremos",
+                "integración",
+                "fuerzas",
+                "defensa",
+                "europeas",
+                "proteger",
+                "continente",
+                "ciudadanos",
+                "amenazas",
+                "exteriores",
+                "incluyendo",
+                "ámbito",
+                "ciberdefensa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 94,
+            "body": "Trabajaremos para mejorar la capacidad de la Unión Europea para evitar casos como el de la venta\nde armas de España en la Arabia Saudí, parando la venta de armas a estados que no respeten los\nderechos humanos y desarrollaremos criterios objetivos para mesurarlo.",
+            "topics": [
+                "Comercio"
+            ],
+            "tags": [
+                "trabajaremos",
+                "mejorar",
+                "capacidad",
+                "unión",
+                "europea",
+                "evitar",
+                "casos",
+                "venta",
+                "armas",
+                "españa",
+                "arabia",
+                "saudí",
+                "parando",
+                "venta",
+                "armas",
+                "respeten",
+                "derechos",
+                "humanos",
+                "desarrollaremos",
+                "criterios",
+                "objetivos",
+                "mesurarlo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 95,
+            "body": "Promoveremos el refuerzo de las competencias de la UE en el control de las fronteras exteriores\npara una política de asilo que reparta mejor las responsabilidades y sea más humana.",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "promoveremos",
+                "refuerzo",
+                "competencias",
+                "ue",
+                "control",
+                "fronteras",
+                "exteriores",
+                "política",
+                "asilo",
+                "reparta",
+                "mejor",
+                "responsabilidades",
+                "humana"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 96,
+            "body": "Daremos un nuevo impulso a las políticas europeas de vecindad para que la Unión Europea\ndesarrolle relaciones más estables y mutuamente beneficiosas con su entorno.",
+            "topics": [
+                "Política exterior"
+            ],
+            "tags": [
+                "daremos",
+                "nuevo",
+                "impulso",
+                "políticas",
+                "europeas",
+                "vecindad",
+                "unión",
+                "europea",
+                "desarrolle",
+                "relaciones",
+                "estables",
+                "mutuamente",
+                "beneficiosas",
+                "entorno"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}

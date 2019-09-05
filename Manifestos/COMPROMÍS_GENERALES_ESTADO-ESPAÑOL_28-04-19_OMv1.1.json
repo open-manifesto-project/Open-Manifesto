@@ -1,0 +1,1657 @@
+{
+    "politicalParty": "Compromís",
+    "title": "IMPARABLES. QUÉ HEMOS HECHO Y QUÉ HAREMOS",
+    "publicationDate": "",
+    "electionDate": "28/04/19",
+    "electionType": "Generales",
+    "geographicalArea": "Estado Español",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifiesto Project",
+    "pages": "17",
+    "numProposals": "58",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "Lanzaremos un nuevo modelo de centros sociales\npara personas mayores con el fin de fomentar el\nenvejecimiento activo, la autonomía personal y la\nsolidaridad intergeneracional.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "lanzaremos",
+                "nuevo",
+                "modelo",
+                "centros",
+                "sociales",
+                "personas",
+                "mayores",
+                "fin",
+                "fomentar",
+                "envejecimiento",
+                "activo",
+                "autonomía",
+                "personal",
+                "solidaridad",
+                "intergeneracional"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Haremos que las personas cuidadoras coticen por\nsu trabajo con todos los derechos mediante un plan\nde formación especializado.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Empleo"
+            ],
+            "tags": [
+                "haremos",
+                "personas",
+                "cuidadoras",
+                "coticen",
+                "trabajo",
+                "derechos",
+                "mediante",
+                "plan",
+                "formación",
+                "especializado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "Avanzaremos hacia un territorio 100% accesible\npara las personas con diversidad funcional con una\nley valenciana de accesibilidad universal.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "avanzaremos",
+                "hacia",
+                "territorio",
+                "100",
+                "accesible",
+                "personas",
+                "diversidad",
+                "funcional",
+                "ley",
+                "valenciana",
+                "accesibilidad",
+                "universal"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Coordinaremos de forma global todos los servicios\nsociales y sanitarios para obtener la mejor atención\nsociosanitaria del Estado.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Salud"
+            ],
+            "tags": [
+                "coordinaremos",
+                "forma",
+                "global",
+                "servicios",
+                "sociales",
+                "sanitarios",
+                "obtener",
+                "mejor",
+                "atención",
+                "sociosanitaria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "Con el Pla Edificant acabaremos con los barracones,\nimpulsando nuevos centros educativos innovadores\ncon un modelo pedagógico avanzado.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "pla",
+                "edificant",
+                "acabaremos",
+                "barracones",
+                "impulsando",
+                "nuevos",
+                "centros",
+                "educativos",
+                "innovadores",
+                "modelo",
+                "pedagógico",
+                "avanzado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Ampliaremos la gratuidad de la educación pública\nde 0 a 3 años y el comedor escolar, para que ningún\nniño ni niña se quede sin comer en nuestras escue-\nlas por razones económicas.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "ampliaremos",
+                "gratuidad",
+                "educación",
+                "pública",
+                "0",
+                "3",
+                "años",
+                "comedor",
+                "escolar",
+                "ningún",
+                "niño",
+                "niña",
+                "quede",
+                "comer",
+                "escue",
+                "razones",
+                "económicas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Integraremos la Formación Profesional y las polí-\nticas de empleo en la Conselleria d’Educació para\nmejorar la oferta atendiendo a las necesidades de\ncada zona y sector.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "integraremos",
+                "formación",
+                "profesional",
+                "polí",
+                "ticas",
+                "empleo",
+                "conselleria",
+                "d",
+                "’",
+                "educació",
+                "mejorar",
+                "oferta",
+                "atendiendo",
+                "necesidades",
+                "cada",
+                "zona",
+                "sector"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "Diseñaremos tasas universitarias progresivas\nsegún las capacidades económicas para que nadie\ntenga que renunciar a los estudios por cuestiones\neconómicas.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "diseñaremos",
+                "tasas",
+                "universitarias",
+                "progresivas",
+                "según",
+                "capacidades",
+                "económicas",
+                "nadie",
+                "renunciar",
+                "estudios",
+                "cuestiones",
+                "económicas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "Impulsaremos programas específicos para apoyar\na las PYMES industriales mediante financiación e\ninversiones para la transformación digital y la adap-\ntación a la Industria 4.0.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "impulsaremos",
+                "programas",
+                "específicos",
+                "apoyar",
+                "pymes",
+                "industriales",
+                "mediante",
+                "financiación",
+                "inversiones",
+                "transformación",
+                "digital",
+                "adap",
+                "tación",
+                "industria",
+                "4",
+                "0"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "Apoyaremos el emprendimiento poniendo a su\nalcance toda la información, herramientas, recursos,\nayudas y planes de empresa durante los primeros\naños de vida de la empresa.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "apoyaremos",
+                "emprendimiento",
+                "poniendo",
+                "alcance",
+                "toda",
+                "información",
+                "herramientas",
+                "recursos",
+                "ayudas",
+                "planes",
+                "empresa",
+                "primeros",
+                "años",
+                "vida",
+                "empresa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Apoyaremos globalmente al pequeño y mediano co-\nmercio como motor del empleo frente a las grandes\nsuperficies precarizadoras.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "apoyaremos",
+                "globalmente",
+                "pequeño",
+                "mediano",
+                "co",
+                "mercio",
+                "motor",
+                "empleo",
+                "frente",
+                "grandes",
+                "superficies",
+                "precarizadoras"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Impulsaremos la industria artesanal valenciana\ncomo motor económico, cultural y patrimonial.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "impulsaremos",
+                "industria",
+                "artesanal",
+                "valenciana",
+                "motor",
+                "económico",
+                "cultural",
+                "patrimonial"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Impulsaremos una nueva ley de igualdad líder en\ntodo el Estado, que garantice la igualdad real entre\nmujeres y hombres desde una vertiente feminista,\ntransversal e inclusiva.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "impulsaremos",
+                "nueva",
+                "ley",
+                "igualdad",
+                "líder",
+                "garantice",
+                "igualdad",
+                "real",
+                "mujeres",
+                "hombres",
+                "vertiente",
+                "feminista",
+                "transversal",
+                "inclusiva"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Implementaremos un programa de educación afec-\ntivosexual en las aulas a partir de los 6 años, como\nherramienta de prevención de la violencia machista,\nfomento de buenos tratos y derecho a la sexualidad.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "implementaremos",
+                "programa",
+                "educación",
+                "afec",
+                "tivosexual",
+                "aulas",
+                "partir",
+                "6",
+                "años",
+                "herramienta",
+                "prevención",
+                "violencia",
+                "machista",
+                "fomento",
+                "buenos",
+                "tratos",
+                "derecho",
+                "sexualidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "Desarrollaremos una estrategia valenciana para la\nerradicación de la violencia sexual, que incorpore la\nprostitución como una forma de violencia hacia las\nmujeres.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "estrategia",
+                "valenciana",
+                "erradicación",
+                "violencia",
+                "sexual",
+                "incorpore",
+                "prostitución",
+                "forma",
+                "violencia",
+                "hacia",
+                "mujeres"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Impulsaremos un nuevo pacto “Empresa y Género”\nque incluya la perspectiva de género en la óptica\nempresarial y laboral con medidas de correspon-\nsabilidad, igualdad salarial y participación de las\nmujeres en los órganos de decisión.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "impulsaremos",
+                "nuevo",
+                "pacto",
+                "“",
+                "empresa",
+                "género",
+                "”",
+                "incluya",
+                "perspectiva",
+                "género",
+                "óptica",
+                "empresarial",
+                "laboral",
+                "medidas",
+                "correspon",
+                "sabilidad",
+                "igualdad",
+                "salarial",
+                "participación",
+                "mujeres",
+                "órganos",
+                "decisión"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "Aprobaremos la nueva ley de protección de espacios\nnaturales para proteger el patrimonio natural, conservar\nlos ecosistemas y los espacios protegidos.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "aprobaremos",
+                "nueva",
+                "ley",
+                "protección",
+                "espacios",
+                "naturales",
+                "proteger",
+                "patrimonio",
+                "natural",
+                "conservar",
+                "ecosistemas",
+                "espacios",
+                "protegidos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Elaboraremos una ley de cambio climático, sostenibili-\ndad y economía circular, sobre la base de la Estrategia de\ncambio climático, para impulsar las energías renovables,\nel cierre de la central de Cofrentes y el residuo cero.",
+            "topics": [
+                "Medio ambiente",
+                "Energía"
+            ],
+            "tags": [
+                "elaboraremos",
+                "ley",
+                "cambio",
+                "climático",
+                "sostenibili",
+                "dad",
+                "economía",
+                "circular",
+                "base",
+                "estrategia",
+                "cambio",
+                "climático",
+                "impulsar",
+                "energías",
+                "renovables",
+                "cierre",
+                "central",
+                "cofrentes",
+                "residuo",
+                "cero"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Pondremos en marcha planes de acción territoriales para\nla ordenación supramunicipal de los usos del suelo y la\nprotección del suelo no urbanizable, así como para garan-\ntizar sistemas de transporte público eficaces y eficientes.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "pondremos",
+                "marcha",
+                "planes",
+                "acción",
+                "territoriales",
+                "ordenación",
+                "supramunicipal",
+                "usos",
+                "suelo",
+                "protección",
+                "suelo",
+                "urbanizable",
+                "así",
+                "garan",
+                "tizar",
+                "sistemas",
+                "transporte",
+                "público",
+                "eficaces",
+                "eficientes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Elaboraremos una estrategia valenciana de gestión de\nlos recursos hídricos basada en criterios de autonomía,\nsostenibilidad y adaptación al cambio climático.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "elaboraremos",
+                "estrategia",
+                "valenciana",
+                "gestión",
+                "recursos",
+                "hídricos",
+                "basada",
+                "criterios",
+                "autonomía",
+                "sostenibilidad",
+                "adaptación",
+                "cambio",
+                "climático"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Implementaremos medidas dirigidas a las zonas de\ninterior con ayudas al pastoreo y la agroecología, ferias\nlocales, agroturismo y formación.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "implementaremos",
+                "medidas",
+                "dirigidas",
+                "zonas",
+                "interior",
+                "ayudas",
+                "pastoreo",
+                "agroecología",
+                "ferias",
+                "locales",
+                "agroturismo",
+                "formación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "Impulsaremos la planificación para la Industria agroali-\nmentaria valenciana, basada en el producto de proximi-\ndad, de calidad, saludable y ecológico.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "impulsaremos",
+                "planificación",
+                "industria",
+                "agroali",
+                "mentaria",
+                "valenciana",
+                "basada",
+                "producto",
+                "proximi",
+                "dad",
+                "calidad",
+                "saludable",
+                "ecológico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "Presentaremos el Plan director de modernización del\nsector agroalimentario (2019-2023), que incluirá el\nsegundo Plan de agricultura ecológica; un plan de mo-\ndernización de estructuras e infraestructuras agrarias,\nde cooperativismo y estructuras comerciales, de I+D+I\ny planes sectoriales de actuación.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "presentaremos",
+                "plan",
+                "director",
+                "modernización",
+                "sector",
+                "agroalimentario",
+                "2019",
+                "2023",
+                "incluirá",
+                "segundo",
+                "plan",
+                "agricultura",
+                "ecológica",
+                "plan",
+                "mo",
+                "dernización",
+                "estructuras",
+                "infraestructuras",
+                "agrarias",
+                "cooperativismo",
+                "estructuras",
+                "comerciales",
+                "i",
+                "d",
+                "i",
+                "planes",
+                "sectoriales",
+                "actuación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Reforzaremos la presencia valenciana en Bruselas para\ntrasladar las necesidades del campo valenciano en las\nnegociaciones de la PAC, los tratados comerciales y\nlograr condiciones competitivas en los mercados.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "reforzaremos",
+                "presencia",
+                "valenciana",
+                "bruselas",
+                "trasladar",
+                "necesidades",
+                "campo",
+                "valenciano",
+                "negociaciones",
+                "pac",
+                "tratados",
+                "comerciales",
+                "lograr",
+                "condiciones",
+                "competitivas",
+                "mercados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Impulsaremos la Ley de Gobierno Abierto, que abra\nlas puertas de la administración a la ciudadanía,\nque fomente su participación en la toma de decisio-\nnes y que garantice la transparencia en la gestión\ndel dinero público.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "impulsaremos",
+                "ley",
+                "gobierno",
+                "abierto",
+                "abra",
+                "puertas",
+                "administración",
+                "ciudadanía",
+                "fomente",
+                "participación",
+                "toma",
+                "decisio",
+                "nes",
+                "garantice",
+                "transparencia",
+                "gestión",
+                "dinero",
+                "público"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "Pondremos en marcha una unidad de los servicios\njurídicos de la Generalitat para recuperar el dinero\nrobado por las tramas de corrupción.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "pondremos",
+                "marcha",
+                "unidad",
+                "servicios",
+                "jurídicos",
+                "generalitat",
+                "recuperar",
+                "dinero",
+                "robado",
+                "tramas",
+                "corrupción"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": "Desarrollaremos el sistema de alertas anticorrup-\nción, así como las políticas de buen gobierno y las\nmedidas para detectar y prevenir casos de malas\nprácticas y corrupción.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "sistema",
+                "alertas",
+                "anticorrup",
+                "ción",
+                "así",
+                "políticas",
+                "buen",
+                "gobierno",
+                "medidas",
+                "detectar",
+                "prevenir",
+                "casos",
+                "malas",
+                "prácticas",
+                "corrupción"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Desarrollaremos la Ley Valenciana de Fomento de la\nResponsabilidad Social, con el fin de promover las\ncláusulas sociales en la contratación y las subven-\nciones públicas a empresas y entidades.",
+            "topics": [
+                "Sector público",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "ley",
+                "valenciana",
+                "fomento",
+                "responsabilidad",
+                "social",
+                "fin",
+                "promover",
+                "cláusulas",
+                "sociales",
+                "contratación",
+                "subven",
+                "ciones",
+                "públicas",
+                "empresas",
+                "entidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Aprobaremos la Estrategia Valenciana para la Igual-\ndad LGTBI y la Ley Valenciana de Diversidad Familiar\ny Apoyo a las Familias, que incluya el reconocimiento\nde las familias LGTBI.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "aprobaremos",
+                "estrategia",
+                "valenciana",
+                "igual",
+                "dad",
+                "lgtbi",
+                "ley",
+                "valenciana",
+                "diversidad",
+                "familiar",
+                "apoyo",
+                "familias",
+                "incluya",
+                "reconocimiento",
+                "familias",
+                "lgtbi"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Crearemos un protocolo de actuación policial contra\nla LGTBfobia y unidades policiales especializadas en\nla lucha contra los delitos de odio en poblaciones de\nmás de 50.000 habitantes.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Seguridad"
+            ],
+            "tags": [
+                "crearemos",
+                "protocolo",
+                "actuación",
+                "policial",
+                "lgtbfobia",
+                "unidades",
+                "policiales",
+                "especializadas",
+                "lucha",
+                "delitos",
+                "odio",
+                "poblaciones",
+                "50",
+                "000",
+                "habitantes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 31,
+            "body": "Incluiremos en el currículum educativo de todas las\netapas contenidos pedagógicos para entender la\ndiversidad familiar, sexual y de género.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Educación"
+            ],
+            "tags": [
+                "incluiremos",
+                "currículum",
+                "educativo",
+                "todas",
+                "etapas",
+                "contenidos",
+                "pedagógicos",
+                "entender",
+                "diversidad",
+                "familiar",
+                "sexual",
+                "género"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 32,
+            "body": "Pondremos en marcha un plan de formación en ma-\nteria de diversidad familiar, sexual y de género para\nel personal de centros educativos, universidades,\nprofesionales del ámbito sanitario, el servicio 112 y\nel resto de la administración valenciana.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Educación"
+            ],
+            "tags": [
+                "pondremos",
+                "marcha",
+                "plan",
+                "formación",
+                "ma",
+                "teria",
+                "diversidad",
+                "familiar",
+                "sexual",
+                "género",
+                "personal",
+                "centros",
+                "educativos",
+                "universidades",
+                "profesionales",
+                "ámbito",
+                "sanitario",
+                "servicio",
+                "112",
+                "resto",
+                "administración",
+                "valenciana"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 33,
+            "body": "Elaboraremos la Ley Valenciana de Empleo para\ncoordinar todas las políticas de empleo y hacerlas\nmás efectivas y personalizadas.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "elaboraremos",
+                "ley",
+                "valenciana",
+                "empleo",
+                "coordinar",
+                "todas",
+                "políticas",
+                "empleo",
+                "hacerlas",
+                "efectivas",
+                "personalizadas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 34,
+            "body": "Lucharemos contra la precariedad para favorecer la\ncontratación estable y de calidad.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "lucharemos",
+                "precariedad",
+                "favorecer",
+                "contratación",
+                "estable",
+                "calidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 35,
+            "body": "Prohibiremos la externalización de los servicios bá-\nsicos de las empresas (según la naturaleza empre-\nsarial) para evitar la precarización y la explotación\nlaboral, en especial de las mujeres.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "prohibiremos",
+                "externalización",
+                "servicios",
+                "bá",
+                "sicos",
+                "empresas",
+                "según",
+                "naturaleza",
+                "empre",
+                "sarial",
+                "evitar",
+                "precarización",
+                "explotación",
+                "laboral",
+                "especial",
+                "mujeres"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 36,
+            "body": "Intensificaremos la inspección para prevenir y san-\ncionar la economía sumergida, mal remunerada y\nprecarizada.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "intensificaremos",
+                "inspección",
+                "prevenir",
+                "san",
+                "cionar",
+                "economía",
+                "sumergida",
+                "mal",
+                "remunerada",
+                "precarizada"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 37,
+            "body": "Ampliaremos el parque público de viviendas para\nponerlo a disposición del alquiler social y del alqui-\nler asequible, con el objetivo final de que ninguna\nunidad familiar destine más del 30% de los ingresos\na su vivienda.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "ampliaremos",
+                "parque",
+                "público",
+                "viviendas",
+                "ponerlo",
+                "disposición",
+                "alquiler",
+                "social",
+                "alqui",
+                "ler",
+                "asequible",
+                "objetivo",
+                "final",
+                "ninguna",
+                "unidad",
+                "familiar",
+                "destine",
+                "30",
+                "ingresos",
+                "vivienda"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 38,
+            "body": "Implementaremos la obligación de destinar un 30%\nde la nueva construcción a vivienda protegida, con\nun 7% para alquiler joven.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "implementaremos",
+                "obligación",
+                "destinar",
+                "30",
+                "nueva",
+                "construcción",
+                "vivienda",
+                "protegida",
+                "7",
+                "alquiler",
+                "joven"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 39,
+            "body": "Crearemos una línea de ayudas específicas para\njóvenes a fin de apoyar al pago de sus alquileres con\ndiscriminación por renta y por precio de la vivienda\nalquilada.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "crearemos",
+                "línea",
+                "ayudas",
+                "específicas",
+                "jóvenes",
+                "fin",
+                "apoyar",
+                "pago",
+                "alquileres",
+                "discriminación",
+                "renta",
+                "precio",
+                "vivienda",
+                "alquilada"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 40,
+            "body": "Fomentaremos el cooperativismo de vivienda en\nderecho de uso para jóvenes, por medio de la cesión\nde terrenos públicos a precio asequible.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "fomentaremos",
+                "cooperativismo",
+                "vivienda",
+                "derecho",
+                "uso",
+                "jóvenes",
+                "medio",
+                "cesión",
+                "terrenos",
+                "públicos",
+                "precio",
+                "asequible"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 41,
+            "body": "Contrataremos más personal sanitario y mejor\nremunerado para reducir las listas de espera y au-\nmentaremos las plazas de formación MIR pediátrico,\na fin de ajustarlas a la demanda real del Sistema\nNacional de Salud.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "contrataremos",
+                "personal",
+                "sanitario",
+                "mejor",
+                "remunerado",
+                "reducir",
+                "listas",
+                "espera",
+                "au",
+                "mentaremos",
+                "plazas",
+                "formación",
+                "mir",
+                "pediátrico",
+                "fin",
+                "ajustarlas",
+                "demanda",
+                "real",
+                "sistema",
+                "nacional",
+                "salud"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 42,
+            "body": "Incluiremos los servicios psicológicos en la atención\nprimaria como recurso fundamental para desmedi-\ncalizar la atención que recibe el o la paciente en los\nproblemas de malestar emocional.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "incluiremos",
+                "servicios",
+                "psicológicos",
+                "atención",
+                "primaria",
+                "recurso",
+                "fundamental",
+                "desmedi",
+                "calizar",
+                "atención",
+                "recibe",
+                "paciente",
+                "problemas",
+                "malestar",
+                "emocional"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 43,
+            "body": "Continuaremos con la desprivatización y la recupe-\nración de las concesiones administrativas sanitarias\npara asegurar un servicio público y de calidad.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "continuaremos",
+                "desprivatización",
+                "recupe",
+                "ración",
+                "concesiones",
+                "administrativas",
+                "sanitarias",
+                "asegurar",
+                "servicio",
+                "público",
+                "calidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 44,
+            "body": "Implantaremos un Plan de salud mental que dig-\nnifique a las personas afectadas y ponga la salud\nmental en el centro de las políticas públicas dirigi-\ndas a la diversidad.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "implantaremos",
+                "plan",
+                "salud",
+                "mental",
+                "dig",
+                "nifique",
+                "personas",
+                "afectadas",
+                "ponga",
+                "salud",
+                "mental",
+                "centro",
+                "políticas",
+                "públicas",
+                "dirigi",
+                "das",
+                "diversidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 45,
+            "body": "Vincularemos el sistema de tasas universitarias a\nlos ingresos familiares para asegurar que la entrada\nen las universidades se fundamente en los méritos\ny las capacidades personales y no en la situación\neconómica de cada persona o familia.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "vincularemos",
+                "sistema",
+                "tasas",
+                "universitarias",
+                "ingresos",
+                "familiares",
+                "asegurar",
+                "entrada",
+                "universidades",
+                "fundamente",
+                "méritos",
+                "capacidades",
+                "personales",
+                "situación",
+                "económica",
+                "cada",
+                "persona",
+                "familia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 46,
+            "body": "Avanzaremos en el programa Joven Oportunidad\n(JOOP) para fortalecer el sistema de segundas opor-\ntunidades.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "avanzaremos",
+                "programa",
+                "joven",
+                "oportunidad",
+                "joop",
+                "fortalecer",
+                "sistema",
+                "segundas",
+                "opor",
+                "tunidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 47,
+            "body": "Fomentaremos la innovación juvenil en la creación\nde proyectos empresariales, especialmente los coo-\nperativos, mediante espacios públicos de proyecto y\ndeducciones fiscales durante los primeros años de\nvida de la empresa.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "fomentaremos",
+                "innovación",
+                "juvenil",
+                "creación",
+                "proyectos",
+                "empresariales",
+                "especialmente",
+                "coo",
+                "perativos",
+                "mediante",
+                "espacios",
+                "públicos",
+                "proyecto",
+                "deducciones",
+                "fiscales",
+                "primeros",
+                "años",
+                "vida",
+                "empresa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 48,
+            "body": "Crearemos el Abono Único Joven para todos los\ntransportes a fin de facilitar la movilidad y promover\nla red pública en zonas urbanas y rurales.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "crearemos",
+                "abono",
+                "único",
+                "joven",
+                "transportes",
+                "fin",
+                "facilitar",
+                "movilidad",
+                "promover",
+                "red",
+                "pública",
+                "zonas",
+                "urbanas",
+                "rurales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 49,
+            "body": "Crearemos la campaña «Elige un libro a los 6 años»\nen la que fomentaremos la lectura a través de un\ncheque que se podrá canjear en las librerías.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "crearemos",
+                "campaña",
+                "«",
+                "elige",
+                "libro",
+                "6",
+                "años",
+                "»",
+                "fomentaremos",
+                "lectura",
+                "través",
+                "cheque",
+                "podrá",
+                "canjear",
+                "librerías"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 50,
+            "body": "Impulsaremos medidas normativas como la ley de\nlas artes escénicas, el estatuto de la música o el có-\ndigo de prácticas artísticas para dotar de estabilidad\ny del apoyo necesario a los y las profesionales de los\ndiferentes sectores culturales valencianos.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "impulsaremos",
+                "medidas",
+                "normativas",
+                "ley",
+                "artes",
+                "escénicas",
+                "estatuto",
+                "música",
+                "có",
+                "digo",
+                "prácticas",
+                "artísticas",
+                "dotar",
+                "estabilidad",
+                "apoyo",
+                "necesario",
+                "profesionales",
+                "diferentes",
+                "sectores",
+                "culturales",
+                "valencianos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 51,
+            "body": "Reforzaremos el modelo del Centro de Cultura Con-\ntemporánea el Carmen, en València, con la creación\nde espacios similares en Castelló y Alicante, como\nlugares de promoción, producción e investigación\ncultural.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "reforzaremos",
+                "modelo",
+                "centro",
+                "cultura",
+                "temporánea",
+                "carmen",
+                "valència",
+                "creación",
+                "espacios",
+                "similares",
+                "castelló",
+                "alicante",
+                "lugares",
+                "promoción",
+                "producción",
+                "investigación",
+                "cultural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 52,
+            "body": "Impulsaremos, en colaboración con los ayuntamien-\ntos el programa Patrimoni Edificant para impulsar el\npatrimonio cultural valenciano en todo el territorio.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "impulsaremos",
+                "colaboración",
+                "ayuntamien",
+                "tos",
+                "programa",
+                "patrimoni",
+                "edificant",
+                "impulsar",
+                "patrimonio",
+                "cultural",
+                "valenciano",
+                "territorio"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 53,
+            "body": "Continuaremos exigiendo el cambio de sistema de\nfinanciación porque queremos respeto hacia las\nvalencianas y los valencianos. Si Compromís es de-\ncisivo en Madrid, exigirá una financiación justa para\nllegar a cualquier acuerdo de gobierno.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "continuaremos",
+                "exigiendo",
+                "cambio",
+                "sistema",
+                "financiación",
+                "queremos",
+                "respeto",
+                "hacia",
+                "valencianas",
+                "valencianos",
+                "si",
+                "compromís",
+                "cisivo",
+                "madrid",
+                "exigirá",
+                "financiación",
+                "justa",
+                "llegar",
+                "cualquier",
+                "acuerdo",
+                "gobierno"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 54,
+            "body": "Invertiremos los recursos obtenidos en la creación\nde puestos de trabajo y en unos servicios públicos\nde calidad, priorizando la reducción de listas de es-\npera en la sanidad, la eliminación de los barracones\ny mejorando los servicios sociales y la atención a la\ndependencia.",
+            "topics": [
+                "Empleo",
+                "Sector público"
+            ],
+            "tags": [
+                "invertiremos",
+                "recursos",
+                "obtenidos",
+                "creación",
+                "puestos",
+                "trabajo",
+                "servicios",
+                "públicos",
+                "calidad",
+                "priorizando",
+                "reducción",
+                "listas",
+                "pera",
+                "sanidad",
+                "eliminación",
+                "barracones",
+                "mejorando",
+                "servicios",
+                "sociales",
+                "atención",
+                "dependencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 55,
+            "body": "Exigiremos en los Presupuestos Generales del Esta-\ndo una inversión territorial no solo acorde con la po-\nblación, como recoge el Estatuto, sino que además\ncompense las décadas de déficit inversor sufridas.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "exigiremos",
+                "presupuestos",
+                "generales",
+                "do",
+                "inversión",
+                "territorial",
+                "solo",
+                "acorde",
+                "po",
+                "blación",
+                "recoge",
+                "estatuto",
+                "sino",
+                "además",
+                "compense",
+                "décadas",
+                "déficit",
+                "inversor",
+                "sufridas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 56,
+            "body": "Desarrollaremos la Agencia Tributaria Valenciana\ny modernizaremos la gestión de tributos para que\ntodas las gestiones se puedan realizar de manera\nfácil y telemática.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "agencia",
+                "tributaria",
+                "valenciana",
+                "modernizaremos",
+                "gestión",
+                "tributos",
+                "todas",
+                "gestiones",
+                "puedan",
+                "realizar",
+                "manera",
+                "fácil",
+                "telemática"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 57,
+            "body": "Pondremos en marcha un plan de lucha contra el\nfraude fiscal a través de la Agencia Tributaria Valen-\nciana y destinaremos sus recursos a fortalecer las\npolíticas sociales.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "pondremos",
+                "marcha",
+                "plan",
+                "lucha",
+                "fraude",
+                "fiscal",
+                "través",
+                "agencia",
+                "tributaria",
+                "valen",
+                "ciana",
+                "destinaremos",
+                "recursos",
+                "fortalecer",
+                "políticas",
+                "sociales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 58,
+            "body": "Continuaremos con la reforma tributaria para be-\nneficiar a las personas y familias con rentas bajas\ny medias con una fiscalidad inteligente en clave de\nsostenibilidad social y medioambiental.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "continuaremos",
+                "reforma",
+                "tributaria",
+                "be",
+                "neficiar",
+                "personas",
+                "familias",
+                "rentas",
+                "bajas",
+                "medias",
+                "fiscalidad",
+                "inteligente",
+                "clave",
+                "sostenibilidad",
+                "social",
+                "medioambiental"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}

@@ -1,0 +1,4418 @@
+{
+    "politicalParty": "Por Ávila",
+    "title": "Programa electoral Por Ávila",
+    "publicationDate": "",
+    "electionDate": "26/05/19",
+    "electionType": "Autonómicas",
+    "geographicalArea": "Castilla y León",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifiesto Project",
+    "pages": "19",
+    "numProposals": "166",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "Potenciar las actividades de los Grupos de Acción Local (GAL) de las distintas comarcas de la provincia con una mayor financiación destinada a proyectos productivos dirigidos a fijar población en el medio rural y potenciando el papel de la mujer en el medio rural.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "potenciar",
+                "actividades",
+                "grupos",
+                "acción",
+                "local",
+                "gal",
+                "distintas",
+                "comarcas",
+                "provincia",
+                "mayor",
+                "financiación",
+                "destinada",
+                "proyectos",
+                "productivos",
+                "dirigidos",
+                "fijar",
+                "población",
+                "medio",
+                "rural",
+                "potenciando",
+                "papel",
+                "mujer",
+                "medio",
+                "rural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Aumentar los puestos de trabajo en los retenes antiincendios y ampliar el contrato a los meses de invierno, con el objetivo de realizar labores de prevención en los montes.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "aumentar",
+                "puestos",
+                "trabajo",
+                "retenes",
+                "antiincendios",
+                "ampliar",
+                "contrato",
+                "meses",
+                "invierno",
+                "objetivo",
+                "realizar",
+                "labores",
+                "prevención",
+                "montes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "Apoyo al sector primario que permita el establecimiento de familias en el medio rural, la sucesión generacional y la incorporación de jóvenes al campo.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "apoyo",
+                "sector",
+                "primario",
+                "permita",
+                "establecimiento",
+                "familias",
+                "medio",
+                "rural",
+                "sucesión",
+                "generacional",
+                "incorporación",
+                "jóvenes",
+                "campo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Incentivos fiscales a emprendedores que apuesten por implantar una empresa en el medio rural.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "incentivos",
+                "fiscales",
+                "emprendedores",
+                "apuesten",
+                "implantar",
+                "empresa",
+                "medio",
+                "rural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "Ayudas a la rehabilitación de viviendas para familias jóvenes que trasladen su hogar al medio rural.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "ayudas",
+                "rehabilitación",
+                "viviendas",
+                "familias",
+                "jóvenes",
+                "trasladen",
+                "hogar",
+                "medio",
+                "rural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Favorecer la implantación de empresas de turismo activo en municipios incluidos en espacios naturales y zonas de especial relevancia por su patrimonio natural, cultural y etnográfico.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "favorecer",
+                "implantación",
+                "empresas",
+                "turismo",
+                "activo",
+                "municipios",
+                "incluidos",
+                "espacios",
+                "naturales",
+                "zonas",
+                "especial",
+                "relevancia",
+                "patrimonio",
+                "natural",
+                "cultural",
+                "etnográfico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Fomentar en la provincia un modelo de desarrollo rural basado sobre actividades respetuosas con el medio ambiente, frente a aquellas que produzcan una explotación no sostenible de los recursos naturales, incluido el paisaje.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "fomentar",
+                "provincia",
+                "modelo",
+                "desarrollo",
+                "rural",
+                "basado",
+                "actividades",
+                "respetuosas",
+                "medio",
+                "ambiente",
+                "frente",
+                "aquellas",
+                "produzcan",
+                "explotación",
+                "sostenible",
+                "recursos",
+                "naturales",
+                "incluido",
+                "paisaje"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "Potenciación del turismo rural y forestal, así como del uso recreativo y social de los montes que repercuta en las poblaciones locales.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "potenciación",
+                "turismo",
+                "rural",
+                "forestal",
+                "así",
+                "uso",
+                "recreativo",
+                "social",
+                "montes",
+                "repercuta",
+                "poblaciones",
+                "locales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "Especificar un régimen fiscal diferenciado respecto al resto del ordenamiento fiscal del Estado para contribuir al desarrollo económico, atendiendo a la dispersión geográfica: fiscalidad reducida en territorios despoblados.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "especificar",
+                "régimen",
+                "fiscal",
+                "diferenciado",
+                "respecto",
+                "resto",
+                "ordenamiento",
+                "fiscal",
+                "contribuir",
+                "desarrollo",
+                "económico",
+                "atendiendo",
+                "dispersión",
+                "geográfica",
+                "fiscalidad",
+                "reducida",
+                "territorios",
+                "despoblados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "Establecimiento de estímulos fiscales aplicados a las personas físicas y jurídicas de los territorios afectados por la despoblación y para quienes se establezcan en ellos.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "establecimiento",
+                "estímulos",
+                "fiscales",
+                "aplicados",
+                "personas",
+                "físicas",
+                "jurídicas",
+                "territorios",
+                "afectados",
+                "despoblación",
+                "establezcan"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Aumento de las ayudas destinadas a los municipios incluidos en Zonas de Influencia Socioeconómica (ZIS) en los espacios protegidos de la provincia para el desarrollo de actuaciones que influyan en la mejora y acondicionamiento de infraestructuras destinadas a dar servicio a los vecinos y a los visitantes.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "aumento",
+                "ayudas",
+                "destinadas",
+                "municipios",
+                "incluidos",
+                "zonas",
+                "influencia",
+                "socioeconómica",
+                "zis",
+                "espacios",
+                "protegidos",
+                "provincia",
+                "desarrollo",
+                "actuaciones",
+                "influyan",
+                "mejora",
+                "acondicionamiento",
+                "infraestructuras",
+                "destinadas",
+                "dar",
+                "servicio",
+                "vecinos",
+                "visitantes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Establecimiento de nuevas Áreas de Rehabilitación Integral (ARI) y de Renovación Urbana (ARU), así como de conjuntos históricos, con especial incidencia en municipios de menos de 20.000 habitantes.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "establecimiento",
+                "nuevas",
+                "áreas",
+                "rehabilitación",
+                "integral",
+                "ari",
+                "renovación",
+                "urbana",
+                "aru",
+                "así",
+                "conjuntos",
+                "históricos",
+                "especial",
+                "incidencia",
+                "municipios",
+                "menos",
+                "20",
+                "000",
+                "habitantes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Aumento en la capital del servicio de la ambulancia SVB de 14 a 24\nhoras, igual que en Las Navas del Marqués.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "aumento",
+                "capital",
+                "servicio",
+                "ambulancia",
+                "svb",
+                "14",
+                "24",
+                "horas",
+                "igual",
+                "navas",
+                "marqués"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Realización de un estudio de la conveniencia del SVB de la zona de San Pedro del Arroyo.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "realización",
+                "estudio",
+                "conveniencia",
+                "svb",
+                "zona",
+                "san",
+                "pedro",
+                "arroyo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "Aumentar el número de SVB en la zona del Valle del Tiétar con, al menos, otro vehículo.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "aumentar",
+                "número",
+                "svb",
+                "zona",
+                "valle",
+                "tiétar",
+                "menos",
+                "vehículo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Transporte individualizado para pacientes oncológicos, acorde a las necesidades de cada paciente y en función de su patología, de la misma forma que para los pacientes que deben trasladarse a los hospitales de referencia con patologías que no son tratadas por la cartera de servicios del Complejo Asistencial de Ávila.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "transporte",
+                "individualizado",
+                "pacientes",
+                "oncológicos",
+                "acorde",
+                "necesidades",
+                "cada",
+                "paciente",
+                "función",
+                "patología",
+                "misma",
+                "forma",
+                "pacientes",
+                "deben",
+                "trasladarse",
+                "hospitales",
+                "referencia",
+                "patologías",
+                "tratadas",
+                "cartera",
+                "servicios",
+                "complejo",
+                "asistencial",
+                "ávila"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "Implantación de un sistema de transporte sanitario a demanda, ante la cada vez más complicada cobertura sanitaria en muchos lugares de la provincia. Así, se favorecería que los pacientes acudan a un profesional localizado en un centro con todas las garantías de atención.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "implantación",
+                "sistema",
+                "transporte",
+                "sanitario",
+                "demanda",
+                "cada",
+                "vez",
+                "complicada",
+                "cobertura",
+                "sanitaria",
+                "lugares",
+                "provincia",
+                "así",
+                "favorecería",
+                "pacientes",
+                "acudan",
+                "profesional",
+                "localizado",
+                "centro",
+                "todas",
+                "garantías",
+                "atención"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Ajustar la cartera de servicios del Complejo Asistencial a las necesidades de la población.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "ajustar",
+                "cartera",
+                "servicios",
+                "complejo",
+                "asistencial",
+                "necesidades",
+                "población"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Priorizar el papel del personal de Enfermería en los “cuidados de Enfermería” al paciente crónico, que es el que más demanda estos cuidados, con el fin de evitar complicaciones y derivaciones sanitarias a centros que no son el lugar habitual en el que vive el paciente crónico. Esto favorecería la continuidad asistencial en el cuidado y control del paciente crónico y disminuiría el número de ingresos hospitalarios y sus múltiples complicaciones para los pacientes.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "priorizar",
+                "papel",
+                "personal",
+                "enfermería",
+                "“",
+                "cuidados",
+                "enfermería",
+                "”",
+                "paciente",
+                "crónico",
+                "demanda",
+                "cuidados",
+                "fin",
+                "evitar",
+                "complicaciones",
+                "derivaciones",
+                "sanitarias",
+                "centros",
+                "lugar",
+                "habitual",
+                "vive",
+                "paciente",
+                "crónico",
+                "favorecería",
+                "continuidad",
+                "asistencial",
+                "cuidado",
+                "control",
+                "paciente",
+                "crónico",
+                "disminuiría",
+                "número",
+                "ingresos",
+                "hospitalarios",
+                "múltiples",
+                "complicaciones",
+                "pacientes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Establecimiento de personal cualificado que atienda de forma específica a personas mayores que vivan solas y precisan de ayuda o compañía. Este equipo de personas también se puede ocupar del cuidado de los pacientes ingresados en los centros hospitalarios, aumentando los cuidados de calidad y acabando con la economía sumergida en el entorno del cuidado de personas en los hospitales.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "establecimiento",
+                "personal",
+                "cualificado",
+                "atienda",
+                "forma",
+                "específica",
+                "personas",
+                "mayores",
+                "vivan",
+                "solas",
+                "precisan",
+                "ayuda",
+                "compañía",
+                "equipo",
+                "personas",
+                "puede",
+                "ocupar",
+                "cuidado",
+                "pacientes",
+                "ingresados",
+                "centros",
+                "hospitalarios",
+                "aumentando",
+                "cuidados",
+                "calidad",
+                "acabando",
+                "economía",
+                "sumergida",
+                "entorno",
+                "cuidado",
+                "personas",
+                "hospitales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Igualdad de condiciones en la cartera de servicios en atención hospitalaria Es de justicia que todos los habitantes de Castilla y León, incluidos los de la provincia de Ávila, sean atendidos hospitalariamente en condiciones de igualdad útiles, pero también atendiendo a la pirámide poblacional y a las necesidades asistenciales.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "igualdad",
+                "condiciones",
+                "cartera",
+                "servicios",
+                "atención",
+                "hospitalaria",
+                "justicia",
+                "habitantes",
+                "castilla",
+                "león",
+                "incluidos",
+                "provincia",
+                "ávila",
+                "atendidos",
+                "hospitalariamente",
+                "condiciones",
+                "igualdad",
+                "útiles",
+                "atendiendo",
+                "pirámide",
+                "poblacional",
+                "necesidades",
+                "asistenciales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "Defenderemos una radioterapia de calidad.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "defenderemos",
+                "radioterapia",
+                "calidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "Poner en marcha una unidad de ictus",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "poner",
+                "marcha",
+                "unidad",
+                "ictus"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Poner en marcha una unidad de hemodinámica y cirugía vascula",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "poner",
+                "marcha",
+                "unidad",
+                "hemodinámica",
+                "cirugía",
+                "vascula"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Transporte adecuado para los pacientes que deban acudir por estas cuestiones desde poblaciones cercanas a la capital abulense.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "transporte",
+                "adecuado",
+                "pacientes",
+                "deban",
+                "acudir",
+                "cuestiones",
+                "poblaciones",
+                "cercanas",
+                "capital",
+                "abulense"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "Convenios sanitarios intrahospitalarios en la propia comunidad autónoma o con comunidades limítrofes para la atención de pacientes por estas cuestiones que viven en poblaciones más alejadas de la capital abulense: Salamanca, Talavera de la Reina (Toledo) o Madrid.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "convenios",
+                "sanitarios",
+                "intrahospitalarios",
+                "propia",
+                "comunidad",
+                "autónoma",
+                "comunidades",
+                "limítrofes",
+                "atención",
+                "pacientes",
+                "cuestiones",
+                "viven",
+                "poblaciones",
+                "alejadas",
+                "capital",
+                "abulense",
+                "salamanca",
+                "talavera",
+                "reina",
+                "toledo",
+                "madrid"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": "Establecer convenios con hospitales de otras comunidades autónomas para evitar desplazamientos tediosos a los pacientes para consultas e ingresos hospitalarios, especialmente en las poblaciones más alejadas de la capital abulense.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "establecer",
+                "convenios",
+                "hospitales",
+                "comunidades",
+                "autónomas",
+                "evitar",
+                "desplazamientos",
+                "tediosos",
+                "pacientes",
+                "consultas",
+                "ingresos",
+                "hospitalarios",
+                "especialmente",
+                "poblaciones",
+                "alejadas",
+                "capital",
+                "abulense"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Adquisición de desfibriladores para alcanzar una ratio correcta.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "adquisición",
+                "desfibriladores",
+                "alcanzar",
+                "ratio",
+                "correcta"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Educación en primeros auxilios y uso de desfibriladores en centros educativos, asociaciones, clubes deportivos y a cualquier persona interesada, mediante una formación en la que la Administración autonómica, competente en materia de salud, colabore con la administración local.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "educación",
+                "primeros",
+                "auxilios",
+                "uso",
+                "desfibriladores",
+                "centros",
+                "educativos",
+                "asociaciones",
+                "clubes",
+                "deportivos",
+                "cualquier",
+                "persona",
+                "interesada",
+                "mediante",
+                "formación",
+                "administración",
+                "autonómica",
+                "competente",
+                "materia",
+                "salud",
+                "colabore",
+                "administración",
+                "local"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Habilitar en Atención Primaria tres tipos de consulta: atención sanitaria programada (llevada a cabo por el facultativo asignado o, si tiene la agenda completa, otro facultativo que después reportaría al titular), atención sanitaria urgente (realizada por el Servicio de Urgencias de Atención Primaria durante 24 horas, no de 15.00 a 8.00 horas, como en la actualidad) y atención sanitaria no urgente del día.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "habilitar",
+                "atención",
+                "primaria",
+                "tres",
+                "tipos",
+                "consulta",
+                "atención",
+                "sanitaria",
+                "programada",
+                "llevada",
+                "cabo",
+                "facultativo",
+                "asignado",
+                "si",
+                "agenda",
+                "completa",
+                "facultativo",
+                "después",
+                "reportaría",
+                "titular",
+                "atención",
+                "sanitaria",
+                "urgente",
+                "realizada",
+                "servicio",
+                "urgencias",
+                "atención",
+                "primaria",
+                "24",
+                "horas",
+                "15",
+                "00",
+                "8",
+                "00",
+                "horas",
+                "actualidad",
+                "atención",
+                "sanitaria",
+                "urgente",
+                "día"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 31,
+            "body": "Aumento de recursos y personal de Enfermería en Atención Primaria.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "aumento",
+                "recursos",
+                "personal",
+                "enfermería",
+                "atención",
+                "primaria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 32,
+            "body": "Las enfermedades y los enfermos no entienden de horarios, por lo que es impensable realizar inversiones millonarias en equipamiento e instalaciones en los hospitales y utilizarlos sólo en horario de mañana. Se propone la ampliación del horario para las instalaciones y el equipamiento sanitario.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "enfermedades",
+                "enfermos",
+                "entienden",
+                "horarios",
+                "impensable",
+                "realizar",
+                "inversiones",
+                "millonarias",
+                "equipamiento",
+                "instalaciones",
+                "hospitales",
+                "utilizarlos",
+                "sólo",
+                "horario",
+                "mañana",
+                "propone",
+                "ampliación",
+                "horario",
+                "instalaciones",
+                "equipamiento",
+                "sanitario"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 33,
+            "body": "Recuperar el proyecto del centro de salud de Atención Primaria en la zona de Las Hervencias, con el objetivo de descongestionar los centros de 7 salud Norte y de La Estación y proporcionar una mejor atención, con menos tiempo de espera, a los pacientes.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "recuperar",
+                "proyecto",
+                "centro",
+                "salud",
+                "atención",
+                "primaria",
+                "zona",
+                "hervencias",
+                "objetivo",
+                "descongestionar",
+                "centros",
+                "7",
+                "salud",
+                "norte",
+                "estación",
+                "proporcionar",
+                "mejor",
+                "atención",
+                "menos",
+                "tiempo",
+                "espera",
+                "pacientes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 34,
+            "body": "Realización de talleres ambientales destinados a toda la población.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "realización",
+                "talleres",
+                "ambientales",
+                "destinados",
+                "toda",
+                "población"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 35,
+            "body": "Jornadas de sensibilización ambiental para la población sobre la problemática ambiental existente en las distintas comarcas.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "jornadas",
+                "sensibilización",
+                "ambiental",
+                "población",
+                "problemática",
+                "ambiental",
+                "existente",
+                "distintas",
+                "comarcas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 36,
+            "body": "Potenciar el ecoturismo a través de planes o programas de turismo ecológico.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "potenciar",
+                "ecoturismo",
+                "través",
+                "planes",
+                "programas",
+                "turismo",
+                "ecológico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 37,
+            "body": "Diseño de una aplicación (app) para dispositivos móviles que exponga las opciones de turismo de naturaleza que ofrecen las distintas comarcas de la provincia.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "diseño",
+                "aplicación",
+                "app",
+                "dispositivos",
+                "móviles",
+                "exponga",
+                "opciones",
+                "turismo",
+                "naturaleza",
+                "ofrecen",
+                "distintas",
+                "comarcas",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 38,
+            "body": "Creación de huertos escolares en los colegios de la provincia.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "creación",
+                "huertos",
+                "escolares",
+                "colegios",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 39,
+            "body": "Educación ambiental para la puesta en valor de la vida rural y la producción agropecuaria y forestal ambientalmente sostenibles.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "educación",
+                "ambiental",
+                "puesta",
+                "valor",
+                "vida",
+                "rural",
+                "producción",
+                "agropecuaria",
+                "forestal",
+                "ambientalmente",
+                "sostenibles"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 40,
+            "body": "Fomento de la investigación científica y técnica en materia de medio ambiente y la transferencia de la investigación entre los centros de investigación, las empresas del sector y las administraciones públicas.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "fomento",
+                "investigación",
+                "científica",
+                "técnica",
+                "materia",
+                "medio",
+                "ambiente",
+                "transferencia",
+                "investigación",
+                "centros",
+                "investigación",
+                "empresas",
+                "sector",
+                "administraciones",
+                "públicas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 41,
+            "body": "Potenciación del voluntariado ambiental y la realización de actividades de educación ambiental, especialmente en espacios naturales y protegidos.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "potenciación",
+                "voluntariado",
+                "ambiental",
+                "realización",
+                "actividades",
+                "educación",
+                "ambiental",
+                "especialmente",
+                "espacios",
+                "naturales",
+                "protegidos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 42,
+            "body": "Favorecer la implantación de plantas y parques de energías renovables (eólica, fotovoltaica, biomasa…) en la provincia de Ávila. Son industrias que permiten el autoconsumo en municipios o en parte de ellos a través de energía limpia.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "favorecer",
+                "implantación",
+                "plantas",
+                "parques",
+                "energías",
+                "renovables",
+                "eólica",
+                "fotovoltaica",
+                "biomasa…",
+                "provincia",
+                "ávila",
+                "industrias",
+                "permiten",
+                "autoconsumo",
+                "municipios",
+                "parte",
+                "través",
+                "energía",
+                "limpia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 43,
+            "body": "Aumentar la red de recarga de coches eléctricos en la provincia.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "aumentar",
+                "red",
+                "recarga",
+                "coches",
+                "eléctricos",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 44,
+            "body": "Reducir el consumo de energía y utilización de elementos con la mejor eficiencia energética disponible, mediante la instalación de elementos generadores de energía para autoconsumo en lugares públicos.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "reducir",
+                "consumo",
+                "energía",
+                "utilización",
+                "elementos",
+                "mejor",
+                "eficiencia",
+                "energética",
+                "disponible",
+                "mediante",
+                "instalación",
+                "elementos",
+                "generadores",
+                "energía",
+                "autoconsumo",
+                "lugares",
+                "públicos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 45,
+            "body": "Llevar a cabo un plan de reforestación de los montes de la provincia como medida de mitigación del cambio climático.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "llevar",
+                "cabo",
+                "plan",
+                "reforestación",
+                "montes",
+                "provincia",
+                "medida",
+                "mitigación",
+                "cambio",
+                "climático"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 46,
+            "body": "Fomentar los aprovechamientos forestales maderables y no maderables (castaña, piñón, setas, miel, etc.) para favorecer un desarrollo rural en el que las comunidades rurales se beneficien del monte.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "fomentar",
+                "aprovechamientos",
+                "forestales",
+                "maderables",
+                "maderables",
+                "castaña",
+                "piñón",
+                "setas",
+                "miel",
+                "etc",
+                "favorecer",
+                "desarrollo",
+                "rural",
+                "comunidades",
+                "rurales",
+                "beneficien",
+                "monte"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 47,
+            "body": "Potenciación de tratamientos selvícolas en los montes, con el fin de obtener rentas forestales, generar empleo en el medio rural y reducir el riesgo de incendios. Todo ello, dentro de una adecuada planificación forestal.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "potenciación",
+                "tratamientos",
+                "selvícolas",
+                "montes",
+                "fin",
+                "obtener",
+                "rentas",
+                "forestales",
+                "generar",
+                "empleo",
+                "medio",
+                "rural",
+                "reducir",
+                "riesgo",
+                "incendios",
+                "ello",
+                "dentro",
+                "adecuada",
+                "planificación",
+                "forestal"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 48,
+            "body": "- Fomento de la repoblación forestal en terrenos desarbolados, tanto públicos como privados, y la restauración forestal de terrenos degradados y afectados por la erosión (según el Inventario Nacional de Erosión de Suelos).",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "fomento",
+                "repoblación",
+                "forestal",
+                "terrenos",
+                "desarbolados",
+                "públicos",
+                "privados",
+                "restauración",
+                "forestal",
+                "terrenos",
+                "degradados",
+                "afectados",
+                "erosión",
+                "según",
+                "inventario",
+                "nacional",
+                "erosión",
+                "suelos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 49,
+            "body": "Proyecto de regeneración de las dehesas. Debido a las dificultades de regeneración de las dehesas (de encina, roble y fresno), incentivar con ayudas a los propietarios públicos o privados a establecer medidas de regeneración.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "proyecto",
+                "regeneración",
+                "dehesas",
+                "debido",
+                "dificultades",
+                "regeneración",
+                "dehesas",
+                "encina",
+                "roble",
+                "fresno",
+                "incentivar",
+                "ayudas",
+                "propietarios",
+                "públicos",
+                "privados",
+                "establecer",
+                "medidas",
+                "regeneración"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 50,
+            "body": "Fomento de medidas de conservación del suelo en la actividad agrícola y forestal, especialmente en cultivos leñosos de secano.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "fomento",
+                "medidas",
+                "conservación",
+                "suelo",
+                "actividad",
+                "agrícola",
+                "forestal",
+                "especialmente",
+                "cultivos",
+                "leñosos",
+                "secano"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 51,
+            "body": "Realización de desbroces mecanizados para aumentar la producción de pastos y reducir el riesgo de incendios.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "realización",
+                "desbroces",
+                "mecanizados",
+                "aumentar",
+                "producción",
+                "pastos",
+                "reducir",
+                "riesgo",
+                "incendios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 52,
+            "body": "Construcción de pantallas naturales para evitar contaminación atmosférica y acústica.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "construcción",
+                "pantallas",
+                "naturales",
+                "evitar",
+                "contaminación",
+                "atmosférica",
+                "acústica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 53,
+            "body": "Contribuir a que los municipios puedan acometer programas de limpieza de las orillas de los ríos de la provincia.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "contribuir",
+                "municipios",
+                "puedan",
+                "acometer",
+                "programas",
+                "limpieza",
+                "orillas",
+                "ríos",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 54,
+            "body": "Ayudas a la realización de planes de autoprotección contra incendios en municipios y montes de la provincia con mayor riesgo de sufrirlos.",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "ayudas",
+                "realización",
+                "planes",
+                "autoprotección",
+                "incendios",
+                "municipios",
+                "montes",
+                "provincia",
+                "mayor",
+                "riesgo",
+                "sufrirlos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 55,
+            "body": "Incentivar la plantación de especies autóctonas como elementos ornamentales en parques y jardines.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "incentivar",
+                "plantación",
+                "especies",
+                "autóctonas",
+                "elementos",
+                "ornamentales",
+                "parques",
+                "jardines"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 56,
+            "body": "Creación de vías verdes en la provincia.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "creación",
+                "vías",
+                "verdes",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 57,
+            "body": "Elaboración de estrategias para la conservación de flora y fauna de la provincia.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "elaboración",
+                "estrategias",
+                "conservación",
+                "flora",
+                "fauna",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 58,
+            "body": "Gestión adecuada de los espacios protegidos para conseguir el mejor estado natural posible.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "gestión",
+                "adecuada",
+                "espacios",
+                "protegidos",
+                "conseguir",
+                "mejor",
+                "natural",
+                "posible"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 59,
+            "body": "Redacción de Planes de Ordenación de los Recursos Naturales (PORN) en los espacios naturales de la provincia que carecen de ellos (Valle de Iruelas y sierras de La Paramera y La Serrota).",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "redacción",
+                "planes",
+                "ordenación",
+                "recursos",
+                "naturales",
+                "porn",
+                "espacios",
+                "naturales",
+                "provincia",
+                "carecen",
+                "valle",
+                "iruelas",
+                "sierras",
+                "paramera",
+                "serrota"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 60,
+            "body": "- Introducir el factor ambiental en el urbanismo y la ordenación del territorio (ruido, contaminación, paisaje, etc.).",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "introducir",
+                "factor",
+                "ambiental",
+                "urbanismo",
+                "ordenación",
+                "territorio",
+                "ruido",
+                "contaminación",
+                "paisaje",
+                "etc"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 61,
+            "body": "Ayudas a la realización de auditorías ambientales en los principales municipios de la provincia.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "ayudas",
+                "realización",
+                "auditorías",
+                "ambientales",
+                "principales",
+                "municipios",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 62,
+            "body": "Favorecer el aprovechamiento silvopastoral de las masas forestales para la reducción del combustible natural.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "favorecer",
+                "aprovechamiento",
+                "silvopastoral",
+                "masas",
+                "forestales",
+                "reducción",
+                "combustible",
+                "natural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 63,
+            "body": "Implantación de ventajas fiscales para industrias forestales, con el objetivo de fortalecer la relación monte-industria y, de esta manera, garantizar la sostenibilidad económica de los tratamientos selvícolas",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "implantación",
+                "ventajas",
+                "fiscales",
+                "industrias",
+                "forestales",
+                "objetivo",
+                "fortalecer",
+                "relación",
+                "monte",
+                "industria",
+                "manera",
+                "garantizar",
+                "sostenibilidad",
+                "económica",
+                "tratamientos",
+                "selvícolas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 64,
+            "body": "Colaborar con los municipios y con los organismos de cuenca en el abastecimiento a las poblaciones, potabilización y depuración de aguas, planes de emergencia frente a la sequía y planes de inundaciones.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "colaborar",
+                "municipios",
+                "organismos",
+                "cuenca",
+                "abastecimiento",
+                "poblaciones",
+                "potabilización",
+                "depuración",
+                "aguas",
+                "planes",
+                "emergencia",
+                "frente",
+                "sequía",
+                "planes",
+                "inundaciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 65,
+            "body": "Fomento de la plantación de choperas de producción en espacios adecuados y sin impacto ambiental.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "fomento",
+                "plantación",
+                "choperas",
+                "producción",
+                "espacios",
+                "adecuados",
+                "impacto",
+                "ambiental"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 66,
+            "body": "Gestión cinegética y piscícola basadas sobre la conservación de especies autóctonas, eliminación de especies exóticas invasoras, economía del medio rural, compatibilidad con la actividad agrícola y ganadera y con la seguridad vial.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "gestión",
+                "cinegética",
+                "piscícola",
+                "basadas",
+                "conservación",
+                "especies",
+                "autóctonas",
+                "eliminación",
+                "especies",
+                "exóticas",
+                "invasoras",
+                "economía",
+                "medio",
+                "rural",
+                "compatibilidad",
+                "actividad",
+                "agrícola",
+                "ganadera",
+                "seguridad",
+                "vial"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 67,
+            "body": "Gestión de la fauna silvestre compatible con las actividades agrícolas y ganaderas.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "gestión",
+                "fauna",
+                "silvestre",
+                "compatible",
+                "actividades",
+                "agrícolas",
+                "ganaderas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 68,
+            "body": "Potenciar el sistema de recogida y reciclado de los residuos en los municipios de la provincia.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "potenciar",
+                "sistema",
+                "recogida",
+                "reciclado",
+                "residuos",
+                "municipios",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 69,
+            "body": "Promocionar la utilización de los puntos limpios y adecuarlos a la ley vigente.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "promocionar",
+                "utilización",
+                "puntos",
+                "limpios",
+                "adecuarlos",
+                "ley",
+                "vigente"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 70,
+            "body": "Creación de nuevos puntos limpios en la provincia.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "creación",
+                "nuevos",
+                "puntos",
+                "limpios",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 71,
+            "body": "Apostar por la revalorización de los residuos.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "apostar",
+                "revalorización",
+                "residuos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 72,
+            "body": "Pacto sobre la Política Agraria Común (PAC). Esta política debe ser la columna vertebral del proyecto europeo y, por lo tanto, de la economía vinculada al sector en la provincia de Ávila, ayudando a reducir la brecha entre el mundo rural y urbano y potenciando el proceso completo: desde el cultivo y la producción a su transformación y comercialización.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "pacto",
+                "política",
+                "agraria",
+                "común",
+                "pac",
+                "política",
+                "debe",
+                "ser",
+                "columna",
+                "vertebral",
+                "proyecto",
+                "europeo",
+                "economía",
+                "vinculada",
+                "sector",
+                "provincia",
+                "ávila",
+                "ayudando",
+                "reducir",
+                "brecha",
+                "mundo",
+                "rural",
+                "urbano",
+                "potenciando",
+                "proceso",
+                "completo",
+                "cultivo",
+                "producción",
+                "transformación",
+                "comercialización"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 73,
+            "body": "Apoyo prioritario a explotaciones profesionales agrícolas y ganaderas y defensa del suelo agrario.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "apoyo",
+                "prioritario",
+                "explotaciones",
+                "profesionales",
+                "agrícolas",
+                "ganaderas",
+                "defensa",
+                "suelo",
+                "agrario"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 74,
+            "body": "Desarrollar un Plan Agroforestal como herramienta de ordenación del territorio y para promover cultivos, variedades y producciones alternativas con un alto valor añadido en función de la comarca.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "desarrollar",
+                "plan",
+                "agroforestal",
+                "herramienta",
+                "ordenación",
+                "territorio",
+                "promover",
+                "cultivos",
+                "variedades",
+                "producciones",
+                "alternativas",
+                "alto",
+                "valor",
+                "añadido",
+                "función",
+                "comarca"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 75,
+            "body": "Incentivar una industria transformadora de producto ecológico vinculada a esta producción.",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "incentivar",
+                "industria",
+                "transformadora",
+                "producto",
+                "ecológico",
+                "vinculada",
+                "producción"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 76,
+            "body": "Potenciación de figuras de calidad para impulsar la industria agroalimentaria de la provincia.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "potenciación",
+                "figuras",
+                "calidad",
+                "impulsar",
+                "industria",
+                "agroalimentaria",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 77,
+            "body": "Aumento de las plazas públicas en centros residenciales dependientes de la Junta de Castilla y León y ocupación de las plazas (un ala completa de la residencia de la Junta en Ávila se encuentra cerrada).",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "aumento",
+                "plazas",
+                "públicas",
+                "centros",
+                "residenciales",
+                "dependientes",
+                "junta",
+                "castilla",
+                "león",
+                "ocupación",
+                "plazas",
+                "ala",
+                "completa",
+                "residencia",
+                "junta",
+                "ávila",
+                "encuentra",
+                "cerrada"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 78,
+            "body": "Aumento de la ratio de trabajador/usuario de los centros residenciales.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "aumento",
+                "ratio",
+                "trabajador",
+                "usuario",
+                "centros",
+                "residenciales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 79,
+            "body": "Reagrupamiento de los usuarios de centros residenciales en la provincia elegida o de nacimiento.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "reagrupamiento",
+                "usuarios",
+                "centros",
+                "residenciales",
+                "provincia",
+                "elegida",
+                "nacimiento"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 80,
+            "body": "Agilizar y simplificar los trámites de la Ley de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia (en la actualidad, tienen seis meses de plazo para resolver los expedientes)",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "agilizar",
+                "simplificar",
+                "trámites",
+                "ley",
+                "promoción",
+                "autonomía",
+                "personal",
+                "atención",
+                "personas",
+                "situación",
+                "dependencia",
+                "actualidad",
+                "seis",
+                "meses",
+                "plazo",
+                "resolver",
+                "expedientes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 81,
+            "body": "Creación de centros de lectoescritura y descanso con horario limitado para facilitar la conciliación de la vida laboral y familiar en horarios laborales.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "centros",
+                "lectoescritura",
+                "descanso",
+                "horario",
+                "limitado",
+                "facilitar",
+                "conciliación",
+                "vida",
+                "laboral",
+                "familiar",
+                "horarios",
+                "laborales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 82,
+            "body": "Cesión de espacios a colectivos para la realización de cursos formativos, charlas y actos culturales, ocio y entretenimiento para toda la familia. Impulsar espacios familiares de ocio.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "cesión",
+                "espacios",
+                "colectivos",
+                "realización",
+                "cursos",
+                "formativos",
+                "charlas",
+                "actos",
+                "culturales",
+                "ocio",
+                "entretenimiento",
+                "toda",
+                "familia",
+                "impulsar",
+                "espacios",
+                "familiares",
+                "ocio"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 83,
+            "body": "Celebrar una feria que incluya encuentros para fomentar el desarrollo emocional familiar y la actividad familiar conjunta.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "celebrar",
+                "feria",
+                "incluya",
+                "encuentros",
+                "fomentar",
+                "desarrollo",
+                "emocional",
+                "familiar",
+                "actividad",
+                "familiar",
+                "conjunta"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 84,
+            "body": "Incluir el arte callejero y la pintura en espacios naturales con mensajes y motivos variados.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "incluir",
+                "arte",
+                "callejero",
+                "pintura",
+                "espacios",
+                "naturales",
+                "mensajes",
+                "motivos",
+                "variados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 85,
+            "body": "Dotar una línea de subvenciones para madres desempleadas que les facilite la inserción laboral mediante la creación de oportunidades y el 12 cuidado de los hijos. Completarla con bolsas de trabajo y centros de apoyo a la familia.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "dotar",
+                "línea",
+                "subvenciones",
+                "madres",
+                "desempleadas",
+                "facilite",
+                "inserción",
+                "laboral",
+                "mediante",
+                "creación",
+                "oportunidades",
+                "12",
+                "cuidado",
+                "hijos",
+                "completarla",
+                "bolsas",
+                "trabajo",
+                "centros",
+                "apoyo",
+                "familia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 86,
+            "body": "Línea de ayudas para comedores en periodos vacacionales destinada a rentas bajas y familias numerosas.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "línea",
+                "ayudas",
+                "comedores",
+                "periodos",
+                "vacacionales",
+                "destinada",
+                "rentas",
+                "bajas",
+                "familias",
+                "numerosas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 87,
+            "body": "Programa de ayuda a madres trabajadoras por el cuidado de hijos como para promover la lactancia, asesoría laboral, oportunidades, etc.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "programa",
+                "ayuda",
+                "madres",
+                "trabajadoras",
+                "cuidado",
+                "hijos",
+                "promover",
+                "lactancia",
+                "asesoría",
+                "laboral",
+                "oportunidades",
+                "etc"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 88,
+            "body": "Impulsar una red de establecimientos ‘Amigos de las familias’, con distintivos en función de las comodidades destinadas a las familias: menú infantil saludable, preparación de comida apta para bebés, zona de lactancia, vajilla infantil, tronas, aparcamiento de carros, etc.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "impulsar",
+                "red",
+                "establecimientos",
+                "‘",
+                "amigos",
+                "familias",
+                "’",
+                "distintivos",
+                "función",
+                "comodidades",
+                "destinadas",
+                "familias",
+                "menú",
+                "infantil",
+                "saludable",
+                "preparación",
+                "comida",
+                "apta",
+                "bebés",
+                "zona",
+                "lactancia",
+                "vajilla",
+                "infantil",
+                "tronas",
+                "aparcamiento",
+                "carros",
+                "etc"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 89,
+            "body": "Creación de un parque público de vivienda de alquiler destinada a jóvenes y a familias con bajos recursos.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "creación",
+                "parque",
+                "público",
+                "vivienda",
+                "alquiler",
+                "destinada",
+                "jóvenes",
+                "familias",
+                "bajos",
+                "recursos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 90,
+            "body": "Incentivos a la rehabilitación y compra de primeras viviendas en el medio rural.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "incentivos",
+                "rehabilitación",
+                "compra",
+                "primeras",
+                "viviendas",
+                "medio",
+                "rural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 91,
+            "body": "Impulsar el alquiler con opción a compra dirigido a jóvenes.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "impulsar",
+                "alquiler",
+                "opción",
+                "compra",
+                "dirigido",
+                "jóvenes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 92,
+            "body": "Complementar las ayudas a la conciliación del Gobierno central en relación a los permisos de maternidad y paternidad.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "complementar",
+                "ayudas",
+                "conciliación",
+                "gobierno",
+                "central",
+                "relación",
+                "permisos",
+                "maternidad",
+                "paternidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 93,
+            "body": "Implantación progresiva de ayudas para la conciliación de la vida laboral y familiar, priorizando las excedencias durante los 12 primeros meses de vida del hijo, la corresponsabilización de ambos progenitores y las reducciones de jornada para familias con miembros a su cargo con necesidades especiales.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "implantación",
+                "progresiva",
+                "ayudas",
+                "conciliación",
+                "vida",
+                "laboral",
+                "familiar",
+                "priorizando",
+                "excedencias",
+                "12",
+                "primeros",
+                "meses",
+                "vida",
+                "hijo",
+                "corresponsabilización",
+                "ambos",
+                "progenitores",
+                "reducciones",
+                "jornada",
+                "familias",
+                "miembros",
+                "cargo",
+                "necesidades",
+                "especiales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 94,
+            "body": "Incentivar proyectos piloto de guarderías en centros de trabajo.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "incentivar",
+                "proyectos",
+                "piloto",
+                "guarderías",
+                "centros",
+                "trabajo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 95,
+            "body": "Supresión total del Impuesto de Sucesiones y Donaciones de padres a hijos, en las dos modalidades, tanto sucesiones como donaciones.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "supresión",
+                "total",
+                "impuesto",
+                "sucesiones",
+                "donaciones",
+                "padres",
+                "hijos",
+                "dos",
+                "modalidades",
+                "sucesiones",
+                "donaciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 96,
+            "body": "Bonificación y descuentos para familias numerosas en eventos y espectáculos organizados por la Junta de Castilla y León.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "bonificación",
+                "descuentos",
+                "familias",
+                "numerosas",
+                "eventos",
+                "espectáculos",
+                "organizados",
+                "junta",
+                "castilla",
+                "león"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 97,
+            "body": "Creación de una Ventanilla Única destinada a familias numerosas, para agilizar trámites, información y asesoramiento actualizado.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "ventanilla",
+                "única",
+                "destinada",
+                "familias",
+                "numerosas",
+                "agilizar",
+                "trámites",
+                "información",
+                "asesoramiento",
+                "actualizado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 98,
+            "body": "La Administración autonómica debe destinar recursos para cubrir la ratio de profesorado/alumnado acorde a los criterios de la OCDE, mediante la convocatoria de una oferta pública de empleo que cubra las necesidades actuales.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "administración",
+                "autonómica",
+                "debe",
+                "destinar",
+                "recursos",
+                "cubrir",
+                "ratio",
+                "profesorado",
+                "alumnado",
+                "acorde",
+                "criterios",
+                "ocde",
+                "mediante",
+                "convocatoria",
+                "oferta",
+                "pública",
+                "empleo",
+                "cubra",
+                "necesidades",
+                "actuales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 99,
+            "body": "Trabajo con instituciones escolares para educar en la igualdad de oportunidades, contra las desigualdades sociales y contra aspectos como el ciberacoso o el bullying.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "trabajo",
+                "instituciones",
+                "escolares",
+                "educar",
+                "igualdad",
+                "oportunidades",
+                "desigualdades",
+                "sociales",
+                "aspectos",
+                "ciberacoso",
+                "bullying"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 100,
+            "body": "Dotar de recursos las instituciones escolares, mediante programas que trabajen contra la exclusión del alumnado.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "dotar",
+                "recursos",
+                "instituciones",
+                "escolares",
+                "mediante",
+                "programas",
+                "trabajen",
+                "exclusión",
+                "alumnado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 101,
+            "body": "Fomentar la creación de programas de formación para el profesorado de ayuda a las familias y de recursos para los jóvenes.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "fomentar",
+                "creación",
+                "programas",
+                "formación",
+                "profesorado",
+                "ayuda",
+                "familias",
+                "recursos",
+                "jóvenes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 102,
+            "body": "Refuerzo de programas de orientación escolar sin sesgo de género.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "refuerzo",
+                "programas",
+                "orientación",
+                "escolar",
+                "sesgo",
+                "género"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 103,
+            "body": "Educación afectivo-sexual y de prevención de violencia de género en todas las etapas educativas.",
+            "topics": [
+                "Educación",
+                "Igualdad de género"
+            ],
+            "tags": [
+                "educación",
+                "afectivo",
+                "sexual",
+                "prevención",
+                "violencia",
+                "género",
+                "todas",
+                "etapas",
+                "educativas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 104,
+            "body": "Mejora de las políticas y medidas necesarias para garantizar la atención de calidad al alumnado con necesidades especiales.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "mejora",
+                "políticas",
+                "medidas",
+                "necesarias",
+                "garantizar",
+                "atención",
+                "calidad",
+                "alumnado",
+                "necesidades",
+                "especiales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 105,
+            "body": "Revisión y mejora de planes de atención a la diversidad, al alumnado inmigrante y al alumnado de altas capacidades.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "revisión",
+                "mejora",
+                "planes",
+                "atención",
+                "diversidad",
+                "alumnado",
+                "inmigrante",
+                "alumnado",
+                "altas",
+                "capacidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 106,
+            "body": "Sector agrario. Implantación de ciclos formativos y grados de actividades agropecuarias, producción agropecuaria, ganadería y asistencia en sanidad animal, aprovechamiento forestal, aprovechamiento y conservación del medio natural, gestión forestal y del medio natural.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "agrario",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "actividades",
+                "agropecuarias",
+                "producción",
+                "agropecuaria",
+                "ganadería",
+                "asistencia",
+                "sanidad",
+                "animal",
+                "aprovechamiento",
+                "forestal",
+                "aprovechamiento",
+                "conservación",
+                "medio",
+                "natural",
+                "gestión",
+                "forestal",
+                "medio",
+                "natural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 107,
+            "body": "Sector comercial. Implantación de ciclos formativos y grados de comercialización de productos alimentarios, gestión de ventas y espacios comerciales, comercio internacional.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "comercial",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "comercialización",
+                "productos",
+                "alimentarios",
+                "gestión",
+                "ventas",
+                "espacios",
+                "comerciales",
+                "comercio",
+                "internacional"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 108,
+            "body": "Sector energético. Implantación de ciclos formativos y grados relacionados con las energías renovables.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "energético",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "relacionados",
+                "energías",
+                "renovables"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 109,
+            "body": "Sector turístico. Implantación de ciclos formativos y grados de gestión de alojamientos turísticos, agencias de viaje y gestión de eventos.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "turístico",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "gestión",
+                "alojamientos",
+                "turísticos",
+                "agencias",
+                "viaje",
+                "gestión",
+                "eventos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 110,
+            "body": "Sector alimentario. Implantación de ciclos formativos y grados de comercialización de productos alimentarios, elaboración de productos alimenticios, procesos y calidad de la industria alimentaria.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "alimentario",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "comercialización",
+                "productos",
+                "alimentarios",
+                "elaboración",
+                "productos",
+                "alimenticios",
+                "procesos",
+                "calidad",
+                "industria",
+                "alimentaria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 111,
+            "body": "Sector químico. Implantación de ciclos formativos y grados de operaciones de laboratorio, laboratorio de análisis y control de calidad.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "químico",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "operaciones",
+                "laboratorio",
+                "laboratorio",
+                "análisis",
+                "control",
+                "calidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 112,
+            "body": "Sector sanitario. Implantación de ciclos formativos y grados de radioterapia y dosimetría, laboratorio clínico y biomédico, técnico en emergencias sanitarias.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "sanitario",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "radioterapia",
+                "dosimetría",
+                "laboratorio",
+                "clínico",
+                "biomédico",
+                "técnico",
+                "emergencias",
+                "sanitarias"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 113,
+            "body": "Sector automoción. Implantación de ciclos formativos y grados de ingeniería de procesos, servicios postventa, mecánica del automóvil, electromecánica.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "sector",
+                "automoción",
+                "implantación",
+                "ciclos",
+                "formativos",
+                "grados",
+                "ingeniería",
+                "procesos",
+                "servicios",
+                "postventa",
+                "mecánica",
+                "automóvil",
+                "electromecánica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 114,
+            "body": "Garantizar el mantenimiento de centros educativos en el medio rural con tres alumnos.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "garantizar",
+                "mantenimiento",
+                "centros",
+                "educativos",
+                "medio",
+                "rural",
+                "tres",
+                "alumnos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 115,
+            "body": "Apertura real y gestión de la Residencia Juvenil Arturo Duperier.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "apertura",
+                "real",
+                "gestión",
+                "residencia",
+                "juvenil",
+                "arturo",
+                "duperier"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 116,
+            "body": "Mayor dotación de recursos y oferta a las secciones provinciales de la Escuela de Idiomas.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "mayor",
+                "dotación",
+                "recursos",
+                "oferta",
+                "secciones",
+                "provinciales",
+                "escuela",
+                "idiomas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 117,
+            "body": "Reforzar la escolarización de 0 a 3 años con la creación de nuevas plazas.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "reforzar",
+                "escolarización",
+                "0",
+                "3",
+                "años",
+                "creación",
+                "nuevas",
+                "plazas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 118,
+            "body": "Construcción de un pabellón para el CEIP Arturo Duperier en la antigua piscina cubierta de la capital abulense.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "construcción",
+                "pabellón",
+                "ceip",
+                "arturo",
+                "duperier",
+                "antigua",
+                "piscina",
+                "cubierta",
+                "capital",
+                "abulense"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 119,
+            "body": "Reivindicaremos para que la Junta de Castilla y León construya y ponga en marcha el tan ansiado y deseado centro escolar de Educación Infantil y Educación Primaria en la zona de las Hervencias, un proyecto que lleva un retraso de más de quince años.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "reivindicaremos",
+                "junta",
+                "castilla",
+                "león",
+                "construya",
+                "ponga",
+                "marcha",
+                "tan",
+                "ansiado",
+                "deseado",
+                "centro",
+                "escolar",
+                "educación",
+                "infantil",
+                "educación",
+                "primaria",
+                "zona",
+                "hervencias",
+                "proyecto",
+                "lleva",
+                "retraso",
+                "quince",
+                "años"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 120,
+            "body": "Plan de accesibilidad y eliminación completa de barreras en centros educativos.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "plan",
+                "accesibilidad",
+                "eliminación",
+                "completa",
+                "barreras",
+                "centros",
+                "educativos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 121,
+            "body": "Digitalización de los polígonos industriales, acceso a internet en los espacios industriales de la provincia.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "digitalización",
+                "polígonos",
+                "industriales",
+                "acceso",
+                "internet",
+                "espacios",
+                "industriales",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 122,
+            "body": "Adecuación y mantenimiento de los polígonos industriales existentes en todas las comarcas. Disponibilidad de suelo para empresas relacionadas con la actividad en el territorio.",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "adecuación",
+                "mantenimiento",
+                "polígonos",
+                "industriales",
+                "existentes",
+                "todas",
+                "comarcas",
+                "disponibilidad",
+                "suelo",
+                "empresas",
+                "relacionadas",
+                "actividad",
+                "territorio"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 123,
+            "body": "Mejora de las comunicaciones y accesos (a polígonos)",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "mejora",
+                "comunicaciones",
+                "accesos",
+                "polígonos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 124,
+            "body": "Reapertura de la Ventanilla Única, que acorte plazos de tramitación y burocracia a la hora de crear nuevas empresas.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "reapertura",
+                "ventanilla",
+                "única",
+                "acorte",
+                "plazos",
+                "tramitación",
+                "burocracia",
+                "hora",
+                "crear",
+                "nuevas",
+                "empresas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 125,
+            "body": "Fomentar el emprendimiento mediante bonificaciones en el Impuesto de Actividades Económicas (IAE) en los primeros años de vida de una empresa.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "fomentar",
+                "emprendimiento",
+                "mediante",
+                "bonificaciones",
+                "impuesto",
+                "actividades",
+                "económicas",
+                "iae",
+                "primeros",
+                "años",
+                "vida",
+                "empresa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 126,
+            "body": "Cuota cero para autónomos los 2 primeros años de actividad.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "cuota",
+                "cero",
+                "autónomos",
+                "2",
+                "primeros",
+                "años",
+                "actividad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 127,
+            "body": "Bonificación a la contratación del primer trabajador por parte de un autónomo y bonificaciones progresivas en función del número de puestos de trabajo creados.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "bonificación",
+                "contratación",
+                "primer",
+                "trabajador",
+                "parte",
+                "autónomo",
+                "bonificaciones",
+                "progresivas",
+                "función",
+                "número",
+                "puestos",
+                "trabajo",
+                "creados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 128,
+            "body": "Bonificación para pymes y autónomos que generen empleo en actividades relacionadas con la industria agroalimentaria y del territorio, desarrollo tecnológico sostenible, energías renovables y medio ambiente, economía circular y economía social.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "bonificación",
+                "pymes",
+                "autónomos",
+                "generen",
+                "empleo",
+                "actividades",
+                "relacionadas",
+                "industria",
+                "agroalimentaria",
+                "territorio",
+                "desarrollo",
+                "tecnológico",
+                "sostenible",
+                "energías",
+                "renovables",
+                "medio",
+                "ambiente",
+                "economía",
+                "circular",
+                "economía",
+                "social"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 129,
+            "body": "Incentivar, a través del Plan de Crecimiento Innovador de Sodical Instituto Financiero de Castilla y León, con especial atención a la generación de puestos de trabajo y creación de empleo en industrias asociadas al territorio relacionadas con las energías renovables y el “empleo verde” (relacionado con el medio ambiente), la industria agroalimentaria, la automoción y el desarrollo 16 tecnológico, así como la economía social.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "incentivar",
+                "través",
+                "plan",
+                "crecimiento",
+                "innovador",
+                "sodical",
+                "instituto",
+                "financiero",
+                "castilla",
+                "león",
+                "especial",
+                "atención",
+                "generación",
+                "puestos",
+                "trabajo",
+                "creación",
+                "empleo",
+                "industrias",
+                "asociadas",
+                "territorio",
+                "relacionadas",
+                "energías",
+                "renovables",
+                "“",
+                "empleo",
+                "verde",
+                "”",
+                "relacionado",
+                "medio",
+                "ambiente",
+                "industria",
+                "agroalimentaria",
+                "automoción",
+                "desarrollo",
+                "16",
+                "tecnológico",
+                "así",
+                "economía",
+                "social"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 130,
+            "body": "Impulsar una plataforma I+D+i para atraer inversiones empresariales a provincias con un mayor índice de despoblación, como Ávila.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "impulsar",
+                "plataforma",
+                "i",
+                "d",
+                "i",
+                "atraer",
+                "inversiones",
+                "empresariales",
+                "provincias",
+                "mayor",
+                "índice",
+                "despoblación",
+                "ávila"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 131,
+            "body": "Reparto de fondos estructurales destinados a políticas activas de empleo en función del grado de desempleo de las provincias, propiciando una discriminación positiva hacia aquellas que presentan una mayor tasa de paro.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "reparto",
+                "fondos",
+                "estructurales",
+                "destinados",
+                "políticas",
+                "activas",
+                "empleo",
+                "función",
+                "grado",
+                "desempleo",
+                "provincias",
+                "propiciando",
+                "discriminación",
+                "positiva",
+                "hacia",
+                "aquellas",
+                "presentan",
+                "mayor",
+                "tasa",
+                "paro"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 132,
+            "body": "Programa de empleo y retorno juvenil, mediante la creación de una plataforma que ponga en contacto el tejido productivo con el talento juvenil que se encuentra en el exterior, publicando ofertas de empleo, facilitando su regreso e incentivando a las empresas su contratación.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "programa",
+                "empleo",
+                "retorno",
+                "juvenil",
+                "mediante",
+                "creación",
+                "plataforma",
+                "ponga",
+                "contacto",
+                "tejido",
+                "productivo",
+                "talento",
+                "juvenil",
+                "encuentra",
+                "exterior",
+                "publicando",
+                "ofertas",
+                "empleo",
+                "facilitando",
+                "regreso",
+                "incentivando",
+                "empresas",
+                "contratación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 133,
+            "body": "Programa de adaptación profesional y reciclaje para facilitar la incorporación al mercado laboral de mayores de 45 años y desempleados de larga duración.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "programa",
+                "adaptación",
+                "profesional",
+                "reciclaje",
+                "facilitar",
+                "incorporación",
+                "mercado",
+                "laboral",
+                "mayores",
+                "45",
+                "años",
+                "desempleados",
+                "larga",
+                "duración"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 134,
+            "body": "Fomento del emprendimiento con bonificaciones e incentivos a pymes y creadas por personas con capacidades diferentes y autónomos con capacidades diferentes.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "fomento",
+                "emprendimiento",
+                "bonificaciones",
+                "incentivos",
+                "pymes",
+                "creadas",
+                "personas",
+                "capacidades",
+                "diferentes",
+                "autónomos",
+                "capacidades",
+                "diferentes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 135,
+            "body": "Creación de hubs de innovación relacionados con las industrias auxiliares del automóvil, industria agroalimentaria, de innovación de supermateriales del futuro y tecnológicas.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "creación",
+                "hubs",
+                "innovación",
+                "relacionados",
+                "industrias",
+                "auxiliares",
+                "automóvil",
+                "industria",
+                "agroalimentaria",
+                "innovación",
+                "supermateriales",
+                "futuro",
+                "tecnológicas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 136,
+            "body": "Declaración BIC para el conjunto de castros y verracos prerromanos de la provincia. Señalización, adecuación de entorno y difusión.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "declaración",
+                "bic",
+                "conjunto",
+                "castros",
+                "verracos",
+                "prerromanos",
+                "provincia",
+                "señalización",
+                "adecuación",
+                "entorno",
+                "difusión"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 137,
+            "body": "Colaboración con asociaciones de los municipios para crear una red de guías locales.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "colaboración",
+                "asociaciones",
+                "municipios",
+                "crear",
+                "red",
+                "guías",
+                "locales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 138,
+            "body": "Rehabilitar senderos (GR) y habilitar vías verdes a través de la recuperación de elementos etnográficos (ejemplo, chozos de Navalosa) y patrimoniales (ejemplo, vía del tren en el Valle del Tiétar).",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "rehabilitar",
+                "senderos",
+                "gr",
+                "habilitar",
+                "vías",
+                "verdes",
+                "través",
+                "recuperación",
+                "elementos",
+                "etnográficos",
+                "ejemplo",
+                "chozos",
+                "navalosa",
+                "patrimoniales",
+                "ejemplo",
+                "vía",
+                "tren",
+                "valle",
+                "tiétar"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 139,
+            "body": "Contribución en la musealización y puesta en valor, para su apertura definitiva al público, de la villa romana de ‘El Vergel’, en San Pedro del Arroyo.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "contribución",
+                "musealización",
+                "puesta",
+                "valor",
+                "apertura",
+                "definitiva",
+                "público",
+                "villa",
+                "romana",
+                "‘",
+                "vergel",
+                "’",
+                "san",
+                "pedro",
+                "arroyo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 140,
+            "body": "Culminar, en colaboración con el Gobierno central, el proyecto de subsede del Museo del Prado en el palacio de Los Águila, en Ávila, con el objetivo de convertirlo en un polo de atracción para los visitantes. Retomar, en la medida de lo posible, el proyecto inicial para estas instalaciones, con el fin de no albergar únicamente una Sala Prado sino una colección permanente y exposiciones itinerantes de una de las pinacotecas más importantes del mundo.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "culminar",
+                "colaboración",
+                "gobierno",
+                "central",
+                "proyecto",
+                "subsede",
+                "museo",
+                "prado",
+                "palacio",
+                "águila",
+                "ávila",
+                "objetivo",
+                "convertirlo",
+                "polo",
+                "atracción",
+                "visitantes",
+                "retomar",
+                "medida",
+                "posible",
+                "proyecto",
+                "inicial",
+                "instalaciones",
+                "fin",
+                "albergar",
+                "únicamente",
+                "sala",
+                "prado",
+                "sino",
+                "colección",
+                "permanente",
+                "exposiciones",
+                "itinerantes",
+                "pinacotecas",
+                "importantes",
+                "mundo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 141,
+            "body": "Potenciar el palacio del infante don Luis de Borbón, en Arenas de San Pedro, y del castillo de Magalia, en Las Navas del Marqués, así como otros elementos del patrimonio abulense existentes en la provincia, como en Madrigal de las Altas Torres, Arévalo o El Barco de Ávila, para usos culturales dentro de los circuitos establecidos por la Junta de Castilla y León.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "potenciar",
+                "palacio",
+                "infante",
+                "don",
+                "luis",
+                "borbón",
+                "arenas",
+                "san",
+                "pedro",
+                "castillo",
+                "magalia",
+                "navas",
+                "marqués",
+                "así",
+                "elementos",
+                "patrimonio",
+                "abulense",
+                "existentes",
+                "provincia",
+                "madrigal",
+                "altas",
+                "torres",
+                "arévalo",
+                "barco",
+                "ávila",
+                "usos",
+                "culturales",
+                "dentro",
+                "circuitos",
+                "establecidos",
+                "junta",
+                "castilla",
+                "león"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 142,
+            "body": "Desarrollo de una industria cultural que incentive la creación de empresas de creación cultural y artística que generen oportunidades de empleo. Puesta en marcha de un instrumento de coordinación de industrias creativas y culturales para centrarse en proyectos con un alto potencial tractor (ejemplo, festival Abvlensis).",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "desarrollo",
+                "industria",
+                "cultural",
+                "incentive",
+                "creación",
+                "empresas",
+                "creación",
+                "cultural",
+                "artística",
+                "generen",
+                "oportunidades",
+                "empleo",
+                "puesta",
+                "marcha",
+                "instrumento",
+                "coordinación",
+                "industrias",
+                "creativas",
+                "culturales",
+                "centrarse",
+                "proyectos",
+                "alto",
+                "potencial",
+                "tractor",
+                "ejemplo",
+                "festival",
+                "abvlensis"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 143,
+            "body": "Estudiar viabilidad de un centro físico que sea sede del ahora Centro de Estudios Virtual Tomás Luis de Victoria.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "estudiar",
+                "viabilidad",
+                "centro",
+                "físico",
+                "sede",
+                "ahora",
+                "centro",
+                "estudios",
+                "virtual",
+                "tomás",
+                "luis",
+                "victoria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 144,
+            "body": "Potenciación de la provincia de Ávila en la Film Commission Castilla y León.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "potenciación",
+                "provincia",
+                "ávila",
+                "film",
+                "commission",
+                "castilla",
+                "león"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 145,
+            "body": "Generación de rutas y visitas, adecuación, señalización y difusión de localidades vinculadas a personajes históricos de la provincia de Ávila: impulsar las Rutas Teresianas con apoyo institucional autonómico, además de reforzar la figura de Isabel la Católica y los enclaves vinculados a su vida y trayectoria; el Tata Vasco, san Juan de la Cruz, Adolfo Suárez o el Gran Duque de Alba.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "generación",
+                "rutas",
+                "visitas",
+                "adecuación",
+                "señalización",
+                "difusión",
+                "localidades",
+                "vinculadas",
+                "personajes",
+                "históricos",
+                "provincia",
+                "ávila",
+                "impulsar",
+                "rutas",
+                "teresianas",
+                "apoyo",
+                "institucional",
+                "autonómico",
+                "además",
+                "reforzar",
+                "figura",
+                "isabel",
+                "católica",
+                "enclaves",
+                "vinculados",
+                "vida",
+                "trayectoria",
+                "tata",
+                "vasco",
+                "san",
+                "juan",
+                "cruz",
+                "adolfo",
+                "suárez",
+                "gran",
+                "duque",
+                "alba"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 146,
+            "body": "Cumplimiento de la Ley de Patrimonio Cultural de Castilla y León, regulando el 1% Cultural.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "cumplimiento",
+                "ley",
+                "patrimonio",
+                "cultural",
+                "castilla",
+                "león",
+                "regulando",
+                "1",
+                "cultural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 147,
+            "body": "Potenciación de rutas accesibles en espacios naturales y de alto valor ecológico en la provincia.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "potenciación",
+                "rutas",
+                "accesibles",
+                "espacios",
+                "naturales",
+                "alto",
+                "valor",
+                "ecológico",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 148,
+            "body": "Puesta en marcha de una estrategia de turismo ecológico.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "puesta",
+                "marcha",
+                "estrategia",
+                "turismo",
+                "ecológico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 149,
+            "body": "Generar una red de museos existentes en el medio rural como centros de difusión y reclamo turístico.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "generar",
+                "red",
+                "museos",
+                "existentes",
+                "medio",
+                "rural",
+                "centros",
+                "difusión",
+                "reclamo",
+                "turístico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 150,
+            "body": "Trabajar, en colaboración con la Junta de Semana Santa y las hermandades y cofradías de la provincia, para potenciar las manifestaciones más destacadas en la provincia de la Semana Santa y su declaración de 18 Interés Turístico Regional, como ya ocurre en la Procesión de los Romances de Navaluenga.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "trabajar",
+                "colaboración",
+                "junta",
+                "semana",
+                "santa",
+                "hermandades",
+                "cofradías",
+                "provincia",
+                "potenciar",
+                "manifestaciones",
+                "destacadas",
+                "provincia",
+                "semana",
+                "santa",
+                "declaración",
+                "18",
+                "interés",
+                "turístico",
+                "regional",
+                "ocurre",
+                "procesión",
+                "romances",
+                "navaluenga"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 151,
+            "body": "Recuperación de conexiones ferroviarias con Madrid, Salamanca y Valladolid en tiempo y forma, aumentando las frecuencias horarias, de acuerdo con las necesidades laborales y de desplazamiento de los abulenses, y reduciendo los tiempos de viaje.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "recuperación",
+                "conexiones",
+                "ferroviarias",
+                "madrid",
+                "salamanca",
+                "valladolid",
+                "tiempo",
+                "forma",
+                "aumentando",
+                "frecuencias",
+                "horarias",
+                "acuerdo",
+                "necesidades",
+                "laborales",
+                "desplazamiento",
+                "abulenses",
+                "reduciendo",
+                "tiempos",
+                "viaje"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 152,
+            "body": "Modernización del transporte en lo que a elementos del mismo se refiere, adecuando los vagones y las condiciones de viaje para un servicio de calidad a los pasajeros.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "modernización",
+                "transporte",
+                "elementos",
+                "mismo",
+                "refiere",
+                "adecuando",
+                "vagones",
+                "condiciones",
+                "viaje",
+                "servicio",
+                "calidad",
+                "pasajeros"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 153,
+            "body": "Establecimiento de paradas del tren convencional en apeaderos y estaciones de tren vigiladas y con personal que atienda al usuario.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "establecimiento",
+                "paradas",
+                "tren",
+                "convencional",
+                "apeaderos",
+                "estaciones",
+                "tren",
+                "vigiladas",
+                "personal",
+                "atienda",
+                "usuario"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 154,
+            "body": "- Inclusión del tren convencional en la red de Cercanías de la Comunidad de Madrid, disfrutando de los abonos establecidos para los usuarios de la misma forma que ya existe para los usuarios de ciudades de comunidades como Castilla-La Mancha.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "inclusión",
+                "tren",
+                "convencional",
+                "red",
+                "cercanías",
+                "comunidad",
+                "madrid",
+                "disfrutando",
+                "abonos",
+                "establecidos",
+                "usuarios",
+                "misma",
+                "forma",
+                "existe",
+                "usuarios",
+                "ciudades",
+                "comunidades",
+                "castilla",
+                "mancha"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 155,
+            "body": "Compatibilizar el transporte de viajeros con el de mercancías a su paso por la provincia de Ávila, con el fin de mejorar y rentabilizar las infraestructuras ferroviarias existentes.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "compatibilizar",
+                "transporte",
+                "viajeros",
+                "mercancías",
+                "paso",
+                "provincia",
+                "ávila",
+                "fin",
+                "mejorar",
+                "rentabilizar",
+                "infraestructuras",
+                "ferroviarias",
+                "existentes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 156,
+            "body": "Inclusión de Ávila en el Corredor Atlántico, un eje logístico que permitirá a las empresas instaladas en la provincia aumentar su competitividad.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "inclusión",
+                "ávila",
+                "corredor",
+                "atlántico",
+                "eje",
+                "logístico",
+                "permitirá",
+                "empresas",
+                "instaladas",
+                "provincia",
+                "aumentar",
+                "competitividad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 157,
+            "body": "Estudiar la viabilidad de la conexión de Ávila a la alta velocidad a través de un proyecto real y factible (no conectando Ávila y Madrid, por ejemplo, a través de Medina del Campo).",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "estudiar",
+                "viabilidad",
+                "conexión",
+                "ávila",
+                "alta",
+                "velocidad",
+                "través",
+                "proyecto",
+                "real",
+                "factible",
+                "conectando",
+                "ávila",
+                "madrid",
+                "ejemplo",
+                "través",
+                "medina",
+                "campo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 158,
+            "body": "Revisión de los peajes de la AP-6 y la AP-51 en tiempo y forma y 19 supresión de los mismos al término de la concesión en su plazo más breve.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "revisión",
+                "peajes",
+                "ap",
+                "6",
+                "ap",
+                "51",
+                "tiempo",
+                "forma",
+                "19",
+                "supresión",
+                "mismos",
+                "término",
+                "concesión",
+                "plazo",
+                "breve"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 159,
+            "body": "Desdoblamiento de la CL-501, que conecta el Valle del Tiétar con Madrid, a través de un convenio entre las comunidades autónomas de Castilla y León y Madrid.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "desdoblamiento",
+                "cl",
+                "501",
+                "conecta",
+                "valle",
+                "tiétar",
+                "madrid",
+                "través",
+                "convenio",
+                "comunidades",
+                "autónomas",
+                "castilla",
+                "león",
+                "madrid"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 160,
+            "body": "Acelerar en tiempo y forma las obras de mejora de la carretera AV/SG-500, en las provincias de Ávila y Segovia, con el fin de facilitar una conexión óptima a los vecinos de ambas provincias y Madrid a través de El Espinar (Segovia).",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "acelerar",
+                "tiempo",
+                "forma",
+                "obras",
+                "mejora",
+                "carretera",
+                "av",
+                "sg",
+                "500",
+                "provincias",
+                "ávila",
+                "segovia",
+                "fin",
+                "facilitar",
+                "conexión",
+                "óptima",
+                "vecinos",
+                "ambas",
+                "provincias",
+                "madrid",
+                "través",
+                "espinar",
+                "segovia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 161,
+            "body": "Mejora de la conservación de carreteras de titularidad autonómica en la provincia. Instar a las comunidades autónomas limítrofes a un mantenimiento adecuado de las vías que conectan los territorios en aras a una mayor seguridad vial.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "mejora",
+                "conservación",
+                "carreteras",
+                "titularidad",
+                "autonómica",
+                "provincia",
+                "instar",
+                "comunidades",
+                "autónomas",
+                "limítrofes",
+                "mantenimiento",
+                "adecuado",
+                "vías",
+                "conectan",
+                "territorios",
+                "aras",
+                "mayor",
+                "seguridad",
+                "vial"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 162,
+            "body": "Recuperación de horarios y frecuencias en el servicio de transporte público por carretera de la provincia, con especial atención a la zona de El Barco de Ávila – Piedrahíta.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "recuperación",
+                "horarios",
+                "frecuencias",
+                "servicio",
+                "transporte",
+                "público",
+                "carretera",
+                "provincia",
+                "especial",
+                "atención",
+                "zona",
+                "barco",
+                "ávila",
+                "–",
+                "piedrahíta"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 163,
+            "body": "Adecuación y cerramiento de paradas para la espera de los viajeros de transporte por carretera.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "adecuación",
+                "cerramiento",
+                "paradas",
+                "espera",
+                "viajeros",
+                "transporte",
+                "carretera"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 164,
+            "body": "Establecimiento de servicios obligatorios y su adecuación en horarios a las necesidades de los usuarios.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "establecimiento",
+                "servicios",
+                "obligatorios",
+                "adecuación",
+                "horarios",
+                "necesidades",
+                "usuarios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 165,
+            "body": "- Mejora de las condiciones de viaje de los usuarios y horarios del transporte público por carretera entre Ávila y Madrid.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "mejora",
+                "condiciones",
+                "viaje",
+                "usuarios",
+                "horarios",
+                "transporte",
+                "público",
+                "carretera",
+                "ávila",
+                "madrid"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 166,
+            "body": "Potenciación del transporte a la demanda en la provincia, incidiendo en las zonas con una población más dispersa y envejecida.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "potenciación",
+                "transporte",
+                "demanda",
+                "provincia",
+                "incidiendo",
+                "zonas",
+                "población",
+                "dispersa",
+                "envejecida"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}

@@ -1,0 +1,2064 @@
+{
+    "politicalParty": "Unión del Pueblo Leonés",
+    "title": "Programa electoral de: Luis Mariano Santos Reyero",
+    "publicationDate": "",
+    "electionDate": "26/05/19",
+    "electionType": "Autonómicas",
+    "geographicalArea": "Castilla y León",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifiesto Project",
+    "pages": "10",
+    "numProposals": "77",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "La despoblación es el problema más acuciante de la Región leonesa, por ello es necesario apostar por políticas de empleo que permitan a nuestros jóvenes instalarse en nuestro territorio para crear en él su proyecto vital. Sin embargo además, ya no es suficiente con esta apuesta por ello deberán sumarse a esa creación la necesidad de mantener y elevar la calidad de los servicios en el medio rural.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "despoblación",
+                "problema",
+                "acuciante",
+                "región",
+                "leonesa",
+                "ello",
+                "necesario",
+                "apostar",
+                "políticas",
+                "empleo",
+                "permitan",
+                "jóvenes",
+                "instalarse",
+                "territorio",
+                "crear",
+                "proyecto",
+                "vital",
+                "embargo",
+                "además",
+                "suficiente",
+                "apuesta",
+                "ello",
+                "deberán",
+                "sumarse",
+                "creación",
+                "necesidad",
+                "mantener",
+                "elevar",
+                "calidad",
+                "servicios",
+                "medio",
+                "rural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Facilitando la vivienda, los incentivos fiscales a la creación de empresas, las medidas de fomento de la natalidad, el apoyo al empleo de la mujer , el incentivo de la fijación de población de los funcionarios en nuestros pueblos (Médicos, Educadores…),favoreciendo el acceso a terrenos con vocación agrícola, ganadera o forestal como instrumento para el rejuvenecimiento de nuestro campo y para el relevo generacional.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "facilitando",
+                "vivienda",
+                "incentivos",
+                "fiscales",
+                "creación",
+                "empresas",
+                "medidas",
+                "fomento",
+                "natalidad",
+                "apoyo",
+                "empleo",
+                "mujer",
+                "incentivo",
+                "fijación",
+                "población",
+                "funcionarios",
+                "pueblos",
+                "médicos",
+                "educadores…",
+                "favoreciendo",
+                "acceso",
+                "terrenos",
+                "vocación",
+                "agrícola",
+                "ganadera",
+                "forestal",
+                "instrumento",
+                "rejuvenecimiento",
+                "campo",
+                "relevo",
+                "generacional"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "Seguiremos defendiendo nuestro derecho a formar parte de nuestra propia Comunidad Autónoma como establece el artículo 2 de nuestra Constitución Española.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "seguiremos",
+                "defendiendo",
+                "derecho",
+                "formar",
+                "parte",
+                "propia",
+                "comunidad",
+                "autónoma",
+                "establece",
+                "artículo",
+                "2",
+                "constitución",
+                "española"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Nuestro MODELO IDEOLÓGICO es la defensa de la Región Leonesa, sus habitantes, sus recursos y sus potencialidades por encima de todo. Por ello, haremos desaparecer la Fundación Villalar que dilapida casi un millón de euros anuales en crear una identidad que no existe y seguiremos apostando por la Catedra de Estudios Leoneses (Dependiente de la Universidad de León y surgida gracias a la gestión UPL en las Cortes) para seguir avanzando en el fomento y la protección de la identidad y la cultura del pueblo Leonés.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "modelo",
+                "ideológico",
+                "defensa",
+                "región",
+                "leonesa",
+                "habitantes",
+                "recursos",
+                "potencialidades",
+                "encima",
+                "ello",
+                "haremos",
+                "desaparecer",
+                "fundación",
+                "villalar",
+                "dilapida",
+                "casi",
+                "millón",
+                "euros",
+                "anuales",
+                "crear",
+                "identidad",
+                "existe",
+                "seguiremos",
+                "apostando",
+                "catedra",
+                "estudios",
+                "leoneses",
+                "dependiente",
+                "universidad",
+                "león",
+                "surgida",
+                "gracias",
+                "gestión",
+                "upl",
+                "cortes",
+                "seguir",
+                "avanzando",
+                "fomento",
+                "protección",
+                "identidad",
+                "cultura",
+                "pueblo",
+                "leonés"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "Lucharemos por la supervivencia de nuestras juntas vecinales como órgano de gestión administrativa más cercano.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "lucharemos",
+                "supervivencia",
+                "juntas",
+                "vecinales",
+                "órgano",
+                "gestión",
+                "administrativa",
+                "cercano"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Contribuiremos con nuestras acciones a terminar con todo signo de corrupción en las instituciones públicas gobernadas por los grandes partidos nacionales. Siguiendo nuestro Código de Buenas prácticas.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "contribuiremos",
+                "acciones",
+                "terminar",
+                "signo",
+                "corrupción",
+                "instituciones",
+                "públicas",
+                "gobernadas",
+                "grandes",
+                "partidos",
+                "nacionales",
+                "siguiendo",
+                "código",
+                "buenas",
+                "prácticas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Las decisiones políticas se toman en torno a la negociación.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "decisiones",
+                "políticas",
+                "toman",
+                "torno",
+                "negociación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "Buscaremos la mejora de las infraestructuras que recorren la Región Leonesa para convertir a nuestra provincia en epicentro logístico, base fundamental para la generación de empleo. Seguiremos apoyando el corredor Vía de la Plata, la construcción de una autovía de alta capacidad Bragança-Puebla de Sanabria, y la Ponferrada-Orense. La supresión total de los peajes León-Campomanes y León-Astorga, propugnando mejores y más rápidos accesos a los polígonos industriales de Chozas y Villadangos.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "buscaremos",
+                "mejora",
+                "infraestructuras",
+                "recorren",
+                "región",
+                "leonesa",
+                "convertir",
+                "provincia",
+                "epicentro",
+                "logístico",
+                "base",
+                "fundamental",
+                "generación",
+                "empleo",
+                "seguiremos",
+                "apoyando",
+                "corredor",
+                "vía",
+                "plata",
+                "construcción",
+                "autovía",
+                "alta",
+                "capacidad",
+                "bragança",
+                "puebla",
+                "sanabria",
+                "ponferrada",
+                "orense",
+                "supresión",
+                "total",
+                "peajes",
+                "león",
+                "campomanes",
+                "león",
+                "astorga",
+                "propugnando",
+                "mejores",
+                "rápidos",
+                "accesos",
+                "polígonos",
+                "industriales",
+                "chozas",
+                "villadangos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "Continuaremos apostando por la plataforma logística intermodal de Torneros, y porque el parque tecnológico de León y nuestro aeropuerto tengan ayudas públicas en igualdad de condiciones.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "continuaremos",
+                "apostando",
+                "plataforma",
+                "logística",
+                "intermodal",
+                "torneros",
+                "parque",
+                "tecnológico",
+                "león",
+                "aeropuerto",
+                "ayudas",
+                "públicas",
+                "igualdad",
+                "condiciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "Instaremos al gobierno nacional de turno a la consecución de las infraestructuras que atraviesan nuestra región y son de su competencia. Seguiremos peleando por la supervivencia de FEVE.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "instaremos",
+                "gobierno",
+                "nacional",
+                "turno",
+                "consecución",
+                "infraestructuras",
+                "atraviesan",
+                "región",
+                "competencia",
+                "seguiremos",
+                "peleando",
+                "supervivencia",
+                "feve"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Impulsaremos ayudas a la rehabilitación y al alquiler de vivienda, y el acceso a la banda ancha a todos los leoneses, especialmente en el medio rural.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "impulsaremos",
+                "ayudas",
+                "rehabilitación",
+                "alquiler",
+                "vivienda",
+                "acceso",
+                "banda",
+                "ancha",
+                "leoneses",
+                "especialmente",
+                "medio",
+                "rural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Continuaremos apoyando a los grupos de desarrollo rural, poniendo especial atención en el plan de empleo femenino rural. Apostaremos por la modernización y la implantación de nuevas tecnologías en las zonas rurales como base para el avance en el empleo.",
+            "topics": [
+                "Empleo",
+                "Medio rural"
+            ],
+            "tags": [
+                "continuaremos",
+                "apoyando",
+                "grupos",
+                "desarrollo",
+                "rural",
+                "poniendo",
+                "especial",
+                "atención",
+                "plan",
+                "empleo",
+                "femenino",
+                "rural",
+                "apostaremos",
+                "modernización",
+                "implantación",
+                "nuevas",
+                "tecnologías",
+                "zonas",
+                "rurales",
+                "base",
+                "avance",
+                "empleo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Continuaremos defendiendo a los agricultores y ganaderos atendiendo sus reivindicaciones para la mejora del sector, y fomentaremos el cooperativismo y el asociacionismo en el medio rural, poniendo especial atención en las ayudas a los jóvenes.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "continuaremos",
+                "defendiendo",
+                "agricultores",
+                "ganaderos",
+                "atendiendo",
+                "reivindicaciones",
+                "mejora",
+                "sector",
+                "fomentaremos",
+                "cooperativismo",
+                "asociacionismo",
+                "medio",
+                "rural",
+                "poniendo",
+                "especial",
+                "atención",
+                "ayudas",
+                "jóvenes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Exigiremos la finalización de los procesos de concentración y reconcentración parcelaria en aquellas zonas donde estén implantados los regadíos tradicionales y la finalización de los nuevos regadíos. Apostaremos por la modernización de los regadíos y por la finalización de las infraestructuras que garanticen la no creación de más embalses.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "exigiremos",
+                "finalización",
+                "procesos",
+                "concentración",
+                "reconcentración",
+                "parcelaria",
+                "aquellas",
+                "zonas",
+                "implantados",
+                "regadíos",
+                "tradicionales",
+                "finalización",
+                "nuevos",
+                "regadíos",
+                "apostaremos",
+                "modernización",
+                "regadíos",
+                "finalización",
+                "infraestructuras",
+                "garanticen",
+                "creación",
+                "embalses"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "Apostaremos por la industria agroalimentaria como potencial económico de nuestra región, con productos autóctonos leoneses (quesos, miel, razas autóctonas), respetando sus peculiaridades y su identidad geográfica. (No a Tierra de Sabor).",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "apostaremos",
+                "industria",
+                "agroalimentaria",
+                "potencial",
+                "económico",
+                "región",
+                "productos",
+                "autóctonos",
+                "leoneses",
+                "quesos",
+                "miel",
+                "razas",
+                "autóctonas",
+                "respetando",
+                "peculiaridades",
+                "identidad",
+                "geográfica",
+                "tierra",
+                "sabor"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Velaremos por que la convocatoria de ayudas a nuestros agricultores y ganaderos se haga en tiempo y forma, poniendo énfasis en aquellas destinadas a los más jóvenes y a las mujeres.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "velaremos",
+                "convocatoria",
+                "ayudas",
+                "agricultores",
+                "ganaderos",
+                "haga",
+                "tiempo",
+                "forma",
+                "poniendo",
+                "énfasis",
+                "aquellas",
+                "destinadas",
+                "jóvenes",
+                "mujeres"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "Seguiremos promoviendo la descentralización política y de servicios, para que la actividad que genera el empleo público acrezca a nuestra región. Y la descentralización económica e industrial de modo que las inversiones empresariales que gestiona la Junta se ofrezcan, en igualdad de condiciones, a los territorios y empresas que se instalen en la provincia leonesa.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "seguiremos",
+                "promoviendo",
+                "descentralización",
+                "política",
+                "servicios",
+                "actividad",
+                "genera",
+                "empleo",
+                "público",
+                "acrezca",
+                "región",
+                "descentralización",
+                "económica",
+                "industrial",
+                "modo",
+                "inversiones",
+                "empresariales",
+                "gestiona",
+                "junta",
+                "ofrezcan",
+                "igualdad",
+                "condiciones",
+                "territorios",
+                "empresas",
+                "instalen",
+                "provincia",
+                "leonesa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Facilitaremos el emprendimiento con la simplificación de los tramites y la eliminación de la burocracia.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "facilitaremos",
+                "emprendimiento",
+                "simplificación",
+                "tramites",
+                "eliminación",
+                "burocracia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Continuaremos apoyando al pequeño comercio y a la empresa familiar, en contraposición a las grandes multinacionales “busca subvenciones”.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "continuaremos",
+                "apoyando",
+                "pequeño",
+                "comercio",
+                "empresa",
+                "familiar",
+                "contraposición",
+                "grandes",
+                "multinacionales",
+                "“",
+                "busca",
+                "subvenciones",
+                "”"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Reforma del sistema de cotización RETA.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "reforma",
+                "sistema",
+                "cotización",
+                "reta"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Cotizaciones especiales y progresivas para los autónomos cuyos beneficios se encuentren entre el SMI y 1.500. Por debajo del SMI una cuota simbólica de 50",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "cotizaciones",
+                "especiales",
+                "progresivas",
+                "autónomos",
+                "cuyos",
+                "beneficios",
+                "encuentren",
+                "smi",
+                "1",
+                "500",
+                "debajo",
+                "smi",
+                "cuota",
+                "simbólica",
+                "50"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "Descuento por el período de lactancia y por el de reducción de jornada para el cuidado de hijos (tanto en seguridad social como en IRPF). En caso de contratar a alguien para la sustitución durante ese tiempo el coste de la seguridad social del sustituto será cero.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "descuento",
+                "período",
+                "lactancia",
+                "reducción",
+                "jornada",
+                "cuidado",
+                "hijos",
+                "seguridad",
+                "social",
+                "irpf",
+                "caso",
+                "contratar",
+                "alguien",
+                "sustitución",
+                "tiempo",
+                "coste",
+                "seguridad",
+                "social",
+                "sustituto",
+                "cero"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "En el caso de autónomos discapacitados, ayudas a la contratación de un empleado con bonificaciones que compensen su discapacidad y no se vea en desventaja frente a autónomos no discapacitados.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "caso",
+                "autónomos",
+                "discapacitados",
+                "ayudas",
+                "contratación",
+                "empleado",
+                "bonificaciones",
+                "compensen",
+                "discapacidad",
+                "vea",
+                "desventaja",
+                "frente",
+                "autónomos",
+                "discapacitados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Acceso a las prestaciones sociales en igualdad de condiciones que un asalariado.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "acceso",
+                "prestaciones",
+                "sociales",
+                "igualdad",
+                "condiciones",
+                "asalariado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Rebaja de los requisitos para acceder a las prestaciones por desempleo para autónomos.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "rebaja",
+                "requisitos",
+                "acceder",
+                "prestaciones",
+                "desempleo",
+                "autónomos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "Plan de reindustrialización para eliminar los desequilibrios territoriales.",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "plan",
+                "reindustrialización",
+                "eliminar",
+                "desequilibrios",
+                "territoriales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": "Bajada del IVA general para fomentar el consumo",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "bajada",
+                "iva",
+                "general",
+                "fomentar",
+                "consumo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Creación de un epígrafe especial para poder vender por internet o presencialmente algo esporádico. En las ventas puntuales pagar simplemente una ganancia patrimonial en el IRPF anual.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "creación",
+                "epígrafe",
+                "especial",
+                "poder",
+                "vender",
+                "internet",
+                "presencialmente",
+                "esporádico",
+                "ventas",
+                "puntuales",
+                "pagar",
+                "simplemente",
+                "ganancia",
+                "patrimonial",
+                "irpf",
+                "anual"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Declarar las facturas por fecha de cobro/pago y no por fecha de factura.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "declarar",
+                "facturas",
+                "fecha",
+                "cobro",
+                "pago",
+                "fecha",
+                "factura"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Reducir los pagos a cuenta.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "reducir",
+                "pagos",
+                "cuenta"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 31,
+            "body": "Mayor flexibilidad, práctica y real, para recuperar el IVA de los impagos.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "mayor",
+                "flexibilidad",
+                "práctica",
+                "real",
+                "recuperar",
+                "iva",
+                "impagos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 32,
+            "body": "Mejoras en la ley de segunda oportunidad para autónomos societarios y no societarios",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "mejoras",
+                "ley",
+                "segunda",
+                "oportunidad",
+                "autónomos",
+                "societarios",
+                "societarios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 33,
+            "body": "Sencillez en leyes de obligado cumplimiento (LOPD, RGPD, PRL, etc)",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "sencillez",
+                "leyes",
+                "obligado",
+                "cumplimiento",
+                "lopd",
+                "rgpd",
+                "prl",
+                "etc"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 34,
+            "body": "Sencillez para la aplicación del Reglamento Europeo de Protección de Datos para todo pequeño autónomo que apenas maneje datos. Con el impreso y la declaración del autónomo sería suficiente.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "sencillez",
+                "aplicación",
+                "reglamento",
+                "europeo",
+                "protección",
+                "datos",
+                "pequeño",
+                "autónomo",
+                "apenas",
+                "maneje",
+                "datos",
+                "impreso",
+                "declaración",
+                "autónomo",
+                "suficiente"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 35,
+            "body": "Agilización en la aplicación de la Prevención de Riesgos Laborales para la mayoría de pequeños autónomos, y que incluso lo tramite la misma mutua.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "agilización",
+                "aplicación",
+                "prevención",
+                "riesgos",
+                "laborales",
+                "mayoría",
+                "pequeños",
+                "autónomos",
+                "incluso",
+                "tramite",
+                "misma",
+                "mutua"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 36,
+            "body": "Desaparición de organismos como SGAE, AGEDI y CEDRO. Únicamente para quien se lucre sustancialmente de ellos y se pueda demostrar.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "desaparición",
+                "organismos",
+                "sgae",
+                "agedi",
+                "cedro",
+                "únicamente",
+                "lucre",
+                "sustancialmente",
+                "pueda",
+                "demostrar"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 37,
+            "body": "Seguiremos defendiendo el uso del carbón autóctono como sector estratégico y que nuestras centrales térmicas tengan vida más allá de 2020, para la progresiva adaptación a la descarbonización.",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "seguiremos",
+                "defendiendo",
+                "uso",
+                "carbón",
+                "autóctono",
+                "sector",
+                "estratégico",
+                "centrales",
+                "térmicas",
+                "vida",
+                "allá",
+                "2020",
+                "progresiva",
+                "adaptación",
+                "descarbonización"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 38,
+            "body": "Exigiremos que la TRANSICIÓN ENERGÉTICA JUSTA llegue a todas las cuencas mineras de la provincia de León, desarrollando una alternativa industrial a través de políticas equitativas para estas zonas que han contribuido tanto a la economía de la provincia",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "exigiremos",
+                "transición",
+                "energética",
+                "justa",
+                "llegue",
+                "todas",
+                "cuencas",
+                "mineras",
+                "provincia",
+                "león",
+                "desarrollando",
+                "alternativa",
+                "industrial",
+                "través",
+                "políticas",
+                "equitativas",
+                "zonas",
+                "contribuido",
+                "economía",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 39,
+            "body": "Continuaremos apostando por una reforma del ECYL con nuevas inversiones en formación, programas más acordes a las ofertas de empleo y los desempleado mejorando la orientación y el acompañamiento de aquellos desempleados con más dificultades de inserción, y una colaboración directa con las empresas",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "continuaremos",
+                "apostando",
+                "reforma",
+                "ecyl",
+                "nuevas",
+                "inversiones",
+                "formación",
+                "programas",
+                "acordes",
+                "ofertas",
+                "empleo",
+                "desempleado",
+                "mejorando",
+                "orientación",
+                "acompañamiento",
+                "aquellos",
+                "desempleados",
+                "dificultades",
+                "inserción",
+                "colaboración",
+                "directa",
+                "empresas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 40,
+            "body": "Defenderemos programas de empleo femenino especialmente en el medio rural. Continuaremos en la lucha contra la discriminación laboral hacia las mujeres en todos sus ámbitos (brecha salarial, acoso, techo de cristal), y exigiremos que la conciliación en el empleo sea real e igual en la pareja.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "defenderemos",
+                "programas",
+                "empleo",
+                "femenino",
+                "especialmente",
+                "medio",
+                "rural",
+                "continuaremos",
+                "lucha",
+                "discriminación",
+                "laboral",
+                "hacia",
+                "mujeres",
+                "ámbitos",
+                "brecha",
+                "salarial",
+                "acoso",
+                "techo",
+                "cristal",
+                "exigiremos",
+                "conciliación",
+                "empleo",
+                "real",
+                "igual",
+                "pareja"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 41,
+            "body": "Apoyaremos la lucha contra el fraude a través de la inspección de trabajo y la seguridad social para evitar los falsos autónomos.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "apoyaremos",
+                "lucha",
+                "fraude",
+                "través",
+                "inspección",
+                "trabajo",
+                "seguridad",
+                "social",
+                "evitar",
+                "falsos",
+                "autónomos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 42,
+            "body": "Promoveremos planes de empleo específicos para las comarcas en función de sus características propias, recursos endógenos y necesidades.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "promoveremos",
+                "planes",
+                "empleo",
+                "específicos",
+                "comarcas",
+                "función",
+                "características",
+                "propias",
+                "recursos",
+                "endógenos",
+                "necesidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 43,
+            "body": "Apostaremos por el incremento de los recursos para políticas activas de empleo para personas con discapacidad.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "apostaremos",
+                "incremento",
+                "recursos",
+                "políticas",
+                "activas",
+                "empleo",
+                "personas",
+                "discapacidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 44,
+            "body": "Exigiremos más financiación para proyectos de I+D+i como base para mejorar la calidad en el empleo. Apoyaremos la investigación de nuevos materiales y sistemas a través de la CIUDEN.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "exigiremos",
+                "financiación",
+                "proyectos",
+                "i",
+                "d",
+                "i",
+                "base",
+                "mejorar",
+                "calidad",
+                "empleo",
+                "apoyaremos",
+                "investigación",
+                "nuevos",
+                "materiales",
+                "sistemas",
+                "través",
+                "ciuden"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 45,
+            "body": "Exigiremos justicia distributiva en el presupuesto para nuestra provincia.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "exigiremos",
+                "justicia",
+                "distributiva",
+                "presupuesto",
+                "provincia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 46,
+            "body": "Defenderemos los servicios públicos y de bienestar social en el mundo rural como garantía para conservar la población.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Medio rural"
+            ],
+            "tags": [
+                "defenderemos",
+                "servicios",
+                "públicos",
+                "bienestar",
+                "social",
+                "mundo",
+                "rural",
+                "garantía",
+                "conservar",
+                "población"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 47,
+            "body": "Apoyaremos un plan de lucha contra la pobreza y contra los desahucios.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "apoyaremos",
+                "plan",
+                "lucha",
+                "pobreza",
+                "desahucios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 48,
+            "body": "Continuaremos en la lucha por eliminar el impuesto de sucesiones y la creación de un nuevo modelo autonómico que grave las viviendas vacías de las entidades financieras.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "continuaremos",
+                "lucha",
+                "eliminar",
+                "impuesto",
+                "sucesiones",
+                "creación",
+                "nuevo",
+                "modelo",
+                "autonómico",
+                "grave",
+                "viviendas",
+                "vacías",
+                "entidades",
+                "financieras"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 49,
+            "body": "Continuaremos en la defensa de la sanidad pública. Velaremos por la mejora de las infraestructuras y la creación de otras nuevas.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "continuaremos",
+                "defensa",
+                "sanidad",
+                "pública",
+                "velaremos",
+                "mejora",
+                "infraestructuras",
+                "creación",
+                "nuevas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 50,
+            "body": "Lucharemos por el mantenimiento de los servicios de salud en nuestras localidades sin permitir el cierre de ningún consultorio médico.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "lucharemos",
+                "mantenimiento",
+                "servicios",
+                "salud",
+                "localidades",
+                "permitir",
+                "cierre",
+                "ningún",
+                "consultorio",
+                "médico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 51,
+            "body": "Favoreceremos aquellas políticas que eviten las listas de espera, buscando la reducción de las mismas. El Hospital del Bierzo se encuentra a la cabeza",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "favoreceremos",
+                "aquellas",
+                "políticas",
+                "eviten",
+                "listas",
+                "espera",
+                "buscando",
+                "reducción",
+                "mismas",
+                "hospital",
+                "bierzo",
+                "encuentra",
+                "cabeza"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 52,
+            "body": "No permitiremos recortes ni cierres de plantas en nuestros hospitales, fortaleciendo el servicio público sanitario.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "permitiremos",
+                "recortes",
+                "cierres",
+                "plantas",
+                "hospitales",
+                "fortaleciendo",
+                "servicio",
+                "público",
+                "sanitario"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 53,
+            "body": "Mejoraremos las condiciones de nuestros profesionales para que sea atractivo el desempeño de su labor en nuestro territorio. Así como garantizar el concurso y el relevo generacional de nuestros sanitarios.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "mejoraremos",
+                "condiciones",
+                "profesionales",
+                "atractivo",
+                "desempeño",
+                "labor",
+                "territorio",
+                "así",
+                "garantizar",
+                "concurso",
+                "relevo",
+                "generacional",
+                "sanitarios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 54,
+            "body": "Defenderemos las técnicas terapéuticas y los profesionales que las aplican en nuestro territorio frente a las deslocalizaciones. Apoyaremos las reivindicaciones de los especialistas que supongan cualquier mejora en los servicios hospitalarios",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "defenderemos",
+                "técnicas",
+                "terapéuticas",
+                "profesionales",
+                "aplican",
+                "territorio",
+                "frente",
+                "deslocalizaciones",
+                "apoyaremos",
+                "reivindicaciones",
+                "especialistas",
+                "supongan",
+                "cualquier",
+                "mejora",
+                "servicios",
+                "hospitalarios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 55,
+            "body": "Exigiremos mayor inversión para la investigación de las enfermedades.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "exigiremos",
+                "mayor",
+                "inversión",
+                "investigación",
+                "enfermedades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 56,
+            "body": "Defenderemos la educación pública en igualdad. Vigilaremos que el estado de los centros escolares se encuentre en óptimas condiciones. Prestaremos atención y apoyo a los alumnos con necesidades especiales.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "defenderemos",
+                "educación",
+                "pública",
+                "igualdad",
+                "vigilaremos",
+                "centros",
+                "escolares",
+                "encuentre",
+                "óptimas",
+                "condiciones",
+                "prestaremos",
+                "atención",
+                "apoyo",
+                "alumnos",
+                "necesidades",
+                "especiales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 57,
+            "body": "Defenderemos la supervivencia de las escuelas rurales.",
+            "topics": [
+                "Educación",
+                "Medio rural"
+            ],
+            "tags": [
+                "defenderemos",
+                "supervivencia",
+                "escuelas",
+                "rurales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 58,
+            "body": "Apoyaremos la formación profesional como base fundamental para el futuro de nuestros jóvenes.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "apoyaremos",
+                "formación",
+                "profesional",
+                "base",
+                "fundamental",
+                "futuro",
+                "jóvenes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 59,
+            "body": "Apoyaremos la mejora de las universidades públicas, con especial atención al campus de Ponferrada. Continuaremos reivindicando una facultad de Medicina y una facultad de Farmacia para León.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "apoyaremos",
+                "mejora",
+                "universidades",
+                "públicas",
+                "especial",
+                "atención",
+                "campus",
+                "ponferrada",
+                "continuaremos",
+                "reivindicando",
+                "facultad",
+                "medicina",
+                "facultad",
+                "farmacia",
+                "león"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 60,
+            "body": "Lucharemos porque las pruebas para el acceso a la Universidad no discriminen a nuestros alumnos por su lugar de procedencia, EBAU única.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "lucharemos",
+                "pruebas",
+                "acceso",
+                "universidad",
+                "discriminen",
+                "alumnos",
+                "lugar",
+                "procedencia",
+                "ebau",
+                "única"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 61,
+            "body": "Seguiremos apoyando a las zonas rurales a través de la promoción de sus recursos endógenos, poniendo especial atención en las 7 Reservas de la Biosfera de nuestra provincia donde el turismo debe ser fuente de creación de empleo.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "seguiremos",
+                "apoyando",
+                "zonas",
+                "rurales",
+                "través",
+                "promoción",
+                "recursos",
+                "endógenos",
+                "poniendo",
+                "especial",
+                "atención",
+                "7",
+                "reservas",
+                "biosfera",
+                "provincia",
+                "turismo",
+                "debe",
+                "ser",
+                "fuente",
+                "creación",
+                "empleo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 62,
+            "body": "Promoveremos políticas de fomento de la actividad forestal como actividad económica y de desarrollo, la limpieza de nuestros montes y el control y vigilancia del mismo todas ellas como condiciones esenciales para disminuir los incendios que asolan a la provincia de León (Junto a Zamora las que más hectáreas tiene afectadas por esta lacra)",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "promoveremos",
+                "políticas",
+                "fomento",
+                "actividad",
+                "forestal",
+                "actividad",
+                "económica",
+                "desarrollo",
+                "limpieza",
+                "montes",
+                "control",
+                "vigilancia",
+                "mismo",
+                "todas",
+                "condiciones",
+                "esenciales",
+                "disminuir",
+                "incendios",
+                "asolan",
+                "provincia",
+                "león",
+                "junto",
+                "zamora",
+                "hectáreas",
+                "afectadas",
+                "lacra"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 63,
+            "body": "Trabajaremos en una política medioambiental en la que a través de la concienciación consigamos la reducción progresiva de los plásticos.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "trabajaremos",
+                "política",
+                "medioambiental",
+                "través",
+                "concienciación",
+                "consigamos",
+                "reducción",
+                "progresiva",
+                "plásticos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 64,
+            "body": "Vigilaremos que la restauración de las zonas mineras, escombreras, etc., cumpla las exigencias medioambientales, así como la restauración integral de los daños causados por las obras de la Variante de Pajares.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "vigilaremos",
+                "restauración",
+                "zonas",
+                "mineras",
+                "escombreras",
+                "etc",
+                "cumpla",
+                "exigencias",
+                "medioambientales",
+                "así",
+                "restauración",
+                "integral",
+                "daños",
+                "causados",
+                "obras",
+                "variante",
+                "pajares"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 65,
+            "body": "Defenderemos la caza y la pesca como aprovechamientos naturales sostenibles y elementos dinamizadores en zonas rurales.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "defenderemos",
+                "caza",
+                "pesca",
+                "aprovechamientos",
+                "naturales",
+                "sostenibles",
+                "elementos",
+                "dinamizadores",
+                "zonas",
+                "rurales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 66,
+            "body": "Impulsaremos el establecimiento de bonificaciones a las familias que se instalen en el medio rural.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "impulsaremos",
+                "establecimiento",
+                "bonificaciones",
+                "familias",
+                "instalen",
+                "medio",
+                "rural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 67,
+            "body": "Lucharemos por un mayor número de plazas en las residencias públicas para nuestros mayores.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "lucharemos",
+                "mayor",
+                "número",
+                "plazas",
+                "residencias",
+                "públicas",
+                "mayores"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 68,
+            "body": "Vigilaremos que la ayuda a domicilio alcance a quien más lo necesita.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "vigilaremos",
+                "ayuda",
+                "domicilio",
+                "alcance",
+                "necesita"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 69,
+            "body": "Defenderemos el derecho a la igualdad de nuestros ciudadanos y ciudadanas en todos los ámbitos.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "defenderemos",
+                "derecho",
+                "igualdad",
+                "ciudadanos",
+                "ciudadanas",
+                "ámbitos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 70,
+            "body": "Vigilaremos para que nuestro patrimonio cultural cuente con la financiación que le permita mantenerse en buenas condiciones (BIC, conjuntos históricos…). Buscaremos medidas de apoyo al sector artesanal y al sector turístico como nichos de empleo.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "vigilaremos",
+                "patrimonio",
+                "cultural",
+                "cuente",
+                "financiación",
+                "permita",
+                "mantenerse",
+                "buenas",
+                "condiciones",
+                "bic",
+                "conjuntos",
+                "históricos…",
+                "buscaremos",
+                "medidas",
+                "apoyo",
+                "sector",
+                "artesanal",
+                "sector",
+                "turístico",
+                "nichos",
+                "empleo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 71,
+            "body": "Velaremos porque nuestro patrimonio cultural cuente con la adecuada señalización instando a las administraciones competentes.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "velaremos",
+                "patrimonio",
+                "cultural",
+                "cuente",
+                "adecuada",
+                "señalización",
+                "instando",
+                "administraciones",
+                "competentes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 72,
+            "body": "Vigilaremos el fraude de los alojamientos ilegales.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "vigilaremos",
+                "fraude",
+                "alojamientos",
+                "ilegales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 73,
+            "body": "Promocionaremos que somos Cuna del Parlamentarismo a pesar de que otros se lo arroguen a nivel autonómico.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "promocionaremos",
+                "cuna",
+                "parlamentarismo",
+                "pesar",
+                "arroguen",
+                "nivel",
+                "autonómico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 74,
+            "body": "Defenderemos la promoción de nuestra lengua: “El leonés”, como establece el artículo 5.2 del Estatuto de Autonomía. Lucharemos por la recuperación lingüística tomando como punto de partida la Cátedra del leonés (que conseguimos llevar a cabo, por primera vez, en 2018), velaremos para que se mantenga y aumente su financiación.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "defenderemos",
+                "promoción",
+                "lengua",
+                "“",
+                "leonés",
+                "”",
+                "establece",
+                "artículo",
+                "5",
+                "2",
+                "estatuto",
+                "autonomía",
+                "lucharemos",
+                "recuperación",
+                "lingüística",
+                "tomando",
+                "punto",
+                "partida",
+                "cátedra",
+                "leonés",
+                "conseguimos",
+                "llevar",
+                "cabo",
+                "primera",
+                "vez",
+                "2018",
+                "velaremos",
+                "mantenga",
+                "aumente",
+                "financiación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 75,
+            "body": "Lucharemos por la protección de la cultura tradicional de nuestras comarcas y la difusión de nuestra historia regional leonesa, vigilando que los libros de texto respeten la veracidad del pasado de nuestra región.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "lucharemos",
+                "protección",
+                "cultura",
+                "tradicional",
+                "comarcas",
+                "difusión",
+                "historia",
+                "regional",
+                "leonesa",
+                "vigilando",
+                "libros",
+                "texto",
+                "respeten",
+                "veracidad",
+                "pasado",
+                "región"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 76,
+            "body": "Defenderemos la integridad de nuestros deportes autóctonos y lucharemos por su promoción. Vigilaremos el compromiso de que la Lucha Leonesa cuente con federación propia aprobado legislativamente gracias a una enmienda de UPL.",
+            "topics": [
+                "Deporte"
+            ],
+            "tags": [
+                "defenderemos",
+                "integridad",
+                "deportes",
+                "autóctonos",
+                "lucharemos",
+                "promoción",
+                "vigilaremos",
+                "compromiso",
+                "lucha",
+                "leonesa",
+                "cuente",
+                "federación",
+                "propia",
+                "aprobado",
+                "legislativamente",
+                "gracias",
+                "enmienda",
+                "upl"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 77,
+            "body": "Velaremos por el fomento del deporte en condiciones de igualdad, impidiendo cualquier discriminación por razón de sexo, procedencia, etc.",
+            "topics": [
+                "Deporte"
+            ],
+            "tags": [
+                "velaremos",
+                "fomento",
+                "deporte",
+                "condiciones",
+                "igualdad",
+                "impidiendo",
+                "cualquier",
+                "discriminación",
+                "razón",
+                "sexo",
+                "procedencia",
+                "etc"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}

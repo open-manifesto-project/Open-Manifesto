@@ -1,0 +1,4184 @@
+{
+    "politicalParty": "Partido Popular",
+    "title": "UNA PUERTA AL FUTURO - Las 150 propuestas del Partido Popular Catalán",
+    "publicationDate": "",
+    "electionDate": "21/12/17",
+    "electionType": "Autonómicas",
+    "geographicalArea": "Cataluña",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifiesto Project",
+    "pages": "18",
+    "numProposals": "150",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "Nuestra prioridad será formar un gobierno catalán que respete la Constitución española y el\nEstatut de Cataluña. Ningún voto al Partido Popular servirá para situar a un político\nindependentista en la Generalitat o para aceptar la celebración de un referéndum que separe a\nCataluña del resto de España.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "prioridad",
+                "formar",
+                "gobierno",
+                "catalán",
+                "respete",
+                "constitución",
+                "española",
+                "estatut",
+                "cataluña",
+                "ningún",
+                "voto",
+                "partido",
+                "popular",
+                "servirá",
+                "situar",
+                "político",
+                "independentista",
+                "generalitat",
+                "aceptar",
+                "celebración",
+                "referéndum",
+                "separe",
+                "cataluña",
+                "resto",
+                "españa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Garantizaremos el respeto al Estado de derecho y a la ley como base de la convivencia\ndemocrática para un futuro que recupere la prosperidad.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "garantizaremos",
+                "respeto",
+                "derecho",
+                "ley",
+                "base",
+                "convivencia",
+                "democrática",
+                "futuro",
+                "recupere",
+                "prosperidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "El Partido Popular es la mejor garantía de que Cataluña seguirá siendo parte de España y de\nEuropa. No dejaremos que nadie rompa nuestra identidad plural.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "partido",
+                "popular",
+                "mejor",
+                "garantía",
+                "cataluña",
+                "seguirá",
+                "siendo",
+                "parte",
+                "españa",
+                "europa",
+                "dejaremos",
+                "nadie",
+                "rompa",
+                "identidad",
+                "plural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Las calles deben volver a ser un espacio de encuentro cívico. Trabajaremos sin desmayo para\nsuperar la etapa de confrontación en la que se ha hundido la política catalana estos últimos años.\nSuperaremos el enfrentamiento, potenciando la cooperación en todos los ámbitos.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "calles",
+                "deben",
+                "volver",
+                "ser",
+                "espacio",
+                "encuentro",
+                "cívico",
+                "trabajaremos",
+                "desmayo",
+                "superar",
+                "etapa",
+                "confrontación",
+                "hundido",
+                "política",
+                "catalana",
+                "últimos",
+                "años",
+                "superaremos",
+                "enfrentamiento",
+                "potenciando",
+                "cooperación",
+                "ámbitos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "Trabajaremos para lograr una nueva cultura del reconocimiento mutuo. La identidad nacional\nespañola debe conocer mejor su dimensión y su raíz catalana. Al mismo tiempo, la realidad singular\ncatalana debe aceptar con más claridad su fundamental pluralidad interna.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "trabajaremos",
+                "lograr",
+                "nueva",
+                "cultura",
+                "reconocimiento",
+                "mutuo",
+                "identidad",
+                "nacional",
+                "española",
+                "debe",
+                "conocer",
+                "mejor",
+                "dimensión",
+                "raíz",
+                "catalana",
+                "mismo",
+                "tiempo",
+                "realidad",
+                "singular",
+                "catalana",
+                "debe",
+                "aceptar",
+                "claridad",
+                "fundamental",
+                "pluralidad",
+                "interna"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Devolveremos la normalidad, la seguridad jurídica y la estabilidad institucional a Cataluña, con\nun proyecto de gobierno para todos los catalanes que pase página de la obsesión del separatismo\nexcluyente con una agenda de apertura y libertad.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "devolveremos",
+                "normalidad",
+                "seguridad",
+                "jurídica",
+                "estabilidad",
+                "institucional",
+                "cataluña",
+                "proyecto",
+                "gobierno",
+                "catalanes",
+                "pase",
+                "página",
+                "obsesión",
+                "separatismo",
+                "excluyente",
+                "agenda",
+                "apertura",
+                "libertad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Formaremos un gobierno limpio y leal. No formarán parte de nuestro gobierno personas que\nhayan sido condenadas por la comisión de delitos de falsedad, contra la libertad, el patrimonio y el\norden socioeconómico, la Constitución y las instituciones. Y no llevaremos ningún imputado por\ncorrupción en nuestras listas.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "formaremos",
+                "gobierno",
+                "limpio",
+                "leal",
+                "formarán",
+                "parte",
+                "gobierno",
+                "personas",
+                "sido",
+                "condenadas",
+                "comisión",
+                "delitos",
+                "falsedad",
+                "libertad",
+                "patrimonio",
+                "orden",
+                "socioeconómico",
+                "constitución",
+                "instituciones",
+                "llevaremos",
+                "ningún",
+                "imputado",
+                "corrupción",
+                "listas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "Fijaremos como requisito para poder acceder a cualquier cargo experiencia y formación relativa\na las funciones que deberá desarrollar, y que no esté condenado o sometido a juicio oral por una\ncuestión que afecte a su honorabilidad como servidor público.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "fijaremos",
+                "requisito",
+                "poder",
+                "acceder",
+                "cualquier",
+                "cargo",
+                "experiencia",
+                "formación",
+                "relativa",
+                "funciones",
+                "deberá",
+                "desarrollar",
+                "condenado",
+                "sometido",
+                "juicio",
+                "oral",
+                "cuestión",
+                "afecte",
+                "honorabilidad",
+                "servidor",
+                "público"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "La administración estará dirigida con profesionalidad. Para ello, aprobaremos la ley de\nordenación del sistema de dirección pública profesional de la administración de la Generalitat y de\nsu sector público.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "administración",
+                "dirigida",
+                "profesionalidad",
+                "ello",
+                "aprobaremos",
+                "ley",
+                "ordenación",
+                "sistema",
+                "dirección",
+                "pública",
+                "profesional",
+                "administración",
+                "generalitat",
+                "sector",
+                "público"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "Aprobaremos una nueva ley electoral que compagine la proporcionalidad y la representación\nterritorial. El sistema que proponemos se inspira en el doble voto propio del modelo alemán: un\nvoto a las candidaturas por circunscripciones electorales y un voto directo a los candidatos de\npequeños distritos electorales.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "aprobaremos",
+                "nueva",
+                "ley",
+                "electoral",
+                "compagine",
+                "proporcionalidad",
+                "representación",
+                "territorial",
+                "sistema",
+                "proponemos",
+                "inspira",
+                "doble",
+                "voto",
+                "propio",
+                "modelo",
+                "alemán",
+                "voto",
+                "candidaturas",
+                "circunscripciones",
+                "electorales",
+                "voto",
+                "directo",
+                "candidatos",
+                "pequeños",
+                "distritos",
+                "electorales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Impulsaremos el pluralismo en las instituciones catalanas, y acabaremos con la monopolización\nnacionalista de las instituciones, los medios de comunicación y la sociedad civil.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "impulsaremos",
+                "pluralismo",
+                "instituciones",
+                "catalanas",
+                "acabaremos",
+                "monopolización",
+                "nacionalista",
+                "instituciones",
+                "medios",
+                "comunicación",
+                "sociedad",
+                "civil"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Recuperaremos la neutralidad en la Generalitat para que vuelva a ser una institución\nprestigiosa al servicio de todos los catalanes.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "recuperaremos",
+                "neutralidad",
+                "generalitat",
+                "vuelva",
+                "ser",
+                "institución",
+                "prestigiosa",
+                "servicio",
+                "catalanes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Desmantelaremos definitivamente las pretendidas estructuras de Estado independentistas y\ndestinaremos esos recursos a crear prosperidad económica y bienestar social.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "desmantelaremos",
+                "definitivamente",
+                "pretendidas",
+                "estructuras",
+                "independentistas",
+                "destinaremos",
+                "recursos",
+                "crear",
+                "prosperidad",
+                "económica",
+                "bienestar",
+                "social"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Normalizaremos la presencia del Estado y de los símbolos nacionales en Cataluña.\nExpresaremos con naturalidad la realidad catalana, que es parte del proyecto español y europeo.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "normalizaremos",
+                "presencia",
+                "símbolos",
+                "nacionales",
+                "cataluña",
+                "expresaremos",
+                "naturalidad",
+                "realidad",
+                "catalana",
+                "parte",
+                "proyecto",
+                "español",
+                "europeo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "Defenderemos la cooperación y la lealtad institucional como práctica política habitual, frente\na la confrontación y a la deslealtad que ha practicado el separatismo.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "defenderemos",
+                "cooperación",
+                "lealtad",
+                "institucional",
+                "práctica",
+                "política",
+                "habitual",
+                "frente",
+                "confrontación",
+                "deslealtad",
+                "practicado",
+                "separatismo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Haremos de TV3 y de Catalunya Ràdio unos medios plurales al servicio de una información\nveraz y neutral. Potenciaremos el perfil profesional e independiente del ente. Ajustaremos el gasto\nen los medios de comunicación públicos, las retribuciones de sus altos directivos y limitaremos la\nproducción externa de su presupuesto.",
+            "topics": [
+                "Sector público",
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "haremos",
+                "tv3",
+                "catalunya",
+                "ràdio",
+                "medios",
+                "plurales",
+                "servicio",
+                "información",
+                "veraz",
+                "neutral",
+                "potenciaremos",
+                "perfil",
+                "profesional",
+                "independiente",
+                "ente",
+                "ajustaremos",
+                "gasto",
+                "medios",
+                "comunicación",
+                "públicos",
+                "retribuciones",
+                "altos",
+                "directivos",
+                "limitaremos",
+                "producción",
+                "externa",
+                "presupuesto"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "Promoveremos que organismos públicos e instituciones culturales del Gobierno de España\ntrasladen su sede o una delegación de primer nivel a Cataluña. Reforzaremos la colaboración entre\nlos museos catalanes y los del resto de España.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "promoveremos",
+                "organismos",
+                "públicos",
+                "instituciones",
+                "culturales",
+                "gobierno",
+                "españa",
+                "trasladen",
+                "sede",
+                "delegación",
+                "primer",
+                "nivel",
+                "cataluña",
+                "reforzaremos",
+                "colaboración",
+                "museos",
+                "catalanes",
+                "resto",
+                "españa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Promoveremos que Barcelona sea declarada co-capital cultural de España.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "promoveremos",
+                "barcelona",
+                "declarada",
+                "co",
+                "capital",
+                "cultural",
+                "españa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Aseguraremos una enseñanza de calidad y sin adoctrinamiento para nuestros hijos y\ngarantizaremos que puedan crecer en libertad, forjando su propio criterio para desenvolverse con\ntodas las herramientas en un mundo global.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "aseguraremos",
+                "enseñanza",
+                "calidad",
+                "adoctrinamiento",
+                "hijos",
+                "garantizaremos",
+                "puedan",
+                "crecer",
+                "libertad",
+                "forjando",
+                "propio",
+                "criterio",
+                "desenvolverse",
+                "todas",
+                "herramientas",
+                "mundo",
+                "global"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Aseguraremos la neutralidad simbólica e ideológica del espacio público e institucional, para\nque no se llene de banderas que se oponen al orden constitucional.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "aseguraremos",
+                "neutralidad",
+                "simbólica",
+                "ideológica",
+                "espacio",
+                "público",
+                "institucional",
+                "llene",
+                "banderas",
+                "oponen",
+                "orden",
+                "constitucional"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Defenderemos con orgullo nuestra realidad bilingüe en toda Cataluña, y trilingüe en la Vall\nd’Aran.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "defenderemos",
+                "orgullo",
+                "realidad",
+                "bilingüe",
+                "toda",
+                "cataluña",
+                "trilingüe",
+                "vall",
+                "d",
+                "’",
+                "aran"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "La doble identidad caracteriza a la mayoría de los catalanes, que aprecian tanto la lengua\ncatalana como la española. Derogaremos las multas lingüísticas que discriminan a los que rotulan\nen castellano.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "doble",
+                "identidad",
+                "caracteriza",
+                "mayoría",
+                "catalanes",
+                "aprecian",
+                "lengua",
+                "catalana",
+                "española",
+                "derogaremos",
+                "multas",
+                "lingüísticas",
+                "discriminan",
+                "rotulan",
+                "castellano"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "Garantizaremos que los ciudadanos puedan dirigirse a cualquier ámbito de la administración\nde la Generalitat en cualquiera de las lenguas oficiales. Los impresos, las comunicaciones y la\natención estarán disponibles en las tres lenguas oficiales de Cataluña.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "garantizaremos",
+                "ciudadanos",
+                "puedan",
+                "dirigirse",
+                "cualquier",
+                "ámbito",
+                "administración",
+                "generalitat",
+                "cualquiera",
+                "lenguas",
+                "oficiales",
+                "impresos",
+                "comunicaciones",
+                "atención",
+                "disponibles",
+                "tres",
+                "lenguas",
+                "oficiales",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Impulsaremos un modelo educativo trilingüe, y garantizaremos que se cumplan las leyes y\nsentencias sobre derechos lingüísticos y educativos de las familias.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "impulsaremos",
+                "modelo",
+                "educativo",
+                "trilingüe",
+                "garantizaremos",
+                "cumplan",
+                "leyes",
+                "sentencias",
+                "derechos",
+                "lingüísticos",
+                "educativos",
+                "familias"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Aprobaremos una ley de seguridad y civismo de Cataluña que regule la utilización del espacio\npúblico, y que garantice que el espacio -que es de todos- se pueda disfrutar en condiciones de\nlibertad y tranquilidad.",
+            "topics": [
+                "Seguridad",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "aprobaremos",
+                "ley",
+                "seguridad",
+                "civismo",
+                "cataluña",
+                "regule",
+                "utilización",
+                "espacio",
+                "público",
+                "garantice",
+                "espacio",
+                "pueda",
+                "disfrutar",
+                "condiciones",
+                "libertad",
+                "tranquilidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "Trabajaremos para devolver el prestigio y la normalidad a todos los cuerpos policiales.\nGarantizaremos que los Mossos d’Esquadra son un cuerpo al servicio de la ciudadanía en Cataluña\nen el marco del Estado de derecho de España.",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "trabajaremos",
+                "devolver",
+                "prestigio",
+                "normalidad",
+                "cuerpos",
+                "policiales",
+                "garantizaremos",
+                "mossos",
+                "d",
+                "’",
+                "esquadra",
+                "cuerpo",
+                "servicio",
+                "ciudadanía",
+                "cataluña",
+                "marco",
+                "derecho",
+                "españa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": "Seremos implacables en la lucha contra el terrorismo yihadista. Controlaremos la financiación\nextranjera de determinados centros y pediremos la expulsión de cualquier líder comunitario que\nhaga apología de la violencia.",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "implacables",
+                "lucha",
+                "terrorismo",
+                "yihadista",
+                "controlaremos",
+                "financiación",
+                "extranjera",
+                "determinados",
+                "centros",
+                "pediremos",
+                "expulsión",
+                "cualquier",
+                "líder",
+                "comunitario",
+                "haga",
+                "apología",
+                "violencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Crearemos una unidad especial de los Mossos destinada a combatir el robo y el crimen contra\nlas personas mayores.",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "crearemos",
+                "unidad",
+                "especial",
+                "mossos",
+                "destinada",
+                "combatir",
+                "robo",
+                "crimen",
+                "personas",
+                "mayores"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Consolidaremos las plazas judiciales, a fin de reducir la alta tasa de interinidad en los servicios\nde justicia y en los centros penitenciarios.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "consolidaremos",
+                "plazas",
+                "judiciales",
+                "fin",
+                "reducir",
+                "alta",
+                "tasa",
+                "interinidad",
+                "servicios",
+                "justicia",
+                "centros",
+                "penitenciarios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Nunca más serán rechazadas las plazas de funcionarios y juzgados que se ofrezcan desde el\nMinisterio de Justicia.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "nunca",
+                "rechazadas",
+                "plazas",
+                "funcionarios",
+                "juzgados",
+                "ofrezcan",
+                "ministerio",
+                "justicia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 31,
+            "body": "Las calles de Cataluña volverán a ser un espacio de encuentro cívico. Trabajaremos\nincansablemente para superar la etapa de confrontación que ha caracterizado a la política catalana\nestos años. Superaremos el enfrentamiento, potenciando la cooperación en todos los ámbitos.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "calles",
+                "cataluña",
+                "volverán",
+                "ser",
+                "espacio",
+                "encuentro",
+                "cívico",
+                "trabajaremos",
+                "incansablemente",
+                "superar",
+                "etapa",
+                "confrontación",
+                "caracterizado",
+                "política",
+                "catalana",
+                "años",
+                "superaremos",
+                "enfrentamiento",
+                "potenciando",
+                "cooperación",
+                "ámbitos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 32,
+            "body": "Auditaremos, optimizaremos y racionalizaremos el gasto de la Generalitat y de todos los\norganismos que dependen de ella.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "auditaremos",
+                "optimizaremos",
+                "racionalizaremos",
+                "gasto",
+                "generalitat",
+                "organismos",
+                "dependen"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 33,
+            "body": "Sanearemos el entramado de organismos de la Generalitat, que dispara el gasto público y no\nsirve a las necesidades de los catalanes. Suprimiremos todos los organismos creados para el\nfomento del independentismo y que no contribuyen al bienestar social.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "sanearemos",
+                "entramado",
+                "organismos",
+                "generalitat",
+                "dispara",
+                "gasto",
+                "público",
+                "sirve",
+                "necesidades",
+                "catalanes",
+                "suprimiremos",
+                "organismos",
+                "creados",
+                "fomento",
+                "independentismo",
+                "contribuyen",
+                "bienestar",
+                "social"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 34,
+            "body": "Reduciremos drásticamente las 391 entidades que forman parte del sector público de la\nGeneralitat de Cataluña y suprimiremos todos los “chiringuitos políticos”.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "reduciremos",
+                "drásticamente",
+                "391",
+                "entidades",
+                "forman",
+                "parte",
+                "sector",
+                "público",
+                "generalitat",
+                "cataluña",
+                "suprimiremos",
+                "“",
+                "chiringuitos",
+                "políticos",
+                "”"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 35,
+            "body": "Cerraremos definitivamente las delegaciones de la Generalitat en el exterior, excepto la de\nBruselas, y destinaremos el dinero ahorrado a la internacionalización de la economía y a la\npromoción turística con la recuperación del tradicional prestigio de Cataluña.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "cerraremos",
+                "definitivamente",
+                "delegaciones",
+                "generalitat",
+                "exterior",
+                "excepto",
+                "bruselas",
+                "destinaremos",
+                "dinero",
+                "ahorrado",
+                "internacionalización",
+                "economía",
+                "promoción",
+                "turística",
+                "recuperación",
+                "tradicional",
+                "prestigio",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 36,
+            "body": "Reduciremos los altos cargos y los cargos de confianza. Suprimiremos los Consejos\nComarcales.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "reduciremos",
+                "altos",
+                "cargos",
+                "cargos",
+                "confianza",
+                "suprimiremos",
+                "consejos",
+                "comarcales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 37,
+            "body": "Pactaremos un nuevo sistema de financiación autonómica, que respete los principios de\njusticia, igualdad, solidaridad, ordinalidad y sostenibilidad, que garantice la prestación de servicios\npúblicos de calidad.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "pactaremos",
+                "nuevo",
+                "sistema",
+                "financiación",
+                "autonómica",
+                "respete",
+                "principios",
+                "justicia",
+                "igualdad",
+                "solidaridad",
+                "ordinalidad",
+                "sostenibilidad",
+                "garantice",
+                "prestación",
+                "servicios",
+                "públicos",
+                "calidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 38,
+            "body": "Reduciremos en un 50%, como mínimo, el gasto en publicidad institucional de la Generalitat.",
+            "topics": [
+                "Economía",
+                "Sector público"
+            ],
+            "tags": [
+                "reduciremos",
+                "50",
+                "mínimo",
+                "gasto",
+                "publicidad",
+                "institucional",
+                "generalitat"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 39,
+            "body": "Acabaremos con el déficit de la Generalitat, que se come nuestros presupuestos y nuestras\ninversiones futuras. No gastaremos más de lo que ingresemos.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "acabaremos",
+                "déficit",
+                "generalitat",
+                "come",
+                "presupuestos",
+                "inversiones",
+                "futuras",
+                "gastaremos",
+                "ingresemos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 40,
+            "body": "Impulsaremos que la Sindicatura de Comptes lleve a cabo una auditoría del gasto de la\nGeneralitat durante los años del procés para saber qué parte del dinero de todos ha servido para\ndar cobertura al proceso independentista y exigir responsabilidades.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "impulsaremos",
+                "sindicatura",
+                "comptes",
+                "lleve",
+                "cabo",
+                "auditoría",
+                "gasto",
+                "generalitat",
+                "años",
+                "procés",
+                "saber",
+                "parte",
+                "dinero",
+                "servido",
+                "dar",
+                "cobertura",
+                "proceso",
+                "independentista",
+                "exigir",
+                "responsabilidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 41,
+            "body": "Estabilizaremos y consolidaremos las plantillas de la administración de la Generalitat para los\naños 2018-2021 aprobando una oferta pública de ocupación para crear nuevas plazas en cada\nsector, poniendo especial atención en servicios públicos como enseñanza, sanidad o seguridad.",
+            "topics": [
+                "Sector público",
+                "Empleo"
+            ],
+            "tags": [
+                "estabilizaremos",
+                "consolidaremos",
+                "plantillas",
+                "administración",
+                "generalitat",
+                "años",
+                "2018",
+                "2021",
+                "aprobando",
+                "oferta",
+                "pública",
+                "ocupación",
+                "crear",
+                "nuevas",
+                "plazas",
+                "cada",
+                "sector",
+                "poniendo",
+                "especial",
+                "atención",
+                "servicios",
+                "públicos",
+                "enseñanza",
+                "sanidad",
+                "seguridad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 42,
+            "body": "Garantizaremos la máxima estabilidad, calidad y eficiencia de los servicios públicos y\nevitaremos que la temporalidad supere el 8% en cada sector.",
+            "topics": [
+                "Sector público",
+                "Empleo"
+            ],
+            "tags": [
+                "garantizaremos",
+                "máxima",
+                "estabilidad",
+                "calidad",
+                "eficiencia",
+                "servicios",
+                "públicos",
+                "evitaremos",
+                "temporalidad",
+                "supere",
+                "8",
+                "cada",
+                "sector"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 43,
+            "body": "Pagaremos a tiempo a los proveedores de la Generalitat y, si hay algún retraso, se abonarán\ntambién los intereses de demora.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "pagaremos",
+                "tiempo",
+                "proveedores",
+                "generalitat",
+                "si",
+                "algún",
+                "retraso",
+                "abonarán",
+                "intereses",
+                "demora"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 44,
+            "body": "Destinaremos los recursos necesarios para devolver las pagas extraordinarias pendientes a los\ntrabajadores públicos para que en ningún caso la recuperación de estas pagas se extienda más allá\ndel 2019. Queremos que los empleados públicos de la Generalitat recuperen los derechos perdidos\ndesde el 2012.",
+            "topics": [
+                "Sector público",
+                "Empleo"
+            ],
+            "tags": [
+                "destinaremos",
+                "recursos",
+                "necesarios",
+                "devolver",
+                "pagas",
+                "extraordinarias",
+                "pendientes",
+                "trabajadores",
+                "públicos",
+                "ningún",
+                "caso",
+                "recuperación",
+                "pagas",
+                "extienda",
+                "allá",
+                "2019",
+                "queremos",
+                "empleados",
+                "públicos",
+                "generalitat",
+                "recuperen",
+                "derechos",
+                "perdidos",
+                "2012"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 45,
+            "body": "Aprobaremos un plan de choque para incentivar nuestro tejido empresarial. Lo haremos con\nun triple objetivo: que todas las empresas que han abandonado Cataluña vuelvan cuanto antes;\nque nuevas empresas instalen sus negocios en nuestra región; y que crezca el tamaño y la\ncapacidad de internacionalización de las que se han quedado.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "aprobaremos",
+                "plan",
+                "choque",
+                "incentivar",
+                "tejido",
+                "empresarial",
+                "haremos",
+                "triple",
+                "objetivo",
+                "todas",
+                "empresas",
+                "abandonado",
+                "cataluña",
+                "vuelvan",
+                "cuanto",
+                "nuevas",
+                "empresas",
+                "instalen",
+                "negocios",
+                "región",
+                "crezca",
+                "tamaño",
+                "capacidad",
+                "internacionalización",
+                "quedado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 46,
+            "body": "Llevaremos a cabo una reducción de las cargas fiscales a las empresas para volver a hacer de\nCataluña una región empresarialmente atractiva. Trabajaremos para eliminar las trabas\nburocráticas y los excesos fiscales impuestos por la izquierda independentista.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "llevaremos",
+                "cabo",
+                "reducción",
+                "cargas",
+                "fiscales",
+                "empresas",
+                "volver",
+                "hacer",
+                "cataluña",
+                "región",
+                "empresarialmente",
+                "atractiva",
+                "trabajaremos",
+                "eliminar",
+                "trabas",
+                "burocráticas",
+                "excesos",
+                "fiscales",
+                "impuestos",
+                "izquierda",
+                "independentista"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 47,
+            "body": "Suprimiremos algunos de los tributos propios que ha creado el bipartito de Puigdemont y los\nradicales de las CUP, como el impuesto sobre las grandes superficies comerciales, el impuesto de\nactivos no productivos de personas jurídicas, el impuesto sobre elementos radio-tóxicos, el\nimpuesto sobre las bebidas azucaradas y los diversos impuestos sobre emisiones.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "suprimiremos",
+                "tributos",
+                "propios",
+                "creado",
+                "bipartito",
+                "puigdemont",
+                "radicales",
+                "cup",
+                "impuesto",
+                "grandes",
+                "superficies",
+                "comerciales",
+                "impuesto",
+                "activos",
+                "productivos",
+                "personas",
+                "jurídicas",
+                "impuesto",
+                "elementos",
+                "radio",
+                "tóxicos",
+                "impuesto",
+                "bebidas",
+                "azucaradas",
+                "diversos",
+                "impuestos",
+                "emisiones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 48,
+            "body": "Simplificaremos todos los tramos autonómicos del IRPF, favoreciendo especialmente a las\nrentas medias y bajas.\n- Reduciremos un 17% el IRPF de las rentas menores a 12.500 euros, que pasarán a tributar al 10%.\n- Bajaremos un 13% el IRPF de las rentas menores a 18.000 euros, que pasarán a tributar al 11,5%.\n- Reduciremos un 12% el IPRF de las rentas menores a 24.321 euros, que tributarán ahora al 13%.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "simplificaremos",
+                "tramos",
+                "autonómicos",
+                "irpf",
+                "favoreciendo",
+                "especialmente",
+                "rentas",
+                "medias",
+                "bajas",
+                "reduciremos",
+                "17",
+                "irpf",
+                "rentas",
+                "menores",
+                "12",
+                "500",
+                "euros",
+                "pasarán",
+                "tributar",
+                "10",
+                "bajaremos",
+                "13",
+                "irpf",
+                "rentas",
+                "menores",
+                "18",
+                "000",
+                "euros",
+                "pasarán",
+                "tributar",
+                "11",
+                "5",
+                "reduciremos",
+                "12",
+                "iprf",
+                "rentas",
+                "menores",
+                "24",
+                "321",
+                "euros",
+                "tributarán",
+                "ahora",
+                "13"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 49,
+            "body": "Bonificaremos al 99 % el Impuesto de Donaciones cuando vaya orientado a la compra de la\nvivienda habitual o al inicio de una actividad económica y el Impuesto de Sucesiones de padres a\nhijos.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "bonificaremos",
+                "99",
+                "impuesto",
+                "donaciones",
+                "vaya",
+                "orientado",
+                "compra",
+                "vivienda",
+                "habitual",
+                "inicio",
+                "actividad",
+                "económica",
+                "impuesto",
+                "sucesiones",
+                "padres",
+                "hijos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 50,
+            "body": "Reduciremos a la mitad el Impuesto de Transmisiones Patrimoniales tanto para bienes\nmuebles como bienes inmuebles. La tasa de los bienes muebles pasará, en su tipo general, del 11%\nal 6%.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "reduciremos",
+                "mitad",
+                "impuesto",
+                "transmisiones",
+                "patrimoniales",
+                "bienes",
+                "muebles",
+                "bienes",
+                "inmuebles",
+                "tasa",
+                "bienes",
+                "muebles",
+                "pasará",
+                "tipo",
+                "general",
+                "11",
+                "6"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 51,
+            "body": "Bajaremos el impuesto de Actos Jurídicos Documentados, que pasará del 1,5% al 0,75% para\ndocumentos notariales.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "bajaremos",
+                "impuesto",
+                "actos",
+                "jurídicos",
+                "documentados",
+                "pasará",
+                "1",
+                "5",
+                "0",
+                "75",
+                "documentos",
+                "notariales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 52,
+            "body": "Devolveremos a la industria catalana su fortaleza y su profundidad, alentando la innovación en\nel ciclo productivo y facilitando la internacionalización.",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "devolveremos",
+                "industria",
+                "catalana",
+                "fortaleza",
+                "profundidad",
+                "alentando",
+                "innovación",
+                "ciclo",
+                "productivo",
+                "facilitando",
+                "internacionalización"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 53,
+            "body": "Desarrollaremos una agenda catalana de I+D+i, en línea con las directrices y la Estrategia\nEuropea 2020.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "agenda",
+                "catalana",
+                "i",
+                "d",
+                "i",
+                "línea",
+                "directrices",
+                "estrategia",
+                "europea",
+                "2020"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 54,
+            "body": "Potenciaremos el avance de sectores de futuro, como las tecnologías de la información, la\nnanotecnología, la economía verde, las smartcities y todos aquellos ámbitos que tengan que ver\ncon la economía del conocimiento.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "potenciaremos",
+                "avance",
+                "sectores",
+                "futuro",
+                "tecnologías",
+                "información",
+                "nanotecnología",
+                "economía",
+                "verde",
+                "smartcities",
+                "aquellos",
+                "ámbitos",
+                "ver",
+                "economía",
+                "conocimiento"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 55,
+            "body": "Reforzaremos los apoyos a la internacionalización de las Pymes. Fortaleceremos Acció, en\ncolaboración con el ICEX, y acompañaremos la expansión de las empresas catalanas en los\nmercados emergentes.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "reforzaremos",
+                "apoyos",
+                "internacionalización",
+                "pymes",
+                "fortaleceremos",
+                "acció",
+                "colaboración",
+                "icex",
+                "acompañaremos",
+                "expansión",
+                "empresas",
+                "catalanas",
+                "mercados",
+                "emergentes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 56,
+            "body": "Permitiremos aplazar el pago de impuestos autonómicos durante 3 años para los negocios y\nlas Pymes de nueva creación.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "permitiremos",
+                "aplazar",
+                "pago",
+                "impuestos",
+                "autonómicos",
+                "3",
+                "años",
+                "negocios",
+                "pymes",
+                "nueva",
+                "creación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 57,
+            "body": "Facilitaremos a los nuevos autónomos aplazar el pago de tasas e impuestos autonómicos\ndurante dos años si sus ingresos no les permiten cubrir el salario mínimo.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "facilitaremos",
+                "nuevos",
+                "autónomos",
+                "aplazar",
+                "pago",
+                "tasas",
+                "impuestos",
+                "autonómicos",
+                "dos",
+                "años",
+                "si",
+                "ingresos",
+                "permiten",
+                "cubrir",
+                "salario",
+                "mínimo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 58,
+            "body": "Desarrollaremos el Consell Català del Treball Autònom como mesa de diálogo social con este\nsector tan importante en Cataluña.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "consell",
+                "català",
+                "treball",
+                "autònom",
+                "mesa",
+                "diálogo",
+                "social",
+                "sector",
+                "tan",
+                "importante",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 59,
+            "body": "Defenderemos que Barcelona siga siendo un referente mundial en la celebración de eventos\ninternacionales. Daremos las garantías necesarias para que el Mobile World Congress no se vaya.",
+            "topics": [
+                "Comercio"
+            ],
+            "tags": [
+                "defenderemos",
+                "barcelona",
+                "siga",
+                "siendo",
+                "referente",
+                "mundial",
+                "celebración",
+                "eventos",
+                "internacionales",
+                "daremos",
+                "garantías",
+                "necesarias",
+                "mobile",
+                "world",
+                "congress",
+                "vaya"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 60,
+            "body": "Impulsaremos mecanismos de financiación no bancaria. Estableceremos convenios con las\nentidades que otorguen crédito favorable y reforzaremos el Institut Català de Finances para que\nsea una herramienta al servicio de la productividad.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "impulsaremos",
+                "mecanismos",
+                "financiación",
+                "bancaria",
+                "estableceremos",
+                "convenios",
+                "entidades",
+                "otorguen",
+                "crédito",
+                "favorable",
+                "reforzaremos",
+                "institut",
+                "català",
+                "finances",
+                "herramienta",
+                "servicio",
+                "productividad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 61,
+            "body": "Trabajaremos por hacer de Cataluña un gran polo europeo de la investigación científica y de la\ninnovación tecnológica, reforzando la cooperación entre centros de investigación, parques\ntecnológicos, empresas y universidades.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "trabajaremos",
+                "hacer",
+                "cataluña",
+                "gran",
+                "polo",
+                "europeo",
+                "investigación",
+                "científica",
+                "innovación",
+                "tecnológica",
+                "reforzando",
+                "cooperación",
+                "centros",
+                "investigación",
+                "parques",
+                "tecnológicos",
+                "empresas",
+                "universidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 62,
+            "body": "Fomentaremos los viveros empresariales y los espacios asequibles, públicos y privados, para\nponer en marcha proyectos de negocio.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "fomentaremos",
+                "viveros",
+                "empresariales",
+                "espacios",
+                "asequibles",
+                "públicos",
+                "privados",
+                "poner",
+                "marcha",
+                "proyectos",
+                "negocio"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 63,
+            "body": "Queremos convertir a Cataluña en el Silicon Valley de Europa. Multiplicaremos las becas de\ninvestigación y las ayudas a innovadores, emprendedores y business angels.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "queremos",
+                "convertir",
+                "cataluña",
+                "silicon",
+                "valley",
+                "europa",
+                "multiplicaremos",
+                "becas",
+                "investigación",
+                "ayudas",
+                "innovadores",
+                "emprendedores",
+                "business",
+                "angels"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 64,
+            "body": "Haremos de la Universidad y de la Formación Profesional plataformas de emprendimiento,\ndotándolas de herramientas para fomentar la iniciativa emprendedora.",
+            "topics": [
+                "Educación",
+                "Empleo"
+            ],
+            "tags": [
+                "haremos",
+                "universidad",
+                "formación",
+                "profesional",
+                "plataformas",
+                "emprendimiento",
+                "dotándolas",
+                "herramientas",
+                "fomentar",
+                "iniciativa",
+                "emprendedora"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 65,
+            "body": "Los estudiantes de FP o universitarios que quieran desarrollar proyectos de emprendimiento\npodrán utilizar el NIF de su centro educativo y tendrán acceso a créditos blandos.",
+            "topics": [
+                "Educación",
+                "Empleo"
+            ],
+            "tags": [
+                "estudiantes",
+                "fp",
+                "universitarios",
+                "quieran",
+                "desarrollar",
+                "proyectos",
+                "emprendimiento",
+                "podrán",
+                "utilizar",
+                "nif",
+                "centro",
+                "educativo",
+                "acceso",
+                "créditos",
+                "blandos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 66,
+            "body": "Adaptaremos las titulaciones universitarias a las demandas laborales y a las necesidades\nsociales, respetando la identidad propia de la enseñanza universitaria.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "adaptaremos",
+                "titulaciones",
+                "universitarias",
+                "demandas",
+                "laborales",
+                "necesidades",
+                "sociales",
+                "respetando",
+                "identidad",
+                "propia",
+                "enseñanza",
+                "universitaria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 67,
+            "body": "Reforzaremos decididamente la Formación Profesional Dual para hacer de la Formación\nProfesional una herramienta útil y prestigiosa para construir un futuro laboral.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "reforzaremos",
+                "decididamente",
+                "formación",
+                "profesional",
+                "dual",
+                "hacer",
+                "formación",
+                "profesional",
+                "herramienta",
+                "útil",
+                "prestigiosa",
+                "construir",
+                "futuro",
+                "laboral"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 68,
+            "body": "Redefiniremos el Servei d’Ocupació de Cataluña para que se convierta de verdad en un\norganismo que ayude a que los desempleados puedan encontrar una oportunidad.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "redefiniremos",
+                "servei",
+                "d",
+                "’",
+                "ocupació",
+                "cataluña",
+                "convierta",
+                "verdad",
+                "organismo",
+                "ayude",
+                "desempleados",
+                "puedan",
+                "encontrar",
+                "oportunidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 69,
+            "body": "Aprobaremos un amplio programa de becas para que nuestros jóvenes más preparados\npuedan formarse en las mejores universidades del mundo.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "aprobaremos",
+                "amplio",
+                "programa",
+                "becas",
+                "jóvenes",
+                "preparados",
+                "puedan",
+                "formarse",
+                "mejores",
+                "universidades",
+                "mundo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 70,
+            "body": "Impulsaremos programas de microcréditos desde el Institut Català de Finances (ICF) para\nproyectos empresariales de jóvenes hasta 35 años.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "impulsaremos",
+                "programas",
+                "microcréditos",
+                "institut",
+                "català",
+                "finances",
+                "icf",
+                "proyectos",
+                "empresariales",
+                "jóvenes",
+                "35",
+                "años"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 71,
+            "body": "Promoveremos programas de educación financiera que fomenten conocimientos en esta\nmateria entre las futuras generaciones.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "promoveremos",
+                "programas",
+                "educación",
+                "financiera",
+                "fomenten",
+                "conocimientos",
+                "materia",
+                "futuras",
+                "generaciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 72,
+            "body": "Impulsaremos una mejora de las condiciones salariales y laborales de los estudiantes en\nprácticas.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "impulsaremos",
+                "mejora",
+                "condiciones",
+                "salariales",
+                "laborales",
+                "estudiantes",
+                "prácticas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 73,
+            "body": "Desarrollaremos un nuevo Plan Energético de Cataluña con el objetivo de mejorar las\ninfraestructuras, reducir los costes energéticos de las empresas y promover una mayor eficiencia.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "nuevo",
+                "plan",
+                "energético",
+                "cataluña",
+                "objetivo",
+                "mejorar",
+                "infraestructuras",
+                "reducir",
+                "costes",
+                "energéticos",
+                "empresas",
+                "promover",
+                "mayor",
+                "eficiencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 74,
+            "body": "Fomentaremos ayudas a proyectos empresariales que ayuden a proteger el medio ambiente.",
+            "topics": [
+                "Medio ambiente",
+                "Empleo"
+            ],
+            "tags": [
+                "fomentaremos",
+                "ayudas",
+                "proyectos",
+                "empresariales",
+                "ayuden",
+                "proteger",
+                "medio",
+                "ambiente"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 75,
+            "body": "Mejoraremos las infraestructuras viarias, ferroviarias, portuarias, aeroportuarias, energéticas y\nde servicios, como factor esencial para el incremento del desarrollo económico, la mejora de la\nproductividad, la creación de empleo y el aumento de la competitividad relativa con el resto de\nEspaña y de Europa.",
+            "topics": [
+                "Transporte",
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "mejoraremos",
+                "infraestructuras",
+                "viarias",
+                "ferroviarias",
+                "portuarias",
+                "aeroportuarias",
+                "energéticas",
+                "servicios",
+                "factor",
+                "esencial",
+                "incremento",
+                "desarrollo",
+                "económico",
+                "mejora",
+                "productividad",
+                "creación",
+                "empleo",
+                "aumento",
+                "competitividad",
+                "relativa",
+                "resto",
+                "españa",
+                "europa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 76,
+            "body": "Suprimiremos los peajes de la Generalitat, no renovando las concesiones existentes.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "suprimiremos",
+                "peajes",
+                "generalitat",
+                "renovando",
+                "concesiones",
+                "existentes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 77,
+            "body": "Promoveremos las actuaciones necesarias para lograr una mejor eficiencia de la red de\nferrocarriles, una intermodalidad allí donde sea necesaria y una política tarifaria accesible para\ntodos los ciudadanos.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "promoveremos",
+                "actuaciones",
+                "necesarias",
+                "lograr",
+                "mejor",
+                "eficiencia",
+                "red",
+                "ferrocarriles",
+                "intermodalidad",
+                "allí",
+                "necesaria",
+                "política",
+                "tarifaria",
+                "accesible",
+                "ciudadanos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 78,
+            "body": "Trabajaremos lealmente con el Gobierno de España para que los tramos catalanes del\nCorredor del Mediterráneo estén terminados y en funcionamiento en el año 2020.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "trabajaremos",
+                "lealmente",
+                "gobierno",
+                "españa",
+                "tramos",
+                "catalanes",
+                "corredor",
+                "mediterráneo",
+                "terminados",
+                "funcionamiento",
+                "año",
+                "2020"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 79,
+            "body": "Una vez conectadas todas las capitales catalanas y la frontera francesa con tren de Alta\nVelocidad, centraremos la inversión estratégica en terminar, con la máxima prioridad, el corredor\ndel Mediterráneo.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "vez",
+                "conectadas",
+                "todas",
+                "capitales",
+                "catalanas",
+                "frontera",
+                "francesa",
+                "tren",
+                "alta",
+                "velocidad",
+                "centraremos",
+                "inversión",
+                "estratégica",
+                "terminar",
+                "máxima",
+                "prioridad",
+                "corredor",
+                "mediterráneo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 80,
+            "body": "En diciembre de 2018 estarán en marcha el tren lanzadera al aeropuerto del Prat y la doble vía\nentre Tarragona y Vandellós.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "diciembre",
+                "2018",
+                "marcha",
+                "tren",
+                "lanzadera",
+                "aeropuerto",
+                "prat",
+                "doble",
+                "vía",
+                "tarragona",
+                "vandellós"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 81,
+            "body": "Haremos una apuesta prioritaria por la mejora del servicio de Cercanías. Entre este año y 2020\nel Gobierno del PP invertirá 1.882 millones en la red de Rodalíes.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "haremos",
+                "apuesta",
+                "prioritaria",
+                "mejora",
+                "servicio",
+                "cercanías",
+                "año",
+                "2020",
+                "gobierno",
+                "pp",
+                "invertirá",
+                "1",
+                "882",
+                "millones",
+                "red",
+                "rodalíes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 82,
+            "body": "Completaremos la ejecución del Cuarto Cinturón y el enlace entre la AP7 y la A2.\nDesdoblaremos la N2, la N340 y la N240 (entre Lleida y Les Borges Blanques). En 2019 estará\nconcluida la variante de Vallirana. Duplicaremos el tramo Massanet-Oriols, haremos\nremodelaciones en Pontós y Garrigas, y terminaremos y pondremos en servicio el tramo Massanet\nde la Selva-Sils de la A2.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "completaremos",
+                "ejecución",
+                "cuarto",
+                "cinturón",
+                "enlace",
+                "ap7",
+                "a2",
+                "desdoblaremos",
+                "n2",
+                "n340",
+                "n240",
+                "lleida",
+                "borges",
+                "blanques",
+                "2019",
+                "concluida",
+                "variante",
+                "vallirana",
+                "duplicaremos",
+                "tramo",
+                "massanet",
+                "oriols",
+                "haremos",
+                "remodelaciones",
+                "pontós",
+                "garrigas",
+                "terminaremos",
+                "pondremos",
+                "servicio",
+                "tramo",
+                "massanet",
+                "selva",
+                "sils",
+                "a2"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 83,
+            "body": "En 2018 estará terminada la autovía de conexión entre la ronda litoral y la C-32. Terminaremos\nla autovía A14 entre Lleida y Rosselló.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "2018",
+                "terminada",
+                "autovía",
+                "conexión",
+                "ronda",
+                "litoral",
+                "c",
+                "32",
+                "terminaremos",
+                "autovía",
+                "a14",
+                "lleida",
+                "rosselló"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 84,
+            "body": "Ampliaremos la estación de Sants y el soterramiento de las vías en Montcada i Reixac,\nL’Hospitalet de Llobregat, Sant Feliu y Sabadell.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "ampliaremos",
+                "estación",
+                "sants",
+                "soterramiento",
+                "vías",
+                "montcada",
+                "i",
+                "reixac",
+                "l",
+                "’",
+                "hospitalet",
+                "llobregat",
+                "sant",
+                "feliu",
+                "sabadell"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 85,
+            "body": "Acabaremos con máxima celeridad la línea 9 del metro, así como la línea 8 de Ferrocarriles de\nla Generalitat.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "acabaremos",
+                "máxima",
+                "celeridad",
+                "línea",
+                "9",
+                "metro",
+                "así",
+                "línea",
+                "8",
+                "ferrocarriles",
+                "generalitat"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 86,
+            "body": "Fomentaremos la actividad agrícola-ganadera en todo el territorio con el objetivo de evitar la\ndespoblación de las zonas menos activas.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "fomentaremos",
+                "actividad",
+                "agrícola",
+                "ganadera",
+                "territorio",
+                "objetivo",
+                "evitar",
+                "despoblación",
+                "zonas",
+                "menos",
+                "activas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 87,
+            "body": "Adoptaremos las medidas adecuadas para minimizar los ataques de la fauna salvaje en la\nganadería extensiva reforzando el Grup de Gestió de Fauna Salvatge del CAR y garantizaremos las\nindemnizaciones para compensar los daños producidos.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "adoptaremos",
+                "medidas",
+                "adecuadas",
+                "minimizar",
+                "ataques",
+                "fauna",
+                "salvaje",
+                "ganadería",
+                "extensiva",
+                "reforzando",
+                "grup",
+                "gestió",
+                "fauna",
+                "salvatge",
+                "car",
+                "garantizaremos",
+                "indemnizaciones",
+                "compensar",
+                "daños",
+                "producidos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 88,
+            "body": "Mejoraremos la gestión del agua a través de la implementación de la red secundaria del Canal\nSegarra-Garrigues y la modernización del Canal de Urgell.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "mejoraremos",
+                "gestión",
+                "agua",
+                "través",
+                "implementación",
+                "red",
+                "secundaria",
+                "canal",
+                "segarra",
+                "garrigues",
+                "modernización",
+                "canal",
+                "urgell"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 89,
+            "body": "Iniciaremos un proceso participativo entre entidades y sectores implicados con la finalidad de\nelaborar una Ley de Caza para Cataluña.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "iniciaremos",
+                "proceso",
+                "participativo",
+                "entidades",
+                "sectores",
+                "implicados",
+                "finalidad",
+                "elaborar",
+                "ley",
+                "caza",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 90,
+            "body": "Llevaremos a cabo las actuaciones necesarias para que los pescadores catalanes puedan\ndisponer de la licencia única de pesca a fin de atraer el turismo basado en esta práctica deportiva.",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "llevaremos",
+                "cabo",
+                "actuaciones",
+                "necesarias",
+                "pescadores",
+                "catalanes",
+                "puedan",
+                "disponer",
+                "licencia",
+                "única",
+                "pesca",
+                "fin",
+                "atraer",
+                "turismo",
+                "basado",
+                "práctica",
+                "deportiva"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 91,
+            "body": "Dedicaremos más del 80% del gasto no financiero disponible a Educación, Sanidad, Servicios\nSociales y Dependencia.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "dedicaremos",
+                "80",
+                "gasto",
+                "financiero",
+                "disponible",
+                "educación",
+                "sanidad",
+                "servicios",
+                "sociales",
+                "dependencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 92,
+            "body": "Garantizaremos las pensiones sin poner en riesgo la estabilidad política y el crecimiento\neconómico. No dejaremos que nadie haga experimentos políticos o económicos que puedan\nafectar al cobro de las pensiones.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "garantizaremos",
+                "pensiones",
+                "poner",
+                "riesgo",
+                "estabilidad",
+                "política",
+                "crecimiento",
+                "económico",
+                "dejaremos",
+                "nadie",
+                "haga",
+                "experimentos",
+                "políticos",
+                "económicos",
+                "puedan",
+                "afectar",
+                "cobro",
+                "pensiones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 93,
+            "body": "Destinaremos a Educación el 6% del PIB. Así, daremos cumplimiento a lo que establece la Ley\nde Educación de Cataluña.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "destinaremos",
+                "educación",
+                "6",
+                "pib",
+                "así",
+                "daremos",
+                "cumplimiento",
+                "establece",
+                "ley",
+                "educación",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 94,
+            "body": "Garantizaremos por ley la tarifación social en las plazas públicas de 0 a 3 años. La Generalitat\nno podrá negarse nunca más a financiar la educación infantil, tal como ha hecho el Govern de\nPuigdemont y Junqueras.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "garantizaremos",
+                "ley",
+                "tarifación",
+                "social",
+                "plazas",
+                "públicas",
+                "0",
+                "3",
+                "años",
+                "generalitat",
+                "podrá",
+                "negarse",
+                "nunca",
+                "financiar",
+                "educación",
+                "infantil",
+                "tal",
+                "hecho",
+                "govern",
+                "puigdemont",
+                "junqueras"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 95,
+            "body": "Ofreceremos 100.000 plazas de 0 a 3 años con cobertura pública.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "ofreceremos",
+                "100",
+                "000",
+                "plazas",
+                "0",
+                "3",
+                "años",
+                "cobertura",
+                "pública"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 96,
+            "body": "Desgravaremos fiscalmente un 30% del coste de las escuelas infantiles de iniciativa social y\nprivada.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "desgravaremos",
+                "fiscalmente",
+                "30",
+                "coste",
+                "escuelas",
+                "infantiles",
+                "iniciativa",
+                "social",
+                "privada"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 97,
+            "body": "Garantizaremos los libros de texto gratuitos para las familias con rentas bajas y medias.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "garantizaremos",
+                "libros",
+                "texto",
+                "gratuitos",
+                "familias",
+                "rentas",
+                "bajas",
+                "medias"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 98,
+            "body": "Crearemos una deducción autonómica en el IRPF del 15% de los gastos educativos de los\nniños, con un límite 1.000 euros.",
+            "topics": [
+                "Educación",
+                "Hacienda"
+            ],
+            "tags": [
+                "crearemos",
+                "deducción",
+                "autonómica",
+                "irpf",
+                "15",
+                "gastos",
+                "educativos",
+                "niños",
+                "límite",
+                "1",
+                "000",
+                "euros"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 99,
+            "body": "Recuperaremos progresivamente la prestación universal por hijo a cargo. En el caso de las\nfamilias monoparentales o numerosas, esta ayuda se extenderá hasta los seis años.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "recuperaremos",
+                "progresivamente",
+                "prestación",
+                "universal",
+                "hijo",
+                "cargo",
+                "caso",
+                "familias",
+                "monoparentales",
+                "numerosas",
+                "ayuda",
+                "extenderá",
+                "seis",
+                "años"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 100,
+            "body": "Incrementaremos la deducción autonómica del IRPF por nacimiento, adopción y\nacogimiento de menores.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "incrementaremos",
+                "deducción",
+                "autonómica",
+                "irpf",
+                "nacimiento",
+                "adopción",
+                "acogimiento",
+                "menores"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 101,
+            "body": "Desplegaremos un modelo de bienestar y servicios sociales donde los ciudadanos tengan\nverdadero derecho a decidir sobre la escuela de sus hijos, su centro residencial o sus ayudas por\ndiscapacidad, inspirado en el modelo sueco.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "desplegaremos",
+                "modelo",
+                "bienestar",
+                "servicios",
+                "sociales",
+                "ciudadanos",
+                "verdadero",
+                "derecho",
+                "decidir",
+                "escuela",
+                "hijos",
+                "centro",
+                "residencial",
+                "ayudas",
+                "discapacidad",
+                "inspirado",
+                "modelo",
+                "sueco"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 102,
+            "body": "Garantizaremos la libertad de enseñanza en Cataluña facilitando a todos los catalanes el\nacceso a una educación de calidad, acorde con los valores y prioridades de las familias, y\nrespetuosa con los principios democráticos y legales que rigen nuestra convivencia.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "garantizaremos",
+                "libertad",
+                "enseñanza",
+                "cataluña",
+                "facilitando",
+                "catalanes",
+                "acceso",
+                "educación",
+                "calidad",
+                "acorde",
+                "valores",
+                "prioridades",
+                "familias",
+                "respetuosa",
+                "principios",
+                "democráticos",
+                "legales",
+                "rigen",
+                "convivencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 103,
+            "body": "Reforzaremos la independencia del Cuerpo de Inspectores educativos y su coordinación con\nla inspección del Estado. Fomentaremos una mayor interacción directa con las familias,\ngarantizando el cumplimiento de sus derechos.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "reforzaremos",
+                "independencia",
+                "cuerpo",
+                "inspectores",
+                "educativos",
+                "coordinación",
+                "inspección",
+                "fomentaremos",
+                "mayor",
+                "interacción",
+                "directa",
+                "familias",
+                "garantizando",
+                "cumplimiento",
+                "derechos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 104,
+            "body": "Preservaremos el Servei d’Educació de Cataluña, sistema mixto formado por centros\neducativos públicos y privados sostenidos por recursos públicos, garantizando en todo caso su\nestabilidad, vigencia y suficiencia.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "preservaremos",
+                "servei",
+                "d",
+                "’",
+                "educació",
+                "cataluña",
+                "sistema",
+                "mixto",
+                "formado",
+                "centros",
+                "educativos",
+                "públicos",
+                "privados",
+                "sostenidos",
+                "recursos",
+                "públicos",
+                "garantizando",
+                "caso",
+                "estabilidad",
+                "vigencia",
+                "suficiencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 105,
+            "body": "Mantendremos los conciertos educativos de aquellos centros que prestan el Servei\nd’Educació de Cataluña de manera respetuosa con la normativa y los criterios legalmente\nestablecidos para el acceso y el mantenimiento de dichos conciertos.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "mantendremos",
+                "conciertos",
+                "educativos",
+                "aquellos",
+                "centros",
+                "prestan",
+                "servei",
+                "d",
+                "’",
+                "educació",
+                "cataluña",
+                "manera",
+                "respetuosa",
+                "normativa",
+                "criterios",
+                "legalmente",
+                "establecidos",
+                "acceso",
+                "mantenimiento",
+                "dichos",
+                "conciertos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 106,
+            "body": "Garantizaremos la tolerancia cero con la violencia de género. Implantaremos, en el plazo de\nseis meses, una Oficina Integral de Atención a las Víctimas de Violencia de Género en cada capital\nde comarca.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "garantizaremos",
+                "tolerancia",
+                "cero",
+                "violencia",
+                "género",
+                "implantaremos",
+                "plazo",
+                "seis",
+                "meses",
+                "oficina",
+                "integral",
+                "atención",
+                "víctimas",
+                "violencia",
+                "género",
+                "cada",
+                "capital",
+                "comarca"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 107,
+            "body": "Ampliaremos el número de plazas disponibles en pisos-puente para las mujeres víctimas de\nviolencia de género.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "ampliaremos",
+                "número",
+                "plazas",
+                "disponibles",
+                "pisos",
+                "puente",
+                "mujeres",
+                "víctimas",
+                "violencia",
+                "género"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 108,
+            "body": "Seremos implacables en la inspección laboral para asegurar que no haya discriminación\nlaboral a la mujer ni se penalice la maternidad o la paternidad.",
+            "topics": [
+                "Igualdad de género",
+                "Empleo"
+            ],
+            "tags": [
+                "implacables",
+                "inspección",
+                "laboral",
+                "asegurar",
+                "discriminación",
+                "laboral",
+                "mujer",
+                "penalice",
+                "maternidad",
+                "paternidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 109,
+            "body": "Aprobaremos una Ley de Apoyo a la Maternidad para que ninguna mujer embarazada quede\nen una situación de desamparo social.",
+            "topics": [
+                "Igualdad de género",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "aprobaremos",
+                "ley",
+                "apoyo",
+                "maternidad",
+                "ninguna",
+                "mujer",
+                "embarazada",
+                "quede",
+                "situación",
+                "desamparo",
+                "social"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 110,
+            "body": "Introduciremos desgravaciones fiscales progresivas sobre el coste de la mutua médica.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "introduciremos",
+                "desgravaciones",
+                "fiscales",
+                "progresivas",
+                "coste",
+                "mutua",
+                "médica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 111,
+            "body": "Reforzaremos la autoridad de los profesores en los centros escolares y haremos efectiva su\ncategoría de autoridad pública.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "reforzaremos",
+                "autoridad",
+                "profesores",
+                "centros",
+                "escolares",
+                "haremos",
+                "efectiva",
+                "categoría",
+                "autoridad",
+                "pública"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 112,
+            "body": "Pondremos en marcha aulas y programas educativos de excelencia.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "pondremos",
+                "marcha",
+                "aulas",
+                "programas",
+                "educativos",
+                "excelencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 113,
+            "body": "Fomentaremos una cultura del esfuerzo, del trabajo bien hecho y de la exigencia inclusiva,\nque es la mejor forma de garantizar la igualdad de oportunidades.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "fomentaremos",
+                "cultura",
+                "esfuerzo",
+                "trabajo",
+                "bien",
+                "hecho",
+                "exigencia",
+                "inclusiva",
+                "mejor",
+                "forma",
+                "garantizar",
+                "igualdad",
+                "oportunidades"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 114,
+            "body": "Bajaremos un 30% las tasas universitarias en primera convocatoria para que Cataluña deje de\nser la Comunidad Autónoma con la educación universitaria más cara.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "bajaremos",
+                "30",
+                "tasas",
+                "universitarias",
+                "primera",
+                "convocatoria",
+                "cataluña",
+                "deje",
+                "ser",
+                "comunidad",
+                "autónoma",
+                "educación",
+                "universitaria",
+                "cara"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 115,
+            "body": "Procederemos a una inmediata renovación y actualización de la cartera de servicios sociales,\nque el gobierno independentista no ha actualizado a pesar de estar caducada desde hace cinco\naños.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "procederemos",
+                "inmediata",
+                "renovación",
+                "actualización",
+                "cartera",
+                "servicios",
+                "sociales",
+                "gobierno",
+                "independentista",
+                "actualizado",
+                "pesar",
+                "caducada",
+                "hace",
+                "cinco",
+                "años"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 116,
+            "body": "Llevaremos a cabo una auditoría de la Dirección General de Atención a la Infancia y la\nAdolescencia para poner fin a la situación de desbordamiento que se ha vivido.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "llevaremos",
+                "cabo",
+                "auditoría",
+                "dirección",
+                "general",
+                "atención",
+                "infancia",
+                "adolescencia",
+                "poner",
+                "fin",
+                "situación",
+                "desbordamiento",
+                "vivido"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 117,
+            "body": "Revisaremos el sistema de tutelas judiciales de menores.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "revisaremos",
+                "sistema",
+                "tutelas",
+                "judiciales",
+                "menores"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 118,
+            "body": "Desplegaremos y reglamentaremos por fin todos los artículos de la Ley de Derechos y\nOportunidades de la Infancia de Cataluña.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "desplegaremos",
+                "reglamentaremos",
+                "fin",
+                "artículos",
+                "ley",
+                "derechos",
+                "oportunidades",
+                "infancia",
+                "cataluña"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 119,
+            "body": "Pondremos luz sobre la problemática de la violencia familiar, combatiendo con firmeza el\nmaltrato infantil y luchando también contra la violencia de algunos jóvenes a sus padres.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "pondremos",
+                "luz",
+                "problemática",
+                "violencia",
+                "familiar",
+                "combatiendo",
+                "firmeza",
+                "maltrato",
+                "infantil",
+                "luchando",
+                "violencia",
+                "jóvenes",
+                "padres"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 120,
+            "body": "Todos los niños y adolescentes deben poder ir a la escuela en un clima de paz y serenidad.\nSeremos implacables en la lucha contra el bulling y el ciberbulling. No podemos permitir que un 9%\nde los estudiantes consideren que han sufrido acoso en las últimas semanas.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "niños",
+                "adolescentes",
+                "deben",
+                "poder",
+                "ir",
+                "escuela",
+                "clima",
+                "paz",
+                "serenidad",
+                "implacables",
+                "lucha",
+                "bulling",
+                "ciberbulling",
+                "podemos",
+                "permitir",
+                "9",
+                "estudiantes",
+                "consideren",
+                "sufrido",
+                "acoso",
+                "últimas",
+                "semanas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 121,
+            "body": "Combatiremos todo tipo de abuso sexual, facilitando la reparación del daño causado y\nofreciendo acompañamiento psicológico a las víctimas.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "combatiremos",
+                "tipo",
+                "abuso",
+                "sexual",
+                "facilitando",
+                "reparación",
+                "daño",
+                "causado",
+                "ofreciendo",
+                "acompañamiento",
+                "psicológico",
+                "víctimas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 122,
+            "body": "Potenciaremos una economía inclusiva de mercado, donde tengan espacio las personas con\ndiscapacidad. Reforzaremos el trabajo protegido en el sector público y privado.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "potenciaremos",
+                "economía",
+                "inclusiva",
+                "mercado",
+                "espacio",
+                "personas",
+                "discapacidad",
+                "reforzaremos",
+                "trabajo",
+                "protegido",
+                "sector",
+                "público",
+                "privado"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 123,
+            "body": "Volveremos a promover los Centros Especiales de Trabajo como una plataforma de inclusión\ny preparación laboral de las personas con discapacidad. Les pagaremos lo que está establecido\npor ley y los acompañaremos para llegar a ser espacios de transición y referencia para la inclusión\nde la empresa ordinaria.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "volveremos",
+                "promover",
+                "centros",
+                "especiales",
+                "trabajo",
+                "plataforma",
+                "inclusión",
+                "preparación",
+                "laboral",
+                "personas",
+                "discapacidad",
+                "pagaremos",
+                "establecido",
+                "ley",
+                "acompañaremos",
+                "llegar",
+                "ser",
+                "espacios",
+                "transición",
+                "referencia",
+                "inclusión",
+                "empresa",
+                "ordinaria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 124,
+            "body": "Impulsaremos un programa de voluntariado para jóvenes, favoreciendo el intercambio entre\ntodas las Comunidades de España.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "impulsaremos",
+                "programa",
+                "voluntariado",
+                "jóvenes",
+                "favoreciendo",
+                "intercambio",
+                "todas",
+                "comunidades",
+                "españa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 125,
+            "body": "Pondremos a disposición de las familias con más dificultades pisos públicos en alquiler.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "pondremos",
+                "disposición",
+                "familias",
+                "dificultades",
+                "pisos",
+                "públicos",
+                "alquiler"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 126,
+            "body": "Aumentaremos el actual parque público de vivienda protegida del 3,3% al 5%, asegurando así\nel derecho a la vivienda para todos.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "aumentaremos",
+                "actual",
+                "parque",
+                "público",
+                "vivienda",
+                "protegida",
+                "3",
+                "3",
+                "5",
+                "asegurando",
+                "así",
+                "derecho",
+                "vivienda"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 127,
+            "body": "Ayudaremos a que los jóvenes puedan emanciparse mediante programas de ayuda para\nacceso a la vivienda.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "ayudaremos",
+                "jóvenes",
+                "puedan",
+                "emanciparse",
+                "mediante",
+                "programas",
+                "ayuda",
+                "acceso",
+                "vivienda"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 128,
+            "body": "Combatiremos las ocupaciones ilegales. Derogaremos las reformas legales del Govern\nindependentista, que abren la puerta a estas ocupaciones, y reforzaremos la seguridad jurídica de\nlos pequeños arrendadores.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "combatiremos",
+                "ocupaciones",
+                "ilegales",
+                "derogaremos",
+                "reformas",
+                "legales",
+                "govern",
+                "independentista",
+                "abren",
+                "puerta",
+                "ocupaciones",
+                "reforzaremos",
+                "seguridad",
+                "jurídica",
+                "pequeños",
+                "arrendadores"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 129,
+            "body": "Incrementaremos las desgravaciones y ayudas por alquiler, especialmente en el caso de\njóvenes, personas con discapacidad y otros perfiles que requieren especial atención.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "incrementaremos",
+                "desgravaciones",
+                "ayudas",
+                "alquiler",
+                "especialmente",
+                "caso",
+                "jóvenes",
+                "personas",
+                "discapacidad",
+                "perfiles",
+                "requieren",
+                "especial",
+                "atención"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 130,
+            "body": "Aprobaremos un Plan de Remodelación de Barrios para financiar la mejora de los barrios con\nmenor poder adquisitivo. Estos planes incluirán ayudas a los vecinos con mayores dificultades para\npagar obras necesarias en sus viviendas.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "aprobaremos",
+                "plan",
+                "remodelación",
+                "barrios",
+                "financiar",
+                "mejora",
+                "barrios",
+                "menor",
+                "poder",
+                "adquisitivo",
+                "planes",
+                "incluirán",
+                "ayudas",
+                "vecinos",
+                "mayores",
+                "dificultades",
+                "pagar",
+                "obras",
+                "necesarias",
+                "viviendas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 131,
+            "body": "Impulsaremos, con el Gobierno de España, una reforma horaria realista y desarrollaremos una\npolítica integral en todos los ámbitos para lograr que hombres y mujeres puedan vivir en plenitud\ny corresponsabilidad su vida familiar, profesional y personal.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "impulsaremos",
+                "gobierno",
+                "españa",
+                "reforma",
+                "horaria",
+                "realista",
+                "desarrollaremos",
+                "política",
+                "integral",
+                "ámbitos",
+                "lograr",
+                "hombres",
+                "mujeres",
+                "puedan",
+                "vivir",
+                "plenitud",
+                "corresponsabilidad",
+                "vida",
+                "familiar",
+                "profesional",
+                "personal"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 132,
+            "body": "Facilitaremos que las empresas puedan desarrollar políticas de conciliación.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "facilitaremos",
+                "empresas",
+                "puedan",
+                "desarrollar",
+                "políticas",
+                "conciliación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 133,
+            "body": "Acompañaremos fiscalmente a las empresas que respeten y promuevan un clima favorable a\nla maternidad y a la paternidad.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "acompañaremos",
+                "fiscalmente",
+                "empresas",
+                "respeten",
+                "promuevan",
+                "clima",
+                "favorable",
+                "maternidad",
+                "paternidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 134,
+            "body": "Promoveremos medidas concretas y reforzaremos la inspección laboral para garantizar la\nigualdad salarial entre hombres y mujeres.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "promoveremos",
+                "medidas",
+                "concretas",
+                "reforzaremos",
+                "inspección",
+                "laboral",
+                "garantizar",
+                "igualdad",
+                "salarial",
+                "hombres",
+                "mujeres"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 135,
+            "body": "Aprobaremos una ley de apoyo a las familias numerosas. Tendremos en cuenta la realidad de\nestas familias para regular y ajustar los precios de los suministros básicos.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "aprobaremos",
+                "ley",
+                "apoyo",
+                "familias",
+                "numerosas",
+                "cuenta",
+                "realidad",
+                "familias",
+                "regular",
+                "ajustar",
+                "precios",
+                "suministros",
+                "básicos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 136,
+            "body": "Defenderemos una inmigración legal y ordenada. Combatiremos con firmeza a las mafias que\ntrafican con personas y lucharemos contra las discriminaciones por motivos de raza u origen.",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "defenderemos",
+                "inmigración",
+                "legal",
+                "ordenada",
+                "combatiremos",
+                "firmeza",
+                "mafias",
+                "trafican",
+                "personas",
+                "lucharemos",
+                "discriminaciones",
+                "motivos",
+                "raza",
+                "u",
+                "origen"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 137,
+            "body": "Lanzaremos una batería de bonificaciones fiscales y medidas extraordinarias para que las\nempresas contraten a personas mayores de 45 años.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "lanzaremos",
+                "batería",
+                "bonificaciones",
+                "fiscales",
+                "medidas",
+                "extraordinarias",
+                "empresas",
+                "contraten",
+                "personas",
+                "mayores",
+                "45",
+                "años"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 138,
+            "body": "Desarrollaremos también una estrategia de trabajo público protegido para las personas\nmayores de 50 años que se encuentran en desempleo.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "desarrollaremos",
+                "estrategia",
+                "trabajo",
+                "público",
+                "protegido",
+                "personas",
+                "mayores",
+                "50",
+                "años",
+                "encuentran",
+                "desempleo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 139,
+            "body": "Limitaremos por ley los tiempos de espera en la sanidad pública. Las operaciones con\nprescripción no urgente se tendrán que realizar en un tiempo máximo de 60 días.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "limitaremos",
+                "ley",
+                "tiempos",
+                "espera",
+                "sanidad",
+                "pública",
+                "operaciones",
+                "prescripción",
+                "urgente",
+                "realizar",
+                "tiempo",
+                "máximo",
+                "60",
+                "días"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 140,
+            "body": "Ampliaremos los servicios que pueden ofrecer las farmacias. Podrán dispensar, administrar y\ncontrolar vacunas, productos para residencias geriátricas y medicamentos de dispensación\nambulatoria. Así contribuiremos también a desbloquear la sanidad pública.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "ampliaremos",
+                "servicios",
+                "pueden",
+                "ofrecer",
+                "farmacias",
+                "podrán",
+                "dispensar",
+                "administrar",
+                "controlar",
+                "vacunas",
+                "productos",
+                "residencias",
+                "geriátricas",
+                "medicamentos",
+                "dispensación",
+                "ambulatoria",
+                "así",
+                "contribuiremos",
+                "desbloquear",
+                "sanidad",
+                "pública"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 141,
+            "body": "Aprobaremos un Plan de Carrera Profesional para el sector sanitario y para cada nivel\nprofesional, donde habrá criterios claros y transparentes de promoción, traslado y retribución.",
+            "topics": [
+                "Salud",
+                "Empleo"
+            ],
+            "tags": [
+                "aprobaremos",
+                "plan",
+                "carrera",
+                "profesional",
+                "sector",
+                "sanitario",
+                "cada",
+                "nivel",
+                "profesional",
+                "criterios",
+                "claros",
+                "transparentes",
+                "promoción",
+                "traslado",
+                "retribución"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 142,
+            "body": "Aprobaremos un cheque para los servicios de dependencia y discapacidad.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "aprobaremos",
+                "cheque",
+                "servicios",
+                "dependencia",
+                "discapacidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 143,
+            "body": "Potenciaremos las plazas concertadas en residencias y centros de día. Estamos decididos a\nconvertir el sector de la atención a la tercera edad en un motor económico de nuestra tierra y en\nun vector de creación de empleo.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "potenciaremos",
+                "plazas",
+                "concertadas",
+                "residencias",
+                "centros",
+                "día",
+                "decididos",
+                "convertir",
+                "sector",
+                "atención",
+                "tercera",
+                "edad",
+                "motor",
+                "económico",
+                "tierra",
+                "vector",
+                "creación",
+                "empleo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 144,
+            "body": "Garantizaremos el reconocimiento, la valoración y la resolución sobre los servicios de\ndependencia en un máximo de tres meses.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "garantizaremos",
+                "reconocimiento",
+                "valoración",
+                "resolución",
+                "servicios",
+                "dependencia",
+                "máximo",
+                "tres",
+                "meses"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 145,
+            "body": "Lograremos un modelo integral y universal de atención domiciliaria para personas mayores\nde 65 años, con cartera de servicios incluida, para que las personas mayores puedan vivir y\nenvejecer en casa y con sus familiares.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "lograremos",
+                "modelo",
+                "integral",
+                "universal",
+                "atención",
+                "domiciliaria",
+                "personas",
+                "mayores",
+                "65",
+                "años",
+                "cartera",
+                "servicios",
+                "incluida",
+                "personas",
+                "mayores",
+                "puedan",
+                "vivir",
+                "envejecer",
+                "casa",
+                "familiares"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 146,
+            "body": "Garantizaremos que todas las personas mayores que lo necesiten puedan disponer de una\nprótesis dental. Estableceremos mecanismos de ayudas para la implantación de prótesis dentales,\nque serán gratuitas para las rentas inferiores.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "garantizaremos",
+                "todas",
+                "personas",
+                "mayores",
+                "necesiten",
+                "puedan",
+                "disponer",
+                "prótesis",
+                "dental",
+                "estableceremos",
+                "mecanismos",
+                "ayudas",
+                "implantación",
+                "prótesis",
+                "dentales",
+                "gratuitas",
+                "rentas",
+                "inferiores"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 147,
+            "body": "Defenderemos la renta garantizada de ciudadanía vinculada a un itinerario socio-laboral.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "defenderemos",
+                "renta",
+                "garantizada",
+                "ciudadanía",
+                "vinculada",
+                "itinerario",
+                "socio",
+                "laboral"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 148,
+            "body": "Pondremos en marcha el Abono 30/30, un abono de transporte que servirá para moverse\npor toda Cataluña. Costará 30 euros/mes y servirá para menores de 30 años.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "pondremos",
+                "marcha",
+                "abono",
+                "30",
+                "30",
+                "abono",
+                "transporte",
+                "servirá",
+                "moverse",
+                "toda",
+                "cataluña",
+                "costará",
+                "30",
+                "euros",
+                "mes",
+                "servirá",
+                "menores",
+                "30",
+                "años"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 149,
+            "body": "Impulsaremos que la tarjeta T-16 sea totalmente gratuita de verdad. Por ello suprimiremos el\ncoste de emisión de 35 euros que actualmente tienen que pagar las familias que quieren disfrutar\nde los beneficios de este abono de transporte.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "impulsaremos",
+                "tarjeta",
+                "t",
+                "16",
+                "totalmente",
+                "gratuita",
+                "verdad",
+                "ello",
+                "suprimiremos",
+                "coste",
+                "emisión",
+                "35",
+                "euros",
+                "actualmente",
+                "pagar",
+                "familias",
+                "quieren",
+                "disfrutar",
+                "beneficios",
+                "abono",
+                "transporte"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 150,
+            "body": "Haremos de Cataluña un centro global de la economía social. Del mismo modo que\nBarcelona es una referencia mundial en escuelas de negocios, queremos convertirla en un clúster\nde formación en empresa social.",
+            "topics": [
+                "Empleo",
+                "Economía"
+            ],
+            "tags": [
+                "haremos",
+                "cataluña",
+                "centro",
+                "global",
+                "economía",
+                "social",
+                "mismo",
+                "modo",
+                "barcelona",
+                "referencia",
+                "mundial",
+                "escuelas",
+                "negocios",
+                "queremos",
+                "convertirla",
+                "clúster",
+                "formación",
+                "empresa",
+                "social"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}

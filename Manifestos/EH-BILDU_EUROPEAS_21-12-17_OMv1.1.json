@@ -1,0 +1,985 @@
+{
+    "politicalParty": "EH Bildu",
+    "title": "Euskal Herria Bildu ante las Elecciones Europeas - Crítica, alternativa e iniciativa",
+    "publicationDate": "",
+    "electionDate": "21/12/17",
+    "electionType": "Europeas",
+    "geographicalArea": "",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifiesto Project",
+    "pages": "4",
+    "numProposals": "49",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "Impulsaremos que Euskal Herria sea un estado en Europa; que se asegure la presencia de las naciones sin estado;",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "impulsaremos",
+                "euskal",
+                "herria",
+                "europa",
+                "asegure",
+                "presencia",
+                "naciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Que el derecho a decidir sea un principio político de la UE",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "derecho",
+                "decidir",
+                "principio",
+                "político",
+                "ue"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "la introducción de la posibilidad de la censura ciudadana en los tratados europeos, aparte de las iniciativas que pueda adoptar el Parlamento de la UE",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "introducción",
+                "posibilidad",
+                "censura",
+                "ciudadana",
+                "tratados",
+                "europeos",
+                "aparte",
+                "iniciativas",
+                "pueda",
+                "adoptar",
+                "parlamento",
+                "ue"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Otorgar naturaleza legislativa a las ICE o Iniciativas Ciudadanas Europeas",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "otorgar",
+                "naturaleza",
+                "legislativa",
+                "ice",
+                "iniciativas",
+                "ciudadanas",
+                "europeas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "La transparencia y necesidad de ampliar información relativa a las comisiones determinantes formadas entre el Eurogrupo del Consejo de la UE y los Consejos, Parlamentos y Comisiones",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "transparencia",
+                "necesidad",
+                "ampliar",
+                "información",
+                "relativa",
+                "comisiones",
+                "determinantes",
+                "formadas",
+                "eurogrupo",
+                "consejo",
+                "ue",
+                "consejos",
+                "parlamentos",
+                "comisiones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Establecer grupos de influencia fuera de las instituciones europeas y elaborar un censo público de las citas acordadas por los eurodiputados, comisarios y funcionarios con dichos grupos de influencia",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "establecer",
+                "grupos",
+                "influencia",
+                "instituciones",
+                "europeas",
+                "elaborar",
+                "censo",
+                "público",
+                "citas",
+                "acordadas",
+                "eurodiputados",
+                "comisarios",
+                "funcionarios",
+                "dichos",
+                "grupos",
+                "influencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Que el Parlamento Europeo pueda elegir al/a la presidente/a del BCE",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "parlamento",
+                "europeo",
+                "pueda",
+                "elegir",
+                "presidente",
+                "bce"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "El derecho a la desobediencia de las normas europeas cuando atenten contra los principios de Luxemburgo",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "derecho",
+                "desobediencia",
+                "normas",
+                "europeas",
+                "atenten",
+                "principios",
+                "luxemburgo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "Los fondos europeos no pueden depender de las\nexigencias de reformas estructurales",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "fondos",
+                "europeos",
+                "pueden",
+                "depender",
+                "exigencias",
+                "reformas",
+                "estructurales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "Anulación de las políticas de austeridad",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "anulación",
+                "políticas",
+                "austeridad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Armonización social y fiscal de todos los estados miembros",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "armonización",
+                "social",
+                "fiscal",
+                "miembros"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Establecimiento del sueldo mínimo europeo",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "establecimiento",
+                "sueldo",
+                "mínimo",
+                "europeo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Creación de una plataforma para la creación de una economía social y transformadora",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "creación",
+                "plataforma",
+                "creación",
+                "economía",
+                "social",
+                "transformadora"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Impulsar una economía digital cooperativa, capaz de\nCrítica, alternativa e iniciativa hacer frente a la uberización o a las plataformas capitalistas que atentan contra las condiciones de trabajo y empleo",
+            "topics": [
+                "Economía",
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "impulsar",
+                "economía",
+                "digital",
+                "cooperativa",
+                "capaz",
+                "crítica",
+                "alternativa",
+                "iniciativa",
+                "hacer",
+                "frente",
+                "uberización",
+                "plataformas",
+                "capitalistas",
+                "atentan",
+                "condiciones",
+                "trabajo",
+                "empleo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "Puesta en marcha de una carta de derechos sociales del Consejo de Europa",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "puesta",
+                "marcha",
+                "carta",
+                "derechos",
+                "sociales",
+                "consejo",
+                "europa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Impuesto europeo para las transacciones financieras",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "impuesto",
+                "europeo",
+                "transacciones",
+                "financieras"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "Control de los movimientos de capitales y sanciones contra la evasión fiscal; desaparición de los paraísos fiscales",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "control",
+                "movimientos",
+                "capitales",
+                "sanciones",
+                "evasión",
+                "fiscal",
+                "desaparición",
+                "paraísos",
+                "fiscales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Plan político público integral contra la violencia sexual",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "plan",
+                "político",
+                "público",
+                "integral",
+                "violencia",
+                "sexual"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Derecho al aborto",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "derecho",
+                "aborto"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Tipificación de la violación como un\ndelito criminal",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "tipificación",
+                "violación",
+                "delito",
+                "criminal"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Inscribir la igualdad salarial en el Derecho Europeo",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "inscribir",
+                "igualdad",
+                "salarial",
+                "derecho",
+                "europeo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "Armonizar en los estados miembros de la UE la legislación más progresista posible en lo relativo a los derechos de las mujeres",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "armonizar",
+                "miembros",
+                "ue",
+                "legislación",
+                "progresista",
+                "posible",
+                "relativo",
+                "derechos",
+                "mujeres"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "Creación del Instituto por la Igualdad Europeo, que permita medir, impulsar y materializar la participación y la visibilización de\nla mujer",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "creación",
+                "instituto",
+                "igualdad",
+                "europeo",
+                "permita",
+                "medir",
+                "impulsar",
+                "materializar",
+                "participación",
+                "visibilización",
+                "mujer"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Establecimiento  de  cuotas  en  las  directivas  de  las  entidades  públicas,  como  una  manera  de  crear  liderazgos feministas",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "establecimiento",
+                "cuotas",
+                "directivas",
+                "entidades",
+                "públicas",
+                "manera",
+                "crear",
+                "liderazgos",
+                "feministas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Asegurar en todos los estados miembros de la UE el reconocimiento legal de las parejas homosexuales y la igualdad de derechos",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "asegurar",
+                "miembros",
+                "ue",
+                "reconocimiento",
+                "legal",
+                "parejas",
+                "homosexuales",
+                "igualdad",
+                "derechos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "Aplicar en todos los estados miembros de la UE medidas favorables a los derechos de las personas Trans y a su despatologización",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "aplicar",
+                "miembros",
+                "ue",
+                "medidas",
+                "favorables",
+                "derechos",
+                "personas",
+                "trans",
+                "despatologización"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": " Un plan europeo contra la violencia y la discriminación que sufren las personas LGTBI+",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "plan",
+                "europeo",
+                "violencia",
+                "discriminación",
+                "sufren",
+                "personas",
+                "lgtbi"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Anulación de las ayudas para energías fósiles, y prohibición de nuevas explotaciones de energías fósiles. ",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "anulación",
+                "ayudas",
+                "energías",
+                "fósiles",
+                "prohibición",
+                "nuevas",
+                "explotaciones",
+                "energías",
+                "fósiles"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Diseño de un plan estratégico de abandono del carbón",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "diseño",
+                "plan",
+                "estratégico",
+                "abandono",
+                "carbón"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Creación de un órgano para la transición\necológica",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "creación",
+                "órgano",
+                "transición",
+                "ecológica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 31,
+            "body": "Desarrollo de un plan público que apueste por las energías renovables",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "desarrollo",
+                "plan",
+                "público",
+                "apueste",
+                "energías",
+                "renovables"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 32,
+            "body": "Abandono progresivo del queroseno y del glifosato.",
+            "topics": [
+                "Medio ambiente"
+            ],
+            "tags": [
+                "abandono",
+                "progresivo",
+                "queroseno",
+                "glifosato"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 33,
+            "body": "Impulso de un plan europeo que favorezca el transporte público",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "impulso",
+                "plan",
+                "europeo",
+                "favorezca",
+                "transporte",
+                "público"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 34,
+            "body": "Gratuidad del agua",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "gratuidad",
+                "agua"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 35,
+            "body": "Promoción de un tribunal internacional que favorezca la justicia climática y permita juzgar los desastres\necológicos",
+            "topics": [
+                "Legislación y justicia",
+                "Medio ambiente"
+            ],
+            "tags": [
+                "promoción",
+                "tribunal",
+                "internacional",
+                "favorezca",
+                "justicia",
+                "climática",
+                "permita",
+                "juzgar",
+                "desastres",
+                "ecológicos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 36,
+            "body": "Soberanía alimentaria",
+            "topics": [
+                "Medio rural"
+            ],
+            "tags": [
+                "soberanía",
+                "alimentaria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 37,
+            "body": "Defensa de una carta europea que favorezca los derechos de los animales",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "defensa",
+                "carta",
+                "europea",
+                "favorezca",
+                "derechos",
+                "animales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 38,
+            "body": "Derogación de los acuerdos comerciales nocivos: TTIP,CETA",
+            "topics": [
+                "Comercio"
+            ],
+            "tags": [
+                "derogación",
+                "acuerdos",
+                "comerciales",
+                "nocivos",
+                "ttip",
+                "ceta"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 39,
+            "body": "Anulación de los acuerdos de mercado libre",
+            "topics": [
+                "Comerio"
+            ],
+            "tags": [
+                "anulación",
+                "acuerdos",
+                "mercado",
+                "libre"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 40,
+            "body": "Defensa de la soberanía económica de los pueblos del sur",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "defensa",
+                "soberanía",
+                "económica",
+                "pueblos",
+                "sur"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 41,
+            "body": "Que las Naciones Unidas sea la única institución encargada de la seguridad",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "naciones",
+                "unidas",
+                "única",
+                "institución",
+                "encargada",
+                "seguridad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 42,
+            "body": "Impulso de un proceso favorable a los desarmes nucleares internacionales",
+            "topics": [
+                "Seguridad",
+                "Política exterior"
+            ],
+            "tags": [
+                "impulso",
+                "proceso",
+                "favorable",
+                "desarmes",
+                "nucleares",
+                "internacionales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 43,
+            "body": "Anulación del escudo antimisiles de la NATO en Europa",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "anulación",
+                "escudo",
+                "antimisiles",
+                "nato",
+                "europa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 44,
+            "body": "Reconocimiento del estado palestino",
+            "topics": [
+                "Política exterior"
+            ],
+            "tags": [
+                "reconocimiento",
+                "palestino"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 45,
+            "body": "Derecho de asilo (anulación del acuerdo de Dublín) y ayuda para los corredores humanitarios",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "derecho",
+                "asilo",
+                "anulación",
+                "acuerdo",
+                "dublín",
+                "ayuda",
+                "corredores",
+                "humanitarios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 46,
+            "body": "Gantizar el derecho de asilo a las personas LGBTQI+ que vienen huyendo",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "gantizar",
+                "derecho",
+                "asilo",
+                "personas",
+                "lgbtqi",
+                "vienen",
+                "huyendo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 47,
+            "body": "Creación de una entidad civil europea encargada del rescate marítimo",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "creación",
+                "entidad",
+                "civil",
+                "europea",
+                "encargada",
+                "rescate",
+                "marítimo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 48,
+            "body": "Anulación de Schengen y Frontex, así como de los vergonzantes acuerdos firmados con Turquía y Libia",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "anulación",
+                "schengen",
+                "frontex",
+                "así",
+                "vergonzantes",
+                "acuerdos",
+                "firmados",
+                "turquía",
+                "libia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 49,
+            "body": "El fin de la NATO y anular la militarización de la UE",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "fin",
+                "nato",
+                "anular",
+                "militarización",
+                "ue"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}

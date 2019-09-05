@@ -1,0 +1,784 @@
+{
+    "politicalParty": "Partido Regionalista de Cantabria",
+    "title": "CANTABRIA GANA",
+    "publicationDate": "",
+    "electionDate": "28/04/19",
+    "electionType": "Generales",
+    "geographicalArea": "Estado Español",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifiesto Project",
+    "pages": "24",
+    "numProposals": "30",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "La inclusión de Cantabria en el Corredor del Atlántico. No podemos quedar fuera\nde la Red Europea de Transportes.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "inclusión",
+                "cantabria",
+                "corredor",
+                "atlántico",
+                "podemos",
+                "quedar",
+                "red",
+                "europea",
+                "transportes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Avances reales de la conexión por ferrocarril Santander-Bilbao en un tiempo de\nmáximo de 40 minutos con paradas en Laredo y Castro Urdiales.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "avances",
+                "reales",
+                "conexión",
+                "ferrocarril",
+                "santander",
+                "bilbao",
+                "tiempo",
+                "máximo",
+                "40",
+                "minutos",
+                "paradas",
+                "laredo",
+                "castro",
+                "urdiales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "Las necesarias dotaciones presupuestarias que garanticen las partidas\ncomprometidas para la integración ferroviaria de Santander, Torrelavega y Camargo.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "necesarias",
+                "dotaciones",
+                "presupuestarias",
+                "garanticen",
+                "partidas",
+                "comprometidas",
+                "integración",
+                "ferroviaria",
+                "santander",
+                "torrelavega",
+                "camargo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Con partidas nominativas destinadas a la puesta en marcha la Línea de Alta Velocidad\nAguilar-Reinosa para la indispensable conexión de Santander con Madrid y la\nduplicación de la vía Santander-Torrelavega.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "partidas",
+                "nominativas",
+                "destinadas",
+                "puesta",
+                "marcha",
+                "línea",
+                "alta",
+                "velocidad",
+                "aguilar",
+                "reinosa",
+                "indispensable",
+                "conexión",
+                "santander",
+                "madrid",
+                "duplicación",
+                "vía",
+                "santander",
+                "torrelavega"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "Con la supresión de los pasos a nivel en Renedo de Piélagos.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "supresión",
+                "pasos",
+                "nivel",
+                "renedo",
+                "piélagos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Con un Plan de Cercanías que vertebre territorialmente la Comunidad Autónoma de manera efectiva.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "plan",
+                "cercanías",
+                "vertebre",
+                "territorialmente",
+                "comunidad",
+                "autónoma",
+                "manera",
+                "efectiva"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Tercer carril A-67 Santander-Torrelavega.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "tercer",
+                "carril",
+                "67",
+                "santander",
+                "torrelavega"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "Tercer carril Laredo-L.P.Vizcaya.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "tercer",
+                "carril",
+                "laredo",
+                "l",
+                "p",
+                "vizcaya"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "Mejora integral de la N-621 Cillorigo de Liébana-Panes. (Desfiladero de la Hermida).",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "mejora",
+                "integral",
+                "n",
+                "621",
+                "cillorigo",
+                "liébana",
+                "panes",
+                "desfiladero",
+                "hermida"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "N-621 Potes-límite León (San Glorio).",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "n",
+                "621",
+                "potes",
+                "límite",
+                "león",
+                "san",
+                "glorio"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Variante de Potes.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "variante",
+                "potes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Mejora de la N-629, con las variantes de Ramales, Lanestosa y Puerto de Los Tornos\n(Lanestosa- límite de Burgos).",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "mejora",
+                "n",
+                "629",
+                "variantes",
+                "ramales",
+                "lanestosa",
+                "puerto",
+                "tornos",
+                "lanestosa",
+                "límite",
+                "burgos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Enlace de la A-67 a la altura de Quintanilla de las Torres para facilitar el acceso directo\na Valderredible y el sur de Cantabria.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "enlace",
+                "67",
+                "altura",
+                "quintanilla",
+                "torres",
+                "facilitar",
+                "acceso",
+                "directo",
+                "valderredible",
+                "sur",
+                "cantabria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Los tramos pendientes de la A-73 Burgos-Aguilar de Campoo, especialmente la\nlicitación inmediata del tramo de Báscones de Valdivia a Aguilar de Campoo.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "tramos",
+                "pendientes",
+                "73",
+                "burgos",
+                "aguilar",
+                "campoo",
+                "especialmente",
+                "licitación",
+                "inmediata",
+                "tramo",
+                "báscones",
+                "valdivia",
+                "aguilar",
+                "campoo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "El PRC instará al Gobierno de España la cofinanciación del Centro Logístico de la Pasiega, porque constituye un elemento indispensable para el crecimiento del Puerto de Santander y un eje\nestratégico para el futuro de la economía de Cantabria.",
+            "topics": [
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "prc",
+                "instará",
+                "gobierno",
+                "españa",
+                "cofinanciación",
+                "centro",
+                "logístico",
+                "pasiega",
+                "constituye",
+                "elemento",
+                "indispensable",
+                "crecimiento",
+                "puerto",
+                "santander",
+                "eje",
+                "estratégico",
+                "futuro",
+                "economía",
+                "cantabria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Necesitamos la implicación del Ministerio de Cultura para concluir el Museo de Prehistoria\nvinculado al Centro de Arte Rupestre de la UNESCO como Patrimonio de la Humanidad.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "necesitamos",
+                "implicación",
+                "ministerio",
+                "cultura",
+                "concluir",
+                "museo",
+                "prehistoria",
+                "vinculado",
+                "centro",
+                "arte",
+                "rupestre",
+                "unesco",
+                "patrimonio",
+                "humanidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "El aeropuerto Seve Ballesteros es un activo clave para la apertura de Cantabria al exterior. El\naeródromo es una de las más firmes apuestas del PRC desde el Gobierno de Cantabria. Somos\nconscientes de su impacto en la economía y, también, de su importancia como elemento de\ncohesión territorial y apertura internacional. Los regionalistas demandaremos a AENA el comienzo\nde los estudios necesarios para el diseño funcional del aeropuerto y la ampliación de la terminal\nantes de 2023.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "aeropuerto",
+                "seve",
+                "ballesteros",
+                "activo",
+                "clave",
+                "apertura",
+                "cantabria",
+                "exterior",
+                "aeródromo",
+                "firmes",
+                "apuestas",
+                "prc",
+                "gobierno",
+                "cantabria",
+                "conscientes",
+                "impacto",
+                "economía",
+                "importancia",
+                "elemento",
+                "cohesión",
+                "territorial",
+                "apertura",
+                "internacional",
+                "regionalistas",
+                "demandaremos",
+                "aena",
+                "comienzo",
+                "estudios",
+                "necesarios",
+                "diseño",
+                "funcional",
+                "aeropuerto",
+                "ampliación",
+                "terminal",
+                "2023"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Demandaremos ayuda para la recuperación del Túnel de la Engaña y las antiguas instalaciones del malogrado ferrocarril Santander-Mediterráneo, porque es una actuación clave para la dinamización sociocultural de la comarca pasiega, la promoción del desarrollo rural y la lucha contra el despoblamiento.",
+            "topics": [
+                "Transporte",
+                "Urbanismo e infraestructuras"
+            ],
+            "tags": [
+                "demandaremos",
+                "ayuda",
+                "recuperación",
+                "túnel",
+                "engaña",
+                "antiguas",
+                "instalaciones",
+                "malogrado",
+                "ferrocarril",
+                "santander",
+                "mediterráneo",
+                "actuación",
+                "clave",
+                "dinamización",
+                "sociocultural",
+                "comarca",
+                "pasiega",
+                "promoción",
+                "desarrollo",
+                "rural",
+                "lucha",
+                "despoblamiento"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Instaremos al Gobierno de España a la recuperación del puente Noguerol en el Pantano del Ebro,\nun elemento básico para la dinamización económica de la comarca campurriana.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "instaremos",
+                "gobierno",
+                "españa",
+                "recuperación",
+                "puente",
+                "noguerol",
+                "pantano",
+                "ebro",
+                "elemento",
+                "básico",
+                "dinamización",
+                "económica",
+                "comarca",
+                "campurriana"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Propugnaremos el traslado a Cantabria de la sede del Organismo Autónomo Universidad\nInternacional Menéndez Pelayo (UIMP), actualmente en Madrid y adscrito al Ministerio de\nEducación, Cultura y Deporte, para mantener los Cursos de Verano en Santander como sede\nacadémica tradicional.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "propugnaremos",
+                "traslado",
+                "cantabria",
+                "sede",
+                "organismo",
+                "autónomo",
+                "universidad",
+                "internacional",
+                "menéndez",
+                "pelayo",
+                "uimp",
+                "actualmente",
+                "madrid",
+                "adscrito",
+                "ministerio",
+                "educación",
+                "cultura",
+                "deporte",
+                "mantener",
+                "cursos",
+                "verano",
+                "santander",
+                "sede",
+                "académica",
+                "tradicional"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Impulsaremos el cumplimiento efectivo de las dotaciones presupuestarias comprometidas por el\nEstado para el Plan REINDUS de la comarca del Besaya.",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "impulsaremos",
+                "cumplimiento",
+                "efectivo",
+                "dotaciones",
+                "presupuestarias",
+                "comprometidas",
+                "plan",
+                "reindus",
+                "comarca",
+                "besaya"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "Reclamaremos las cantidades pendientes para sufragar en su integridad el coste de la\nreconstrucción de Valdecilla, tal como han prometido los gobiernos del PP y PSOE.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "reclamaremos",
+                "cantidades",
+                "pendientes",
+                "sufragar",
+                "integridad",
+                "coste",
+                "reconstrucción",
+                "valdecilla",
+                "tal",
+                "prometido",
+                "gobiernos",
+                "pp",
+                "psoe"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "Exigiremos el cumplimiento del Convenio del Campus Comillas y el seguimiento del\ncompromiso adquirido por el Gobierno de España para sufragar las obras del Seminario\nMayor.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "exigiremos",
+                "cumplimiento",
+                "convenio",
+                "campus",
+                "comillas",
+                "seguimiento",
+                "compromiso",
+                "adquirido",
+                "gobierno",
+                "españa",
+                "sufragar",
+                "obras",
+                "seminario",
+                "mayor"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Reclamaremos un Pacto de Estado para garantizar la cofinanciación al 50% de los\nservicios de atención a la dependencia.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "reclamaremos",
+                "pacto",
+                "garantizar",
+                "cofinanciación",
+                "50",
+                "servicios",
+                "atención",
+                "dependencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Reivindicaremos la reforma de la Ley de Educación y la aportación económica\nnecesaria para su desarrollo efectivo en Cantabria.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "reivindicaremos",
+                "reforma",
+                "ley",
+                "educación",
+                "aportación",
+                "económica",
+                "necesaria",
+                "desarrollo",
+                "efectivo",
+                "cantabria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "En el marco del Pacto de Toledo, apoyaremos y propondremos las medidas necesarias\npara garantizar la dignidad y sostenibilidad futura de nuestro sistema de pensiones\npúblicas.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "marco",
+                "pacto",
+                "toledo",
+                "apoyaremos",
+                "propondremos",
+                "medidas",
+                "necesarias",
+                "garantizar",
+                "dignidad",
+                "sostenibilidad",
+                "futura",
+                "sistema",
+                "pensiones",
+                "públicas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": "Que las obras de conexión ferroviaria de alta velocidad de Cantabria con Madrid por\nPalencia estén finalizadas en los tiempos previstos por el Ministerio de Fomento, fijados\ncomo máximo para el año 2024.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "obras",
+                "conexión",
+                "ferroviaria",
+                "alta",
+                "velocidad",
+                "cantabria",
+                "madrid",
+                "palencia",
+                "finalizadas",
+                "tiempos",
+                "previstos",
+                "ministerio",
+                "fomento",
+                "fijados",
+                "máximo",
+                "año",
+                "2024"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Que la tramitación del proyecto completo de conexión ferroviaria de mercancías y\npasajeros de Santander con Bilbao se ponga en marcha durante el año 2020.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "tramitación",
+                "proyecto",
+                "completo",
+                "conexión",
+                "ferroviaria",
+                "mercancías",
+                "pasajeros",
+                "santander",
+                "bilbao",
+                "ponga",
+                "marcha",
+                "año",
+                "2020"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Que se priorice la inversión para la reparación, mejora y modernización de la red de\ncercanías en las cantidades comprometidas en el Plan de Cercanías para Cantabria\ndependiente del Ministerio de Fomento.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "priorice",
+                "inversión",
+                "reparación",
+                "mejora",
+                "modernización",
+                "red",
+                "cercanías",
+                "cantidades",
+                "comprometidas",
+                "plan",
+                "cercanías",
+                "cantabria",
+                "dependiente",
+                "ministerio",
+                "fomento"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Defensa de la unidad de España, porque somos cántabros y españoles.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "defensa",
+                "unidad",
+                "españa",
+                "cántabros",
+                "españoles"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}

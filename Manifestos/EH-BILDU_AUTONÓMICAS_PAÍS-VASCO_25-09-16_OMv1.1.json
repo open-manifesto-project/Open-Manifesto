@@ -1,0 +1,2500 @@
+{
+    "politicalParty": "EH Bildu",
+    "title": "GOBERNU PROGRAMA Programa de Gobierno - HEMEN eta ORAIN DENON HERRIRA Aquí y ahora un pais compartido",
+    "publicationDate": "",
+    "electionDate": "25/09/16",
+    "electionType": "Autonómicas",
+    "geographicalArea": "País Vasco",
+    "standardVersion": "1.1",
+    "URI": "",
+    "createdBy": "Open Manifiesto Project",
+    "pages": "16",
+    "numProposals": "117",
+    "proposals": [
+        {
+            "id": 1,
+            "body": "Recuperar la gestión pública de los servicios externalizados,\ny adoptar el compromiso de no llevar a cabo más\nexternalizaciones.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "recuperar",
+                "gestión",
+                "pública",
+                "servicios",
+                "externalizados",
+                "adoptar",
+                "compromiso",
+                "llevar",
+                "cabo",
+                "externalizaciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 2,
+            "body": "Implantación de cláusulas sociales en las contrataciones\npúblicas: protección del medio ambiente, fomento de la\nigualdad entre mujeres y hombres, superar la exclusión social,\ncompra ética, garantizar la diversidad funcional, medidas de\niniciación al empleo",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "implantación",
+                "cláusulas",
+                "sociales",
+                "contrataciones",
+                "públicas",
+                "protección",
+                "medio",
+                "ambiente",
+                "fomento",
+                "igualdad",
+                "mujeres",
+                "hombres",
+                "superar",
+                "exclusión",
+                "social",
+                "compra",
+                "ética",
+                "garantizar",
+                "diversidad",
+                "funcional",
+                "medidas",
+                "iniciación",
+                "empleo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 3,
+            "body": "Pensiones mínimas de 1.080€.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "pensiones",
+                "mínimas",
+                "1",
+                "080€"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 4,
+            "body": "Creación un Sistema de Seguridad Social Vasco propio.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "sistema",
+                "seguridad",
+                "social",
+                "vasco",
+                "propio"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 5,
+            "body": "Creación del Sistema Vasco Público de Pensiones, creando\nuna comisión diferenciada que estudie la viabilidad jurídica y\neconómica, y negociando la competencia.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "sistema",
+                "vasco",
+                "público",
+                "pensiones",
+                "creando",
+                "comisión",
+                "diferenciada",
+                "estudie",
+                "viabilidad",
+                "jurídica",
+                "económica",
+                "negociando",
+                "competencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 6,
+            "body": "Cambio en la Ley de Renta de Garantía de Ingresos: reducción\ndel requisito de edad de los 23 a los 18 años; reducción del\nplazo de empadronamiento de los 3 años a uno; aumento de\nlos intervalos de las unidades familiares y supresión del criterio\nde empadronamiento fuera de las unidades familiares.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "cambio",
+                "ley",
+                "renta",
+                "garantía",
+                "ingresos",
+                "reducción",
+                "requisito",
+                "edad",
+                "23",
+                "18",
+                "años",
+                "reducción",
+                "plazo",
+                "empadronamiento",
+                "3",
+                "años",
+                "aumento",
+                "intervalos",
+                "unidades",
+                "familiares",
+                "supresión",
+                "criterio",
+                "empadronamiento",
+                "unidades",
+                "familiares"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 7,
+            "body": "Creación del proyecto de Ley de Renta Básica para la infancia\ny la adolescencia.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "proyecto",
+                "ley",
+                "renta",
+                "básica",
+                "infancia",
+                "adolescencia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 8,
+            "body": "Puesta en marcha del plan estratégico para dignificar el\ntrabajo de las personas cuidadoras.",
+            "topics": [
+                "Sociedad y bienestar",
+                "Empleo"
+            ],
+            "tags": [
+                "puesta",
+                "marcha",
+                "plan",
+                "estratégico",
+                "dignificar",
+                "trabajo",
+                "personas",
+                "cuidadoras"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 9,
+            "body": "Desarrollo integral de la Ley de Vivienda y puesta en marcha\nde medidas de mejora.",
+            "topics": [
+                "Vivienda",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "desarrollo",
+                "integral",
+                "ley",
+                "vivienda",
+                "puesta",
+                "marcha",
+                "medidas",
+                "mejora"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 10,
+            "body": "Regulación por ley de una Euskal Herria sin desahucios.",
+            "topics": [
+                "Vivienda",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "regulación",
+                "ley",
+                "euskal",
+                "herria",
+                "desahucios"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 11,
+            "body": "Terminar con los índices IRPH manipulables y poco\ntransparentes.",
+            "topics": [
+                "Vivienda"
+            ],
+            "tags": [
+                "terminar",
+                "índices",
+                "irph",
+                "manipulables",
+                "transparentes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 12,
+            "body": "Plan para recuperar los puestos de trabajo, derechos y\ncondiciones laborales de las personas trabajadoras públicas.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "plan",
+                "recuperar",
+                "puestos",
+                "trabajo",
+                "derechos",
+                "condiciones",
+                "laborales",
+                "personas",
+                "trabajadoras",
+                "públicas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 13,
+            "body": "Jornada laboral de 35 horas.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "jornada",
+                "laboral",
+                "35",
+                "horas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 14,
+            "body": "Implantación del sueldo mínimo de 1.200€ en todo el sector\npúblico, incluídas las subcontrataciones.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "implantación",
+                "sueldo",
+                "mínimo",
+                "1",
+                "200€",
+                "sector",
+                "público",
+                "incluídas",
+                "subcontrataciones"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 15,
+            "body": "Incremento del peso del empleo público hasta un 21%,\ncreando así 40.000 nuevos puestos de trabajo.",
+            "topics": [
+                "Empleo",
+                "Sector público"
+            ],
+            "tags": [
+                "incremento",
+                "peso",
+                "empleo",
+                "público",
+                "21",
+                "creando",
+                "así",
+                "40",
+                "000",
+                "nuevos",
+                "puestos",
+                "trabajo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 16,
+            "body": "Creación del Observatorio Vasco para hacer frente a los\nimpagos y al fraude fiscal.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "creación",
+                "observatorio",
+                "vasco",
+                "hacer",
+                "frente",
+                "impagos",
+                "fraude",
+                "fiscal"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 17,
+            "body": "Fomento de la colaboración inter-institucional para implantar\nuna reforma fiscal justa, equitativa y escalonada, con el objetivo\nde implantar, entre otra medidas, el Impuesto sobre la Riqueza\ny las Grandes Fortunas.",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "fomento",
+                "colaboración",
+                "inter",
+                "institucional",
+                "implantar",
+                "reforma",
+                "fiscal",
+                "justa",
+                "equitativa",
+                "escalonada",
+                "objetivo",
+                "implantar",
+                "medidas",
+                "impuesto",
+                "riqueza",
+                "grandes",
+                "fortunas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 18,
+            "body": "Desarrollo de una ley vasca propia del derecho al aborto.",
+            "topics": [
+                "Salud",
+                "Igualdad de género"
+            ],
+            "tags": [
+                "desarrollo",
+                "ley",
+                "vasca",
+                "propia",
+                "derecho",
+                "aborto"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 19,
+            "body": "Implantar en Lehendakaritza políticas feministas con\nperspectiva estratégica.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "implantar",
+                "lehendakaritza",
+                "políticas",
+                "feministas",
+                "perspectiva",
+                "estratégica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 20,
+            "body": "Implementación de cláusulas de género en todas las\nconvocatorias y contrataciones públicas.",
+            "topics": [
+                "Igualdad de género",
+                "Sector público"
+            ],
+            "tags": [
+                "implementación",
+                "cláusulas",
+                "género",
+                "todas",
+                "convocatorias",
+                "contrataciones",
+                "públicas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 21,
+            "body": "Crear la ley integral para hacer frente a la violencia machista y\nun Observatorio con el mismo fin.",
+            "topics": [
+                "Igualdad de género",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "crear",
+                "ley",
+                "integral",
+                "hacer",
+                "frente",
+                "violencia",
+                "machista",
+                "observatorio",
+                "mismo",
+                "fin"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 22,
+            "body": "Integración en el curriculum educativo de la coeducación y la\nigualdad.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "integración",
+                "curriculum",
+                "educativo",
+                "coeducación",
+                "igualdad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 23,
+            "body": "Creación de la Ley integral de la diversidad y libertad sexual.",
+            "topics": [
+                "Legislación y justicia",
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "integral",
+                "diversidad",
+                "libertad",
+                "sexual"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 24,
+            "body": "Creación de la Ley para la Autodeterminación del Género,\ndirigida a las personas transexuales intersexuales y transgénero.",
+            "topics": [
+                "Legislación y justicia",
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "autodeterminación",
+                "género",
+                "dirigida",
+                "personas",
+                "transexuales",
+                "intersexuales",
+                "transgénero"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 25,
+            "body": "Creación del Consejo LGTBI.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "consejo",
+                "lgtbi"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 26,
+            "body": "Creación del Proyecto de Ley de las Cajas Vascas.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "creación",
+                "proyecto",
+                "ley",
+                "cajas",
+                "vascas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 27,
+            "body": "Estudio y análisis para implantar un Sistema Público Vasco de\nFinanzas.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "estudio",
+                "análisis",
+                "implantar",
+                "sistema",
+                "público",
+                "vasco",
+                "finanzas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 28,
+            "body": "Recuperacón del carácter público y social de Kutxabank.\n",
+            "topics": [
+                "Economía",
+                "Sector público"
+            ],
+            "tags": [
+                "recuperacón",
+                "carácter",
+                "público",
+                "social",
+                "kutxabank"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 29,
+            "body": "Creación de la lehendakari-ordetza para la soberanía\neconómica.",
+            "topics": [
+                "Economía"
+            ],
+            "tags": [
+                "creación",
+                "lehendakari",
+                "ordetza",
+                "soberanía",
+                "económica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 30,
+            "body": "Incremento de las partidas de educación, sanidad, política\nsocial y empleo, equiparándolas a los estándares europeos.",
+            "topics": [
+                "Economía",
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "incremento",
+                "partidas",
+                "educación",
+                "sanidad",
+                "política",
+                "social",
+                "empleo",
+                "equiparándolas",
+                "estándares",
+                "europeos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 31,
+            "body": "Puesta en marcha de la Ley 14/2007 recogida en la carta de\nsolidaridad y justicia para con los pueblos empobrecidos.",
+            "topics": [
+                "Legislación y justicia",
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "puesta",
+                "marcha",
+                "ley",
+                "14",
+                "2007",
+                "recogida",
+                "carta",
+                "solidaridad",
+                "justicia",
+                "pueblos",
+                "empobrecidos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 32,
+            "body": "Dirigir al 0,7% del fondo público a cooperación al desarrollo.",
+            "topics": [
+                "Política exterior"
+            ],
+            "tags": [
+                "dirigir",
+                "0",
+                "7",
+                "fondo",
+                "público",
+                "cooperación",
+                "desarrollo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 33,
+            "body": "Fomento del Plan Estratégico para la cooperación vasca\ndescentralizada.",
+            "topics": [
+                "Política exterior"
+            ],
+            "tags": [
+                "fomento",
+                "plan",
+                "estratégico",
+                "cooperación",
+                "vasca",
+                "descentralizada"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 34,
+            "body": "Nuevo Pacto Social y Político suscrito por la mayoría\npolítica social y sindical para implementar la hoja de\nruta de la soberanía ciudadana.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "nuevo",
+                "pacto",
+                "social",
+                "político",
+                "suscrito",
+                "mayoría",
+                "política",
+                "social",
+                "sindical",
+                "implementar",
+                "hoja",
+                "ruta",
+                "soberanía",
+                "ciudadana"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 35,
+            "body": "Propuesta de un nuevo estatus político que incluirá\nel reconocimiento y la puesta en práctica del derecho a\ndecidir.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "propuesta",
+                "nuevo",
+                "estatus",
+                "político",
+                "incluirá",
+                "reconocimiento",
+                "puesta",
+                "práctica",
+                "derecho",
+                "decidir"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 36,
+            "body": "Consulta ciudadana habilitante para la ratificación de\nla propuesta para un nuevo estatus político.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "consulta",
+                "ciudadana",
+                "habilitante",
+                "ratificación",
+                "propuesta",
+                "nuevo",
+                "estatus",
+                "político"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 37,
+            "body": "Compromiso para respetar e implementar,\nindependientemente de la posición del estado español la\nvoluntad del nuevo estatus político democráticamente\nexpresada por la ciudadanía vasca mediante la consulta\nhabilitante.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "compromiso",
+                "respetar",
+                "implementar",
+                "independientemente",
+                "posición",
+                "español",
+                "voluntad",
+                "nuevo",
+                "estatus",
+                "político",
+                "democráticamente",
+                "expresada",
+                "ciudadanía",
+                "vasca",
+                "mediante",
+                "consulta",
+                "habilitante"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 38,
+            "body": "Creación de la Comisión Negociadora compuesta por\ntodos los grupos parlamentarios, para negociar las 37\ncompetencias aún por transferir.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "comisión",
+                "negociadora",
+                "compuesta",
+                "grupos",
+                "parlamentarios",
+                "negociar",
+                "37",
+                "competencias",
+                "aún",
+                "transferir"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 39,
+            "body": "Creación de un Comité inter-institucional para la\ndefensa e implementación de las decisiones adoptadas\npor el Parlamento Vasco.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "comité",
+                "inter",
+                "institucional",
+                "defensa",
+                "implementación",
+                "decisiones",
+                "adoptadas",
+                "parlamento",
+                "vasco"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 40,
+            "body": "Obtener la capacidad para:\n· Crear un sistema de Seguridad Social vasco.\n· Crear el marco vasco de relaciones laborales y\nprotección social.\n· Desarrollar todas las políticas de empleo activas y\npasivas.\n· Organizar y construir el sistema económico y\nfinanciero vasco\n· Tener representación propia en organismos\ninternacionales\n· Crear organismos inter-territoriales oficiales con el\nresto de territorios vascos",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "obtener",
+                "capacidad",
+                "·",
+                "crear",
+                "sistema",
+                "seguridad",
+                "social",
+                "vasco",
+                "·",
+                "crear",
+                "marco",
+                "vasco",
+                "relaciones",
+                "laborales",
+                "protección",
+                "social",
+                "·",
+                "desarrollar",
+                "todas",
+                "políticas",
+                "empleo",
+                "activas",
+                "pasivas",
+                "·",
+                "organizar",
+                "construir",
+                "sistema",
+                "económico",
+                "financiero",
+                "vasco",
+                "·",
+                "tener",
+                "representación",
+                "propia",
+                "organismos",
+                "internacionales",
+                "·",
+                "crear",
+                "organismos",
+                "inter",
+                "territoriales",
+                "oficiales",
+                "resto",
+                "territorios",
+                "vascos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 41,
+            "body": "Impulsar un acuerdo parlamentario para declarar\nla CAV territorio libre de TTIP y CETA. Convocar una\nconsulta ciudadana sobre los tratados",
+            "topics": [
+                "Política exterior",
+                "Comercio"
+            ],
+            "tags": [
+                "impulsar",
+                "acuerdo",
+                "parlamentario",
+                "declarar",
+                "cav",
+                "territorio",
+                "libre",
+                "ttip",
+                "ceta",
+                "convocar",
+                "consulta",
+                "ciudadana",
+                "tratados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 42,
+            "body": "Creación de una Ley para coordinación Ejecutiva de\nlas Relaciones Internacionales del Gobierno Vasco",
+            "topics": [
+                "Política exterior",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "coordinación",
+                "ejecutiva",
+                "relaciones",
+                "internacionales",
+                "gobierno",
+                "vasco"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 43,
+            "body": "Aprobación de una Ley Vasca de Memoria Histórica",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "aprobación",
+                "ley",
+                "vasca",
+                "memoria",
+                "histórica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 44,
+            "body": "Impulso de una Comisión de la Verdad que establezca\nlas medidas de reconocimiento y reparación para las\nvíctimas de toda vulneración de derechos humanos",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "impulso",
+                "comisión",
+                "verdad",
+                "establezca",
+                "medidas",
+                "reconocimiento",
+                "reparación",
+                "víctimas",
+                "toda",
+                "vulneración",
+                "derechos",
+                "humanos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 45,
+            "body": "Creación de un Consejo de Organismos Memorialista",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "creación",
+                "consejo",
+                "organismos",
+                "memorialista"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 46,
+            "body": "Introducción de la perspectiva de género en la lucha\npor la verdad y la justicia",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "introducción",
+                "perspectiva",
+                "género",
+                "lucha",
+                "verdad",
+                "justicia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 47,
+            "body": "Plan Estratégico para el derecho del reconocimiento,\njusticia y reparación de todas las víctimas de vulneración\nde derechos humanos",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "plan",
+                "estratégico",
+                "derecho",
+                "reconocimiento",
+                "justicia",
+                "reparación",
+                "todas",
+                "víctimas",
+                "vulneración",
+                "derechos",
+                "humanos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 48,
+            "body": "Impulso de una legislación ordinaria para la Paz y la\nvuelta de personas presas y exiliadas",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "impulso",
+                "legislación",
+                "ordinaria",
+                "paz",
+                "vuelta",
+                "personas",
+                "presas",
+                "exiliadas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 49,
+            "body": "Asunción de todas las competencias penitenciarias",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "asunción",
+                "todas",
+                "competencias",
+                "penitenciarias"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 50,
+            "body": "Apuesta por resolver urgencias humanitarias en torno\na personas presas con enfermedades graves",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "apuesta",
+                "resolver",
+                "urgencias",
+                "humanitarias",
+                "torno",
+                "personas",
+                "presas",
+                "enfermedades",
+                "graves"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 51,
+            "body": "Supresión de privilegios, reduciendo como mínimo un\n25% los sueldos del/la Lehendakari y altos cargos.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "supresión",
+                "privilegios",
+                "reduciendo",
+                "mínimo",
+                "25",
+                "sueldos",
+                "lehendakari",
+                "altos",
+                "cargos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 52,
+            "body": "Puesta en marcha de Plenos para el control ciudadano\ndel Gobierno y el Parlamento Vasco.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "puesta",
+                "marcha",
+                "plenos",
+                "control",
+                "ciudadano",
+                "gobierno",
+                "parlamento",
+                "vasco"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 53,
+            "body": "Creación de la Ley ciudadana para la destitución de las\ny los cargos públicos.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "ciudadana",
+                "destitución",
+                "cargos",
+                "públicos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 54,
+            "body": "Creación de la Ley de Consultas.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "consultas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 55,
+            "body": "Centrar las políticas de participación, con carácter\nestratégico, en Lehendakaritza.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "centrar",
+                "políticas",
+                "participación",
+                "carácter",
+                "estratégico",
+                "lehendakaritza"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 56,
+            "body": "Cesión de la competencia para desarrollar consultas a\nentidades locales y ciudadanía, con carácter vinculante.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "cesión",
+                "competencia",
+                "desarrollar",
+                "consultas",
+                "entidades",
+                "locales",
+                "ciudadanía",
+                "carácter",
+                "vinculante"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 57,
+            "body": "Descentralización de la justicia",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "descentralización",
+                "justicia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 58,
+            "body": "Impulso de una Administración Vasca de Justicia",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "impulso",
+                "administración",
+                "vasca",
+                "justicia"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 59,
+            "body": "Plan Estratégico para la clarificación del modelo de\nSeguridad pública.",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "plan",
+                "estratégico",
+                "clarificación",
+                "modelo",
+                "seguridad",
+                "pública"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 60,
+            "body": "Reforma de la Ley de polícía vasca.",
+            "topics": [
+                "Legislación y justicia",
+                "Seguridad"
+            ],
+            "tags": [
+                "reforma",
+                "ley",
+                "polícía",
+                "vasca"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 61,
+            "body": "Impulso de una Comisión externa de control\nciudadano sobre abusos o excesos policiales.",
+            "topics": [
+                "Seguridad",
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "impulso",
+                "comisión",
+                "externa",
+                "control",
+                "ciudadano",
+                "abusos",
+                "excesos",
+                "policiales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 62,
+            "body": "Impulsar paulatinamente la retirada de las Fuerzas y\nCuerpos de Seguridad del Estado.",
+            "topics": [
+                "Seguridad"
+            ],
+            "tags": [
+                "impulsar",
+                "paulatinamente",
+                "retirada",
+                "fuerzas",
+                "cuerpos",
+                "seguridad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 63,
+            "body": "Apertura de un debate social y creación de una\nPonencia Parlamentaria sobre el modelo penitenciario\npresente y futuro.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "apertura",
+                "debate",
+                "social",
+                "creación",
+                "ponencia",
+                "parlamentaria",
+                "modelo",
+                "penitenciario",
+                "presente",
+                "futuro"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 64,
+            "body": "Determinación en la reclamación de la competencia en\nmateria penitenciaria.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "determinación",
+                "reclamación",
+                "competencia",
+                "materia",
+                "penitenciaria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 65,
+            "body": "Habilitación de mecanismos para prevenir la tortura y\nlos malos tratos.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "habilitación",
+                "mecanismos",
+                "prevenir",
+                "tortura",
+                "malos",
+                "tratos"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 66,
+            "body": "Creación de una Ley contra el cambio climático.",
+            "topics": [
+                "Legislación y justicia",
+                "Medio ambiente"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "cambio",
+                "climático"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 67,
+            "body": "Implantación del Impuesto Verde, para que quienes\nmás viertan hagan una mayor aportación.",
+            "topics": [
+                "Hacienda",
+                "Medio ambiente"
+            ],
+            "tags": [
+                "implantación",
+                "impuesto",
+                "verde",
+                "viertan",
+                "hagan",
+                "mayor",
+                "aportación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 68,
+            "body": "Implantar la gestión pública del agua mediante\nley, fomentando además la publificación en los casos\nanteriormente privatizados.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "implantar",
+                "gestión",
+                "pública",
+                "agua",
+                "mediante",
+                "ley",
+                "fomentando",
+                "además",
+                "publificación",
+                "casos",
+                "anteriormente",
+                "privatizados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 69,
+            "body": "Creación de la Ley para la Movilidad Sostenible.",
+            "topics": [
+                "Legislación y justicia",
+                "Transporte"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "movilidad",
+                "sostenible"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 70,
+            "body": "Establecer la tarjeta única para todos los medios de\ntransporte del territorio, con descuentos según la renta.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "establecer",
+                "tarjeta",
+                "única",
+                "medios",
+                "transporte",
+                "territorio",
+                "descuentos",
+                "según",
+                "renta"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 71,
+            "body": "Moratoria del proyecto del TAV y habilitar una consulta\npopular sobre el mismo.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "moratoria",
+                "proyecto",
+                "tav",
+                "habilitar",
+                "consulta",
+                "popular",
+                "mismo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 72,
+            "body": "Exigir la competencia sobre todos los aeropuertos\nvascos, para su gestión directa.",
+            "topics": [
+                "Transporte"
+            ],
+            "tags": [
+                "exigir",
+                "competencia",
+                "aeropuertos",
+                "vascos",
+                "gestión",
+                "directa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 73,
+            "body": "Creación del Organismo Vasco de las Energías\nRenovables.",
+            "topics": [
+                "Energía"
+            ],
+            "tags": [
+                "creación",
+                "organismo",
+                "vasco",
+                "energías",
+                "renovables"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 74,
+            "body": "Dejar a un lado los contratos con multinacioneles\nenergéticas en los edificios dependientes del Gobierno\nVasco.",
+            "topics": [
+                "Energía",
+                "Sector público"
+            ],
+            "tags": [
+                "dejar",
+                "lado",
+                "contratos",
+                "multinacioneles",
+                "energéticas",
+                "edificios",
+                "dependientes",
+                "gobierno",
+                "vasco"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 75,
+            "body": "Creación de una comercializadora pública de\nelectricidad, para evitar los cortes de suministro debido\na la pobreza energética, entre otras cosas.",
+            "topics": [
+                "Energía",
+                "Sector público"
+            ],
+            "tags": [
+                "creación",
+                "comercializadora",
+                "pública",
+                "electricidad",
+                "evitar",
+                "cortes",
+                "suministro",
+                "debido",
+                "pobreza",
+                "energética",
+                "cosas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 76,
+            "body": "No aplicación de la LOMCE. Dejar a un lado los\ndecretos Heziberri.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "aplicación",
+                "lomce",
+                "dejar",
+                "lado",
+                "decretos",
+                "heziberri"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 77,
+            "body": "Fomentar el acuerdo en materia educativa para la\nelaboración de una nueva Ley.",
+            "topics": [
+                "Legislación y justicia",
+                "Educación"
+            ],
+            "tags": [
+                "fomentar",
+                "acuerdo",
+                "materia",
+                "educativa",
+                "elaboración",
+                "nueva",
+                "ley"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 78,
+            "body": "Subida del presupuesto de educación al 5% del PIB.",
+            "topics": [
+                "Educación"
+            ],
+            "tags": [
+                "subida",
+                "presupuesto",
+                "educación",
+                "5",
+                "pib"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 79,
+            "body": "Creación del Centro de la Cultura Vasca.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "creación",
+                "centro",
+                "cultura",
+                "vasca"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 80,
+            "body": "Fomento de la creatividad vasca, garantizando la\ncontinuidad y la visibilización de la misma.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "fomento",
+                "creatividad",
+                "vasca",
+                "garantizando",
+                "continuidad",
+                "visibilización",
+                "misma"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 81,
+            "body": "Garantizar el apoyo jurídico, político y económico a la\ncreación cultural.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "garantizar",
+                "apoyo",
+                "jurídico",
+                "político",
+                "económico",
+                "creación",
+                "cultural"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 82,
+            "body": "Supresión de toda imaginería religiosa en edificios de\ncarácter público.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "supresión",
+                "toda",
+                "imaginería",
+                "religiosa",
+                "edificios",
+                "carácter",
+                "público"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 83,
+            "body": "Eliminar toda exención fiscal de la Iglesia Católica: IBI,\ndeclaración de la renta, financiación doble,...",
+            "topics": [
+                "Hacienda"
+            ],
+            "tags": [
+                "eliminar",
+                "toda",
+                "exención",
+                "fiscal",
+                "iglesia",
+                "católica",
+                "ibi",
+                "declaración",
+                "renta",
+                "financiación",
+                "doble"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 84,
+            "body": "Activación de medidas para anular las\ninmatriculaciones con carácter retroactivo.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "activación",
+                "medidas",
+                "anular",
+                "inmatriculaciones",
+                "carácter",
+                "retroactivo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 85,
+            "body": "Acuerdo ciudadano entre organismos y federaciones\npara dar oficialidad plena de una vez por todas a la\nSelección Vasca.",
+            "topics": [
+                "Deporte"
+            ],
+            "tags": [
+                "acuerdo",
+                "ciudadano",
+                "organismos",
+                "federaciones",
+                "dar",
+                "oficialidad",
+                "plena",
+                "vez",
+                "todas",
+                "selección",
+                "vasca"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 86,
+            "body": "Ley propia para personas trabajadoras en ámbitos del\ndeporte.",
+            "topics": [
+                "Deporte",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "ley",
+                "propia",
+                "personas",
+                "trabajadoras",
+                "ámbitos",
+                "deporte"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 87,
+            "body": "Eliminación del repago farmaceutico.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "eliminación",
+                "repago",
+                "farmaceutico"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 88,
+            "body": "Integración en el sistema público de las enfermedades\nprofesionales y los accidentes laborales.",
+            "topics": [
+                "Salud",
+                "Empleo"
+            ],
+            "tags": [
+                "integración",
+                "sistema",
+                "público",
+                "enfermedades",
+                "profesionales",
+                "accidentes",
+                "laborales"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 89,
+            "body": "Integración en Osakidetza de Onkologikoa.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "integración",
+                "osakidetza",
+                "onkologikoa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 90,
+            "body": "Recuperación de los 3000 empleos destruidos en\nOsakidetza.",
+            "topics": [
+                "Salud",
+                "Empleo"
+            ],
+            "tags": [
+                "recuperación",
+                "3000",
+                "empleos",
+                "destruidos",
+                "osakidetza"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 91,
+            "body": "Derogar el decreto 16/2012 que hace desaparecer la\nsanidad universal.",
+            "topics": [
+                "Salud",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "derogar",
+                "decreto",
+                "16",
+                "2012",
+                "hace",
+                "desaparecer",
+                "sanidad",
+                "universal"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 92,
+            "body": "Creación del Instituto Vasco para la Accesibilidad en la\nComunicación, dirigida a personas sordo-mudas.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "instituto",
+                "vasco",
+                "accesibilidad",
+                "comunicación",
+                "dirigida",
+                "personas",
+                "sordo",
+                "mudas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 93,
+            "body": "Creación de un fondo de 800 millones de euros para\nel desarrollo del plan de regeneración industrial y el\nempleo digno.",
+            "topics": [
+                "Industria",
+                "Empleo"
+            ],
+            "tags": [
+                "creación",
+                "fondo",
+                "800",
+                "millones",
+                "euros",
+                "desarrollo",
+                "plan",
+                "regeneración",
+                "industrial",
+                "empleo",
+                "digno"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 94,
+            "body": "Desarrollar inversiones en I+D+I progresivamente,\nhasta llegar al 3% del PIB.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "desarrollar",
+                "inversiones",
+                "i",
+                "d",
+                "i",
+                "progresivamente",
+                "llegar",
+                "3",
+                "pib"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 95,
+            "body": "Elaboración de la Ley Vasca de Cooperativas.",
+            "topics": [
+                "Legislación y justicia",
+                "Empleo"
+            ],
+            "tags": [
+                "elaboración",
+                "ley",
+                "vasca",
+                "cooperativas"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 96,
+            "body": "Creación de la Agencia Vasca para la Industria.",
+            "topics": [
+                "Industria"
+            ],
+            "tags": [
+                "creación",
+                "agencia",
+                "vasca",
+                "industria"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 97,
+            "body": "Establecer medidas para el desarrollo sostenible y\nequilibrado del turismo.",
+            "topics": [
+                "Turismo"
+            ],
+            "tags": [
+                "establecer",
+                "medidas",
+                "desarrollo",
+                "sostenible",
+                "equilibrado",
+                "turismo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 98,
+            "body": "Creación del Consejo de Trabajo Autónomo, además de\nelaborar una Ley que active el Consejo.",
+            "topics": [
+                "Empleo"
+            ],
+            "tags": [
+                "creación",
+                "consejo",
+                "trabajo",
+                "autónomo",
+                "además",
+                "elaborar",
+                "ley",
+                "active",
+                "consejo"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 99,
+            "body": "Aprobación del derecho a la alimentación saludable por Ley.",
+            "topics": [
+                "Salud"
+            ],
+            "tags": [
+                "aprobación",
+                "derecho",
+                "alimentación",
+                "saludable",
+                "ley"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 100,
+            "body": "Potenciar sistemas de alimentación local mediante la\norganización comarcal.",
+            "topics": [
+                "Comercio"
+            ],
+            "tags": [
+                "potenciar",
+                "sistemas",
+                "alimentación",
+                "local",
+                "mediante",
+                "organización",
+                "comarcal"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 101,
+            "body": "Creación del Observatorio Vasco de los Medios de\nComunicación y de la Agencia de Doblaje en Euskara.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "creación",
+                "observatorio",
+                "vasco",
+                "medios",
+                "comunicación",
+                "agencia",
+                "doblaje",
+                "euskara"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 102,
+            "body": "Creación de la Ley Vasca para los Medios de\nComunicación.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "ley",
+                "vasca",
+                "medios",
+                "comunicación"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 103,
+            "body": "Repensar EiTB.",
+            "topics": [
+                "Ciencia y tecnología"
+            ],
+            "tags": [
+                "repensar",
+                "eitb"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 104,
+            "body": "Garantizar la suficiencia económica y la estabilidad de\nlos medios en euskara.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "garantizar",
+                "suficiencia",
+                "económica",
+                "estabilidad",
+                "medios",
+                "euskara"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 105,
+            "body": "Ubicar el área de Juventud en el Departamento de\nPresidencia por su condición estratégica.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "ubicar",
+                "área",
+                "juventud",
+                "departamento",
+                "presidencia",
+                "condición",
+                "estratégica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 106,
+            "body": "Elaboración de la Ley de la Juventud Vasca, en\ncolaboración con el Consejo Vasco de la Juventud y las\nasociaciones de jóvenes.",
+            "topics": [
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "elaboración",
+                "ley",
+                "juventud",
+                "vasca",
+                "colaboración",
+                "consejo",
+                "vasco",
+                "juventud",
+                "asociaciones",
+                "jóvenes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 107,
+            "body": "Elaboración y puesta en marcha de un Plan de\nRetorno para las y los jóvenes que se han tenido que\nmarchar fuera.",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "elaboración",
+                "puesta",
+                "marcha",
+                "plan",
+                "retorno",
+                "jóvenes",
+                "marchar"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 108,
+            "body": "Desarrollo del Empleo Estratégico Juvenil junto con la\nrepresentación juvenil y su participación directa.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "desarrollo",
+                "empleo",
+                "estratégico",
+                "juvenil",
+                "junto",
+                "representación",
+                "juvenil",
+                "participación",
+                "directa"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 109,
+            "body": "Creación de una la Red para Promocionar los espacios\njuveniles autogestionados.",
+            "topics": [
+                "Sociedad y bienestar"
+            ],
+            "tags": [
+                "creación",
+                "red",
+                "promocionar",
+                "espacios",
+                "juveniles",
+                "autogestionados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 110,
+            "body": "Ubicar al área de Diversidad en el Departamento de\nPresidencia por su condición estratégica.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "ubicar",
+                "área",
+                "diversidad",
+                "departamento",
+                "presidencia",
+                "condición",
+                "estratégica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 111,
+            "body": "Diseñar y desarrollar políticas propias de migración,\nasilo, protección y refugiados.",
+            "topics": [
+                "Migración"
+            ],
+            "tags": [
+                "diseñar",
+                "desarrollar",
+                "políticas",
+                "propias",
+                "migración",
+                "asilo",
+                "protección",
+                "refugiados"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 112,
+            "body": "Apoyar el acuerdo de Pluralidad y Convivencia en\nigualdad.",
+            "topics": [
+                "Igualdad de género"
+            ],
+            "tags": [
+                "apoyar",
+                "acuerdo",
+                "pluralidad",
+                "convivencia",
+                "igualdad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 113,
+            "body": "Ubicar al área de Política Lingüística en el\nDepartamento de Presidencia por su condición\nestratégica.",
+            "topics": [
+                "Sector público"
+            ],
+            "tags": [
+                "ubicar",
+                "área",
+                "política",
+                "lingüística",
+                "departamento",
+                "presidencia",
+                "condición",
+                "estratégica"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 114,
+            "body": "Creación y desarrollo de la legislación y arquitectura\njurídica con el objetivo de normalizar el uso del euskara.",
+            "topics": [
+                "Cultura y ocio",
+                "Legislación y justicia"
+            ],
+            "tags": [
+                "creación",
+                "desarrollo",
+                "legislación",
+                "arquitectura",
+                "jurídica",
+                "objetivo",
+                "normalizar",
+                "uso",
+                "euskara"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 115,
+            "body": "Llevar la euskaldunización de adultos hacia la\ngratuidad.",
+            "topics": [
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "llevar",
+                "euskaldunización",
+                "adultos",
+                "hacia",
+                "gratuidad"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 116,
+            "body": "Elaboración de Leyes y normativas al objeto de\nproteger las ámbitos más euskaldunes.",
+            "topics": [
+                "Legislación y justicia",
+                "Cultura y ocio"
+            ],
+            "tags": [
+                "elaboración",
+                "leyes",
+                "normativas",
+                "objeto",
+                "proteger",
+                "ámbitos",
+                "euskaldunes"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        },
+        {
+            "id": 117,
+            "body": "El euskara será lengua de trabajo y servicios en toda\nla Administración, con el objetivo de garantizar los\nderechos lingüísticos de la ciudadanía.",
+            "topics": [
+                "Cultura y ocio",
+                "Sector público"
+            ],
+            "tags": [
+                "euskara",
+                "lengua",
+                "trabajo",
+                "servicios",
+                "toda",
+                "administración",
+                "objetivo",
+                "garantizar",
+                "derechos",
+                "lingüísticos",
+                "ciudadanía"
+            ],
+            "priority": "",
+            "budget": "",
+            "nonNegotiable": "",
+            "agents": ""
+        }
+    ]
+}
