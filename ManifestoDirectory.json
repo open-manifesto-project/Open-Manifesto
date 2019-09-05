@@ -6,77 +6,77 @@
             "type_of_elections": "Europeas",
             "geographical_area": "España",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CIUDADANOS_EUROPEAS_26-05-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/CIUDADANOS_EUROPEAS_26-05-2019_OMv1.0.json"
         },
         {
             "politicalParty": "VOX",
             "type_of_elections": "Europeas",
             "geographical_area": "España",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/VOX_EUROPEAS_26-05-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/VOX_EUROPEAS_26-05-2019_OMv1.0.json"
         },
         {
             "politicalParty": "PSOE",
             "type_of_elections": "europeas",
             "geographical_area": "España",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_EUROPEAS_26-05-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/PSOE_EUROPEAS_26-05-2019_OMv1.0.json"
         },
         {
             "politicalParty": "PP",
             "type_of_elections": "europeas",
             "geographical_area": "España",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PP_EUROPEAS_26-05-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/PP_EUROPEAS_26-05-2019_OMv1.0.json"
         },
         {
             "politicalParty": "Unidas Podemos",
             "type_of_elections": "europeas",
             "geographical_area": "España",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/UNIDAS-PODEMOS_EUROPEAS_26-05-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/UNIDAS-PODEMOS_EUROPEAS_26-05-2019_OMv1.0.json"
         },
         {    
             "politicalParty": "Compromiso por Europa",
             "type_of_elections": "Europeas",
             "geographical_area": "España",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/COMPROMISO-POR-EUROPA_EUROPEAS_26-05-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/COMPROMISO-POR-EUROPA_EUROPEAS_26-05-2019_OMv1.0.json"
         },
         {    
             "politicalParty": "Ciudadanos",
             "type_of_elections": "Generales",
             "geographical_area": "España",
             "election_date": "28/04/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CIUDADANOS_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/CIUDADANOS_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
         },
         {
             "politicalParty": "VOX",
             "type_of_elections": "generales",
             "geographical_area": "España",
             "election_date": "28/04/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/VOX_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/VOX_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
         },
         {
             "politicalParty": "PSOE",
             "type_of_elections": "generales",
             "geographical_area": "España",
             "election_date": "28/04/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/PSOE_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
         },
         {
             "politicalParty": "PP",
             "type_of_elections": "generales",
             "geographical_area": "España",
             "election_date": "28/04/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PP_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/PP_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
         },
         {
             "politicalParty": "Unidas Podemos",
             "type_of_elections": "generales",
             "geographical_area": "España",
             "election_date": "28/04/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/UNIDAS-PODEMOS_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ManifestosOMv1.0/UNIDAS-PODEMOS_GENERALES_ESPAÑA_28-04-2019_OMv1.0.json"
         }
 
 ]
