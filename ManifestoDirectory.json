@@ -11,15 +11,15 @@
             "politicalParty": "EH Bildu",
             "type_of_elections": "Europeas",
             "geographical_area": "",
-            "election_date": "21/12/17",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/EH-BILDU_EUROPEAS_21-12-17_OMv1.1.json"
+            "election_date": "26/05/2019",
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/EH-BILDU_EUROPEAS_26-05-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Esquerra Republicana de Cataluña",
             "type_of_elections": "Europeas",
             "geographical_area": "Estado español",
-            "election_date": "26 de mayo",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ESQUERRA-REPUBLICANA-DE-CATALUÑA_EUROPEAS_ESTADO-ESPAÑOL_26 de mayo_OMv1.1.json"
+            "election_date": "26/05/2019",
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ESQUERRA-REPUBLICANA-DE-CATALUÑA_EUROPEAS_ESTADO-ESPAÑOL_26-05-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Junts per Catalunya",
@@ -53,8 +53,8 @@
             "politicalParty": "Unidas Podemos",
             "type_of_elections": "Europeas",
             "geographical_area": "Estado español",
-            "election_date": "26 de mayo",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/UNIDAS-PODEMOS_EUROPEAS_ESTADO-ESPAÑOL_26 de mayo_OMv1.1.json"
+            "election_date": "26/05/2019",
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/UNIDAS-PODEMOS_EUROPEAS_ESTADO-ESPAÑOL_26-05-2019_OMv1.1.json"
         },
         {
             "politicalParty": "VOX",
@@ -190,11 +190,11 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL_AUTONÓMICAS_ANDALUCÍA_2-12-2018_OMv1.1.json"
         },
         {
-            "politicalParty": "Chunta Aragonesistas (CHA)",
+            "politicalParty": "Chunta Aragonesista",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Aragón",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CHUNTA-ARAGONESISTAS-(CHA)_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CHUNTA-ARAGONESISTA_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Ciudadanos",
@@ -204,18 +204,18 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CIUDADANOS_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Izquierda Unida (IU)",
+            "politicalParty": "Izquierda Unida",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Aragón",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/IZQUIERDA-UNIDA-(IU)_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/IZQUIERDA-UNIDA_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Partido Aragonés (PAR)",
+            "politicalParty": "Partido Aragonés",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Aragón",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-ARAGONÉS-(PAR)_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-ARAGONÉS_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Podemos EQUO",
@@ -484,11 +484,11 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/NAVARRA+_AUTONÓMICAS_NAVARRA_26-5-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Partido Socialista Obrero Español (PSN)",
+            "politicalParty": "Partido Socialista Obrero Español",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Navarra",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL-(PSN)_AUTONÓMICAS_NAVARRA_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL_AUTONÓMICAS_NAVARRA_26-5-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Ahal Dugu Navarra Podemos",

@@ -1,8 +1,8 @@
 {
     "politicalParty": "EH Bildu",
     "title": "Euskal Herria Bildu ante las Elecciones Europeas - Crítica, alternativa e iniciativa",
-    "publicationDate": "",
-    "electionDate": "21/12/17",
+    "publicationDate": "21/12/17",
+    "electionDate": "26/05/2019",
     "electionType": "Europeas",
     "geographicalArea": "",
     "standardVersion": "1.1",
@@ -191,7 +191,7 @@
         },
         {
             "id": 9,
-            "body": "Los fondos europeos no pueden depender de las\nexigencias de reformas estructurales",
+            "body": "Los fondos europeos no pueden depender de las exigencias de reformas estructurales",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -280,7 +280,7 @@
         },
         {
             "id": 14,
-            "body": "Impulsar una economía digital cooperativa, capaz de\nCrítica, alternativa e iniciativa hacer frente a la uberización o a las plataformas capitalistas que atentan contra las condiciones de trabajo y empleo",
+            "body": "Impulsar una economía digital cooperativa, capaz de Crítica, alternativa e iniciativa hacer frente a la uberización o a las plataformas capitalistas que atentan contra las condiciones de trabajo y empleo",
             "topics": [
                 "Economía",
                 "Ciencia y tecnología"
@@ -404,7 +404,7 @@
         },
         {
             "id": 20,
-            "body": "Tipificación de la violación como un\ndelito criminal",
+            "body": "Tipificación de la violación como un delito criminal",
             "topics": [
                 "Igualdad de género"
             ],
@@ -461,7 +461,7 @@
         },
         {
             "id": 23,
-            "body": "Creación del Instituto por la Igualdad Europeo, que permita medir, impulsar y materializar la participación y la visibilización de\nla mujer",
+            "body": "Creación del Instituto por la Igualdad Europeo, que permita medir, impulsar y materializar la participación y la visibilización de la mujer",
             "topics": [
                 "Igualdad de género"
             ],
@@ -611,7 +611,7 @@
         },
         {
             "id": 30,
-            "body": "Creación de un órgano para la transición\necológica",
+            "body": "Creación de un órgano para la transición ecológica",
             "topics": [
                 "Medio ambiente"
             ],
@@ -698,7 +698,7 @@
         },
         {
             "id": 35,
-            "body": "Promoción de un tribunal internacional que favorezca la justicia climática y permita juzgar los desastres\necológicos",
+            "body": "Promoción de un tribunal internacional que favorezca la justicia climática y permita juzgar los desastres ecológicos",
             "topics": [
                 "Legislación y justicia",
                 "Medio ambiente"

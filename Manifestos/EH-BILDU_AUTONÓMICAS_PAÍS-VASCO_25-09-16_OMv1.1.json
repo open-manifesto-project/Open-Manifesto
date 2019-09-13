@@ -13,7 +13,7 @@
     "proposals": [
         {
             "id": 1,
-            "body": "Recuperar la gestión pública de los servicios externalizados,\ny adoptar el compromiso de no llevar a cabo más\nexternalizaciones.",
+            "body": "Recuperar la gestión pública de los servicios externalizados, y adoptar el compromiso de no llevar a cabo más externalizaciones.",
             "topics": [
                 "Sector público"
             ],
@@ -36,7 +36,7 @@
         },
         {
             "id": 2,
-            "body": "Implantación de cláusulas sociales en las contrataciones\npúblicas: protección del medio ambiente, fomento de la\nigualdad entre mujeres y hombres, superar la exclusión social,\ncompra ética, garantizar la diversidad funcional, medidas de\niniciación al empleo",
+            "body": "Implantación de cláusulas sociales en las contrataciones públicas: protección del medio ambiente, fomento de la igualdad entre mujeres y hombres, superar la exclusión social, compra ética, garantizar la diversidad funcional, medidas de iniciación al empleo",
             "topics": [
                 "Sector público"
             ],
@@ -108,7 +108,7 @@
         },
         {
             "id": 5,
-            "body": "Creación del Sistema Vasco Público de Pensiones, creando\nuna comisión diferenciada que estudie la viabilidad jurídica y\neconómica, y negociando la competencia.",
+            "body": "Creación del Sistema Vasco Público de Pensiones, creando una comisión diferenciada que estudie la viabilidad jurídica y económica, y negociando la competencia.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -135,7 +135,7 @@
         },
         {
             "id": 6,
-            "body": "Cambio en la Ley de Renta de Garantía de Ingresos: reducción\ndel requisito de edad de los 23 a los 18 años; reducción del\nplazo de empadronamiento de los 3 años a uno; aumento de\nlos intervalos de las unidades familiares y supresión del criterio\nde empadronamiento fuera de las unidades familiares.",
+            "body": "Cambio en la Ley de Renta de Garantía de Ingresos: reducción del requisito de edad de los 23 a los 18 años; reducción del plazo de empadronamiento de los 3 años a uno; aumento de los intervalos de las unidades familiares y supresión del criterio de empadronamiento fuera de las unidades familiares.",
             "topics": [
                 "Sociedad y bienestar",
                 "Legislación y justicia"
@@ -174,7 +174,7 @@
         },
         {
             "id": 7,
-            "body": "Creación del proyecto de Ley de Renta Básica para la infancia\ny la adolescencia.",
+            "body": "Creación del proyecto de Ley de Renta Básica para la infancia y la adolescencia.",
             "topics": [
                 "Sociedad y bienestar",
                 "Legislación y justicia"
@@ -195,7 +195,7 @@
         },
         {
             "id": 8,
-            "body": "Puesta en marcha del plan estratégico para dignificar el\ntrabajo de las personas cuidadoras.",
+            "body": "Puesta en marcha del plan estratégico para dignificar el trabajo de las personas cuidadoras.",
             "topics": [
                 "Sociedad y bienestar",
                 "Empleo"
@@ -217,7 +217,7 @@
         },
         {
             "id": 9,
-            "body": "Desarrollo integral de la Ley de Vivienda y puesta en marcha\nde medidas de mejora.",
+            "body": "Desarrollo integral de la Ley de Vivienda y puesta en marcha de medidas de mejora.",
             "topics": [
                 "Vivienda",
                 "Legislación y justicia"
@@ -258,7 +258,7 @@
         },
         {
             "id": 11,
-            "body": "Terminar con los índices IRPH manipulables y poco\ntransparentes.",
+            "body": "Terminar con los índices IRPH manipulables y poco transparentes.",
             "topics": [
                 "Vivienda"
             ],
@@ -276,7 +276,7 @@
         },
         {
             "id": 12,
-            "body": "Plan para recuperar los puestos de trabajo, derechos y\ncondiciones laborales de las personas trabajadoras públicas.",
+            "body": "Plan para recuperar los puestos de trabajo, derechos y condiciones laborales de las personas trabajadoras públicas.",
             "topics": [
                 "Empleo"
             ],
@@ -316,7 +316,7 @@
         },
         {
             "id": 14,
-            "body": "Implantación del sueldo mínimo de 1.200€ en todo el sector\npúblico, incluídas las subcontrataciones.",
+            "body": "Implantación del sueldo mínimo de 1.200€ en todo el sector público, incluídas las subcontrataciones.",
             "topics": [
                 "Empleo"
             ],
@@ -338,7 +338,7 @@
         },
         {
             "id": 15,
-            "body": "Incremento del peso del empleo público hasta un 21%,\ncreando así 40.000 nuevos puestos de trabajo.",
+            "body": "Incremento del peso del empleo público hasta un 21%, creando así 40.000 nuevos puestos de trabajo.",
             "topics": [
                 "Empleo",
                 "Sector público"
@@ -364,7 +364,7 @@
         },
         {
             "id": 16,
-            "body": "Creación del Observatorio Vasco para hacer frente a los\nimpagos y al fraude fiscal.",
+            "body": "Creación del Observatorio Vasco para hacer frente a los impagos y al fraude fiscal.",
             "topics": [
                 "Hacienda"
             ],
@@ -385,7 +385,7 @@
         },
         {
             "id": 17,
-            "body": "Fomento de la colaboración inter-institucional para implantar\nuna reforma fiscal justa, equitativa y escalonada, con el objetivo\nde implantar, entre otra medidas, el Impuesto sobre la Riqueza\ny las Grandes Fortunas.",
+            "body": "Fomento de la colaboración inter-institucional para implantar una reforma fiscal justa, equitativa y escalonada, con el objetivo de implantar, entre otra medidas, el Impuesto sobre la Riqueza y las Grandes Fortunas.",
             "topics": [
                 "Hacienda"
             ],
@@ -435,7 +435,7 @@
         },
         {
             "id": 19,
-            "body": "Implantar en Lehendakaritza políticas feministas con\nperspectiva estratégica.",
+            "body": "Implantar en Lehendakaritza políticas feministas con perspectiva estratégica.",
             "topics": [
                 "Igualdad de género"
             ],
@@ -454,7 +454,7 @@
         },
         {
             "id": 20,
-            "body": "Implementación de cláusulas de género en todas las\nconvocatorias y contrataciones públicas.",
+            "body": "Implementación de cláusulas de género en todas las convocatorias y contrataciones públicas.",
             "topics": [
                 "Igualdad de género",
                 "Sector público"
@@ -475,7 +475,7 @@
         },
         {
             "id": 21,
-            "body": "Crear la ley integral para hacer frente a la violencia machista y\nun Observatorio con el mismo fin.",
+            "body": "Crear la ley integral para hacer frente a la violencia machista y un Observatorio con el mismo fin.",
             "topics": [
                 "Igualdad de género",
                 "Legislación y justicia"
@@ -499,7 +499,7 @@
         },
         {
             "id": 22,
-            "body": "Integración en el curriculum educativo de la coeducación y la\nigualdad.",
+            "body": "Integración en el curriculum educativo de la coeducación y la igualdad.",
             "topics": [
                 "Educación"
             ],
@@ -537,7 +537,7 @@
         },
         {
             "id": 24,
-            "body": "Creación de la Ley para la Autodeterminación del Género,\ndirigida a las personas transexuales intersexuales y transgénero.",
+            "body": "Creación de la Ley para la Autodeterminación del Género, dirigida a las personas transexuales intersexuales y transgénero.",
             "topics": [
                 "Legislación y justicia",
                 "Sociedad y bienestar"
@@ -594,7 +594,7 @@
         },
         {
             "id": 27,
-            "body": "Estudio y análisis para implantar un Sistema Público Vasco de\nFinanzas.",
+            "body": "Estudio y análisis para implantar un Sistema Público Vasco de Finanzas.",
             "topics": [
                 "Economía"
             ],
@@ -614,7 +614,7 @@
         },
         {
             "id": 28,
-            "body": "Recuperacón del carácter público y social de Kutxabank.\n",
+            "body": "Recuperacón del carácter público y social de Kutxabank. ",
             "topics": [
                 "Economía",
                 "Sector público"
@@ -633,7 +633,7 @@
         },
         {
             "id": 29,
-            "body": "Creación de la lehendakari-ordetza para la soberanía\neconómica.",
+            "body": "Creación de la lehendakari-ordetza para la soberanía económica.",
             "topics": [
                 "Economía"
             ],
@@ -651,7 +651,7 @@
         },
         {
             "id": 30,
-            "body": "Incremento de las partidas de educación, sanidad, política\nsocial y empleo, equiparándolas a los estándares europeos.",
+            "body": "Incremento de las partidas de educación, sanidad, política social y empleo, equiparándolas a los estándares europeos.",
             "topics": [
                 "Economía",
                 "Sociedad y bienestar"
@@ -675,7 +675,7 @@
         },
         {
             "id": 31,
-            "body": "Puesta en marcha de la Ley 14/2007 recogida en la carta de\nsolidaridad y justicia para con los pueblos empobrecidos.",
+            "body": "Puesta en marcha de la Ley 14/2007 recogida en la carta de solidaridad y justicia para con los pueblos empobrecidos.",
             "topics": [
                 "Legislación y justicia",
                 "Sociedad y bienestar"
@@ -720,7 +720,7 @@
         },
         {
             "id": 33,
-            "body": "Fomento del Plan Estratégico para la cooperación vasca\ndescentralizada.",
+            "body": "Fomento del Plan Estratégico para la cooperación vasca descentralizada.",
             "topics": [
                 "Política exterior"
             ],
@@ -739,7 +739,7 @@
         },
         {
             "id": 34,
-            "body": "Nuevo Pacto Social y Político suscrito por la mayoría\npolítica social y sindical para implementar la hoja de\nruta de la soberanía ciudadana.",
+            "body": "Nuevo Pacto Social y Político suscrito por la mayoría política social y sindical para implementar la hoja de ruta de la soberanía ciudadana.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -766,7 +766,7 @@
         },
         {
             "id": 35,
-            "body": "Propuesta de un nuevo estatus político que incluirá\nel reconocimiento y la puesta en práctica del derecho a\ndecidir.",
+            "body": "Propuesta de un nuevo estatus político que incluirá el reconocimiento y la puesta en práctica del derecho a decidir.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -789,7 +789,7 @@
         },
         {
             "id": 36,
-            "body": "Consulta ciudadana habilitante para la ratificación de\nla propuesta para un nuevo estatus político.",
+            "body": "Consulta ciudadana habilitante para la ratificación de la propuesta para un nuevo estatus político.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -810,7 +810,7 @@
         },
         {
             "id": 37,
-            "body": "Compromiso para respetar e implementar,\nindependientemente de la posición del estado español la\nvoluntad del nuevo estatus político democráticamente\nexpresada por la ciudadanía vasca mediante la consulta\nhabilitante.",
+            "body": "Compromiso para respetar e implementar, independientemente de la posición del estado español la voluntad del nuevo estatus político democráticamente expresada por la ciudadanía vasca mediante la consulta habilitante.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -840,7 +840,7 @@
         },
         {
             "id": 38,
-            "body": "Creación de la Comisión Negociadora compuesta por\ntodos los grupos parlamentarios, para negociar las 37\ncompetencias aún por transferir.",
+            "body": "Creación de la Comisión Negociadora compuesta por todos los grupos parlamentarios, para negociar las 37 competencias aún por transferir.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -864,7 +864,7 @@
         },
         {
             "id": 39,
-            "body": "Creación de un Comité inter-institucional para la\ndefensa e implementación de las decisiones adoptadas\npor el Parlamento Vasco.",
+            "body": "Creación de un Comité inter-institucional para la defensa e implementación de las decisiones adoptadas por el Parlamento Vasco.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -887,7 +887,7 @@
         },
         {
             "id": 40,
-            "body": "Obtener la capacidad para:\n· Crear un sistema de Seguridad Social vasco.\n· Crear el marco vasco de relaciones laborales y\nprotección social.\n· Desarrollar todas las políticas de empleo activas y\npasivas.\n· Organizar y construir el sistema económico y\nfinanciero vasco\n· Tener representación propia en organismos\ninternacionales\n· Crear organismos inter-territoriales oficiales con el\nresto de territorios vascos",
+            "body": "Obtener la capacidad para: · Crear un sistema de Seguridad Social vasco. · Crear el marco vasco de relaciones laborales y protección social. · Desarrollar todas las políticas de empleo activas y pasivas. · Organizar y construir el sistema económico y financiero vasco · Tener representación propia en organismos internacionales · Crear organismos inter-territoriales oficiales con el resto de territorios vascos",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -945,7 +945,7 @@
         },
         {
             "id": 41,
-            "body": "Impulsar un acuerdo parlamentario para declarar\nla CAV territorio libre de TTIP y CETA. Convocar una\nconsulta ciudadana sobre los tratados",
+            "body": "Impulsar un acuerdo parlamentario para declarar la CAV territorio libre de TTIP y CETA. Convocar una consulta ciudadana sobre los tratados",
             "topics": [
                 "Política exterior",
                 "Comercio"
@@ -972,7 +972,7 @@
         },
         {
             "id": 42,
-            "body": "Creación de una Ley para coordinación Ejecutiva de\nlas Relaciones Internacionales del Gobierno Vasco",
+            "body": "Creación de una Ley para coordinación Ejecutiva de las Relaciones Internacionales del Gobierno Vasco",
             "topics": [
                 "Política exterior",
                 "Legislación y justicia"
@@ -1012,7 +1012,7 @@
         },
         {
             "id": 44,
-            "body": "Impulso de una Comisión de la Verdad que establezca\nlas medidas de reconocimiento y reparación para las\nvíctimas de toda vulneración de derechos humanos",
+            "body": "Impulso de una Comisión de la Verdad que establezca las medidas de reconocimiento y reparación para las víctimas de toda vulneración de derechos humanos",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1054,7 +1054,7 @@
         },
         {
             "id": 46,
-            "body": "Introducción de la perspectiva de género en la lucha\npor la verdad y la justicia",
+            "body": "Introducción de la perspectiva de género en la lucha por la verdad y la justicia",
             "topics": [
                 "Igualdad de género"
             ],
@@ -1073,7 +1073,7 @@
         },
         {
             "id": 47,
-            "body": "Plan Estratégico para el derecho del reconocimiento,\njusticia y reparación de todas las víctimas de vulneración\nde derechos humanos",
+            "body": "Plan Estratégico para el derecho del reconocimiento, justicia y reparación de todas las víctimas de vulneración de derechos humanos",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1097,7 +1097,7 @@
         },
         {
             "id": 48,
-            "body": "Impulso de una legislación ordinaria para la Paz y la\nvuelta de personas presas y exiliadas",
+            "body": "Impulso de una legislación ordinaria para la Paz y la vuelta de personas presas y exiliadas",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1135,7 +1135,7 @@
         },
         {
             "id": 50,
-            "body": "Apuesta por resolver urgencias humanitarias en torno\na personas presas con enfermedades graves",
+            "body": "Apuesta por resolver urgencias humanitarias en torno a personas presas con enfermedades graves",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1157,7 +1157,7 @@
         },
         {
             "id": 51,
-            "body": "Supresión de privilegios, reduciendo como mínimo un\n25% los sueldos del/la Lehendakari y altos cargos.",
+            "body": "Supresión de privilegios, reduciendo como mínimo un 25% los sueldos del/la Lehendakari y altos cargos.",
             "topics": [
                 "Sector público"
             ],
@@ -1179,7 +1179,7 @@
         },
         {
             "id": 52,
-            "body": "Puesta en marcha de Plenos para el control ciudadano\ndel Gobierno y el Parlamento Vasco.",
+            "body": "Puesta en marcha de Plenos para el control ciudadano del Gobierno y el Parlamento Vasco.",
             "topics": [
                 "Sector público"
             ],
@@ -1200,7 +1200,7 @@
         },
         {
             "id": 53,
-            "body": "Creación de la Ley ciudadana para la destitución de las\ny los cargos públicos.",
+            "body": "Creación de la Ley ciudadana para la destitución de las y los cargos públicos.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1235,7 +1235,7 @@
         },
         {
             "id": 55,
-            "body": "Centrar las políticas de participación, con carácter\nestratégico, en Lehendakaritza.",
+            "body": "Centrar las políticas de participación, con carácter estratégico, en Lehendakaritza.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -1254,7 +1254,7 @@
         },
         {
             "id": 56,
-            "body": "Cesión de la competencia para desarrollar consultas a\nentidades locales y ciudadanía, con carácter vinculante.",
+            "body": "Cesión de la competencia para desarrollar consultas a entidades locales y ciudadanía, con carácter vinculante.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1308,7 +1308,7 @@
         },
         {
             "id": 59,
-            "body": "Plan Estratégico para la clarificación del modelo de\nSeguridad pública.",
+            "body": "Plan Estratégico para la clarificación del modelo de Seguridad pública.",
             "topics": [
                 "Seguridad"
             ],
@@ -1345,7 +1345,7 @@
         },
         {
             "id": 61,
-            "body": "Impulso de una Comisión externa de control\nciudadano sobre abusos o excesos policiales.",
+            "body": "Impulso de una Comisión externa de control ciudadano sobre abusos o excesos policiales.",
             "topics": [
                 "Seguridad",
                 "Sociedad y bienestar"
@@ -1367,7 +1367,7 @@
         },
         {
             "id": 62,
-            "body": "Impulsar paulatinamente la retirada de las Fuerzas y\nCuerpos de Seguridad del Estado.",
+            "body": "Impulsar paulatinamente la retirada de las Fuerzas y Cuerpos de Seguridad del Estado.",
             "topics": [
                 "Seguridad"
             ],
@@ -1386,7 +1386,7 @@
         },
         {
             "id": 63,
-            "body": "Apertura de un debate social y creación de una\nPonencia Parlamentaria sobre el modelo penitenciario\npresente y futuro.",
+            "body": "Apertura de un debate social y creación de una Ponencia Parlamentaria sobre el modelo penitenciario presente y futuro.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1409,7 +1409,7 @@
         },
         {
             "id": 64,
-            "body": "Determinación en la reclamación de la competencia en\nmateria penitenciaria.",
+            "body": "Determinación en la reclamación de la competencia en materia penitenciaria.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1427,7 +1427,7 @@
         },
         {
             "id": 65,
-            "body": "Habilitación de mecanismos para prevenir la tortura y\nlos malos tratos.",
+            "body": "Habilitación de mecanismos para prevenir la tortura y los malos tratos.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1464,7 +1464,7 @@
         },
         {
             "id": 67,
-            "body": "Implantación del Impuesto Verde, para que quienes\nmás viertan hagan una mayor aportación.",
+            "body": "Implantación del Impuesto Verde, para que quienes más viertan hagan una mayor aportación.",
             "topics": [
                 "Hacienda",
                 "Medio ambiente"
@@ -1485,7 +1485,7 @@
         },
         {
             "id": 68,
-            "body": "Implantar la gestión pública del agua mediante\nley, fomentando además la publificación en los casos\nanteriormente privatizados.",
+            "body": "Implantar la gestión pública del agua mediante ley, fomentando además la publificación en los casos anteriormente privatizados.",
             "topics": [
                 "Sector público"
             ],
@@ -1528,7 +1528,7 @@
         },
         {
             "id": 70,
-            "body": "Establecer la tarjeta única para todos los medios de\ntransporte del territorio, con descuentos según la renta.",
+            "body": "Establecer la tarjeta única para todos los medios de transporte del territorio, con descuentos según la renta.",
             "topics": [
                 "Transporte"
             ],
@@ -1550,7 +1550,7 @@
         },
         {
             "id": 71,
-            "body": "Moratoria del proyecto del TAV y habilitar una consulta\npopular sobre el mismo.",
+            "body": "Moratoria del proyecto del TAV y habilitar una consulta popular sobre el mismo.",
             "topics": [
                 "Transporte"
             ],
@@ -1570,7 +1570,7 @@
         },
         {
             "id": 72,
-            "body": "Exigir la competencia sobre todos los aeropuertos\nvascos, para su gestión directa.",
+            "body": "Exigir la competencia sobre todos los aeropuertos vascos, para su gestión directa.",
             "topics": [
                 "Transporte"
             ],
@@ -1589,7 +1589,7 @@
         },
         {
             "id": 73,
-            "body": "Creación del Organismo Vasco de las Energías\nRenovables.",
+            "body": "Creación del Organismo Vasco de las Energías Renovables.",
             "topics": [
                 "Energía"
             ],
@@ -1607,7 +1607,7 @@
         },
         {
             "id": 74,
-            "body": "Dejar a un lado los contratos con multinacioneles\nenergéticas en los edificios dependientes del Gobierno\nVasco.",
+            "body": "Dejar a un lado los contratos con multinacioneles energéticas en los edificios dependientes del Gobierno Vasco.",
             "topics": [
                 "Energía",
                 "Sector público"
@@ -1630,7 +1630,7 @@
         },
         {
             "id": 75,
-            "body": "Creación de una comercializadora pública de\nelectricidad, para evitar los cortes de suministro debido\na la pobreza energética, entre otras cosas.",
+            "body": "Creación de una comercializadora pública de electricidad, para evitar los cortes de suministro debido a la pobreza energética, entre otras cosas.",
             "topics": [
                 "Energía",
                 "Sector público"
@@ -1655,7 +1655,7 @@
         },
         {
             "id": 76,
-            "body": "No aplicación de la LOMCE. Dejar a un lado los\ndecretos Heziberri.",
+            "body": "No aplicación de la LOMCE. Dejar a un lado los decretos Heziberri.",
             "topics": [
                 "Educación"
             ],
@@ -1674,7 +1674,7 @@
         },
         {
             "id": 77,
-            "body": "Fomentar el acuerdo en materia educativa para la\nelaboración de una nueva Ley.",
+            "body": "Fomentar el acuerdo en materia educativa para la elaboración de una nueva Ley.",
             "topics": [
                 "Legislación y justicia",
                 "Educación"
@@ -1730,7 +1730,7 @@
         },
         {
             "id": 80,
-            "body": "Fomento de la creatividad vasca, garantizando la\ncontinuidad y la visibilización de la misma.",
+            "body": "Fomento de la creatividad vasca, garantizando la continuidad y la visibilización de la misma.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -1750,7 +1750,7 @@
         },
         {
             "id": 81,
-            "body": "Garantizar el apoyo jurídico, político y económico a la\ncreación cultural.",
+            "body": "Garantizar el apoyo jurídico, político y económico a la creación cultural.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -1770,7 +1770,7 @@
         },
         {
             "id": 82,
-            "body": "Supresión de toda imaginería religiosa en edificios de\ncarácter público.",
+            "body": "Supresión de toda imaginería religiosa en edificios de carácter público.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -1790,7 +1790,7 @@
         },
         {
             "id": 83,
-            "body": "Eliminar toda exención fiscal de la Iglesia Católica: IBI,\ndeclaración de la renta, financiación doble,...",
+            "body": "Eliminar toda exención fiscal de la Iglesia Católica: IBI, declaración de la renta, financiación doble,...",
             "topics": [
                 "Hacienda"
             ],
@@ -1814,7 +1814,7 @@
         },
         {
             "id": 84,
-            "body": "Activación de medidas para anular las\ninmatriculaciones con carácter retroactivo.",
+            "body": "Activación de medidas para anular las inmatriculaciones con carácter retroactivo.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -1833,7 +1833,7 @@
         },
         {
             "id": 85,
-            "body": "Acuerdo ciudadano entre organismos y federaciones\npara dar oficialidad plena de una vez por todas a la\nSelección Vasca.",
+            "body": "Acuerdo ciudadano entre organismos y federaciones para dar oficialidad plena de una vez por todas a la Selección Vasca.",
             "topics": [
                 "Deporte"
             ],
@@ -1857,7 +1857,7 @@
         },
         {
             "id": 86,
-            "body": "Ley propia para personas trabajadoras en ámbitos del\ndeporte.",
+            "body": "Ley propia para personas trabajadoras en ámbitos del deporte.",
             "topics": [
                 "Deporte",
                 "Legislación y justicia"
@@ -1893,7 +1893,7 @@
         },
         {
             "id": 88,
-            "body": "Integración en el sistema público de las enfermedades\nprofesionales y los accidentes laborales.",
+            "body": "Integración en el sistema público de las enfermedades profesionales y los accidentes laborales.",
             "topics": [
                 "Salud",
                 "Empleo"
@@ -1930,7 +1930,7 @@
         },
         {
             "id": 90,
-            "body": "Recuperación de los 3000 empleos destruidos en\nOsakidetza.",
+            "body": "Recuperación de los 3000 empleos destruidos en Osakidetza.",
             "topics": [
                 "Salud",
                 "Empleo"
@@ -1949,7 +1949,7 @@
         },
         {
             "id": 91,
-            "body": "Derogar el decreto 16/2012 que hace desaparecer la\nsanidad universal.",
+            "body": "Derogar el decreto 16/2012 que hace desaparecer la sanidad universal.",
             "topics": [
                 "Salud",
                 "Legislación y justicia"
@@ -1971,7 +1971,7 @@
         },
         {
             "id": 92,
-            "body": "Creación del Instituto Vasco para la Accesibilidad en la\nComunicación, dirigida a personas sordo-mudas.",
+            "body": "Creación del Instituto Vasco para la Accesibilidad en la Comunicación, dirigida a personas sordo-mudas.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -1993,7 +1993,7 @@
         },
         {
             "id": 93,
-            "body": "Creación de un fondo de 800 millones de euros para\nel desarrollo del plan de regeneración industrial y el\nempleo digno.",
+            "body": "Creación de un fondo de 800 millones de euros para el desarrollo del plan de regeneración industrial y el empleo digno.",
             "topics": [
                 "Industria",
                 "Empleo"
@@ -2018,7 +2018,7 @@
         },
         {
             "id": 94,
-            "body": "Desarrollar inversiones en I+D+I progresivamente,\nhasta llegar al 3% del PIB.",
+            "body": "Desarrollar inversiones en I+D+I progresivamente, hasta llegar al 3% del PIB.",
             "topics": [
                 "Ciencia y tecnología"
             ],
@@ -2075,7 +2075,7 @@
         },
         {
             "id": 97,
-            "body": "Establecer medidas para el desarrollo sostenible y\nequilibrado del turismo.",
+            "body": "Establecer medidas para el desarrollo sostenible y equilibrado del turismo.",
             "topics": [
                 "Turismo"
             ],
@@ -2094,7 +2094,7 @@
         },
         {
             "id": 98,
-            "body": "Creación del Consejo de Trabajo Autónomo, además de\nelaborar una Ley que active el Consejo.",
+            "body": "Creación del Consejo de Trabajo Autónomo, además de elaborar una Ley que active el Consejo.",
             "topics": [
                 "Empleo"
             ],
@@ -2134,7 +2134,7 @@
         },
         {
             "id": 100,
-            "body": "Potenciar sistemas de alimentación local mediante la\norganización comarcal.",
+            "body": "Potenciar sistemas de alimentación local mediante la organización comarcal.",
             "topics": [
                 "Comercio"
             ],
@@ -2154,7 +2154,7 @@
         },
         {
             "id": 101,
-            "body": "Creación del Observatorio Vasco de los Medios de\nComunicación y de la Agencia de Doblaje en Euskara.",
+            "body": "Creación del Observatorio Vasco de los Medios de Comunicación y de la Agencia de Doblaje en Euskara.",
             "topics": [
                 "Ciencia y tecnología"
             ],
@@ -2175,7 +2175,7 @@
         },
         {
             "id": 102,
-            "body": "Creación de la Ley Vasca para los Medios de\nComunicación.",
+            "body": "Creación de la Ley Vasca para los Medios de Comunicación.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -2208,7 +2208,7 @@
         },
         {
             "id": 104,
-            "body": "Garantizar la suficiencia económica y la estabilidad de\nlos medios en euskara.",
+            "body": "Garantizar la suficiencia económica y la estabilidad de los medios en euskara.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -2227,7 +2227,7 @@
         },
         {
             "id": 105,
-            "body": "Ubicar el área de Juventud en el Departamento de\nPresidencia por su condición estratégica.",
+            "body": "Ubicar el área de Juventud en el Departamento de Presidencia por su condición estratégica.",
             "topics": [
                 "Sector público"
             ],
@@ -2247,7 +2247,7 @@
         },
         {
             "id": 106,
-            "body": "Elaboración de la Ley de la Juventud Vasca, en\ncolaboración con el Consejo Vasco de la Juventud y las\nasociaciones de jóvenes.",
+            "body": "Elaboración de la Ley de la Juventud Vasca, en colaboración con el Consejo Vasco de la Juventud y las asociaciones de jóvenes.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -2270,7 +2270,7 @@
         },
         {
             "id": 107,
-            "body": "Elaboración y puesta en marcha de un Plan de\nRetorno para las y los jóvenes que se han tenido que\nmarchar fuera.",
+            "body": "Elaboración y puesta en marcha de un Plan de Retorno para las y los jóvenes que se han tenido que marchar fuera.",
             "topics": [
                 "Migración"
             ],
@@ -2290,7 +2290,7 @@
         },
         {
             "id": 108,
-            "body": "Desarrollo del Empleo Estratégico Juvenil junto con la\nrepresentación juvenil y su participación directa.",
+            "body": "Desarrollo del Empleo Estratégico Juvenil junto con la representación juvenil y su participación directa.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -2312,7 +2312,7 @@
         },
         {
             "id": 109,
-            "body": "Creación de una la Red para Promocionar los espacios\njuveniles autogestionados.",
+            "body": "Creación de una la Red para Promocionar los espacios juveniles autogestionados.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -2331,7 +2331,7 @@
         },
         {
             "id": 110,
-            "body": "Ubicar al área de Diversidad en el Departamento de\nPresidencia por su condición estratégica.",
+            "body": "Ubicar al área de Diversidad en el Departamento de Presidencia por su condición estratégica.",
             "topics": [
                 "Sector público"
             ],
@@ -2351,7 +2351,7 @@
         },
         {
             "id": 111,
-            "body": "Diseñar y desarrollar políticas propias de migración,\nasilo, protección y refugiados.",
+            "body": "Diseñar y desarrollar políticas propias de migración, asilo, protección y refugiados.",
             "topics": [
                 "Migración"
             ],
@@ -2372,7 +2372,7 @@
         },
         {
             "id": 112,
-            "body": "Apoyar el acuerdo de Pluralidad y Convivencia en\nigualdad.",
+            "body": "Apoyar el acuerdo de Pluralidad y Convivencia en igualdad.",
             "topics": [
                 "Igualdad de género"
             ],
@@ -2390,7 +2390,7 @@
         },
         {
             "id": 113,
-            "body": "Ubicar al área de Política Lingüística en el\nDepartamento de Presidencia por su condición\nestratégica.",
+            "body": "Ubicar al área de Política Lingüística en el Departamento de Presidencia por su condición estratégica.",
             "topics": [
                 "Sector público"
             ],
@@ -2411,7 +2411,7 @@
         },
         {
             "id": 114,
-            "body": "Creación y desarrollo de la legislación y arquitectura\njurídica con el objetivo de normalizar el uso del euskara.",
+            "body": "Creación y desarrollo de la legislación y arquitectura jurídica con el objetivo de normalizar el uso del euskara.",
             "topics": [
                 "Cultura y ocio",
                 "Legislación y justicia"
@@ -2434,7 +2434,7 @@
         },
         {
             "id": 115,
-            "body": "Llevar la euskaldunización de adultos hacia la\ngratuidad.",
+            "body": "Llevar la euskaldunización de adultos hacia la gratuidad.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -2452,7 +2452,7 @@
         },
         {
             "id": 116,
-            "body": "Elaboración de Leyes y normativas al objeto de\nproteger las ámbitos más euskaldunes.",
+            "body": "Elaboración de Leyes y normativas al objeto de proteger las ámbitos más euskaldunes.",
             "topics": [
                 "Legislación y justicia",
                 "Cultura y ocio"
@@ -2473,7 +2473,7 @@
         },
         {
             "id": 117,
-            "body": "El euskara será lengua de trabajo y servicios en toda\nla Administración, con el objetivo de garantizar los\nderechos lingüísticos de la ciudadanía.",
+            "body": "El euskara será lengua de trabajo y servicios en toda la Administración, con el objetivo de garantizar los derechos lingüísticos de la ciudadanía.",
             "topics": [
                 "Cultura y ocio",
                 "Sector público"

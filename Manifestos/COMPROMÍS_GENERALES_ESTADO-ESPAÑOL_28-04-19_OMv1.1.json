@@ -13,7 +13,7 @@
     "proposals": [
         {
             "id": 1,
-            "body": "Lanzaremos un nuevo modelo de centros sociales\npara personas mayores con el fin de fomentar el\nenvejecimiento activo, la autonomía personal y la\nsolidaridad intergeneracional.",
+            "body": "Lanzaremos un nuevo modelo de centros sociales para personas mayores con el fin de fomentar el envejecimiento activo, la autonomía personal y la solidaridad intergeneracional.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -41,7 +41,7 @@
         },
         {
             "id": 2,
-            "body": "Haremos que las personas cuidadoras coticen por\nsu trabajo con todos los derechos mediante un plan\nde formación especializado.",
+            "body": "Haremos que las personas cuidadoras coticen por su trabajo con todos los derechos mediante un plan de formación especializado.",
             "topics": [
                 "Sociedad y bienestar",
                 "Empleo"
@@ -65,7 +65,7 @@
         },
         {
             "id": 3,
-            "body": "Avanzaremos hacia un territorio 100% accesible\npara las personas con diversidad funcional con una\nley valenciana de accesibilidad universal.",
+            "body": "Avanzaremos hacia un territorio 100% accesible para las personas con diversidad funcional con una ley valenciana de accesibilidad universal.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -90,7 +90,7 @@
         },
         {
             "id": 4,
-            "body": "Coordinaremos de forma global todos los servicios\nsociales y sanitarios para obtener la mejor atención\nsociosanitaria del Estado.",
+            "body": "Coordinaremos de forma global todos los servicios sociales y sanitarios para obtener la mejor atención sociosanitaria del Estado.",
             "topics": [
                 "Sociedad y bienestar",
                 "Salud"
@@ -114,7 +114,7 @@
         },
         {
             "id": 5,
-            "body": "Con el Pla Edificant acabaremos con los barracones,\nimpulsando nuevos centros educativos innovadores\ncon un modelo pedagógico avanzado.",
+            "body": "Con el Pla Edificant acabaremos con los barracones, impulsando nuevos centros educativos innovadores con un modelo pedagógico avanzado.",
             "topics": [
                 "Educación"
             ],
@@ -139,7 +139,7 @@
         },
         {
             "id": 6,
-            "body": "Ampliaremos la gratuidad de la educación pública\nde 0 a 3 años y el comedor escolar, para que ningún\nniño ni niña se quede sin comer en nuestras escue-\nlas por razones económicas.",
+            "body": "Ampliaremos la gratuidad de la educación pública de 0 a 3 años y el comedor escolar, para que ningún niño ni niña se quede sin comer en nuestras escue- las por razones económicas.",
             "topics": [
                 "Educación"
             ],
@@ -169,7 +169,7 @@
         },
         {
             "id": 7,
-            "body": "Integraremos la Formación Profesional y las polí-\nticas de empleo en la Conselleria d’Educació para\nmejorar la oferta atendiendo a las necesidades de\ncada zona y sector.",
+            "body": "Integraremos la Formación Profesional y las polí- ticas de empleo en la Conselleria d’Educació para mejorar la oferta atendiendo a las necesidades de cada zona y sector.",
             "topics": [
                 "Educación"
             ],
@@ -199,7 +199,7 @@
         },
         {
             "id": 8,
-            "body": "Diseñaremos tasas universitarias progresivas\nsegún las capacidades económicas para que nadie\ntenga que renunciar a los estudios por cuestiones\neconómicas.",
+            "body": "Diseñaremos tasas universitarias progresivas según las capacidades económicas para que nadie tenga que renunciar a los estudios por cuestiones económicas.",
             "topics": [
                 "Educación"
             ],
@@ -224,7 +224,7 @@
         },
         {
             "id": 9,
-            "body": "Impulsaremos programas específicos para apoyar\na las PYMES industriales mediante financiación e\ninversiones para la transformación digital y la adap-\ntación a la Industria 4.0.",
+            "body": "Impulsaremos programas específicos para apoyar a las PYMES industriales mediante financiación e inversiones para la transformación digital y la adap- tación a la Industria 4.0.",
             "topics": [
                 "Empleo"
             ],
@@ -253,7 +253,7 @@
         },
         {
             "id": 10,
-            "body": "Apoyaremos el emprendimiento poniendo a su\nalcance toda la información, herramientas, recursos,\nayudas y planes de empresa durante los primeros\naños de vida de la empresa.",
+            "body": "Apoyaremos el emprendimiento poniendo a su alcance toda la información, herramientas, recursos, ayudas y planes de empresa durante los primeros años de vida de la empresa.",
             "topics": [
                 "Empleo"
             ],
@@ -281,7 +281,7 @@
         },
         {
             "id": 11,
-            "body": "Apoyaremos globalmente al pequeño y mediano co-\nmercio como motor del empleo frente a las grandes\nsuperficies precarizadoras.",
+            "body": "Apoyaremos globalmente al pequeño y mediano co- mercio como motor del empleo frente a las grandes superficies precarizadoras.",
             "topics": [
                 "Empleo"
             ],
@@ -306,7 +306,7 @@
         },
         {
             "id": 12,
-            "body": "Impulsaremos la industria artesanal valenciana\ncomo motor económico, cultural y patrimonial.",
+            "body": "Impulsaremos la industria artesanal valenciana como motor económico, cultural y patrimonial.",
             "topics": [
                 "Empleo"
             ],
@@ -327,7 +327,7 @@
         },
         {
             "id": 13,
-            "body": "Impulsaremos una nueva ley de igualdad líder en\ntodo el Estado, que garantice la igualdad real entre\nmujeres y hombres desde una vertiente feminista,\ntransversal e inclusiva.",
+            "body": "Impulsaremos una nueva ley de igualdad líder en todo el Estado, que garantice la igualdad real entre mujeres y hombres desde una vertiente feminista, transversal e inclusiva.",
             "topics": [
                 "Igualdad de género"
             ],
@@ -354,7 +354,7 @@
         },
         {
             "id": 14,
-            "body": "Implementaremos un programa de educación afec-\ntivosexual en las aulas a partir de los 6 años, como\nherramienta de prevención de la violencia machista,\nfomento de buenos tratos y derecho a la sexualidad.",
+            "body": "Implementaremos un programa de educación afec- tivosexual en las aulas a partir de los 6 años, como herramienta de prevención de la violencia machista, fomento de buenos tratos y derecho a la sexualidad.",
             "topics": [
                 "Igualdad de género"
             ],
@@ -385,7 +385,7 @@
         },
         {
             "id": 15,
-            "body": "Desarrollaremos una estrategia valenciana para la\nerradicación de la violencia sexual, que incorpore la\nprostitución como una forma de violencia hacia las\nmujeres.",
+            "body": "Desarrollaremos una estrategia valenciana para la erradicación de la violencia sexual, que incorpore la prostitución como una forma de violencia hacia las mujeres.",
             "topics": [
                 "Igualdad de género"
             ],
@@ -410,7 +410,7 @@
         },
         {
             "id": 16,
-            "body": "Impulsaremos un nuevo pacto “Empresa y Género”\nque incluya la perspectiva de género en la óptica\nempresarial y laboral con medidas de correspon-\nsabilidad, igualdad salarial y participación de las\nmujeres en los órganos de decisión.",
+            "body": "Impulsaremos un nuevo pacto “Empresa y Género” que incluya la perspectiva de género en la óptica empresarial y laboral con medidas de correspon- sabilidad, igualdad salarial y participación de las mujeres en los órganos de decisión.",
             "topics": [
                 "Igualdad de género"
             ],
@@ -445,7 +445,7 @@
         },
         {
             "id": 17,
-            "body": "Aprobaremos la nueva ley de protección de espacios\nnaturales para proteger el patrimonio natural, conservar\nlos ecosistemas y los espacios protegidos.",
+            "body": "Aprobaremos la nueva ley de protección de espacios naturales para proteger el patrimonio natural, conservar los ecosistemas y los espacios protegidos.",
             "topics": [
                 "Medio ambiente"
             ],
@@ -471,7 +471,7 @@
         },
         {
             "id": 18,
-            "body": "Elaboraremos una ley de cambio climático, sostenibili-\ndad y economía circular, sobre la base de la Estrategia de\ncambio climático, para impulsar las energías renovables,\nel cierre de la central de Cofrentes y el residuo cero.",
+            "body": "Elaboraremos una ley de cambio climático, sostenibili- dad y economía circular, sobre la base de la Estrategia de cambio climático, para impulsar las energías renovables, el cierre de la central de Cofrentes y el residuo cero.",
             "topics": [
                 "Medio ambiente",
                 "Energía"
@@ -505,7 +505,7 @@
         },
         {
             "id": 19,
-            "body": "Pondremos en marcha planes de acción territoriales para\nla ordenación supramunicipal de los usos del suelo y la\nprotección del suelo no urbanizable, así como para garan-\ntizar sistemas de transporte público eficaces y eficientes.",
+            "body": "Pondremos en marcha planes de acción territoriales para la ordenación supramunicipal de los usos del suelo y la protección del suelo no urbanizable, así como para garan- tizar sistemas de transporte público eficaces y eficientes.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -538,7 +538,7 @@
         },
         {
             "id": 20,
-            "body": "Elaboraremos una estrategia valenciana de gestión de\nlos recursos hídricos basada en criterios de autonomía,\nsostenibilidad y adaptación al cambio climático.",
+            "body": "Elaboraremos una estrategia valenciana de gestión de los recursos hídricos basada en criterios de autonomía, sostenibilidad y adaptación al cambio climático.",
             "topics": [
                 "Medio ambiente"
             ],
@@ -564,7 +564,7 @@
         },
         {
             "id": 21,
-            "body": "Implementaremos medidas dirigidas a las zonas de\ninterior con ayudas al pastoreo y la agroecología, ferias\nlocales, agroturismo y formación.",
+            "body": "Implementaremos medidas dirigidas a las zonas de interior con ayudas al pastoreo y la agroecología, ferias locales, agroturismo y formación.",
             "topics": [
                 "Medio rural"
             ],
@@ -589,7 +589,7 @@
         },
         {
             "id": 22,
-            "body": "Impulsaremos la planificación para la Industria agroali-\nmentaria valenciana, basada en el producto de proximi-\ndad, de calidad, saludable y ecológico.",
+            "body": "Impulsaremos la planificación para la Industria agroali- mentaria valenciana, basada en el producto de proximi- dad, de calidad, saludable y ecológico.",
             "topics": [
                 "Medio rural"
             ],
@@ -615,7 +615,7 @@
         },
         {
             "id": 23,
-            "body": "Presentaremos el Plan director de modernización del\nsector agroalimentario (2019-2023), que incluirá el\nsegundo Plan de agricultura ecológica; un plan de mo-\ndernización de estructuras e infraestructuras agrarias,\nde cooperativismo y estructuras comerciales, de I+D+I\ny planes sectoriales de actuación.",
+            "body": "Presentaremos el Plan director de modernización del sector agroalimentario (2019-2023), que incluirá el segundo Plan de agricultura ecológica; un plan de mo- dernización de estructuras e infraestructuras agrarias, de cooperativismo y estructuras comerciales, de I+D+I y planes sectoriales de actuación.",
             "topics": [
                 "Medio rural"
             ],
@@ -656,7 +656,7 @@
         },
         {
             "id": 24,
-            "body": "Reforzaremos la presencia valenciana en Bruselas para\ntrasladar las necesidades del campo valenciano en las\nnegociaciones de la PAC, los tratados comerciales y\nlograr condiciones competitivas en los mercados.",
+            "body": "Reforzaremos la presencia valenciana en Bruselas para trasladar las necesidades del campo valenciano en las negociaciones de la PAC, los tratados comerciales y lograr condiciones competitivas en los mercados.",
             "topics": [
                 "Medio rural"
             ],
@@ -685,7 +685,7 @@
         },
         {
             "id": 25,
-            "body": "Impulsaremos la Ley de Gobierno Abierto, que abra\nlas puertas de la administración a la ciudadanía,\nque fomente su participación en la toma de decisio-\nnes y que garantice la transparencia en la gestión\ndel dinero público.",
+            "body": "Impulsaremos la Ley de Gobierno Abierto, que abra las puertas de la administración a la ciudadanía, que fomente su participación en la toma de decisio- nes y que garantice la transparencia en la gestión del dinero público.",
             "topics": [
                 "Sector público"
             ],
@@ -716,7 +716,7 @@
         },
         {
             "id": 26,
-            "body": "Pondremos en marcha una unidad de los servicios\njurídicos de la Generalitat para recuperar el dinero\nrobado por las tramas de corrupción.",
+            "body": "Pondremos en marcha una unidad de los servicios jurídicos de la Generalitat para recuperar el dinero robado por las tramas de corrupción.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -740,7 +740,7 @@
         },
         {
             "id": 27,
-            "body": "Desarrollaremos el sistema de alertas anticorrup-\nción, así como las políticas de buen gobierno y las\nmedidas para detectar y prevenir casos de malas\nprácticas y corrupción.",
+            "body": "Desarrollaremos el sistema de alertas anticorrup- ción, así como las políticas de buen gobierno y las medidas para detectar y prevenir casos de malas prácticas y corrupción.",
             "topics": [
                 "Sector público"
             ],
@@ -769,7 +769,7 @@
         },
         {
             "id": 28,
-            "body": "Desarrollaremos la Ley Valenciana de Fomento de la\nResponsabilidad Social, con el fin de promover las\ncláusulas sociales en la contratación y las subven-\nciones públicas a empresas y entidades.",
+            "body": "Desarrollaremos la Ley Valenciana de Fomento de la Responsabilidad Social, con el fin de promover las cláusulas sociales en la contratación y las subven- ciones públicas a empresas y entidades.",
             "topics": [
                 "Sector público",
                 "Legislación y justicia"
@@ -799,7 +799,7 @@
         },
         {
             "id": 29,
-            "body": "Aprobaremos la Estrategia Valenciana para la Igual-\ndad LGTBI y la Ley Valenciana de Diversidad Familiar\ny Apoyo a las Familias, que incluya el reconocimiento\nde las familias LGTBI.",
+            "body": "Aprobaremos la Estrategia Valenciana para la Igual- dad LGTBI y la Ley Valenciana de Diversidad Familiar y Apoyo a las Familias, que incluya el reconocimiento de las familias LGTBI.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -828,7 +828,7 @@
         },
         {
             "id": 30,
-            "body": "Crearemos un protocolo de actuación policial contra\nla LGTBfobia y unidades policiales especializadas en\nla lucha contra los delitos de odio en poblaciones de\nmás de 50.000 habitantes.",
+            "body": "Crearemos un protocolo de actuación policial contra la LGTBfobia y unidades policiales especializadas en la lucha contra los delitos de odio en poblaciones de más de 50.000 habitantes.",
             "topics": [
                 "Sociedad y bienestar",
                 "Seguridad"
@@ -857,7 +857,7 @@
         },
         {
             "id": 31,
-            "body": "Incluiremos en el currículum educativo de todas las\netapas contenidos pedagógicos para entender la\ndiversidad familiar, sexual y de género.",
+            "body": "Incluiremos en el currículum educativo de todas las etapas contenidos pedagógicos para entender la diversidad familiar, sexual y de género.",
             "topics": [
                 "Sociedad y bienestar",
                 "Educación"
@@ -883,7 +883,7 @@
         },
         {
             "id": 32,
-            "body": "Pondremos en marcha un plan de formación en ma-\nteria de diversidad familiar, sexual y de género para\nel personal de centros educativos, universidades,\nprofesionales del ámbito sanitario, el servicio 112 y\nel resto de la administración valenciana.",
+            "body": "Pondremos en marcha un plan de formación en ma- teria de diversidad familiar, sexual y de género para el personal de centros educativos, universidades, profesionales del ámbito sanitario, el servicio 112 y el resto de la administración valenciana.",
             "topics": [
                 "Sociedad y bienestar",
                 "Educación"
@@ -919,7 +919,7 @@
         },
         {
             "id": 33,
-            "body": "Elaboraremos la Ley Valenciana de Empleo para\ncoordinar todas las políticas de empleo y hacerlas\nmás efectivas y personalizadas.",
+            "body": "Elaboraremos la Ley Valenciana de Empleo para coordinar todas las políticas de empleo y hacerlas más efectivas y personalizadas.",
             "topics": [
                 "Empleo"
             ],
@@ -943,7 +943,7 @@
         },
         {
             "id": 34,
-            "body": "Lucharemos contra la precariedad para favorecer la\ncontratación estable y de calidad.",
+            "body": "Lucharemos contra la precariedad para favorecer la contratación estable y de calidad.",
             "topics": [
                 "Empleo"
             ],
@@ -962,7 +962,7 @@
         },
         {
             "id": 35,
-            "body": "Prohibiremos la externalización de los servicios bá-\nsicos de las empresas (según la naturaleza empre-\nsarial) para evitar la precarización y la explotación\nlaboral, en especial de las mujeres.",
+            "body": "Prohibiremos la externalización de los servicios bá- sicos de las empresas (según la naturaleza empre- sarial) para evitar la precarización y la explotación laboral, en especial de las mujeres.",
             "topics": [
                 "Empleo"
             ],
@@ -991,7 +991,7 @@
         },
         {
             "id": 36,
-            "body": "Intensificaremos la inspección para prevenir y san-\ncionar la economía sumergida, mal remunerada y\nprecarizada.",
+            "body": "Intensificaremos la inspección para prevenir y san- cionar la economía sumergida, mal remunerada y precarizada.",
             "topics": [
                 "Empleo"
             ],
@@ -1014,7 +1014,7 @@
         },
         {
             "id": 37,
-            "body": "Ampliaremos el parque público de viviendas para\nponerlo a disposición del alquiler social y del alqui-\nler asequible, con el objetivo final de que ninguna\nunidad familiar destine más del 30% de los ingresos\na su vivienda.",
+            "body": "Ampliaremos el parque público de viviendas para ponerlo a disposición del alquiler social y del alqui- ler asequible, con el objetivo final de que ninguna unidad familiar destine más del 30% de los ingresos a su vivienda.",
             "topics": [
                 "Vivienda"
             ],
@@ -1047,7 +1047,7 @@
         },
         {
             "id": 38,
-            "body": "Implementaremos la obligación de destinar un 30%\nde la nueva construcción a vivienda protegida, con\nun 7% para alquiler joven.",
+            "body": "Implementaremos la obligación de destinar un 30% de la nueva construcción a vivienda protegida, con un 7% para alquiler joven.",
             "topics": [
                 "Vivienda"
             ],
@@ -1071,7 +1071,7 @@
         },
         {
             "id": 39,
-            "body": "Crearemos una línea de ayudas específicas para\njóvenes a fin de apoyar al pago de sus alquileres con\ndiscriminación por renta y por precio de la vivienda\nalquilada.",
+            "body": "Crearemos una línea de ayudas específicas para jóvenes a fin de apoyar al pago de sus alquileres con discriminación por renta y por precio de la vivienda alquilada.",
             "topics": [
                 "Vivienda"
             ],
@@ -1098,7 +1098,7 @@
         },
         {
             "id": 40,
-            "body": "Fomentaremos el cooperativismo de vivienda en\nderecho de uso para jóvenes, por medio de la cesión\nde terrenos públicos a precio asequible.",
+            "body": "Fomentaremos el cooperativismo de vivienda en derecho de uso para jóvenes, por medio de la cesión de terrenos públicos a precio asequible.",
             "topics": [
                 "Vivienda"
             ],
@@ -1123,7 +1123,7 @@
         },
         {
             "id": 41,
-            "body": "Contrataremos más personal sanitario y mejor\nremunerado para reducir las listas de espera y au-\nmentaremos las plazas de formación MIR pediátrico,\na fin de ajustarlas a la demanda real del Sistema\nNacional de Salud.",
+            "body": "Contrataremos más personal sanitario y mejor remunerado para reducir las listas de espera y au- mentaremos las plazas de formación MIR pediátrico, a fin de ajustarlas a la demanda real del Sistema Nacional de Salud.",
             "topics": [
                 "Salud"
             ],
@@ -1157,7 +1157,7 @@
         },
         {
             "id": 42,
-            "body": "Incluiremos los servicios psicológicos en la atención\nprimaria como recurso fundamental para desmedi-\ncalizar la atención que recibe el o la paciente en los\nproblemas de malestar emocional.",
+            "body": "Incluiremos los servicios psicológicos en la atención primaria como recurso fundamental para desmedi- calizar la atención que recibe el o la paciente en los problemas de malestar emocional.",
             "topics": [
                 "Salud"
             ],
@@ -1185,7 +1185,7 @@
         },
         {
             "id": 43,
-            "body": "Continuaremos con la desprivatización y la recupe-\nración de las concesiones administrativas sanitarias\npara asegurar un servicio público y de calidad.",
+            "body": "Continuaremos con la desprivatización y la recupe- ración de las concesiones administrativas sanitarias para asegurar un servicio público y de calidad.",
             "topics": [
                 "Salud"
             ],
@@ -1209,7 +1209,7 @@
         },
         {
             "id": 44,
-            "body": "Implantaremos un Plan de salud mental que dig-\nnifique a las personas afectadas y ponga la salud\nmental en el centro de las políticas públicas dirigi-\ndas a la diversidad.",
+            "body": "Implantaremos un Plan de salud mental que dig- nifique a las personas afectadas y ponga la salud mental en el centro de las políticas públicas dirigi- das a la diversidad.",
             "topics": [
                 "Salud"
             ],
@@ -1239,7 +1239,7 @@
         },
         {
             "id": 45,
-            "body": "Vincularemos el sistema de tasas universitarias a\nlos ingresos familiares para asegurar que la entrada\nen las universidades se fundamente en los méritos\ny las capacidades personales y no en la situación\neconómica de cada persona o familia.",
+            "body": "Vincularemos el sistema de tasas universitarias a los ingresos familiares para asegurar que la entrada en las universidades se fundamente en los méritos y las capacidades personales y no en la situación económica de cada persona o familia.",
             "topics": [
                 "Educación"
             ],
@@ -1270,7 +1270,7 @@
         },
         {
             "id": 46,
-            "body": "Avanzaremos en el programa Joven Oportunidad\n(JOOP) para fortalecer el sistema de segundas opor-\ntunidades.",
+            "body": "Avanzaremos en el programa Joven Oportunidad (JOOP) para fortalecer el sistema de segundas opor- tunidades.",
             "topics": [
                 "Sociedad y bienestar"
             ],
@@ -1293,7 +1293,7 @@
         },
         {
             "id": 47,
-            "body": "Fomentaremos la innovación juvenil en la creación\nde proyectos empresariales, especialmente los coo-\nperativos, mediante espacios públicos de proyecto y\ndeducciones fiscales durante los primeros años de\nvida de la empresa.",
+            "body": "Fomentaremos la innovación juvenil en la creación de proyectos empresariales, especialmente los coo- perativos, mediante espacios públicos de proyecto y deducciones fiscales durante los primeros años de vida de la empresa.",
             "topics": [
                 "Empleo"
             ],
@@ -1325,7 +1325,7 @@
         },
         {
             "id": 48,
-            "body": "Crearemos el Abono Único Joven para todos los\ntransportes a fin de facilitar la movilidad y promover\nla red pública en zonas urbanas y rurales.",
+            "body": "Crearemos el Abono Único Joven para todos los transportes a fin de facilitar la movilidad y promover la red pública en zonas urbanas y rurales.",
             "topics": [
                 "Transporte"
             ],
@@ -1352,7 +1352,7 @@
         },
         {
             "id": 49,
-            "body": "Crearemos la campaña «Elige un libro a los 6 años»\nen la que fomentaremos la lectura a través de un\ncheque que se podrá canjear en las librerías.",
+            "body": "Crearemos la campaña «Elige un libro a los 6 años» en la que fomentaremos la lectura a través de un cheque que se podrá canjear en las librerías.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -1380,7 +1380,7 @@
         },
         {
             "id": 50,
-            "body": "Impulsaremos medidas normativas como la ley de\nlas artes escénicas, el estatuto de la música o el có-\ndigo de prácticas artísticas para dotar de estabilidad\ny del apoyo necesario a los y las profesionales de los\ndiferentes sectores culturales valencianos.",
+            "body": "Impulsaremos medidas normativas como la ley de las artes escénicas, el estatuto de la música o el có- digo de prácticas artísticas para dotar de estabilidad y del apoyo necesario a los y las profesionales de los diferentes sectores culturales valencianos.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -1414,7 +1414,7 @@
         },
         {
             "id": 51,
-            "body": "Reforzaremos el modelo del Centro de Cultura Con-\ntemporánea el Carmen, en València, con la creación\nde espacios similares en Castelló y Alicante, como\nlugares de promoción, producción e investigación\ncultural.",
+            "body": "Reforzaremos el modelo del Centro de Cultura Con- temporánea el Carmen, en València, con la creación de espacios similares en Castelló y Alicante, como lugares de promoción, producción e investigación cultural.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -1444,7 +1444,7 @@
         },
         {
             "id": 52,
-            "body": "Impulsaremos, en colaboración con los ayuntamien-\ntos el programa Patrimoni Edificant para impulsar el\npatrimonio cultural valenciano en todo el territorio.",
+            "body": "Impulsaremos, en colaboración con los ayuntamien- tos el programa Patrimoni Edificant para impulsar el patrimonio cultural valenciano en todo el territorio.",
             "topics": [
                 "Cultura y ocio"
             ],
@@ -1469,7 +1469,7 @@
         },
         {
             "id": 53,
-            "body": "Continuaremos exigiendo el cambio de sistema de\nfinanciación porque queremos respeto hacia las\nvalencianas y los valencianos. Si Compromís es de-\ncisivo en Madrid, exigirá una financiación justa para\nllegar a cualquier acuerdo de gobierno.",
+            "body": "Continuaremos exigiendo el cambio de sistema de financiación porque queremos respeto hacia las valencianas y los valencianos. Si Compromís es de- cisivo en Madrid, exigirá una financiación justa para llegar a cualquier acuerdo de gobierno.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1503,7 +1503,7 @@
         },
         {
             "id": 54,
-            "body": "Invertiremos los recursos obtenidos en la creación\nde puestos de trabajo y en unos servicios públicos\nde calidad, priorizando la reducción de listas de es-\npera en la sanidad, la eliminación de los barracones\ny mejorando los servicios sociales y la atención a la\ndependencia.",
+            "body": "Invertiremos los recursos obtenidos en la creación de puestos de trabajo y en unos servicios públicos de calidad, priorizando la reducción de listas de es- pera en la sanidad, la eliminación de los barracones y mejorando los servicios sociales y la atención a la dependencia.",
             "topics": [
                 "Empleo",
                 "Sector público"
@@ -1538,7 +1538,7 @@
         },
         {
             "id": 55,
-            "body": "Exigiremos en los Presupuestos Generales del Esta-\ndo una inversión territorial no solo acorde con la po-\nblación, como recoge el Estatuto, sino que además\ncompense las décadas de déficit inversor sufridas.",
+            "body": "Exigiremos en los Presupuestos Generales del Esta- do una inversión territorial no solo acorde con la po- blación, como recoge el Estatuto, sino que además compense las décadas de déficit inversor sufridas.",
             "topics": [
                 "Legislación y justicia"
             ],
@@ -1570,7 +1570,7 @@
         },
         {
             "id": 56,
-            "body": "Desarrollaremos la Agencia Tributaria Valenciana\ny modernizaremos la gestión de tributos para que\ntodas las gestiones se puedan realizar de manera\nfácil y telemática.",
+            "body": "Desarrollaremos la Agencia Tributaria Valenciana y modernizaremos la gestión de tributos para que todas las gestiones se puedan realizar de manera fácil y telemática.",
             "topics": [
                 "Hacienda"
             ],
@@ -1597,7 +1597,7 @@
         },
         {
             "id": 57,
-            "body": "Pondremos en marcha un plan de lucha contra el\nfraude fiscal a través de la Agencia Tributaria Valen-\nciana y destinaremos sus recursos a fortalecer las\npolíticas sociales.",
+            "body": "Pondremos en marcha un plan de lucha contra el fraude fiscal a través de la Agencia Tributaria Valen- ciana y destinaremos sus recursos a fortalecer las políticas sociales.",
             "topics": [
                 "Hacienda"
             ],
@@ -1626,7 +1626,7 @@
         },
         {
             "id": 58,
-            "body": "Continuaremos con la reforma tributaria para be-\nneficiar a las personas y familias con rentas bajas\ny medias con una fiscalidad inteligente en clave de\nsostenibilidad social y medioambiental.",
+            "body": "Continuaremos con la reforma tributaria para be- neficiar a las personas y familias con rentas bajas y medias con una fiscalidad inteligente en clave de sostenibilidad social y medioambiental.",
             "topics": [
                 "Hacienda"
             ],
