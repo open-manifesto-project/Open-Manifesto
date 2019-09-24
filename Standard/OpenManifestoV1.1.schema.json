@@ -23,7 +23,7 @@
                     "description": "Election date of the electoral program",
                     "type": "string"
                 },
-                "electionsType": {
+                "electionType": {
                     "description": "Type of election",
                     "type": "string"
                 },
