@@ -10,7 +10,7 @@ Open Manifesto es un estándar abierto para programas electorales. Un formato es
 - *title*: Título del programa electoral.
 - *publicationDate*: Fecha de publicación del programa electoral.
 - *electionDate*: Fecha de las elecciones.
-- *electionsType*: Tipo de elecciones (Generales/Autonómicas/Municipales/Europeas)
+- *electionType*: Tipo de elecciones (Generales/Autonómicas/Municipales/Europeas)
 - *geographicalArea*: Área geográfica (nombre del país, comunidad autónoma o municipio)
 - *standardVersion*: Versión del estándar usada para publicar el programa.
 - *URI*: URI (identificador de recursos uniforme) para la versión estandarizada del programa
