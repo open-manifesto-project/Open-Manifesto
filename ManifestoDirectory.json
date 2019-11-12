@@ -3,37 +3,37 @@
         {
             "politicalParty": "Ciudadanos",
             "type_of_elections": "Europeas",
-            "geographical_area": "",
+            "geographical_area": "Estado español",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CIUDADANOS_EUROPEAS_26-05-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CIUDADANOS_EUROPEAS_ESTADO-ESPAÑOL_26-05-2019_OMv1.1.json"
         },
         {
             "politicalParty": "EH Bildu",
             "type_of_elections": "Europeas",
-            "geographical_area": "",
+            "geographical_area": "Estado español",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/EH-BILDU_EUROPEAS_26-05-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/EH-BILDU_EUROPEAS_ESTADO-ESPAÑOL_26-05-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Esquerra Republicana de Cataluña",
+            "politicalParty": "Esquerra Republicana de Catalunya",
             "type_of_elections": "Europeas",
             "geographical_area": "Estado español",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ESQUERRA-REPUBLICANA-DE-CATALUÑA_EUROPEAS_ESTADO-ESPAÑOL_26-05-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ESQUERRA-REPUBLICANA-DE-CATALUNYA_EUROPEAS_ESTADO-ESPAÑOL_26-05-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Junts per Catalunya",
             "type_of_elections": "Europeas",
-            "geographical_area": "Europa",
+            "geographical_area": "Estado español",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/JUNTS-PER-CATALUNYA_EUROPEAS_EUROPA_26-05-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/JUNTS-PER-CATALUNYA_EUROPEAS_ESTADO-ESPAÑOL_26-05-2019_OMv1.1.json"
         },
         {
             "politicalParty": "PNV",
             "type_of_elections": "Europeas",
-            "geographical_area": "",
+            "geographical_area": "Estado español",
             "election_date": "21/12/17",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-NACIONALISTA-VASCO_EUROPEAS_21-12-17_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PNV_EUROPEAS_ESTADO-ESPAÑOL_21-12-17_OMv1.1.json"
         },
         {
             "politicalParty": "PP",
@@ -74,7 +74,7 @@
             "politicalParty": "Más País",
             "type_of_elections": "Generales",
             "geographical_area": "Estado Español",
-            "election_date": "10/11/19",
+            "election_date": "10/11/2019",
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/MÁS-PAÍS_GENERALES_ESTADO-ESPAÑOL_10-11-2019_OMv1.1.json"
         },
         {
@@ -92,25 +92,25 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PNV_GENERALES_ESTADO-ESPAÑOL_10-11-19_OMv1.1.json"
         },
         {
-            "politicalParty": "PSOE",
-            "type_of_elections": "Generales",
-            "geographical_area": "Estado Español",
-            "election_date": "10/11/19",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_GENERALES_ESTADO-ESPAÑOL_10-11-2019_OMv1.1.json"        
-        },
-        {
-            "politicalParty": "Vox",
-            "type_of_elections": "Generales",
-            "geographical_area": "Estado Español",
-            "election_date": "10/11/19",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/VOX_GENERALES_ESTADO-ESPAÑOL_11-10-19_OMv1.1.json"
-        },
-        {
             "politicalParty": "Podemos",
             "type_of_elections": "Generales",
             "geographical_area": "Estado Español",
             "election_date": "10/11/2019",
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PODEMOS_GENERALES_ESTADO-ESPAÑOL_10-11-2019_OMv1.1.json"
+        },
+        {
+            "politicalParty": "PSOE",
+            "type_of_elections": "Generales",
+            "geographical_area": "Estado Español",
+            "election_date": "10/11/2019",
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_GENERALES_ESTADO-ESPAÑOL_10-11-2019_OMv1.1.json"
+        },
+        {
+            "politicalParty": "VOX",
+            "type_of_elections": "Generales",
+            "geographical_area": "Estado Español",
+            "election_date": "11/10/19",
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/VOX_GENERALES_ESTADO-ESPAÑOL_11-10-19_OMv1.1.json"
         },
         {
             "politicalParty": "Adelante Andalucía",
@@ -134,7 +134,7 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-POPULAR_AUTONÓMICAS_ANDALUCÍA_2-12-2018_OMv1.1.json"
         },
         {
-            "politicalParty": "Vox",
+            "politicalParty": "VOX",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Andalucía",
             "election_date": "2/12/2018",
@@ -145,7 +145,7 @@
             "type_of_elections": "Autonómicas",
             "geographical_area": "Andalucía",
             "election_date": "2/12/2018",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL_AUTONÓMICAS_ANDALUCÍA_2-12-2018_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_AUTONÓMICAS_ANDALUCÍA_2-12-2018_OMv1.1.json"
         },
         {
             "politicalParty": "Chunta Aragonesista",
@@ -169,14 +169,14 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/IZQUIERDA-UNIDA_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Partido Aragonés",
+            "politicalParty": "Partido Aragones",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Aragón",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-ARAGONÉS_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-ARAGONES_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Podemos EQUO",
+            "politicalParty": "Podemos-EQUO",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Aragón",
             "election_date": "26/5/2019",
@@ -187,7 +187,7 @@
             "type_of_elections": "Autonómicas",
             "geographical_area": "Aragón",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
             "politicalParty": "PP",
@@ -197,7 +197,7 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-POPULAR_AUTONÓMICAS_ARAGÓN_26-5-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Vox",
+            "politicalParty": "VOX",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Aragón",
             "election_date": "26/5/2019",
@@ -215,14 +215,14 @@
             "type_of_elections": "Autonómicas",
             "geographical_area": "Castilla y León",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA_AUTONÓMICAS_CASTILLA-Y-LEÓN_26-05-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_AUTONÓMICAS_CASTILLA-Y-LEÓN_26-05-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Podemos - Equo",
+            "politicalParty": "Podemos-EQUO",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Castilla y León",
             "election_date": "26/05/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PODEMOS---EQUO_AUTONÓMICAS_CASTILLA-Y-LEÓN_26-05-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PODEMOS-EQUO_AUTONÓMICAS_CASTILLA-Y-LEÓN_26-05-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Unión del Pueblo Leonés",
@@ -260,11 +260,11 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_AUTONÓMICAS_CASTILLA-LA-MANCHA_26-05-19_OMv1.1.json"
         },
         {
-            "politicalParty": "En Comú-Podem",
+            "politicalParty": "Catalunya en Comú-Podem",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Cataluña",
             "election_date": "21/12/2017",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/EN-COMÚ-PODEM_AUTONÓMICAS_CATALUÑA_21-12-2017_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CATALUNYA-EN-COMÚ-PODEM_AUTONÓMICAS_CATALUÑA_21-12-2017_OMv1.1.json"
         },
         {
             "politicalParty": "Ciudadanos",
@@ -281,18 +281,18 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/CUP_AUTONÓMICAS_CATALUÑA_2017_OMv1.1.json"
         },
         {
-            "politicalParty": "Esquerra Republicana Catalunya",
+            "politicalParty": "Esquerra Republicana de Catalunya",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Cataluña",
             "election_date": "2017",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ESQUERRA-REPUBLICANA-CATALUNYA_AUTONÓMICAS_CATALUÑA_2017_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/ESQUERRA-REPUBLICANA-DE-CATALUNYA_AUTONÓMICAS_CATALUÑA_2017_OMv1.1.json"
         },
         {
             "politicalParty": "Junts per Catalunya",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Cataluña",
             "election_date": "21/12/2017",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/JUNTS-X-CATALUNYA_AUTONÓMICAS_CATALUÑA_21-12-2017_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/JUNTS-PER-CATALUNYA_AUTONÓMICAS_CATALUÑA_21-12-2017_OMv1.1.json"
         },
         {
             "politicalParty": "PP",
@@ -302,11 +302,11 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-POPULAR_AUTONÓMICAS_CATALUÑA_21-12-17_OMv1.1.json"
         },
         {
-            "politicalParty": "Partido de los Socialistas de Cataluña",
+            "politicalParty": "PSC",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Cataluña",
             "election_date": "21/12/17",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-DE-LOS-SOCIALISTAS-DE-CATALUÑA_AUTONÓMICAS_CATALUÑA_21-12-17_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSC_AUTONÓMICAS_CATALUÑA_21-12-17_OMv1.1.json"
         },
         {
             "politicalParty": "Ciudadanos",
@@ -330,7 +330,7 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/MÁS-MADRID_AUTONÓMICAS_COMUNIDAD-DE-MADRID_26-05-19_OMv1.1.json"
         },
         {
-            "politicalParty": "Vox",
+            "politicalParty": "VOX",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Comunidad de Madrid",
             "election_date": "26/05/19",
@@ -341,7 +341,7 @@
             "type_of_elections": "Autonómicas",
             "geographical_area": "Comunidad de Madrid",
             "election_date": "26/05/19",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL_AUTONÓMICAS_COMUNIDAD-DE-MADRID_26-05-19_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_AUTONÓMICAS_COMUNIDAD-DE-MADRID_26-05-19_OMv1.1.json"
         },
         {
             "politicalParty": "Unidas Podemos",
@@ -351,7 +351,7 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/UNIDAS-PODEMOS_AUTONÓMICAS_COMUNIDAD-DE-MADRID_26-05-19_OMv1.1.json"
         },
         {
-            "politicalParty": "Vox",
+            "politicalParty": "VOX",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Comunidad Valenciana",
             "election_date": "28/04/2019",
@@ -390,7 +390,7 @@
             "type_of_elections": "Autonómicas",
             "geographical_area": "Comunidad Valenciana",
             "election_date": "28/04/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL_AUTONÓMICAS_COMUNIDAD-VALENCIANA_28-04-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_AUTONÓMICAS_COMUNIDAD-VALENCIANA_28-04-2019_OMv1.1.json"
         },
         {
             "politicalParty": "Ciudadanos",
@@ -446,14 +446,14 @@
             "type_of_elections": "Autonómicas",
             "geographical_area": "Navarra",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-OBRERO-ESPAÑOL_AUTONÓMICAS_NAVARRA_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSOE_AUTONÓMICAS_NAVARRA_26-5-2019_OMv1.1.json"
         },
         {
-            "politicalParty": "Ahal Dugu Navarra Podemos",
+            "politicalParty": "Podemos",
             "type_of_elections": "Autonómicas",
             "geographical_area": "Navarra",
             "election_date": "26/5/2019",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/AHAL-DUGU-NAVARRA-PODEMOS_AUTONÓMICAS_NAVARRA_26-5-2019_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PODEMOS_AUTONÓMICAS_NAVARRA_26-5-2019_OMv1.1.json"
         },
         {
             "politicalParty": "EH Bildu",
@@ -484,11 +484,11 @@
             "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-POPULAR_AUTONÓMICAS_PAÍS-VASCO_25-09-16_OMv1.1.json"
         },
         {
-            "politicalParty": "PSE-EE",
+            "politicalParty": "Partido Socialista de Euskadi",
             "type_of_elections": "Autonómicas",
             "geographical_area": "País Vasco",
             "election_date": "25/09/16",
-            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PSE-EE_AUTONÓMICAS_PAÍS-VASCO_25-09-16_OMv1.1.json"
+            "URI": "https://raw.githubusercontent.com/open-manifesto-project/Open-Manifesto/master/Manifestos/PARTIDO-SOCIALISTA-DE-EUSKADI_AUTONÓMICAS_PAÍS-VASCO_25-09-16_OMv1.1.json"
         }
     ]
 }
